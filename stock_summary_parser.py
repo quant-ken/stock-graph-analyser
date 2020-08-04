@@ -1,8 +1,9 @@
+from stock_summary import StockSummary
 
-class StockListParser:
+
+class StockSummaryParser:
 
     __stock_code_path = './resource/stock_list.xlsx'
-    __code_info_map = {}
 
     @classmethod
     def initialize(cls):
@@ -25,8 +26,7 @@ class StockListParser:
         name = elems[0]
         code = elems[1]
 
-        cls.__code_name_map[code] = name
-        cls.__name_code_map[name] = code
+        # StockSummary.__code_summary_map[code] = new StockSummary()
 
 
     @classmethod
