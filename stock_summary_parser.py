@@ -3,7 +3,6 @@ import pandas as pd
 from stock_summary import StockSummary
 
 
-
 class StockSummaryParser:
 
     __stock_code_path = './resource/stock_list.xlsx'
@@ -17,14 +16,13 @@ class StockSummaryParser:
         for row in data_frame.itertuples(index=True):
             cls.__process_line(row)
 
-
     @classmethod
     def __process_line(cls, row):
 
         # 회사명	종목코드	업종	주요제품	상장일	결산월	대표자명	홈페이지	지역
         summary = StockSummary(
             getattr(row, '회사명'),
-            getattr(row, '종목코드'),
+            format(getattr(row, '종목코드'), '06'),
             getattr(row, '업종'),
             getattr(row, '주요제품'),
             getattr(row, '상장일'),
@@ -37,7 +35,6 @@ class StockSummaryParser:
         StockSummary.add_summary(summary)
         summary.print_info()
         return
-
 
     @classmethod
     def get_info(cls):
