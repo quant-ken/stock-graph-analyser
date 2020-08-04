@@ -1,4 +1,36 @@
+import numpy
+import pandas as pd
+
 from stock_summary import StockSummary
+
+
+
+# set directory with yours
+excel_dir = './resource/stock_list.xlsx'
+
+
+
+# read a excel file and make it as a DataFrame
+
+df_from_excel = pd.read_excel(excel_dir, # write your directory here
+
+
+                              dtype = {'region': str, 
+                                       'sales_representative': numpy.int64, 
+                                       'sales_amount': float}, # dictionary type
+
+                              index_col = 'id', 
+
+                              na_values = 'NaN', 
+
+                              thousands = ',', 
+
+                              nrows = 10, 
+
+                              comment = '#')
+
+
+
 
 
 class StockSummaryParser:

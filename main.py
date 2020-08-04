@@ -1,12 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
-from stock_list_parser import StockListParser
+from stock_summary_parser import StockSummaryParser
 
 
 
 if __name__ == "__main__":
 
-    StockListParser.initialize()
-    print(StockListParser.get_codes())
-    print(StockListParser.get_names())
-    url = ""
+    StockSummaryParser.initialize()
