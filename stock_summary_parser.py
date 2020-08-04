@@ -1,35 +1,6 @@
-import numpy
+import numpy as np
 import pandas as pd
-
 from stock_summary import StockSummary
-
-
-
-# set directory with yours
-excel_dir = './resource/stock_list.xlsx'
-
-
-
-# read a excel file and make it as a DataFrame
-
-df_from_excel = pd.read_excel(excel_dir, # write your directory here
-
-
-                              dtype = {'region': str, 
-                                       'sales_representative': numpy.int64, 
-                                       'sales_amount': float}, # dictionary type
-
-                              index_col = 'id', 
-
-                              na_values = 'NaN', 
-
-                              thousands = ',', 
-
-                              nrows = 10, 
-
-                              comment = '#')
-
-
 
 
 
@@ -39,26 +10,33 @@ class StockSummaryParser:
 
     @classmethod
     def initialize(cls):
-        file = open(cls.__stock_code_path, 'r', encoding='utf8');
-        
-        while True:
-            line = file.readline()
 
-            if not line: 
-                break
+        # read a excel file and make it as a DataFrame
+        data_frame = pd.read_excel(cls.__stock_code_path)
 
-            cls.__process_line(line)
+        for row in data_frame.itertuples(index=True):
+            cls.__process_line(row)
 
-        file.close()
-        return
 
     @classmethod
-    def __process_line(cls, line):
-        elems = line.split('=')
-        name = elems[0]
-        code = elems[1]
+    def __process_line(cls, row):
 
-        # StockSummary.__code_summary_map[code] = new StockSummary()
+        # 회사명	종목코드	업종	주요제품	상장일	결산월	대표자명	홈페이지	지역
+        summary = StockSummary(
+            getattr(row, '회사명'),
+            getattr(row, '종목코드'),
+            getattr(row, '업종'),
+            getattr(row, '주요제품'),
+            getattr(row, '상장일'),
+            getattr(row, '결산월'),
+            getattr(row, '대표자명'),
+            getattr(row, '홈페이지'),
+            getattr(row, '지역'),
+        )
+
+        StockSummary.add_summary(summary)
+        summary.print_info()
+        return
 
 
     @classmethod
