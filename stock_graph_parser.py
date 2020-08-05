@@ -22,6 +22,4 @@ class StockGraphParser:
             page_url = 'url&page={page}'.format(url = url, page = page)
             data_frame = data_frame.append(pd.read_html(page_url, header = 0)[0], ignore_index = True)
 
-        data_frame.dronpa()
-
-        return data_frame
+        return data_frame.dropna()
