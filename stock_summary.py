@@ -21,9 +21,10 @@ class StockSummary:
     # 대표자명
     # 홈페이지
     # 지역
-    def __init__(self, name, code, sector, product, listing_date, settlement_month, ceo_name, home_page, area):
+    def __init__(self, name, raw_code, sector, product, listing_date, settlement_month, ceo_name, home_page, area):
         self.__name = name
-        self.__code = code
+        self.__raw_code = raw_code
+        self.__code = format(raw_code, '06'),
         self.__sector = sector
         self.__product = product
         self.__listing_date = listing_date
@@ -39,6 +40,10 @@ class StockSummary:
     @property
     def name(self):
         return self.__name
+
+    @property
+    def raw_code(self):
+        return self.__raw_code
 
     @property
     def code(self):
