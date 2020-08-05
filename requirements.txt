@@ -17,6 +17,7 @@ cryptography=2.9.2=py37h7a1dbc1_0
 decorator=4.4.2=py_0
 defusedxml=0.6.0=py_0
 entrypoints=0.3=py37_0
+html5lib=1.1=py_0
 idna=2.10=py_0
 importlib-metadata=1.7.0=py37_0
 importlib_metadata=1.7.0=0
