@@ -72,7 +72,7 @@ class StockGraphGenerater:
         offline.plot(
             fig,
             auto_open=False,
-            filename='{name]}.html'.format(name=summary.name))
+            filename='{name}.html'.format(name=summary.name))
 
     @classmethod
     def show_graph(cls, fig):
