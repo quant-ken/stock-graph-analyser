@@ -1,16 +1,18 @@
-
-
 class StockSummary:
 
     __code_summary_map = {}
 
     @classmethod
-    def get_summary(cls, code):
-        return cls.__code_summary_map[code]
-
-    @classmethod
     def add_summary(cls, summary):
         cls.__code_summary_map[summary.code] = summary
+
+    @classmethod
+    def get_codes(cls):
+        return cls.__code_summary_map.keys()
+
+    @classmethod
+    def get_summary(cls, code):
+        return cls.__code_summary_map[code]
 
     # 회사명
     # 종목코드

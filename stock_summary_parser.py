@@ -17,8 +17,8 @@ class StockSummaryParser:
         for row in data_frame.itertuples(index=True):
             cls.__process_line(row)
 
-        print("StockSummaryParser.initialize() :", time.time() - start) 
-        
+        print("StockSummaryParser.initialize() :", time.time() - start)
+
     @classmethod
     def __process_line(cls, row):
 
@@ -35,8 +35,3 @@ class StockSummaryParser:
         )
 
         StockSummary.add_summary(summary)
-        return
-
-    @classmethod
-    def get_info(cls):
-        return cls.__name_code_map.keys()

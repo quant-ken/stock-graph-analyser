@@ -1,8 +1,17 @@
+from stock_summary import StockSummary
 from stock_summary_parser import StockSummaryParser
-from stock_graph_parser import StockGraphParser
+from stock_data_frame_generater import StockDataFrameGenerater
+from stock_graph_generater import StockGraphGenerater
+
 
 if __name__ == "__main__":
 
     StockSummaryParser.initialize()
-    
-    StockGraphParser.get_data_frame('002700')
+    StockDataFrameGenerater.initialize()
+
+    for code in StockSummary.get_codes():
+
+        summary = StockSummary.get_summary(code)
+        data_frame = StockDataFrameGenerater(code)
+
+        StockGraphGenerater.generate_graph(summary, data_frame)
