@@ -5,7 +5,7 @@ from stock_data_frame_generater import StockDataFrameGenerater
 from stock_graph_generater import StockGraphGenerater
 
 
-test_mode = True
+test_mode = False
 
 
 def initialize():
