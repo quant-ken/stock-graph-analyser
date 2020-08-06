@@ -18,12 +18,15 @@ class StockDataFrameGenerater:
 
     @classmethod
     def initialize(cls):
+        start = time.time()
 
         for sma in cls.__sma_list:
             cls.__ma_column_names.append('SMA-{sma}'.format(sma=sma))
 
         for ema in cls.__ema_list:
             cls.__ma_column_names.append('EMA-{ema}'.format(ema=ema))
+
+        print('StockDataFrameGenerater.initialize() :', round(time.time() - start, 4))
 
     @classmethod
     def get_ma_column_names(cls):
@@ -34,38 +37,39 @@ class StockDataFrameGenerater:
         return cls.__base_url.format(code=code)
 
     @classmethod
-    def generate_data_frame(cls, code):
+    def generate_data_frame(cls, summary):
+        start = time.time()
 
+        code = summary.code
         url = cls.__make_url(code)
-        print(url)
         data_frame = pd.DataFrame()
 
         for page in range(1, cls.__page_count):
             page_url = '{url}&page={page}'.format(url=url, page=page)
             data_frame = data_frame.append(pd.read_html(
                 page_url, header=0)[0], ignore_index=True)
-            print(page)
 
-        print(data_frame)
         data_frame = data_frame.dropna()
 
-        print(data_frame)
-
         # Rename columns
-        data_frame = data_frame.rename(
-            columns={
+        data_frame = data_frame.rename  \
+        (
+            columns =
+            {
                 '날짜': 'date',
                 '종가': 'close',
                 '전일비': 'diff',
                 '시가': 'open',
                 '고가': 'high',
                 '저가': 'low',
-                '거래량': 'volume'})
+                '거래량': 'volume'
+            }
+        )
 
         # Convert data type
-        data_frame[['close', 'diff', 'open', 'high', 'low', 'volume']] = data_frame[[
-            'close', 'diff', 'open', 'high', 'low', 'volume']].astype(int)
         data_frame['date'] = pd.to_datetime(data_frame['date'])
+        data_frame[['close', 'diff', 'open', 'high', 'low', 'volume']] \
+            = data_frame[['close', 'diff', 'open', 'high', 'low', 'volume']].astype(int)
 
         # Sort by date
         data_frame = data_frame.sort_values(by=['date'], ascending=True)
@@ -79,6 +83,7 @@ class StockDataFrameGenerater:
             column = 'EMA-{value}'.format(value=ema_value)
             data_frame[column] = data_frame['close'].ewm(ema_value).mean()
 
-        print(data_frame)
-
+        log = 'StockDataFrameGenerater.generate_data_frame({name})'.format(name = summary.name)
+        print(log, round(time.time() - start, 4))
+        
         return data_frame

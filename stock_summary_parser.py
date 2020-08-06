@@ -16,13 +16,14 @@ class StockSummaryParser:
 
         for row in data_frame.itertuples(index=True):
             cls.__process_line(row)
-
-        print("StockSummaryParser.initialize() :", time.time() - start)
+        
+        print('StockSummaryParser.initialize() :', round(time.time() - start, 4))
 
     @classmethod
     def __process_line(cls, row):
 
-        summary = StockSummary(
+        summary = StockSummary \
+        (
             getattr(row, '회사명'),
             getattr(row, '종목코드'),
             getattr(row, '업종'),

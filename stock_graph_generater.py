@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import plotly.offline as offline
 from plotly.subplots import make_subplots
@@ -7,23 +8,19 @@ from stock_data_frame_generater import StockDataFrameGenerater
 
 class StockGraphGenerater:
 
+    __export_path = './export/{filename}.html'
+
     @classmethod
     def generate_graph(cls, summary, data_frame):
+        start = time.time()
 
         # Get empty date
-        date_all = pd.date_range(
-            start=data_frame['date'].iloc[0], end=data_frame['date'].iloc[-1])
+        date_all = pd.date_range(start=data_frame['date'].iloc[0], end=data_frame['date'].iloc[-1])
         date_obs = [d.strftime('%Y-%m-%d') for d in data_frame['date']]
-        date_breaks = [d for d in date_all.strftime(
-            '%Y-%m-%d').tolist() if not d in date_obs]
+        date_breaks = [d for d in date_all.strftime('%Y-%m-%d').tolist() if not d in date_obs]
 
-        moving_avg = ['sma5', 'sma20', 'sma100',
-                      'sma200', 'ema5', 'ema20', 'ema100', 'ema200']
-
-        # # GRAPH PART
-        # # jupyter notebook 에서 출력
-        # offline.init_notebook_mode(connected=True)
-
+        # 1, 2 = Daily graph
+        # 3    = Volume graph 
         fig = make_subplots(
             rows=3,
             cols=1,
@@ -57,22 +54,31 @@ class StockGraphGenerater:
                                     name='거래량'),
                       row=3, col=1)
 
-        fig.update_layout(title='{} - 그래프'.format(summary.name)
-                          )          # Set title
+        # Title
+        fig.update_layout(title='{} - 그래프'.format(summary.name))
+
         # Disable range slider
         fig.update_xaxes(rangeslider_visible=False)
+
         # Hide empty dates
         fig.update_xaxes(rangebreaks=[dict(values=date_breaks)])
 
         # cls.show_graph(fig)
         cls.save_graph(summary, fig)
 
+        log = 'StockGraphGenerater.generate_graph({name})'.format(name = summary.name)
+        print(log, round(time.time() - start, 4))
+
+
     @classmethod
     def save_graph(cls, summary, fig):
+
+        path_name = cls.__export_path.format(filename=summary.name)
+
         offline.plot(
             fig,
             auto_open=False,
-            filename='{name}.html'.format(name=summary.name))
+            filename=path_name)
 
     @classmethod
     def show_graph(cls, fig):
