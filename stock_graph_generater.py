@@ -1,27 +1,28 @@
-import pandas as
+import pandas as pd
 import plotly.offline as offline
-import plotly.subplots                      # make_subplots
+from plotly.subplots import make_subplots
 import plotly.graph_objs as graph_obj
+from stock_data_frame_generater import StockDataFrameGenerater
 
 
 class StockGraphGenerater:
-
-    
 
     @classmethod
     def generate_graph(cls, summary, data_frame):
 
         # Get empty date
-        date_all = pd.date_range(start=data_frame['date'].iloc[0], end=data_frame['date'].iloc[-1])
+        date_all = pd.date_range(
+            start=data_frame['date'].iloc[0], end=data_frame['date'].iloc[-1])
         date_obs = [d.strftime('%Y-%m-%d') for d in data_frame['date']]
-        dt_breaks = [d for d in date_all.strftime('%Y-%m-%d').tolist() if not d in date_obs]
+        date_breaks = [d for d in date_all.strftime(
+            '%Y-%m-%d').tolist() if not d in date_obs]
 
         moving_avg = ['sma5', 'sma20', 'sma100',
                       'sma200', 'ema5', 'ema20', 'ema100', 'ema200']
 
-        # GRAPH PART
-        # jupyter notebook 에서 출력
-        offline.init_notebook_mode(connected=True)
+        # # GRAPH PART
+        # # jupyter notebook 에서 출력
+        # offline.init_notebook_mode(connected=True)
 
         fig = make_subplots(
             rows=3,
@@ -44,10 +45,11 @@ class StockGraphGenerater:
             name='일봉'),
             row=1, col=1)
 
-        for avg in moving_avg:
+        for column_name in StockDataFrameGenerater.get_ma_column_names():
             fig.add_trace(graph_obj.Scatter(
                 x=data_frame.date,
-                y=data_frame[avg]),
+                y=data_frame[column_name],
+                name=column_name),
                 row=1, col=1)
 
         fig.add_trace(graph_obj.Bar(x=data_frame.date,
@@ -55,20 +57,23 @@ class StockGraphGenerater:
                                     name='거래량'),
                       row=3, col=1)
 
-
-        fig.update_layout(title='{} - 일봉 그래프'.format(summary.name))
+        fig.update_layout(title='{} - 그래프'.format(summary.name)
+                          )          # Set title
+        # Disable range slider
         fig.update_xaxes(rangeslider_visible=False)
+        # Hide empty dates
+        fig.update_xaxes(rangebreaks=[dict(values=date_breaks)])
 
-        fig.update_xaxes(
-            rangebreaks=[dict(values=dt_breaks)]  # hide dates with no values
-        )
-
-        fig.show()
-
-        print("Get - Show :", time.time() - start)
+        # cls.show_graph(fig)
+        cls.save_graph(summary, fig)
 
     @classmethod
-    def save_graph(cls):
+    def save_graph(cls, summary, fig):
+        offline.plot(
+            fig,
+            auto_open=False,
+            filename='{name]}.html'.format(name=summary.name))
 
-        # Save plotly to html
-        pass
+    @classmethod
+    def show_graph(cls, fig):
+        fig.show()

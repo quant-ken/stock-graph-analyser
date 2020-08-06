@@ -23,7 +23,7 @@ class StockDataFrameGenerater:
             cls.__ma_column_names.append('SMA-{sma}'.format(sma=sma))
 
         for ema in cls.__ema_list:
-            cls.__ma_column_names.append('EMA-{ema}'.format(ema))
+            cls.__ma_column_names.append('EMA-{ema}'.format(ema=ema))
 
     @classmethod
     def get_ma_column_names(cls):
@@ -37,6 +37,7 @@ class StockDataFrameGenerater:
     def generate_data_frame(cls, code):
 
         url = cls.__make_url(code)
+        print(url)
         data_frame = pd.DataFrame()
 
         for page in range(1, cls.__page_count):
@@ -45,7 +46,10 @@ class StockDataFrameGenerater:
                 page_url, header=0)[0], ignore_index=True)
             print(page)
 
+        print(data_frame)
         data_frame = data_frame.dropna()
+
+        print(data_frame)
 
         # Rename columns
         data_frame = data_frame.rename(
@@ -74,5 +78,7 @@ class StockDataFrameGenerater:
         for ema_value in cls.__ema_list:
             column = 'EMA-{value}'.format(value=ema_value)
             data_frame[column] = data_frame['close'].ewm(ema_value).mean()
+
+        print(data_frame)
 
         return data_frame

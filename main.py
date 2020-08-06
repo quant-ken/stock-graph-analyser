@@ -12,6 +12,6 @@ if __name__ == "__main__":
     for code in StockSummary.get_codes():
 
         summary = StockSummary.get_summary(code)
-        data_frame = StockDataFrameGenerater(code)
+        data_frame = StockDataFrameGenerater.generate_data_frame(code)
 
         StockGraphGenerater.generate_graph(summary, data_frame)

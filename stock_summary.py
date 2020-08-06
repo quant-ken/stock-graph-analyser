@@ -26,7 +26,7 @@ class StockSummary:
     def __init__(self, name, raw_code, sector, product, listing_date, settlement_month, ceo_name, home_page, area):
         self.__name = name
         self.__raw_code = raw_code
-        self.__code = format(raw_code, '06'),
+        self.__code = format(raw_code, '06')
         self.__sector = sector
         self.__product = product
         self.__listing_date = listing_date
