@@ -3,7 +3,7 @@ import datetime
 import pandas as pd
 
 from stock_summary import StockSummary
-
+from stock_analyzer import StockAnalyzer
 
 class StockDataFrameGenerater:
 
@@ -13,6 +13,8 @@ class StockDataFrameGenerater:
     __ema_list = [10, 60, 120]
 
     __ma_column_names = list()
+    __sma_column_names = list()
+    __ema_column_names = list()
 
     __page_count = 30
 
@@ -21,12 +23,24 @@ class StockDataFrameGenerater:
         start = time.time()
 
         for sma in cls.__sma_list:
-            cls.__ma_column_names.append('SMA-{sma}'.format(sma=sma))
+            name = 'SMA-{sma}'.format(sma=sma)
+            cls.__sma_column_names.append(name)
+            cls.__ma_column_names.append(name)
 
         for ema in cls.__ema_list:
-            cls.__ma_column_names.append('EMA-{ema}'.format(ema=ema))
+            name = 'EMA-{ema}'.format(ema=ema)
+            cls.__ema_column_names.append(name)
+            cls.__ma_column_names.append(name)
 
         print('StockDataFrameGenerater.initialize() :', round(time.time() - start, 4))
+
+    @classmethod
+    def get_sma_column_names(cls):
+        return cls.__sma_column_names
+
+    @classmethod
+    def get_ema_column_names(cls):
+        return cls.__ema_column_names
 
     @classmethod
     def get_ma_column_names(cls):
@@ -85,5 +99,6 @@ class StockDataFrameGenerater:
 
         log = 'StockDataFrameGenerater.generate_data_frame({name})'.format(name = summary.name)
         print(log, round(time.time() - start, 4))
-        
+
+        StockAnalyzer.analyze(summary, data_frame)        
         return data_frame
