@@ -34,6 +34,7 @@ class StockSummary:
         self.__ceo_name = ceo_name
         self.__home_page = home_page
         self.__area = area
+        self.__trend_score = 0
 
     def print_info(self):
         print(self.name, self.code, self.sector, self.product, self.listing_date,
@@ -78,3 +79,10 @@ class StockSummary:
     @property
     def area(self):
         return self.__area
+
+    @property
+    def trend_score(self):
+        return self.__trend_score
+
+    def update_trend_score(self, score):
+        self.__trend_score = score

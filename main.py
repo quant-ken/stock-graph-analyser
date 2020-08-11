@@ -3,6 +3,7 @@ from stock_summary import StockSummary
 from stock_summary_parser import StockSummaryParser
 from stock_data_frame_generater import StockDataFrameGenerater
 from stock_graph_generater import StockGraphGenerater
+from stock_analyzer import StockAnalyzer
 
 
 test_mode = True
@@ -11,6 +12,14 @@ test_mode = True
 def initialize():
     StockSummaryParser.initialize()
     StockDataFrameGenerater.initialize()
+    StockAnalyzer.initialize()
+
+
+def process(stock_code):
+    summary = StockSummary.get_summary('005930')
+    data_frame = StockDataFrameGenerater.generate_data_frame(summary)
+    StockAnalyzer.analyze(summary, data_frame)
+    StockGraphGenerater.generate_graph(summary, data_frame)
 
 
 def run():
@@ -21,17 +30,14 @@ def run():
 
 
 def run_test():
-    summary = StockSummary.get_summary('005930')
-    data_frame = StockDataFrameGenerater.generate_data_frame(summary)
-    StockGraphGenerater.generate_graph(summary, data_frame)
-    pass
+    process('005930')   # 삼성전자
 
 
 def run_production():
     for code in StockSummary.get_codes():
-        summary = StockSummary.get_summary(code)
-        data_frame = StockDataFrameGenerater.generate_data_frame(summary)
-        StockGraphGenerater.generate_graph(summary, data_frame)
+        process(code)
+        pass
+
 
 
 if __name__ == "__main__":

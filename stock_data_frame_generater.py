@@ -1,9 +1,7 @@
 import time
 import datetime
 import pandas as pd
-
 from stock_summary import StockSummary
-from stock_analyzer import StockAnalyzer
 
 class StockDataFrameGenerater:
 
@@ -16,7 +14,9 @@ class StockDataFrameGenerater:
     __sma_column_names = list()
     __ema_column_names = list()
 
-    __page_count = 30
+    # 12 = 4달 전 까지
+    # 30 = 15달 전 까지
+    __page_count = 12
 
     @classmethod
     def initialize(cls):
@@ -100,5 +100,4 @@ class StockDataFrameGenerater:
         log = 'StockDataFrameGenerater.generate_data_frame({name})'.format(name = summary.name)
         print(log, round(time.time() - start, 4))
 
-        StockAnalyzer.analyze(summary, data_frame)        
         return data_frame

@@ -1,4 +1,3 @@
-import pandas as pd
 from stock_summary import StockSummary
 from stock_data_frame_generater import StockDataFrameGenerater
 
@@ -6,9 +5,11 @@ class StockAnalyzer:
 
     __trend_count = 7
     __cross_offset = 4.25       # percent 
-    
-    __sma_short = 
+    __score_offset = 0
 
+    @classmethod
+    def initialize(cls):
+        cls.__score_offset = 100 / cls.__trend_count / 2.0
 
     @classmethod
     def analyze(cls, summary, data_frame):
@@ -29,18 +30,47 @@ class StockAnalyzer:
             sma_short_middle_percents.append((sma_short - sma_middle) / sma_middle)
 
             # short - long
-            sma_short_long_percents.append((sma_short - sma_long) / sma_long))
+            sma_short_long_percents.append((sma_short - sma_long) / sma_long)
 
             continue
 
 
+        score = cls.__get_score(sma_short_middle_percents)
+        score += cls.__get_score(sma_short_long_percents)
+
+        summary.update_trend_score(score)
+
+        log = '{name} 점수 : {score}'.format(name=summary.name, score=score)
+        print(log)    
+
+        
+
+    @classmethod 
+    def __get_score(cls, ma_percents):
         score = 0
-        score_offset = cls.__trend_count * 100 / 4
+        
+        for i in ma_percents.count():
 
-        # Score : short - middle
+            if i is 0:
+                if ma_percents[i] < 0:
+                    score += cls.__score_offset
+                continue
 
-        # Score : short - long 
+            if ma_percents[i] > ma_percents[i - 1]:
+                score += cls.__score_offset
 
-        print(data_trend)    
+        # Cross Score
+        score += cls.__get_cross_score(ma_percents[-1])
 
-        pass
+        return score
+
+
+    @classmethod
+    def __get_cross_score(cls, last_ma_percent):
+        if last_ma_percent >= -cls.__cross_offset and last_ma_percent <= cls.__cross_offset:
+            return cls.__score_offset
+        else:
+            return 0
+            
+
+

@@ -55,7 +55,7 @@ class StockGraphGenerater:
                       row=3, col=1)
 
         # Title
-        fig.update_layout(title='{} - 그래프'.format(summary.name))
+        fig.update_layout(title='{name} - {score}'.format(name=summary.name, score=summary.trend_score))
 
         # Disable range slider
         fig.update_xaxes(rangeslider_visible=False)
