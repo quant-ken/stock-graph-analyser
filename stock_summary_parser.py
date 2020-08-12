@@ -9,8 +9,11 @@ class StockSummaryParser:
     __stock_code_path = './resource/stock_list.xlsx'
 
     @classmethod
-    def initialize(cls):
+    def initialize(cls, custom_stock_mode):
         start = time.time()
+
+        if custom_stock_mode is True:
+            cls.__stock_code_path = './resource/custom_stock_list.xlsx'
 
         data_frame = pd.read_excel(cls.__stock_code_path)
 

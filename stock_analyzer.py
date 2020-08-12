@@ -22,7 +22,7 @@ class StockAnalyzer:
         # Search - SMA
         for row in data_trend.itertuples():
             
-            sma_short = row[sma_names[0]]
+            sma_short = getattr(row, sma_names[0])
             sma_middle = getattr(row, sma_names[1])
             sma_long = getattr(row, sma_names[2])
 
@@ -49,7 +49,7 @@ class StockAnalyzer:
     def __get_score(cls, ma_percents):
         score = 0
         
-        for i in ma_percents.count():
+        for i in range(len(ma_percents)):
 
             if i is 0:
                 if ma_percents[i] < 0:

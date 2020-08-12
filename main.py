@@ -7,10 +7,11 @@ from stock_analyzer import StockAnalyzer
 
 
 test_mode = True
+use_custom_stock_list = True
 
 
 def initialize():
-    StockSummaryParser.initialize()
+    StockSummaryParser.initialize(use_custom_stock_list)
     StockDataFrameGenerater.initialize()
     StockAnalyzer.initialize()
 
