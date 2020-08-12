@@ -17,7 +17,7 @@ def initialize():
 
 
 def process(stock_code):
-    summary = StockSummary.get_summary('005930')
+    summary = StockSummary.get_summary(stock_code)
     data_frame = StockDataFrameGenerater.generate_data_frame(summary)
     StockAnalyzer.analyze(summary, data_frame)
     StockGraphGenerater.generate_graph(summary, data_frame)
