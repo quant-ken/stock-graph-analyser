@@ -7,8 +7,11 @@ class StockDataFrameGenerater:
 
     __base_url = 'http://finance.naver.com/item/sise_day.nhn?code={code}'
 
-    __sma_list = [10, 60, 120]
-    __ema_list = [10, 60, 120]
+    __sma_column_format = 'SMA{value}'
+    __ema_column_format = 'EMA{value}'
+
+    __sma_list = [10, 20, 60, 120]
+    __ema_list = [10, 20, 60, 120]
 
     __ma_column_names = list()
     __sma_column_names = list()
@@ -18,17 +21,19 @@ class StockDataFrameGenerater:
     # 30 = 15달 전 까지
     __page_count = 12
 
+
+
     @classmethod
     def initialize(cls):
         start = time.time()
 
         for sma in cls.__sma_list:
-            name = 'SMA-{sma}'.format(sma=sma)
+            name = cls.__sma_column_format.format(value=sma)
             cls.__sma_column_names.append(name)
             cls.__ma_column_names.append(name)
 
         for ema in cls.__ema_list:
-            name = 'EMA-{ema}'.format(ema=ema)
+            name = cls.__ema_column_format.format(value=ema)
             cls.__ema_column_names.append(name)
             cls.__ma_column_names.append(name)
 
@@ -90,11 +95,11 @@ class StockDataFrameGenerater:
 
         # Generate SMA, EMA
         for sma_value in cls.__sma_list:
-            column = 'SMA-{value}'.format(value=sma_value)
+            column = cls.__sma_column_format.format(value=sma_value)
             data_frame[column] = data_frame['close'].rolling(sma_value).mean()
 
         for ema_value in cls.__ema_list:
-            column = 'EMA-{value}'.format(value=ema_value)
+            column = cls.__ema_column_format.format(value=ema_value)
             data_frame[column] = data_frame['close'].ewm(ema_value).mean()
 
         log = 'StockDataFrameGenerater.generate_data_frame({name})'.format(name = summary.name)
