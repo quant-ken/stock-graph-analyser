@@ -19,7 +19,8 @@ class StockAnalyzer:
     @classmethod
     def analyze(cls, summary, data_frame):
         data_trend = data_frame.tail(cls.__trend_count)
-        print(data_trend)
+
+        
         sma_names = StockDataFrameGenerater.get_sma_column_names()
         sma_short_middle_percents = list()
         sma_short_long_percents = list()
