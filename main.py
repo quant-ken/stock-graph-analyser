@@ -6,8 +6,8 @@ from stock_graph_generater import StockGraphGenerater
 from stock_analyzer import StockAnalyzer
 
 
-test_mode = True
-use_custom_stock_list = True
+test_mode = False
+use_custom_stock_list = False
 
 
 def initialize():

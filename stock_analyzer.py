@@ -1,7 +1,12 @@
+import os
+import glob
 from stock_summary import StockSummary
 from stock_data_frame_generater import StockDataFrameGenerater
 
 class StockAnalyzer:
+
+    __export_path = './export/score/{filename}'
+    __file_name_format = '{score}_{filename}.txt'
 
     __trend_count = 7
     __cross_offset = 4.25       # percent 
@@ -43,6 +48,8 @@ class StockAnalyzer:
         log = '{name} 점수 : {score}'.format(name=summary.name, score=score)
         print(log)    
 
+        cls.__save_result(summary, score)
+
         
 
     @classmethod 
@@ -62,7 +69,7 @@ class StockAnalyzer:
         # Cross Score
         score += cls.__get_cross_score(ma_percents[-1])
 
-        return score
+        return int(score)
 
 
     @classmethod
@@ -73,4 +80,27 @@ class StockAnalyzer:
             return 0
             
 
+    @classmethod
+    def __save_result(cls, summary, score):
+
+        cls.__pre_process_result(summary)
+
+        file_name = cls.__get_file_name(summary, score)
+
+        f = open(file_name, 'w')
+        f.close()
+
+        
+    @classmethod
+    def __pre_process_result(cls, summary):
+        search_form = cls.__get_file_name(summary, '*')
+        search_results = glob.glob(search_form)
+
+        for result in search_results:
+            os.remove(result)
+
+    @classmethod 
+    def __get_file_name(cls, summary, score):
+        file_name = cls.__file_name_format.format(score=score, filename=summary.name)
+        return cls.__export_path.format(filename=file_name)
 

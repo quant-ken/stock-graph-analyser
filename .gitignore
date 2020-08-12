@@ -165,7 +165,8 @@ pip-selfcheck.json
 # Excel temp file
 ~$*.xlsx
 
-# Exported html
+# Exported files
 export/*/*.html
+export/*/*.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,virtualenv

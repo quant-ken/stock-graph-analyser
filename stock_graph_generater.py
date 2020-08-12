@@ -8,7 +8,7 @@ from stock_data_frame_generater import StockDataFrameGenerater
 
 class StockGraphGenerater:
 
-    __export_path = './export/{filename}.html'
+    __export_path = './export/graph/{filename}.html'
 
     @classmethod
     def generate_graph(cls, summary, data_frame):
