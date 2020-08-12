@@ -14,14 +14,15 @@ class StockAnalyzer:
     @classmethod
     def analyze(cls, summary, data_frame):
         data_trend = data_frame.tail(cls.__trend_count)
-
+        print(data_trend)
+        sma_names = StockDataFrameGenerater.get_sma_column_names()
         sma_short_middle_percents = list()
         sma_short_long_percents = list()
+
 
         # Search - SMA
         for row in data_trend.itertuples():
             
-            sma_names = StockDataFrameGenerater.get_sma_column_names()
             sma_short = getattr(row, sma_names[0])
             sma_middle = getattr(row, sma_names[1])
             sma_long = getattr(row, sma_names[2])
