@@ -8,7 +8,7 @@ from stock_graph_generater import StockGraphGenerater
 from stock_analyzer import StockAnalyzer
 
 
-test_mode = False
+test_mode = True
 use_custom_stock_list = False
 thread_count = 64
 
@@ -47,9 +47,6 @@ def run_production():
         for execution in concurrent.futures.as_completed(thread_list):
             execution.result()
 
- 
-
-
 
 if __name__ == "__main__":
     start = time.time()
@@ -57,4 +54,5 @@ if __name__ == "__main__":
     initialize()
     run()
 
+    StockAnalyzer.save_score_list()
     print('main.py :', round(time.time() - start, 4))

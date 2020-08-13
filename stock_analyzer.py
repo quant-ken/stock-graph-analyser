@@ -1,4 +1,5 @@
 import os
+import re
 import glob
 from stock_summary import StockSummary
 from stock_data_frame_generater import StockDataFrameGenerater
@@ -104,4 +105,27 @@ class StockAnalyzer:
     def __get_file_name(cls, summary, score):
         file_name = cls.__file_name_format.format(score=score, filename=summary.name)
         return cls.__export_path.format(filename=file_name)
+
+    @classmethod
+    def __natural_sort(cls, list): 
+        convert = lambda text: int(text) if text.isdigit() else text.lower() 
+        alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
+        return sorted(list, key = alphanum_key, reverse=True)
+
+    @classmethod
+    def save_score_list(cls):
+
+        result_name = 'score-result.txt'
+        file = open(result_name, 'w')        
+
+        file_names = cls.__natural_sort(glob.glob('./export/score/*.txt'))
+        
+        for line in file_names:
+            file.write(line.split('/')[-1] + '\n')
+
+        file.write('\nEOF \n')
+
+        file.close()
+        
+
 
