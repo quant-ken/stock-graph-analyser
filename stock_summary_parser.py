@@ -6,16 +6,22 @@ from stock_summary import StockSummary
 
 class StockSummaryParser:
 
-    __stock_code_path = './resource/stock_list.xlsx'
+    __base_excel_path = './resource/stock_list.xlsx'
+    __custom_excel_path = './resource/custom_stock_list.xlsx'
+
+    @classmethod
+    def __get_stock_code_path(cls, custom_stock_mode):
+        if custom_stock_mode == True:
+            return cls.__custom_excel_path
+        else:
+            return cls.__base_excel_path
 
     @classmethod
     def initialize(cls, custom_stock_mode):
         start = time.time()
 
-        if custom_stock_mode is True:
-            cls.__stock_code_path = './resource/custom_stock_list.xlsx'
-
-        data_frame = pd.read_excel(cls.__stock_code_path)
+        path = cls.__get_stock_code_path(custom_stock_mode)
+        data_frame = pd.read_excel(path)
 
         for row in data_frame.itertuples(index=True):
             cls.__process_line(row)
@@ -24,6 +30,9 @@ class StockSummaryParser:
 
     @classmethod
     def __process_line(cls, row):
+
+        # TODO : Validate custom mode
+        # enable = getattr(row, '활성화')
 
         summary = StockSummary \
         (

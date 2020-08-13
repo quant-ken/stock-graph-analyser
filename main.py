@@ -1,4 +1,6 @@
 import time
+import concurrent
+from concurrent.futures import ThreadPoolExecutor
 from stock_summary import StockSummary
 from stock_summary_parser import StockSummaryParser
 from stock_data_frame_generater import StockDataFrameGenerater
@@ -8,6 +10,7 @@ from stock_analyzer import StockAnalyzer
 
 test_mode = False
 use_custom_stock_list = False
+thread_count = 64
 
 
 def initialize():
@@ -24,7 +27,7 @@ def process(stock_code):
 
 
 def run():
-    if test_mode is True:
+    if test_mode == True:
         run_test()
     else:
         run_production()
@@ -35,9 +38,16 @@ def run_test():
 
 
 def run_production():
-    for code in StockSummary.get_codes():
-        process(code)
-        pass
+
+    thread_list = []
+
+    with ThreadPoolExecutor(max_workers=thread_count) as executor:
+        for code in StockSummary.get_codes():
+            thread_list.append(executor.submit(process, code))
+        for execution in concurrent.futures.as_completed(thread_list):
+            execution.result()
+
+ 
 
 
 
