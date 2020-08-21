@@ -1,8 +1,11 @@
 # stock-graph-analyzer
 Stock graph analyzer
 
+
 ## Requirements
-> Python : 3.7
+Python - 3.7
+
+
 
 ## Quickstarts
 
