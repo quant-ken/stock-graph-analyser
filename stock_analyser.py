@@ -4,7 +4,7 @@ import glob
 from stock_summary import StockSummary
 from stock_data_frame_generater import StockDataFrameGenerater
 
-class StockAnalyzer:
+class StockAnalyser:
 
     __export_path = './export/score/{filename}'
     __file_name_format = '{score}_{filename}.txt'
