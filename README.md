@@ -15,6 +15,6 @@ Python - 3.7
 pip install -r requirements.txt
 
 # Run
-python app.py
+python main.py
 
 ```
