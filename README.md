@@ -18,7 +18,7 @@ pip install -r requirements.txt
 # Run
 python main.py
 
-# Result sample
+# Result sample (test_mode = True in main.py)
 StockSummaryParser.initialize() : 0.5196
 StockDataFrameGenerater.initialize() : 0.0
 StockDataFrameGenerater.generate_data_frame(삼성전자) 7.8851
