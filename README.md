@@ -4,7 +4,7 @@ Generate stock chart and score
 ![](./readme_resource/graph_0.png)
 
 ## Requirements
-Python - 3.7
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 
 
