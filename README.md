@@ -1,6 +1,7 @@
-# stock-graph-analyzer
-Stock graph analyzer
+# stock-graph-analyser
+Generate stock chart and score
 
+![](./readme_resource/graph_0.png)
 
 ## Requirements
 Python - 3.7
