@@ -29,7 +29,12 @@ jobs:
     - name: Run main.py
       run: |
         python main.py
-        
+    
+    # Get current date 
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
     # Commit changes
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
