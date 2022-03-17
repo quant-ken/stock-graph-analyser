@@ -1,6 +1,7 @@
 import time
 import datetime
 import pandas as pd
+import requests
 from stock_summary import StockSummary
 
 class StockDataFrameGenerater:
@@ -65,8 +66,12 @@ class StockDataFrameGenerater:
 
         for page in range(1, cls.__page_count):
             page_url = '{url}&page={page}'.format(url=url, page=page)
-            data_frame = data_frame.append(pd.read_html(
-                page_url, header=0)[0], ignore_index=True)
+            #page_html = pd.read_html(page_url, encoding="euc-kr", headers={'User-agent': 'Mozilla/5.0'}).text)
+            
+            page_html = pd.read_html(requests.get(page_url, headers={'User-agent': 'Mozilla/5.0'}).text)
+
+            #pd.read_html(requests.get(url, headers={'User-agent': 'Mozilla/5.0'}).text) 
+            data_frame = data_frame.append(page_html[0], ignore_index=True)
 
         data_frame = data_frame.dropna()
 

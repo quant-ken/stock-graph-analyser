@@ -115,13 +115,14 @@ class StockAnalyser:
     @classmethod
     def save_score_list(cls):
 
-        result_name = 'score-result.txt'
+        result_name = './export/score-result.txt'
         file = open(result_name, 'w')        
 
-        file_names = cls.__natural_sort(glob.glob('./export/score/*.txt'))
+        file_paths = cls.__natural_sort(glob.glob('./export/score/*.txt'))
         
-        for line in file_names:
-            file.write(line.split('/')[-1] + '\n')
+        for file_path in file_paths:
+            file_name = os.path.basename(file_path) 
+            file.write(file_name + '\n')
 
         file.write('\nEOF \n')
 

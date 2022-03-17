@@ -9,7 +9,7 @@ from stock_analyser import StockAnalyser
 
 
 test_mode = False
-restrict_stock_count = 10
+restrict_stock_count = 350
 thread_count = 64
 
 
