@@ -171,3 +171,4 @@ export/*/*.html
 export/*/*.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,virtualenv
+resource/~$stock_list.xlsm
