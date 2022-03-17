@@ -6,7 +6,7 @@ on:
       - cron:  '0 19 * * *'     # UTC-0 19:00 (UTC+9 - 04:00)
 
 jobs:
-  update_readme:
+  updateDailyScore:
     runs-on: ubuntu-latest
     steps:
   
