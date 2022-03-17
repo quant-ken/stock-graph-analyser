@@ -1,5 +1,9 @@
 # stock-graph-analyser
-Generate stock chart and score
+Generate stock chart and score  
+[DailyScore](./export/score-result.txt)  
+
+
+## Example
 
 ![](./readme_resource/graph_0.png)
 
