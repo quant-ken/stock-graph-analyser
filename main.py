@@ -8,13 +8,13 @@ from stock_graph_generater import StockGraphGenerater
 from stock_analyser import StockAnalyser
 
 
-test_mode = True
-use_custom_stock_list = False
+test_mode = False
+restrict_stock_count = 10
 thread_count = 64
 
 
 def initialize():
-    StockSummaryParser.initialize(use_custom_stock_list)
+    StockSummaryParser.initialize(restrict_stock_count)
     StockDataFrameGenerater.initialize()
     StockAnalyser.initialize()
 

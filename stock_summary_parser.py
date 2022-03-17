@@ -6,25 +6,24 @@ from stock_summary import StockSummary
 
 class StockSummaryParser:
 
-    __base_excel_path = './resource/stock_list.xlsx'
-    __custom_excel_path = './resource/custom_stock_list.xlsx'
+    # __base_excel_path = './resource/stock_list.xlsx'
+    __base_excel_path = './resource/stock_list.xlsm'
+    __use_restrict_stock_count = 20000
 
     @classmethod
-    def __get_stock_code_path(cls, custom_stock_mode):
-        if custom_stock_mode == True:
-            return cls.__custom_excel_path
-        else:
-            return cls.__base_excel_path
-
-    @classmethod
-    def initialize(cls, custom_stock_mode):
+    def initialize(cls, restrict_stock_count):
         start = time.time()
 
-        path = cls.__get_stock_code_path(custom_stock_mode)
-        data_frame = pd.read_excel(path)
+        cls.restrict_stock_count = restrict_stock_count
+        data_frame = pd.read_excel(cls.__base_excel_path)
 
+        i = 0
         for row in data_frame.itertuples(index=True):
             cls.__process_line(row)
+
+            i = i + 1
+            if i > cls.__restrict_stock_count:
+                break
         
         print('StockSummaryParser.initialize() :', round(time.time() - start, 4))
 
