@@ -1,3 +1,4 @@
+import code
 import os
 import re
 import glob
@@ -7,7 +8,6 @@ from stock_data_frame_generater import StockDataFrameGenerater
 class StockAnalyser:
 
     __export_path = './export/score/{filename}'
-    __file_name_format = '{score}_{filename}.txt'
 
     __trend_count = 7
     __cross_offset = 4.25       # percent 
@@ -103,7 +103,8 @@ class StockAnalyser:
 
     @classmethod 
     def __get_file_name(cls, summary, score):
-        file_name = cls.__file_name_format.format(score=score, filename=summary.name)
+        format = '{score}_{filename}_{code}.txt'
+        file_name = format.format(score=score, filename=summary.name, code=summary.code)
         return cls.__export_path.format(filename=file_name)
 
     @classmethod
@@ -115,14 +116,28 @@ class StockAnalyser:
     @classmethod
     def save_score_list(cls):
 
-        result_name = './export/score-result.txt'
+        result_name = './export/score-result.md'
         file = open(result_name, 'w')        
 
         file_paths = cls.__natural_sort(glob.glob('./export/score/*.txt'))
         
+        format = '{score}점 - [{name}]({url}) - {code}'
+
+
         for file_path in file_paths:
-            file_name = os.path.basename(file_path) 
-            file.write(file_name + '\n')
+            file_name = os.path.basename(file_path).replace('.txt', '') 
+            
+            if file_name == 'Temp':
+                continue
+
+            elems = file_name.split('_')
+            score = elems[0]
+            name = elems[1]
+            code = elems[2]
+            url = 'https://finance.naver.com/item/fchart.naver?code=' + code
+            
+            line = format.format(score=score, name=name, url=url, code=code)
+            file.write(line + '\n')
 
         file.write('\nEOF \n')
 
