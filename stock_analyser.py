@@ -135,9 +135,9 @@ class StockAnalyser:
             name = elems[1]
             code = elems[2]
             url = 'https://finance.naver.com/item/fchart.naver?code=' + code
-            
+
             line = format.format(score=score, name=name, url=url, code=code)
-            file.write(line + '\n')
+            file.write(line + '  \n')
 
         file.write('\nEOF \n')
 
