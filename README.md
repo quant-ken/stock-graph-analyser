@@ -1,6 +1,6 @@
 # stock-graph-analyser
 Generate stock chart and score  
-[DailyScore](./export/score-result.txt)  
+[DailyScore](./export/score-result.md)  
 
 
 ## Example
