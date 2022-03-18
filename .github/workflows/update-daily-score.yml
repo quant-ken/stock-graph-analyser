@@ -42,4 +42,4 @@ jobs:
         author_name: mousedoc
         author_email: sangyun3631@gmail.com
         message: '[Update daily score] - ${{ steps.date.outputs.date }}'
-        add: 'export/score-result.txt'
+        add: 'export/score-result.md'
