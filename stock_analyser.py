@@ -1,5 +1,6 @@
 import code
 import os
+from datetime import date
 import re
 import glob
 from stock_summary import StockSummary
@@ -9,7 +10,7 @@ class StockAnalyser:
 
     __export_path = './export/score/{filename}'
 
-    __trend_count = 7
+    __trend_count = 72
     __cross_offset = 4.25       # percent 
     __score_offset = 0
 
@@ -26,9 +27,15 @@ class StockAnalyser:
         sma_short_middle_percents = list()
         sma_short_long_percents = list()
 
+        price = 0
+        price_7 = 0
+        price_30 = 0
+        price_60 = 0
+
         # Search - SMA
         for row in data_trend.itertuples():
             
+            day_offset = getattr(row, 'Index')
             sma_short = getattr(row, sma_names[0])
             sma_middle = getattr(row, sma_names[1])
             sma_long = getattr(row, sma_names[2])
@@ -39,6 +46,17 @@ class StockAnalyser:
             # short - long
             sma_short_long_percents.append((sma_short - sma_long) / sma_long)
 
+            close_price = getattr(row, 'close')
+
+            if day_offset <= 1 and price == 0:
+                price = close_price
+            elif day_offset <= 7 and price_7 == 0:
+                price_7 = close_price
+            elif day_offset <= 30 and price_30 == 0:
+                price_30 = close_price
+            elif day_offset <= 60 and price_60 == 0:
+                price_60 = close_price
+
             continue
 
 
@@ -46,6 +64,10 @@ class StockAnalyser:
         score += cls.__get_score(sma_short_long_percents)
 
         summary.update_trend_score(score)
+        summary.price = price
+        summary.price_7 = price_7
+        summary.price_30 = price_30
+        summary.price_60 = price_60
 
         log = '{name} 점수 : {score}'.format(name=summary.name, score=score)
         print(log)    
@@ -103,8 +125,14 @@ class StockAnalyser:
 
     @classmethod 
     def __get_file_name(cls, summary, score):
-        format = '{score}_{filename}_{code}.txt'
-        file_name = format.format(score=score, filename=summary.name, code=summary.code)
+        format = '{score}_{filename}_{code}_{price}_{price_7}_{price_30}_{price_60}.txt'
+        file_name = format.format(score=score, 
+                                  filename=summary.name, 
+                                  code=summary.code,
+                                  price=summary.price,
+                                  price_7=summary.price_7,
+                                  price_30=summary.price_30,
+                                  price_60=summary.price_60)
         return cls.__export_path.format(filename=file_name)
 
     @classmethod
@@ -121,7 +149,7 @@ class StockAnalyser:
 
         file_paths = cls.__natural_sort(glob.glob('./export/score/*.txt'))
         
-        format = '{score}점 - [{name}]({url}) - {code}'
+        # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
 
 
         for file_path in file_paths:
@@ -134,9 +162,45 @@ class StockAnalyser:
             score = elems[0]
             name = elems[1]
             code = elems[2]
+            price = int(elems[3])
+            price_7 = int(elems[4])
+            price_30 = int(elems[5])
+            price_60 = int(elems[6])
+
+            price_7 = (price - price_7) / price_7 * 100
+            if price_7 >= 0:
+                price_7 = f'<span style="color: red">{format(price_7, ".2f")}</span>'
+            else:
+                price_7 = f'<span style="color: #0000FF">{format(price_7, ".2f")}</span>'
+
+
+            price_30 = (price - price_30) / price_30 * 100
+            if price_30 >= 0:
+                price_30 = f'<span style="color: red">{format(price_30, ".2f")}</span>'
+            else:
+                price_30 = f'<span style="color: #0000FF">{format(price_30, ".2f")}</span>'
+
+
+            price_60 = (price - price_60) / price_60 * 100
+            if price_60 >= 0:
+                price_60 = f'<span style="color: red">{format(price_60, ".2f")}</span>'
+            else:
+                price_60 = f'<span style="color: #0000FF">{format(price_60, ".2f")}</span>'
+
             url = 'https://finance.naver.com/item/fchart.naver?code=' + code
 
-            line = format.format(score=score, name=name, url=url, code=code)
+            line = f'{score}점 - [{name}]({url})({code}) {price}원 --- 7D({price_7}%) / 30D({price_30}%) / 60D({price_60}%)'
+
+
+            # line = format.format(score=score, 
+            #                      name=name, 
+            #                      url=url, 
+            #                      code=code, 
+            #                      price=format(price, ','), 
+            #                      price_7=format((price - price_7) / price_7 * 100, '.2f'), 
+            #                      price_30=format((price - price_30) / price_30 * 100, '.2f'), 
+            #                      price_60=format((price - price_60) / price_60 * 100, '.2f'))
+
             file.write(line + '  \n')
 
         file.write('\nEOF \n')

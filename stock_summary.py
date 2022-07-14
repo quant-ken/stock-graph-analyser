@@ -27,14 +27,6 @@ class StockSummary:
         self.__name = name
         self.__raw_code = raw_code
         self.__code = raw_code.rjust(6, "0")
-    
-        # self.__sector = sector
-        # self.__product = product
-        # self.__listing_date = listing_date
-        # self.__settlement_month = settlement_month
-        # self.__ceo_name = ceo_name
-        # self.__home_page = home_page
-        # self.__area = area
         self.__trend_score = 0
 
     def print_info(self):
@@ -53,33 +45,44 @@ class StockSummary:
     def code(self):
         return self.__code
 
-    # @property
-    # def sector(self):
-    #     return self.__sector
+    # 현재가
+    @property
+    def price(self):
+        return self.__price
 
-    # @property
-    # def product(self):
-    #     return self.__product
+    @price.setter
+    def price(self, value):
+       self.__price = value
 
-    # @property
-    # def listing_date(self):
-    #     return self.__listing_date
+    # 7일전 가격
+    @property
+    def price_7(self):
+        return self.__price_7
 
-    # @property
-    # def settlement_month(self):
-    #     return self.__settlement_month
+    @price_7.setter
+    def price_7(self, value):
+       self.__price_7 = value
 
-    # @property
-    # def ceo_name(self):
-    #     return self.__ceo_name
 
-    # @property
-    # def home_page(self):
-    #     return self.__home_page
+    # 30일전 가격
+    @property
+    def price_30(self):
+        return self.__price_30
 
-    # @property
-    # def area(self):
-    #     return self.__area
+    @price_30.setter
+    def price_30(self, value):
+       self.__price_30 = value
+
+
+    # 60일전 가격
+    @property
+    def price_60(self):
+        return self.__price_60
+
+    @price_60.setter
+    def price_60(self, value):
+       self.__price_60 = value
+
 
     @property
     def trend_score(self):
