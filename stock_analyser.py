@@ -10,8 +10,8 @@ class StockAnalyser:
 
     __export_path = './export/score/{filename}'
 
-    __trend_count = 7
-    __seaarch_count = 72
+    __trend_count = 70          # 
+    __seaarch_count = 72        # Page
     __cross_offset = 4.25       # percent 
     __score_offset = 0
 
