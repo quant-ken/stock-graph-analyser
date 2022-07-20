@@ -10,17 +10,18 @@ class StockAnalyser:
 
     __export_path = './export/score/{filename}'
 
-    __trend_count = 72
+    __trend_count = 7
+    __seaarch_count = 72
     __cross_offset = 4.25       # percent 
     __score_offset = 0
 
     @classmethod
     def initialize(cls):
-        cls.__score_offset = 100 / cls.__trend_count / 2.0
+        cls.__score_offset = 100 / cls.__seaarch_count / 2.0
 
     @classmethod
     def analyze(cls, summary, data_frame):
-        data_trend = data_frame.tail(cls.__trend_count)
+        data_trend = data_frame.tail(cls.__seaarch_count)
 
         
         sma_names = StockDataFrameGenerater.get_sma_column_names()
@@ -40,11 +41,12 @@ class StockAnalyser:
             sma_middle = getattr(row, sma_names[1])
             sma_long = getattr(row, sma_names[2])
 
-            # short - middle
-            sma_short_middle_percents.append((sma_short - sma_middle) / sma_middle)
+            if day_offset <= cls.__trend_count:
+                # short - middle
+                sma_short_middle_percents.append((sma_short - sma_middle) / sma_middle)
 
-            # short - long
-            sma_short_long_percents.append((sma_short - sma_long) / sma_long)
+                # short - long
+                sma_short_long_percents.append((sma_short - sma_long) / sma_long)
 
             close_price = getattr(row, 'close')
 
