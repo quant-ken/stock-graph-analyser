@@ -1,7 +1,8 @@
 # stock-graph-analyser
 Generate stock chart and score  
-[DailyScore](./export/score-result.md)  
 
+## [DailyScore](./export/score-result.md)  
+You must do it at your own discretion and responsibility, and it is recommended that you diversify your investments with your own spare funds.
 
 ## Example
 
