@@ -82,7 +82,7 @@ class StockDataFrameGenerater:
             {
                 '날짜': 'date',
                 '종가': 'close',
-                '전일비': 'diff',
+                # '전일비': 'diff',
                 '시가': 'open',
                 '고가': 'high',
                 '저가': 'low',
@@ -92,8 +92,8 @@ class StockDataFrameGenerater:
 
         # Convert data type
         data_frame['date'] = pd.to_datetime(data_frame['date'])
-        data_frame[['close', 'diff', 'open', 'high', 'low', 'volume']] \
-            = data_frame[['close', 'diff', 'open', 'high', 'low', 'volume']].astype(int)
+        data_frame[['close', 'open', 'high', 'low', 'volume']] \
+            = data_frame[['close', 'open', 'high', 'low', 'volume']].astype(int)
 
         # Sort by date
         data_frame = data_frame.sort_values(by=['date'], ascending=True)
