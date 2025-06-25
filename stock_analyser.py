@@ -165,9 +165,11 @@ class StockAnalyser:
 
     @classmethod
     def __natural_sort(cls, list): 
-        convert = lambda text: int(text) if text.isdigit() else text.lower() 
-        alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
-        return sorted(list, key = alphanum_key, reverse=True)
+        return sorted(
+            list,
+            key=lambda path: int(os.path.basename(path).split('_')[0]),
+            reverse=True
+        )
 
     # 12.3 --> 🔺 12.3%
     @classmethod
