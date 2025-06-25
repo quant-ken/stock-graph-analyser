@@ -186,10 +186,8 @@ class StockAnalyser:
         file_paths = list(filter(lambda path: not path.endswith('Temp.txt'), glob.glob('./export/score/*.txt')))
         file_paths = cls.__natural_sort(file_paths)
         
-        # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
-
-        header = '| 종합 점수 | 단기 점수 | 장기 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |'
-        separator = '|-------|-------|-------|----------|---------|----------|------------|------------|------------|'
+        header = '| 종합 점수 | 단기 점수 | 장기 점수 | 종목명 | 현재가 | 7D | 30D | 60D |'
+        separator = '|-------|-------|-------|----------|----------|------------|------------|------------|'
         file.write(header + '  \n')
         file.write(separator + '  \n')
 
@@ -225,7 +223,7 @@ class StockAnalyser:
 
             url_naver = 'https://finance.naver.com/item/fchart.naver?code=' + code
 
-            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name} ([네이버]({url_naver})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
+            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | ([{name}]({url_naver})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')
