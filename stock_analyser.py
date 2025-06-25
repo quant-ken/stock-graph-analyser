@@ -221,9 +221,8 @@ class StockAnalyser:
             price_60 = cls.__format_change(price_60)
 
             url_naver = 'https://finance.naver.com/item/fchart.naver?code=' + code
-            url_custom = 'https://naver.com'
 
-            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name} ([네이버]({url_naver}), [자체]({url_custom})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
+            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name} ([네이버]({url_naver})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')
