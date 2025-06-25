@@ -8,7 +8,7 @@ from stock_data_frame_generater import StockDataFrameGenerater
 
 class StockAnalyser:
 
-    __export_path = './export/score/{filename}'
+    export_path = './export/score/'
 
     __trend_count = 280         # 
     __seaarch_count = 72        # Page
@@ -21,34 +21,33 @@ class StockAnalyser:
 
     @classmethod
     def analyze(cls, summary, data_frame):
-        data_trend = data_frame.tail(cls.__seaarch_count)
+        # +60: price 60
+        mininum_count = 60
+        data_trend = data_frame.tail(cls.__seaarch_count + mininum_count)
+        total_count = len(data_trend)
 
-        
         sma_names = StockDataFrameGenerater.get_sma_column_names()
-        sma_short_middle_percents = list()
-        sma_short_long_percents = list()
+        sma_short_middle_percents = []
+        sma_short_long_percents = []
 
-        price = 0
-        price_7 = 0
-        price_30 = 0
-        price_60 = 0
+        price = price_7 = price_30 = price_60 = 0
 
-        # Search - SMA
+        volumes = []
+        count = 0
         for row in data_trend.itertuples():
-            
-            day_offset = getattr(row, 'Index')
+            if count < mininum_count:
+                count += 1
+                continue
+
+            day_offset = total_count - getattr(row, 'Index')
             sma_short = getattr(row, sma_names[0])
             sma_middle = getattr(row, sma_names[1])
             sma_long = getattr(row, sma_names[2])
+            close_price = getattr(row, 'close')
 
             if day_offset <= cls.__trend_count:
-                # short - middle
                 sma_short_middle_percents.append((sma_short - sma_middle) / sma_middle)
-
-                # short - long
                 sma_short_long_percents.append((sma_short - sma_long) / sma_long)
-
-            close_price = getattr(row, 'close')
 
             if day_offset <= 1 and price == 0:
                 price = close_price
@@ -59,23 +58,54 @@ class StockAnalyser:
             elif day_offset <= 60 and price_60 == 0:
                 price_60 = close_price
 
-            continue
+            volumes.append(getattr(row, 'volume', 0))
 
+        # 점수 계산
+        score_offset = 0
+        score_short = cls.__get_score(sma_short_middle_percents)
+        score_long = cls.__get_score(sma_short_long_percents)
 
-        score = cls.__get_score(sma_short_middle_percents)
-        score += cls.__get_score(sma_short_long_percents)
+        # 🔴 RSI 점수 반영 (기본: 14일 기준)
+        last_rsi = data_frame['RSI14'].iloc[-1] if 'RSI14' in data_frame.columns else None
+        if last_rsi:
+            if 30 < last_rsi < 70:
+                score_offset += 5
+            elif last_rsi > 70:  # 과매수 경고
+                score_offset -= 5
 
-        summary.update_trend_score(score)
+        # 🟠 MACD > Signal
+        if 'MACD' in data_frame.columns and 'MACDS' in data_frame.columns:
+            macd = data_frame['MACD'].iloc[-1]
+            macds = data_frame['MACDS'].iloc[-1]
+            if macd > macds:
+                score_offset += 5
+
+        # 🔵 거래량이 최근 평균 이상이면 +1
+        avg_volume = sum(volumes) / len(volumes) if volumes else 0
+        current_volume = data_frame['volume'].iloc[-1] if 'volume' in data_frame.columns else 0
+        if current_volume > avg_volume:
+            score_offset += 10
+
+        # 결과 저장
+        summary.update_trend_score(score_offset)
         summary.price = price
         summary.price_7 = price_7
         summary.price_30 = price_30
         summary.price_60 = price_60
 
-        log = '{name} 점수 : {score}'.format(name=summary.name, score=score)
-        print(log)    
+        score_short -= score_offset
+        score_long -= score_offset
 
-        cls.__save_result(summary, score)
+        # 단기 점수 비율 조정 (점수가 낮을수록 가중치 ↓)
+        # 기준은 30점
+        baseline = 30
+        short_weight = min(score_short / baseline, 1.0)  # 예: short=15 → 0.5
+        long_weight = 1.0  # 장기 신뢰도는 항상 유지
+        total_weight = short_weight + long_weight
+        score_overall = round((score_short * short_weight + score_long * long_weight) / total_weight)
 
+        print(f'{summary.name} 점수 : {score_offset}')
+        cls.__save_result(summary, score_overall, score_short, score_long)
         
 
     @classmethod 
@@ -83,8 +113,7 @@ class StockAnalyser:
         score = 0
         
         for i in range(len(ma_percents)):
-
-            if i is 0:
+            if i == 0:
                 if ma_percents[i] < 0:
                     score += cls.__score_offset
                 continue
@@ -107,35 +136,26 @@ class StockAnalyser:
             
 
     @classmethod
-    def __save_result(cls, summary, score):
-
-        cls.__pre_process_result(summary)
-
-        file_name = cls.__get_file_name(summary, score)
+    def __save_result(cls, summary, score_overall, score_short, score_long):
+        file_name = cls.__get_file_name(summary, score_overall, score_short, score_long)
 
         f = open(file_name, 'w')
         f.close()
 
-        
-    @classmethod
-    def __pre_process_result(cls, summary):
-        search_form = cls.__get_file_name(summary, '*')
-        search_results = glob.glob(search_form)
-
-        for result in search_results:
-            os.remove(result)
-
+    
     @classmethod 
-    def __get_file_name(cls, summary, score):
-        format = '{score}_{filename}_{code}_{price}_{price_7}_{price_30}_{price_60}.txt'
-        file_name = format.format(score=score, 
+    def __get_file_name(cls, summary, score_overall, score_short, score_long):
+        format = '{score_overall}_{score_short}_{score_long}_{filename}_{code}_{price}_{price_7}_{price_30}_{price_60}.txt'
+        file_name = format.format(score_overall=score_overall, 
+                                  score_short=score_short, 
+                                  score_long=score_long, 
                                   filename=summary.name, 
                                   code=summary.code,
                                   price=summary.price,
                                   price_7=summary.price_7,
                                   price_30=summary.price_30,
                                   price_60=summary.price_60)
-        return cls.__export_path.format(filename=file_name)
+        return cls.export_path + file_name
 
     @classmethod
     def __natural_sort(cls, list): 
@@ -159,7 +179,7 @@ class StockAnalyser:
         
         # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
 
-        header = '| 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |'
+        header = '| 종합 점수 | 단기 점수 | 장기 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |'
         separator = '|------|--------|------|--------|-------------|--------------|--------------|'
         file.write(header + '  \n')
         file.write(separator + '  \n')
@@ -170,30 +190,34 @@ class StockAnalyser:
             if file_name == 'Temp':
                 continue
 
+            i = 0
             elems = file_name.split('_')
-            score = elems[0]
-            name = elems[1]
-            code = elems[2]
-            price = int(elems[3])
-            price_7 = int(elems[4])
-            price_30 = int(elems[5])
-            price_60 = int(elems[6])
+            score_overall = elems[i]; i += 1
+            score_short = elems[i]; i += 1
+            score_long = elems[i]; i += 1
+            name = elems[i]; i += 1
+            code = elems[i]; i += 1
+            price = int(elems[i]); i += 1
+            price_7 = int(elems[i]); i += 1
+            price_30 = int(elems[i]); i += 1
+            price_60 = int(elems[i])
 
             # 7일 수익률
-            price_7 = (price - price_7) / price_7 * 100
+            price_7 = 0 if price_7 == 0 else (price - price_7) / price_7 * 100
             price_7 = cls.__format_change(price_7)
 
             # 30일 수익률
-            price_30 = (price - price_30) / price_30 * 100
+            price_30 = 0 if price_30 == 0 else (price - price_30) / price_30 * 100
             price_30 = cls.__format_change(price_30)
 
             # 60일 수익률
-            price_60 = (price - price_60) / price_60 * 100
+            price_60 =  0 if price_60 == 0 else (price - price_60) / price_60 * 100
             price_60 = cls.__format_change(price_60)
 
-            url = 'https://finance.naver.com/item/fchart.naver?code=' + code
+            url_naver = 'https://finance.naver.com/item/fchart.naver?code=' + code
+            url_custom = 'https://naver.com'
 
-            line = f'| {score}점 | [{name}]({url}) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
+            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name}([네이버]({url_naver}), [자체]({url_custom})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')

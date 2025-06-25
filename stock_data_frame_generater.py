@@ -73,7 +73,6 @@ class StockDataFrameGenerater:
             #pd.read_html(requests.get(url, headers={'User-agent': 'Mozilla/5.0'}).text) 
             data_frame = data_frame.append(page_html[0], ignore_index=True)
 
-        data_frame = data_frame.dropna()
 
         # Rename columns
         data_frame = data_frame.rename  \
@@ -90,6 +89,8 @@ class StockDataFrameGenerater:
             }
         )
 
+        data_frame = data_frame.dropna()
+
         # Convert data type
         data_frame['date'] = pd.to_datetime(data_frame['date'])
         data_frame[['close', 'open', 'high', 'low', 'volume']] \
@@ -98,6 +99,9 @@ class StockDataFrameGenerater:
         # Sort by date
         data_frame = data_frame.sort_values(by=['date'], ascending=True)
 
+        # Reset index
+        data_frame = data_frame.reset_index(drop=True)
+
         # Generate SMA, EMA
         for sma_value in cls.__sma_list:
             column = cls.__sma_column_format.format(value=sma_value)
@@ -105,7 +109,22 @@ class StockDataFrameGenerater:
 
         for ema_value in cls.__ema_list:
             column = cls.__ema_column_format.format(value=ema_value)
-            data_frame[column] = data_frame['close'].ewm(ema_value).mean()
+            data_frame[column] = data_frame['close'].ewm(ema_value, adjust=False).mean()
+
+        # RSI (14일)
+        delta = data_frame['close'].diff()
+        gain = delta.clip(lower=0)
+        loss = -delta.clip(upper=0)
+        avg_gain = gain.rolling(14).mean()
+        avg_loss = loss.rolling(14).mean()
+        rs = avg_gain / avg_loss
+        data_frame['RSI14'] = 100 - (100 / (1 + rs))
+
+        # MACD, MACDS
+        ema12 = data_frame['close'].ewm(span=12, adjust=False).mean()
+        ema26 = data_frame['close'].ewm(span=26, adjust=False).mean()
+        data_frame['MACD'] = ema12 - ema26
+        data_frame['MACDS'] = data_frame['MACD'].ewm(span=9, adjust=False).mean()
 
         log = 'StockDataFrameGenerater.generate_data_frame({name})'.format(name = summary.name)
         print(log, round(time.time() - start, 4))

@@ -1,3 +1,5 @@
+import os
+import glob
 import time
 import concurrent
 from concurrent.futures import ThreadPoolExecutor
@@ -8,7 +10,7 @@ from stock_graph_generater import StockGraphGenerater
 from stock_analyser import StockAnalyser
 
 
-test_mode = False
+test_mode = True
 restrict_stock_count = 1000
 thread_count = 64
 
@@ -26,6 +28,16 @@ def process(stock_code):
     StockGraphGenerater.generate_graph(summary, data_frame)
 
 
+def pre_run():
+    remove_score_export_temp()
+
+
+def remove_score_export_temp():
+    for file_path in glob.glob(StockAnalyser.export_path + '*'):
+        if not file_path.endswith('Temp.txt'):
+            os.remove(file_path)
+
+
 def run():
     if test_mode == True:
         run_test()
@@ -38,9 +50,7 @@ def run_test():
 
 
 def run_production():
-
     thread_list = []
-
     with ThreadPoolExecutor(max_workers=thread_count) as executor:
         for code in StockSummary.get_codes():
             thread_list.append(executor.submit(process, code))
@@ -52,6 +62,7 @@ if __name__ == "__main__":
     start = time.time()
 
     initialize()
+    pre_run()
     run()
 
     StockAnalyser.save_score_list()
