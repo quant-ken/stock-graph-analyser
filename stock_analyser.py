@@ -11,19 +11,19 @@ class StockAnalyser:
     export_path = './export/score/'
 
     __trend_count = 280         # 
-    __seaarch_count = 72        # Page
+    __search_count = 72        # Page
     __cross_offset = 4.25       # percent 
     __score_offset = 0
 
     @classmethod
     def initialize(cls):
-        cls.__score_offset = 100 / cls.__seaarch_count / 2.0
+        cls.__score_offset = 100 / cls.__search_count * 1.5     # 1.5배 가중치
 
     @classmethod
     def analyze(cls, summary, data_frame):
         # +60: price 60
         mininum_count = 60
-        data_trend = data_frame.tail(cls.__seaarch_count + mininum_count)
+        data_trend = data_frame.tail(cls.__search_count + mininum_count)
         total_count = len(data_trend)
 
         sma_names = StockDataFrameGenerater.get_sma_column_names()
@@ -78,13 +78,13 @@ class StockAnalyser:
             macd = data_frame['MACD'].iloc[-1]
             macds = data_frame['MACDS'].iloc[-1]
             if macd > macds:
-                score_offset += 5
+                score_offset += 7
 
         # 🔵 거래량이 최근 평균 이상이면 +1
         avg_volume = sum(volumes) / len(volumes) if volumes else 0
         current_volume = data_frame['volume'].iloc[-1] if 'volume' in data_frame.columns else 0
         if current_volume > avg_volume:
-            score_offset += 10
+            score_offset += 7
 
         # 결과 저장
         summary.update_trend_score(score_offset)
@@ -96,12 +96,18 @@ class StockAnalyser:
         score_short -= score_offset
         score_long -= score_offset
 
-        # 단기 점수 비율 조정 (점수가 낮을수록 가중치 ↓)
-        # 기준은 30점
-        baseline = 30
-        short_weight = min(score_short / baseline, 1.0)  # 예: short=15 → 0.5
-        long_weight = 1.0  # 장기 신뢰도는 항상 유지
+        # 단기/장기 가중치
+        max_score = max(score_short, score_long, 1)  # 0 나누기 방지용
+
+        short_ratio = score_short / max_score  # 0~1 사이
+        long_ratio = score_long / max_score    # 0~1 사이
+
+        # 가중치 0.3~1.0 사이로 조절
+        short_weight = 0.3 + 0.7 * short_ratio
+        long_weight = 0.3 + 0.7 * long_ratio
+
         total_weight = short_weight + long_weight
+
         score_overall = round((score_short * short_weight + score_long * long_weight) / total_weight)
 
         print(f'{summary.name} 점수 : {score_offset}')
@@ -166,7 +172,7 @@ class StockAnalyser:
     # 12.3 --> 🔺 12.3%
     @classmethod
     def __format_change(cls, value):
-        arrow = '🔺+' if value >= 0 else '🔻-'
+        arrow = '🟥+' if value >= 0 else '🟦-'
         return f'{arrow}{abs(value):.2f}%'
 
     @classmethod
@@ -180,7 +186,7 @@ class StockAnalyser:
         # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
 
         header = '| 종합 점수 | 단기 점수 | 장기 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |'
-        separator = '|------|--------|------|--------|-------------|--------------|--------------|'
+        separator = '|-------|-------|-------|----------|---------|----------|------------|------------|------------|'
         file.write(header + '  \n')
         file.write(separator + '  \n')
 
@@ -217,7 +223,7 @@ class StockAnalyser:
             url_naver = 'https://finance.naver.com/item/fchart.naver?code=' + code
             url_custom = 'https://naver.com'
 
-            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name}([네이버]({url_naver}), [자체]({url_custom})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
+            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | {name} ([네이버]({url_naver}), [자체]({url_custom})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')
