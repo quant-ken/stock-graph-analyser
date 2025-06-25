@@ -183,7 +183,8 @@ class StockAnalyser:
         result_name = './export/score-result.md'
         file = open(result_name, 'w')        
 
-        file_paths = cls.__natural_sort(glob.glob('./export/score/*.txt'))
+        file_paths = list(filter(lambda path: not path.endswith('Temp.txt'), glob.glob('./export/score/*.txt')))
+        file_paths = cls.__natural_sort(file_paths)
         
         # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
 
