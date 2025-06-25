@@ -1,1003 +1,1005 @@
-65점 - [한화투자증권](https://finance.naver.com/item/fchart.naver?code=003530)(003530) 6850원 --- 7D(<span style="color: #0000FF">-1.01</span>%) / 30D(<span style="color: red">61.75</span>%) / 60D(<span style="color: red">105.09</span>%)  
-65점 - [풍산홀딩스](https://finance.naver.com/item/fchart.naver?code=005810)(005810) 46400원 --- 7D(<span style="color: red">11.54</span>%) / 30D(<span style="color: red">42.99</span>%) / 60D(<span style="color: red">70.28</span>%)  
-65점 - [일진홀딩스](https://finance.naver.com/item/fchart.naver?code=015860)(015860) 5220원 --- 7D(<span style="color: #0000FF">-2.06</span>%) / 30D(<span style="color: red">23.84</span>%) / 60D(<span style="color: red">39.20</span>%)  
-65점 - [대한전선](https://finance.naver.com/item/fchart.naver?code=001440)(001440) 17570원 --- 7D(<span style="color: red">10.71</span>%) / 30D(<span style="color: red">39.00</span>%) / 60D(<span style="color: red">50.69</span>%)  
-65점 - [대성홀딩스](https://finance.naver.com/item/fchart.naver?code=016710)(016710) 9990원 --- 7D(<span style="color: #0000FF">-4.40</span>%) / 30D(<span style="color: red">22.28</span>%) / 60D(<span style="color: red">41.30</span>%)  
-64점 - [한화투자증권우](https://finance.naver.com/item/fchart.naver?code=003535)(003535) 9140원 --- 7D(<span style="color: #0000FF">-8.14</span>%) / 30D(<span style="color: red">40.83</span>%) / 60D(<span style="color: red">55.71</span>%)  
-64점 - [일성신약](https://finance.naver.com/item/fchart.naver?code=003120)(003120) 23200원 --- 7D(<span style="color: red">2.20</span>%) / 30D(<span style="color: red">22.49</span>%) / 60D(<span style="color: red">48.24</span>%)  
-64점 - [LX인터내셔널](https://finance.naver.com/item/fchart.naver?code=001120)(001120) 31450원 --- 7D(<span style="color: red">1.29</span>%) / 30D(<span style="color: red">13.33</span>%) / 60D(<span style="color: red">21.66</span>%)  
-64점 - [DB손해보험](https://finance.naver.com/item/fchart.naver?code=005830)(005830) 122100원 --- 7D(<span style="color: red">5.08</span>%) / 30D(<span style="color: red">23.71</span>%) / 60D(<span style="color: red">38.28</span>%)  
-64점 - [BYC우](https://finance.naver.com/item/fchart.naver?code=001465)(001465) 23050원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">52.15</span>%) / 60D(<span style="color: red">71.50</span>%)  
-63점 - [효성중공업](https://finance.naver.com/item/fchart.naver?code=298040)(298040) 826000원 --- 7D(<span style="color: red">2.74</span>%) / 30D(<span style="color: red">37.67</span>%) / 60D(<span style="color: red">87.51</span>%)  
-63점 - [웅진](https://finance.naver.com/item/fchart.naver?code=016880)(016880) 3050원 --- 7D(<span style="color: red">7.02</span>%) / 30D(<span style="color: red">46.28</span>%) / 60D(<span style="color: red">181.63</span>%)  
-63점 - [아프리카TV](https://finance.naver.com/item/fchart.naver?code=067160)(067160) 94600원 --- 7D(<span style="color: #0000FF">-0.32</span>%) / 30D(<span style="color: red">9.74</span>%) / 60D(<span style="color: red">16.65</span>%)  
-63점 - [신영와코루](https://finance.naver.com/item/fchart.naver?code=005800)(005800) 12820원 --- 7D(<span style="color: #0000FF">-1.00</span>%) / 30D(<span style="color: red">11.58</span>%) / 60D(<span style="color: red">24.47</span>%)  
-63점 - [SK바이오사이언스](https://finance.naver.com/item/fchart.naver?code=302440)(302440) 50700원 --- 7D(<span style="color: red">11.67</span>%) / 30D(<span style="color: red">18.60</span>%) / 60D(<span style="color: red">26.75</span>%)  
-63점 - [JB금융지주](https://finance.naver.com/item/fchart.naver?code=175330)(175330) 21350원 --- 7D(<span style="color: red">1.18</span>%) / 30D(<span style="color: red">18.09</span>%) / 60D(<span style="color: red">20.28</span>%)  
-62점 - [예스코홀딩스](https://finance.naver.com/item/fchart.naver?code=015360)(015360) 55000원 --- 7D(<span style="color: red">1.85</span>%) / 30D(<span style="color: red">7.21</span>%) / 60D(<span style="color: red">12.94</span>%)  
-62점 - [성보화학](https://finance.naver.com/item/fchart.naver?code=003080)(003080) 2840원 --- 7D(<span style="color: red">2.34</span>%) / 30D(<span style="color: red">10.29</span>%) / 60D(<span style="color: red">11.59</span>%)  
-62점 - [넷마블](https://finance.naver.com/item/fchart.naver?code=251270)(251270) 61100원 --- 7D(<span style="color: red">1.50</span>%) / 30D(<span style="color: red">16.60</span>%) / 60D(<span style="color: red">42.26</span>%)  
-62점 - [JW홀딩스](https://finance.naver.com/item/fchart.naver?code=096760)(096760) 3685원 --- 7D(<span style="color: #0000FF">-3.41</span>%) / 30D(<span style="color: red">13.73</span>%) / 60D(<span style="color: red">21.02</span>%)  
-61점 - [현대일렉트릭](https://finance.naver.com/item/fchart.naver?code=267260)(267260) 482000원 --- 7D(<span style="color: red">3.21</span>%) / 30D(<span style="color: red">23.91</span>%) / 60D(<span style="color: red">62.02</span>%)  
-61점 - [현대오토에버](https://finance.naver.com/item/fchart.naver?code=307950)(307950) 183700원 --- 7D(<span style="color: red">14.10</span>%) / 30D(<span style="color: red">29.92</span>%) / 60D(<span style="color: red">53.34</span>%)  
-61점 - [한국금융지주우](https://finance.naver.com/item/fchart.naver?code=071055)(071055) 95400원 --- 7D(<span style="color: red">9.40</span>%) / 30D(<span style="color: red">27.37</span>%) / 60D(<span style="color: red">62.52</span>%)  
-61점 - [제이에스코퍼레이션](https://finance.naver.com/item/fchart.naver?code=194370)(194370) 11890원 --- 7D(<span style="color: red">5.22</span>%) / 30D(<span style="color: red">31.24</span>%) / 60D(<span style="color: red">57.48</span>%)  
-61점 - [아세아제지](https://finance.naver.com/item/fchart.naver?code=002310)(002310) 8320원 --- 7D(<span style="color: red">4.79</span>%) / 30D(<span style="color: red">16.36</span>%) / 60D(<span style="color: red">19.71</span>%)  
-61점 - [신성통상](https://finance.naver.com/item/fchart.naver?code=005390)(005390) 4070원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">52.15</span>%) / 60D(<span style="color: red">96.14</span>%)  
-61점 - [삼영전자](https://finance.naver.com/item/fchart.naver?code=005680)(005680) 11420원 --- 7D(<span style="color: red">0.35</span>%) / 30D(<span style="color: red">5.94</span>%) / 60D(<span style="color: red">10.34</span>%)  
-61점 - [롯데관광개발](https://finance.naver.com/item/fchart.naver?code=032350)(032350) 16450원 --- 7D(<span style="color: red">6.82</span>%) / 30D(<span style="color: red">41.32</span>%) / 60D(<span style="color: red">70.64</span>%)  
-61점 - [대원화성](https://finance.naver.com/item/fchart.naver?code=024890)(024890) 911원 --- 7D(<span style="color: #0000FF">-0.22</span>%) / 30D(<span style="color: red">1.33</span>%) / 60D(<span style="color: red">1.45</span>%)  
-61점 - [대신증권우](https://finance.naver.com/item/fchart.naver?code=003545)(003545) 20650원 --- 7D(<span style="color: red">4.72</span>%) / 30D(<span style="color: red">15.17</span>%) / 60D(<span style="color: red">27.71</span>%)  
-61점 - [BYC](https://finance.naver.com/item/fchart.naver?code=001460)(001460) 38350원 --- 7D(<span style="color: #0000FF">-5.07</span>%) / 30D(<span style="color: red">12.13</span>%) / 60D(<span style="color: red">41.25</span>%)  
-60점 - [현대해상](https://finance.naver.com/item/fchart.naver?code=001450)(001450) 26550원 --- 7D(<span style="color: red">4.94</span>%) / 30D(<span style="color: red">9.94</span>%) / 60D(<span style="color: red">27.03</span>%)  
-60점 - [한화손해보험](https://finance.naver.com/item/fchart.naver?code=000370)(000370) 5690원 --- 7D(<span style="color: #0000FF">-0.18</span>%) / 30D(<span style="color: red">26.16</span>%) / 60D(<span style="color: red">44.23</span>%)  
-60점 - [제일연마](https://finance.naver.com/item/fchart.naver?code=001560)(001560) 9830원 --- 7D(<span style="color: #0000FF">-1.99</span>%) / 30D(<span style="color: #0000FF">-0.41</span>%) / 60D(<span style="color: red">10.08</span>%)  
-60점 - [일양약품우](https://finance.naver.com/item/fchart.naver?code=007575)(007575) 15370원 --- 7D(<span style="color: red">0.65</span>%) / 30D(<span style="color: red">18.87</span>%) / 60D(<span style="color: red">27.02</span>%)  
-60점 - [영풍제지](https://finance.naver.com/item/fchart.naver?code=006740)(006740) 1080원 --- 7D(<span style="color: #0000FF">-0.55</span>%) / 30D(<span style="color: red">7.89</span>%) / 60D(<span style="color: red">12.97</span>%)  
-60점 - [엔씨소프트](https://finance.naver.com/item/fchart.naver?code=036570)(036570) 194100원 --- 7D(<span style="color: red">3.85</span>%) / 30D(<span style="color: red">27.78</span>%) / 60D(<span style="color: red">36.88</span>%)  
-60점 - [신풍제약](https://finance.naver.com/item/fchart.naver?code=019170)(019170) 14420원 --- 7D(<span style="color: #0000FF">-13.39</span>%) / 30D(<span style="color: red">22.31</span>%) / 60D(<span style="color: red">87.27</span>%)  
-60점 - [삼양사우](https://finance.naver.com/item/fchart.naver?code=145995)(145995) 36900원 --- 7D(<span style="color: red">1.93</span>%) / 30D(<span style="color: red">15.31</span>%) / 60D(<span style="color: red">20.79</span>%)  
-60점 - [삼성생명](https://finance.naver.com/item/fchart.naver?code=032830)(032830) 128500원 --- 7D(<span style="color: red">3.96</span>%) / 30D(<span style="color: red">29.41</span>%) / 60D(<span style="color: red">54.82</span>%)  
-60점 - [부국증권](https://finance.naver.com/item/fchart.naver?code=001270)(001270) 44400원 --- 7D(<span style="color: red">5.21</span>%) / 30D(<span style="color: red">29.45</span>%) / 60D(<span style="color: red">63.84</span>%)  
-60점 - [두산에너빌리티](https://finance.naver.com/item/fchart.naver?code=034020)(034020) 68900원 --- 7D(<span style="color: red">12.95</span>%) / 30D(<span style="color: red">66.02</span>%) / 60D(<span style="color: red">167.57</span>%)  
-60점 - [대덕전자](https://finance.naver.com/item/fchart.naver?code=353200)(353200) 17680원 --- 7D(<span style="color: red">11.83</span>%) / 30D(<span style="color: red">20.60</span>%) / 60D(<span style="color: red">20.27</span>%)  
-60점 - [TIMEFOLIO 이노베이션액티브](https://finance.naver.com/item/fchart.naver?code=385710)(385710) 9310원 --- 7D(<span style="color: red">6.77</span>%) / 30D(<span style="color: red">20.67</span>%) / 60D(<span style="color: red">24.80</span>%)  
-60점 - [TIMEFOLIO Kstock액티브](https://finance.naver.com/item/fchart.naver?code=385720)(385720) 11760원 --- 7D(<span style="color: red">4.44</span>%) / 30D(<span style="color: red">15.81</span>%) / 60D(<span style="color: red">24.84</span>%)  
-60점 - [SK증권](https://finance.naver.com/item/fchart.naver?code=001510)(001510) 682원 --- 7D(<span style="color: #0000FF">-1.16</span>%) / 30D(<span style="color: red">31.15</span>%) / 60D(<span style="color: red">44.49</span>%)  
-60점 - [SG글로벌](https://finance.naver.com/item/fchart.naver?code=001380)(001380) 1691원 --- 7D(<span style="color: #0000FF">-2.98</span>%) / 30D(<span style="color: #0000FF">-4.08</span>%) / 60D(<span style="color: #0000FF">-15.87</span>%)  
-60점 - [LX하우시스우](https://finance.naver.com/item/fchart.naver?code=108675)(108675) 18880원 --- 7D(<span style="color: red">0.48</span>%) / 30D(<span style="color: red">4.42</span>%) / 60D(<span style="color: red">3.79</span>%)  
-60점 - [BNK금융지주](https://finance.naver.com/item/fchart.naver?code=138930)(138930) 12150원 --- 7D(<span style="color: red">3.23</span>%) / 30D(<span style="color: red">14.84</span>%) / 60D(<span style="color: red">16.60</span>%)  
-59점 - [현대건설](https://finance.naver.com/item/fchart.naver?code=000720)(000720) 76300원 --- 7D(<span style="color: #0000FF">-0.52</span>%) / 30D(<span style="color: red">31.10</span>%) / 60D(<span style="color: red">98.44</span>%)  
-59점 - [한화3우B](https://finance.naver.com/item/fchart.naver?code=00088K)(00088K) 38800원 --- 7D(<span style="color: #0000FF">-1.27</span>%) / 30D(<span style="color: red">66.52</span>%) / 60D(<span style="color: red">100.83</span>%)  
-59점 - [한솔홀딩스](https://finance.naver.com/item/fchart.naver?code=004150)(004150) 3225원 --- 7D(<span style="color: red">1.10</span>%) / 30D(<span style="color: red">25.00</span>%) / 60D(<span style="color: red">32.17</span>%)  
-59점 - [한미사이언스](https://finance.naver.com/item/fchart.naver?code=008930)(008930) 46250원 --- 7D(<span style="color: red">3.82</span>%) / 30D(<span style="color: red">32.33</span>%) / 60D(<span style="color: red">63.43</span>%)  
-59점 - [한국조선해양](https://finance.naver.com/item/fchart.naver?code=009540)(009540) 392000원 --- 7D(<span style="color: red">6.38</span>%) / 30D(<span style="color: red">32.21</span>%) / 60D(<span style="color: red">67.88</span>%)  
-59점 - [위메이드](https://finance.naver.com/item/fchart.naver?code=112040)(112040) 40350원 --- 7D(<span style="color: red">22.64</span>%) / 30D(<span style="color: red">64.36</span>%) / 60D(<span style="color: red">42.08</span>%)  
-59점 - [신풍제약우](https://finance.naver.com/item/fchart.naver?code=019175)(019175) 38500원 --- 7D(<span style="color: #0000FF">-17.12</span>%) / 30D(<span style="color: red">96.13</span>%) / 60D(<span style="color: red">223.53</span>%)  
-59점 - [두산퓨얼셀](https://finance.naver.com/item/fchart.naver?code=336260)(336260) 24000원 --- 7D(<span style="color: red">28.41</span>%) / 30D(<span style="color: red">44.58</span>%) / 60D(<span style="color: red">57.89</span>%)  
-59점 - [대우건설](https://finance.naver.com/item/fchart.naver?code=047040)(047040) 4240원 --- 7D(<span style="color: #0000FF">-4.83</span>%) / 30D(<span style="color: red">5.34</span>%) / 60D(<span style="color: red">29.27</span>%)  
-59점 - [대신증권](https://finance.naver.com/item/fchart.naver?code=003540)(003540) 25200원 --- 7D(<span style="color: red">2.86</span>%) / 30D(<span style="color: red">21.45</span>%) / 60D(<span style="color: red">44.99</span>%)  
-59점 - [농심홀딩스](https://finance.naver.com/item/fchart.naver?code=072710)(072710) 82400원 --- 7D(<span style="color: #0000FF">-1.32</span>%) / 30D(<span style="color: red">12.72</span>%) / 60D(<span style="color: red">25.80</span>%)  
-59점 - [경농](https://finance.naver.com/item/fchart.naver?code=002100)(002100) 10270원 --- 7D(<span style="color: red">0.59</span>%) / 30D(<span style="color: red">9.96</span>%) / 60D(<span style="color: red">11.51</span>%)  
-59점 - [WOORI AI ESG액티브](https://finance.naver.com/item/fchart.naver?code=413930)(413930) 11510원 --- 7D(<span style="color: red">4.83</span>%) / 30D(<span style="color: red">18.84</span>%) / 60D(<span style="color: red">25.86</span>%)  
-59점 - [SOL KRX300](https://finance.naver.com/item/fchart.naver?code=292500)(292500) 19920원 --- 7D(<span style="color: red">5.12</span>%) / 30D(<span style="color: red">18.89</span>%) / 60D(<span style="color: red">23.23</span>%)  
-59점 - [SK하이닉스](https://finance.naver.com/item/fchart.naver?code=000660)(000660) 278500원 --- 7D(<span style="color: red">12.98</span>%) / 30D(<span style="color: red">37.19</span>%) / 60D(<span style="color: red">53.87</span>%)  
-59점 - [NH투자증권우](https://finance.naver.com/item/fchart.naver?code=005945)(005945) 18900원 --- 7D(<span style="color: red">10.01</span>%) / 30D(<span style="color: red">29.81</span>%) / 60D(<span style="color: red">43.62</span>%)  
-59점 - [LX홀딩스](https://finance.naver.com/item/fchart.naver?code=383800)(383800) 9400원 --- 7D(<span style="color: red">0.32</span>%) / 30D(<span style="color: red">26.68</span>%) / 60D(<span style="color: red">46.65</span>%)  
-59점 - [LG](https://finance.naver.com/item/fchart.naver?code=003550)(003550) 84900원 --- 7D(<span style="color: red">11.71</span>%) / 30D(<span style="color: red">24.49</span>%) / 60D(<span style="color: red">31.02</span>%)  
-59점 - [E1](https://finance.naver.com/item/fchart.naver?code=017940)(017940) 79800원 --- 7D(<span style="color: red">3.64</span>%) / 30D(<span style="color: red">14.16</span>%) / 60D(<span style="color: red">31.90</span>%)  
-58점 - [한미반도체](https://finance.naver.com/item/fchart.naver?code=042700)(042700) 92800원 --- 7D(<span style="color: red">6.06</span>%) / 30D(<span style="color: red">10.74</span>%) / 60D(<span style="color: red">8.41</span>%)  
-58점 - [한국프랜지](https://finance.naver.com/item/fchart.naver?code=010100)(010100) 4500원 --- 7D(<span style="color: #0000FF">-0.44</span>%) / 30D(<span style="color: red">12.92</span>%) / 60D(<span style="color: red">11.52</span>%)  
-58점 - [한국전자홀딩스](https://finance.naver.com/item/fchart.naver?code=006200)(006200) 763원 --- 7D(<span style="color: #0000FF">-1.93</span>%) / 30D(<span style="color: red">12.21</span>%) / 60D(<span style="color: red">10.42</span>%)  
-58점 - [펄어비스](https://finance.naver.com/item/fchart.naver?code=263750)(263750) 42950원 --- 7D(<span style="color: red">1.30</span>%) / 30D(<span style="color: red">13.93</span>%) / 60D(<span style="color: red">28.40</span>%)  
-58점 - [파워 200](https://finance.naver.com/item/fchart.naver?code=152870)(152870) 42285원 --- 7D(<span style="color: red">4.77</span>%) / 30D(<span style="color: red">19.47</span>%) / 60D(<span style="color: red">23.17</span>%)  
-58점 - [코오롱글로벌](https://finance.naver.com/item/fchart.naver?code=003070)(003070) 9750원 --- 7D(<span style="color: red">3.72</span>%) / 30D(<span style="color: red">10.17</span>%) / 60D(<span style="color: red">12.85</span>%)  
-58점 - [코리안리](https://finance.naver.com/item/fchart.naver?code=003690)(003690) 10320원 --- 7D(<span style="color: red">1.78</span>%) / 30D(<span style="color: red">9.32</span>%) / 60D(<span style="color: red">29.32</span>%)  
-58점 - [일진전기](https://finance.naver.com/item/fchart.naver?code=103590)(103590) 33600원 --- 7D(<span style="color: red">3.07</span>%) / 30D(<span style="color: red">9.80</span>%) / 60D(<span style="color: red">42.68</span>%)  
-58점 - [일신방직](https://finance.naver.com/item/fchart.naver?code=003200)(003200) 10970원 --- 7D(<span style="color: #0000FF">-2.92</span>%) / 30D(<span style="color: red">16.08</span>%) / 60D(<span style="color: red">28.60</span>%)  
-58점 - [유안타증권](https://finance.naver.com/item/fchart.naver?code=003470)(003470) 3685원 --- 7D(<span style="color: red">3.37</span>%) / 30D(<span style="color: red">18.30</span>%) / 60D(<span style="color: red">30.91</span>%)  
-58점 - [에이플러스에셋](https://finance.naver.com/item/fchart.naver?code=244920)(244920) 6150원 --- 7D(<span style="color: red">2.84</span>%) / 30D(<span style="color: red">16.04</span>%) / 60D(<span style="color: red">39.93</span>%)  
-58점 - [에셋플러스 코리아플랫폼액티브](https://finance.naver.com/item/fchart.naver?code=407820)(407820) 8400원 --- 7D(<span style="color: red">3.83</span>%) / 30D(<span style="color: red">15.38</span>%) / 60D(<span style="color: red">23.44</span>%)  
-58점 - [아모레G3우(전환)](https://finance.naver.com/item/fchart.naver?code=00279K)(00279K) 23800원 --- 7D(<span style="color: red">11.48</span>%) / 30D(<span style="color: red">22.55</span>%) / 60D(<span style="color: red">35.69</span>%)  
-58점 - [신세계 I&C](https://finance.naver.com/item/fchart.naver?code=035510)(035510) 24150원 --- 7D(<span style="color: red">39.19</span>%) / 30D(<span style="color: red">95.55</span>%) / 60D(<span style="color: red">96.18</span>%)  
-58점 - [신대양제지](https://finance.naver.com/item/fchart.naver?code=016590)(016590) 13020원 --- 7D(<span style="color: red">0.08</span>%) / 30D(<span style="color: red">47.62</span>%) / 60D(<span style="color: red">70.42</span>%)  
-58점 - [서울가스](https://finance.naver.com/item/fchart.naver?code=017390)(017390) 58300원 --- 7D(<span style="color: #0000FF">-2.35</span>%) / 30D(<span style="color: red">2.10</span>%) / 60D(<span style="color: red">16.72</span>%)  
-58점 - [삼성카드](https://finance.naver.com/item/fchart.naver?code=029780)(029780) 49200원 --- 7D(<span style="color: #0000FF">-0.10</span>%) / 30D(<span style="color: red">14.02</span>%) / 60D(<span style="color: red">19.13</span>%)  
-58점 - [삼성에스디에스](https://finance.naver.com/item/fchart.naver?code=018260)(018260) 193500원 --- 7D(<span style="color: red">20.11</span>%) / 30D(<span style="color: red">43.97</span>%) / 60D(<span style="color: red">62.33</span>%)  
-58점 - [사조씨푸드](https://finance.naver.com/item/fchart.naver?code=014710)(014710) 8050원 --- 7D(<span style="color: #0000FF">-1.23</span>%) / 30D(<span style="color: red">42.73</span>%) / 60D(<span style="color: red">36.21</span>%)  
-58점 - [부국증권우](https://finance.naver.com/item/fchart.naver?code=001275)(001275) 27100원 --- 7D(<span style="color: red">1.50</span>%) / 30D(<span style="color: red">19.12</span>%) / 60D(<span style="color: red">26.93</span>%)  
-58점 - [미래에셋증권](https://finance.naver.com/item/fchart.naver?code=006800)(006800) 22550원 --- 7D(<span style="color: red">11.91</span>%) / 30D(<span style="color: red">64.96</span>%) / 60D(<span style="color: red">119.14</span>%)  
-58점 - [두산](https://finance.naver.com/item/fchart.naver?code=000150)(000150) 670000원 --- 7D(<span style="color: red">10.38</span>%) / 30D(<span style="color: red">49.22</span>%) / 60D(<span style="color: red">125.21</span>%)  
-58점 - [동원수산](https://finance.naver.com/item/fchart.naver?code=030720)(030720) 6150원 --- 7D(<span style="color: red">1.49</span>%) / 30D(<span style="color: red">12.23</span>%) / 60D(<span style="color: red">22.02</span>%)  
-58점 - [대원전선](https://finance.naver.com/item/fchart.naver?code=006340)(006340) 3105원 --- 7D(<span style="color: red">1.80</span>%) / 30D(<span style="color: red">4.55</span>%) / 60D(<span style="color: red">8.19</span>%)  
-58점 - [다우기술](https://finance.naver.com/item/fchart.naver?code=023590)(023590) 36050원 --- 7D(<span style="color: red">13.54</span>%) / 30D(<span style="color: red">44.49</span>%) / 60D(<span style="color: red">70.05</span>%)  
-58점 - [광명전기](https://finance.naver.com/item/fchart.naver?code=017040)(017040) 2030원 --- 7D(<span style="color: red">5.45</span>%) / 30D(<span style="color: red">22.29</span>%) / 60D(<span style="color: red">36.61</span>%)  
-58점 - [TIMEFOLIO 미국나스닥100액티브](https://finance.naver.com/item/fchart.naver?code=426030)(426030) 29300원 --- 7D(<span style="color: red">9.66</span>%) / 30D(<span style="color: red">19.03</span>%) / 60D(<span style="color: red">39.46</span>%)  
-58점 - [SOL 200TR](https://finance.naver.com/item/fchart.naver?code=295040)(295040) 15515원 --- 7D(<span style="color: red">4.90</span>%) / 30D(<span style="color: red">19.21</span>%) / 60D(<span style="color: red">25.02</span>%)  
-58점 - [SK우](https://finance.naver.com/item/fchart.naver?code=03473K)(03473K) 162400원 --- 7D(<span style="color: #0000FF">-1.04</span>%) / 30D(<span style="color: red">30.44</span>%) / 60D(<span style="color: red">39.16</span>%)  
-58점 - [SK스퀘어](https://finance.naver.com/item/fchart.naver?code=402340)(402340) 181000원 --- 7D(<span style="color: red">21.97</span>%) / 30D(<span style="color: red">76.59</span>%) / 60D(<span style="color: red">111.70</span>%)  
-58점 - [SBS](https://finance.naver.com/item/fchart.naver?code=034120)(034120) 27450원 --- 7D(<span style="color: red">8.28</span>%) / 30D(<span style="color: red">21.46</span>%) / 60D(<span style="color: red">48.46</span>%)  
-58점 - [LG우](https://finance.naver.com/item/fchart.naver?code=003555)(003555) 65200원 --- 7D(<span style="color: red">5.33</span>%) / 30D(<span style="color: red">13.99</span>%) / 60D(<span style="color: red">19.41</span>%)  
-57점 - [화천기공](https://finance.naver.com/item/fchart.naver?code=000850)(000850) 32800원 --- 7D(<span style="color: #0000FF">-0.15</span>%) / 30D(<span style="color: red">5.98</span>%) / 60D(<span style="color: red">13.10</span>%)  
-57점 - [현대코퍼레이션홀딩스](https://finance.naver.com/item/fchart.naver?code=227840)(227840) 13190원 --- 7D(<span style="color: red">1.70</span>%) / 30D(<span style="color: red">14.10</span>%) / 60D(<span style="color: red">20.13</span>%)  
-57점 - [현대그린푸드](https://finance.naver.com/item/fchart.naver?code=005440)(005440) 8670원 --- 7D(<span style="color: red">1.76</span>%) / 30D(<span style="color: red">15.91</span>%) / 60D(<span style="color: red">63.89</span>%)  
-57점 - [현대건설우](https://finance.naver.com/item/fchart.naver?code=000725)(000725) 67000원 --- 7D(<span style="color: #0000FF">-1.18</span>%) / 30D(<span style="color: red">12.79</span>%) / 60D(<span style="color: red">31.12</span>%)  
-57점 - [한전산업](https://finance.naver.com/item/fchart.naver?code=130660)(130660) 14550원 --- 7D(<span style="color: red">0.76</span>%) / 30D(<span style="color: red">18.29</span>%) / 60D(<span style="color: red">36.36</span>%)  
-57점 - [한신기계](https://finance.naver.com/item/fchart.naver?code=011700)(011700) 4350원 --- 7D(<span style="color: #0000FF">-0.23</span>%) / 30D(<span style="color: red">21.34</span>%) / 60D(<span style="color: red">48.72</span>%)  
-57점 - [한국토지신탁](https://finance.naver.com/item/fchart.naver?code=034830)(034830) 1233원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">7.97</span>%) / 60D(<span style="color: red">21.36</span>%)  
-57점 - [한국쉘석유](https://finance.naver.com/item/fchart.naver?code=002960)(002960) 437500원 --- 7D(<span style="color: #0000FF">-3.63</span>%) / 30D(<span style="color: red">12.76</span>%) / 60D(<span style="color: red">27.92</span>%)  
-57점 - [한국금융지주](https://finance.naver.com/item/fchart.naver?code=071050)(071050) 148400원 --- 7D(<span style="color: red">17.03</span>%) / 30D(<span style="color: red">48.25</span>%) / 60D(<span style="color: red">95.01</span>%)  
-57점 - [파워 코스피100](https://finance.naver.com/item/fchart.naver?code=140950)(140950) 31655원 --- 7D(<span style="color: red">5.04</span>%) / 30D(<span style="color: red">19.63</span>%) / 60D(<span style="color: red">22.81</span>%)  
-57점 - [코스맥스](https://finance.naver.com/item/fchart.naver?code=192820)(192820) 276000원 --- 7D(<span style="color: red">5.34</span>%) / 30D(<span style="color: red">30.81</span>%) / 60D(<span style="color: red">66.16</span>%)  
-57점 - [진양화학](https://finance.naver.com/item/fchart.naver?code=051630)(051630) 2010원 --- 7D(<span style="color: #0000FF">-2.19</span>%) / 30D(<span style="color: #0000FF">-3.13</span>%) / 60D(<span style="color: #0000FF">-9.05</span>%)  
-57점 - [진양산업](https://finance.naver.com/item/fchart.naver?code=003780)(003780) 5810원 --- 7D(<span style="color: #0000FF">-0.34</span>%) / 30D(<span style="color: #0000FF">-5.99</span>%) / 60D(<span style="color: red">4.87</span>%)  
-57점 - [자화전자](https://finance.naver.com/item/fchart.naver?code=033240)(033240) 15530원 --- 7D(<span style="color: red">3.33</span>%) / 30D(<span style="color: red">34.46</span>%) / 60D(<span style="color: red">33.88</span>%)  
-57점 - [이월드](https://finance.naver.com/item/fchart.naver?code=084680)(084680) 1667원 --- 7D(<span style="color: red">11.51</span>%) / 30D(<span style="color: red">16.66</span>%) / 60D(<span style="color: red">15.44</span>%)  
-57점 - [삼정펄프](https://finance.naver.com/item/fchart.naver?code=009770)(009770) 30150원 --- 7D(<span style="color: #0000FF">-0.50</span>%) / 30D(<span style="color: red">8.84</span>%) / 60D(<span style="color: red">15.52</span>%)  
-57점 - [삼성증권](https://finance.naver.com/item/fchart.naver?code=016360)(016360) 75800원 --- 7D(<span style="color: red">12.97</span>%) / 30D(<span style="color: red">32.75</span>%) / 60D(<span style="color: red">58.74</span>%)  
-57점 - [삼성물산](https://finance.naver.com/item/fchart.naver?code=028260)(028260) 162500원 --- 7D(<span style="color: #0000FF">-1.40</span>%) / 30D(<span style="color: red">6.84</span>%) / 60D(<span style="color: red">38.18</span>%)  
-57점 - [롯데정보통신](https://finance.naver.com/item/fchart.naver?code=286940)(286940) 26400원 --- 7D(<span style="color: red">6.88</span>%) / 30D(<span style="color: red">43.71</span>%) / 60D(<span style="color: red">44.58</span>%)  
-57점 - [두산우](https://finance.naver.com/item/fchart.naver?code=000155)(000155) 417000원 --- 7D(<span style="color: #0000FF">-4.25</span>%) / 30D(<span style="color: red">47.61</span>%) / 60D(<span style="color: red">159.65</span>%)  
-57점 - [대성에너지](https://finance.naver.com/item/fchart.naver?code=117580)(117580) 8590원 --- 7D(<span style="color: #0000FF">-12.97</span>%) / 30D(<span style="color: red">11.13</span>%) / 60D(<span style="color: red">10.70</span>%)  
-57점 - [광전자](https://finance.naver.com/item/fchart.naver?code=017900)(017900) 1991원 --- 7D(<span style="color: red">1.22</span>%) / 30D(<span style="color: red">6.64</span>%) / 60D(<span style="color: red">8.21</span>%)  
-57점 - [TIMEFOLIO 미국S&P500액티브](https://finance.naver.com/item/fchart.naver?code=426020)(426020) 22285원 --- 7D(<span style="color: red">3.80</span>%) / 30D(<span style="color: red">10.49</span>%) / 60D(<span style="color: red">20.56</span>%)  
-57점 - [SK케미칼우](https://finance.naver.com/item/fchart.naver?code=28513K)(28513K) 28300원 --- 7D(<span style="color: red">8.43</span>%) / 30D(<span style="color: red">21.20</span>%) / 60D(<span style="color: red">45.73</span>%)  
-57점 - [NPC우](https://finance.naver.com/item/fchart.naver?code=004255)(004255) 2595원 --- 7D(<span style="color: red">1.37</span>%) / 30D(<span style="color: red">9.03</span>%) / 60D(<span style="color: red">10.90</span>%)  
-57점 - [NPC](https://finance.naver.com/item/fchart.naver?code=004250)(004250) 4520원 --- 7D(<span style="color: #0000FF">-0.11</span>%) / 30D(<span style="color: red">4.51</span>%) / 60D(<span style="color: red">8.92</span>%)  
-57점 - [LIG넥스원](https://finance.naver.com/item/fchart.naver?code=079550)(079550) 554000원 --- 7D(<span style="color: #0000FF">-1.60</span>%) / 30D(<span style="color: red">27.80</span>%) / 60D(<span style="color: red">77.56</span>%)  
-57점 - [LF](https://finance.naver.com/item/fchart.naver?code=093050)(093050) 18110원 --- 7D(<span style="color: red">2.61</span>%) / 30D(<span style="color: red">17.29</span>%) / 60D(<span style="color: red">22.95</span>%)  
-57점 - [HLB글로벌](https://finance.naver.com/item/fchart.naver?code=003580)(003580) 2835원 --- 7D(<span style="color: #0000FF">-3.41</span>%) / 30D(<span style="color: #0000FF">-3.57</span>%) / 60D(<span style="color: #0000FF">-6.74</span>%)  
-57점 - [GKL](https://finance.naver.com/item/fchart.naver?code=114090)(114090) 14940원 --- 7D(<span style="color: #0000FF">-3.98</span>%) / 30D(<span style="color: red">6.11</span>%) / 60D(<span style="color: red">23.57</span>%)  
-57점 - [FOCUS KRX300](https://finance.naver.com/item/fchart.naver?code=292730)(292730) 20150원 --- 7D(<span style="color: red">4.57</span>%) / 30D(<span style="color: red">18.63</span>%) / 60D(<span style="color: red">22.20</span>%)  
-57점 - [FOCUS ESG리더스](https://finance.naver.com/item/fchart.naver?code=285690)(285690) 13515원 --- 7D(<span style="color: red">4.73</span>%) / 30D(<span style="color: red">17.42</span>%) / 60D(<span style="color: red">23.31</span>%)  
-57점 - [DL이앤씨우](https://finance.naver.com/item/fchart.naver?code=37550K)(37550K) 23300원 --- 7D(<span style="color: #0000FF">-0.43</span>%) / 30D(<span style="color: red">16.56</span>%) / 60D(<span style="color: red">35.39</span>%)  
-57점 - [DL우](https://finance.naver.com/item/fchart.naver?code=000215)(000215) 23800원 --- 7D(<span style="color: #0000FF">-1.45</span>%) / 30D(<span style="color: red">11.74</span>%) / 60D(<span style="color: red">22.87</span>%)  
-56점 - [휴니드](https://finance.naver.com/item/fchart.naver?code=005870)(005870) 8960원 --- 7D(<span style="color: #0000FF">-12.41</span>%) / 30D(<span style="color: red">5.41</span>%) / 60D(<span style="color: red">9.94</span>%)  
-56점 - [혜인](https://finance.naver.com/item/fchart.naver?code=003010)(003010) 5470원 --- 7D(<span style="color: #0000FF">-2.32</span>%) / 30D(<span style="color: red">10.73</span>%) / 60D(<span style="color: red">7.68</span>%)  
-56점 - [한화우](https://finance.naver.com/item/fchart.naver?code=000885)(000885) 67500원 --- 7D(<span style="color: #0000FF">-2.32</span>%) / 30D(<span style="color: red">62.45</span>%) / 60D(<span style="color: red">66.67</span>%)  
-56점 - [한일홀딩스](https://finance.naver.com/item/fchart.naver?code=003300)(003300) 18190원 --- 7D(<span style="color: #0000FF">-1.03</span>%) / 30D(<span style="color: red">12.77</span>%) / 60D(<span style="color: red">26.76</span>%)  
-56점 - [한올바이오파마](https://finance.naver.com/item/fchart.naver?code=009420)(009420) 25500원 --- 7D(<span style="color: #0000FF">-0.58</span>%) / 30D(<span style="color: red">0.99</span>%) / 60D(<span style="color: #0000FF">-8.77</span>%)  
-56점 - [한미글로벌](https://finance.naver.com/item/fchart.naver?code=053690)(053690) 21800원 --- 7D(<span style="color: red">25.29</span>%) / 30D(<span style="color: red">28.54</span>%) / 60D(<span style="color: red">34.15</span>%)  
-56점 - [하나금융지주](https://finance.naver.com/item/fchart.naver?code=086790)(086790) 82300원 --- 7D(<span style="color: red">4.31</span>%) / 30D(<span style="color: red">16.74</span>%) / 60D(<span style="color: red">36.71</span>%)  
-56점 - [팬오션](https://finance.naver.com/item/fchart.naver?code=028670)(028670) 3890원 --- 7D(<span style="color: #0000FF">-2.02</span>%) / 30D(<span style="color: red">6.28</span>%) / 60D(<span style="color: red">17.17</span>%)  
-56점 - [팜스코](https://finance.naver.com/item/fchart.naver?code=036580)(036580) 2740원 --- 7D(<span style="color: red">1.86</span>%) / 30D(<span style="color: red">13.69</span>%) / 60D(<span style="color: red">31.10</span>%)  
-56점 - [티웨이항공](https://finance.naver.com/item/fchart.naver?code=091810)(091810) 2105원 --- 7D(<span style="color: red">4.47</span>%) / 30D(<span style="color: red">1.20</span>%) / 60D(<span style="color: red">0.24</span>%)  
-56점 - [콘텐트리중앙](https://finance.naver.com/item/fchart.naver?code=036420)(036420) 13640원 --- 7D(<span style="color: red">11.53</span>%) / 30D(<span style="color: red">32.56</span>%) / 60D(<span style="color: red">61.61</span>%)  
-56점 - [카카오뱅크](https://finance.naver.com/item/fchart.naver?code=323410)(323410) 37000원 --- 7D(<span style="color: red">34.06</span>%) / 30D(<span style="color: red">60.17</span>%) / 60D(<span style="color: red">71.30</span>%)  
-56점 - [조광피혁](https://finance.naver.com/item/fchart.naver?code=004700)(004700) 61700원 --- 7D(<span style="color: #0000FF">-0.32</span>%) / 30D(<span style="color: red">7.68</span>%) / 60D(<span style="color: red">19.11</span>%)  
-56점 - [일진하이솔루스](https://finance.naver.com/item/fchart.naver?code=271940)(271940) 16200원 --- 7D(<span style="color: red">14.25</span>%) / 30D(<span style="color: red">30.54</span>%) / 60D(<span style="color: red">20.27</span>%)  
-56점 - [이오테크닉스](https://finance.naver.com/item/fchart.naver?code=039030)(039030) 157700원 --- 7D(<span style="color: red">1.02</span>%) / 30D(<span style="color: red">11.13</span>%) / 60D(<span style="color: red">30.76</span>%)  
-56점 - [이연제약](https://finance.naver.com/item/fchart.naver?code=102460)(102460) 11300원 --- 7D(<span style="color: #0000FF">-1.22</span>%) / 30D(<span style="color: red">3.86</span>%) / 60D(<span style="color: #0000FF">-0.44</span>%)  
-56점 - [이수페타시스](https://finance.naver.com/item/fchart.naver?code=007660)(007660) 49150원 --- 7D(<span style="color: red">8.50</span>%) / 30D(<span style="color: red">17.72</span>%) / 60D(<span style="color: red">42.05</span>%)  
-56점 - [유안타증권우](https://finance.naver.com/item/fchart.naver?code=003475)(003475) 3775원 --- 7D(<span style="color: red">0.94</span>%) / 30D(<span style="color: red">19.84</span>%) / 60D(<span style="color: red">27.97</span>%)  
-56점 - [원림](https://finance.naver.com/item/fchart.naver?code=005820)(005820) 16150원 --- 7D(<span style="color: red">1.51</span>%) / 30D(<span style="color: red">11.46</span>%) / 60D(<span style="color: red">13.33</span>%)  
-56점 - [웅진씽크빅](https://finance.naver.com/item/fchart.naver?code=095720)(095720) 1869원 --- 7D(<span style="color: red">2.47</span>%) / 30D(<span style="color: red">7.23</span>%) / 60D(<span style="color: red">16.09</span>%)  
-56점 - [아모레G](https://finance.naver.com/item/fchart.naver?code=002790)(002790) 32000원 --- 7D(<span style="color: red">13.48</span>%) / 30D(<span style="color: red">27.74</span>%) / 60D(<span style="color: red">50.94</span>%)  
-56점 - [신세계인터내셔날](https://finance.naver.com/item/fchart.naver?code=031430)(031430) 13180원 --- 7D(<span style="color: red">16.12</span>%) / 30D(<span style="color: red">20.59</span>%) / 60D(<span style="color: red">38.01</span>%)  
-56점 - [신도리코](https://finance.naver.com/item/fchart.naver?code=029530)(029530) 49200원 --- 7D(<span style="color: red">1.23</span>%) / 30D(<span style="color: red">9.58</span>%) / 60D(<span style="color: red">23.31</span>%)  
-56점 - [세원정공](https://finance.naver.com/item/fchart.naver?code=021820)(021820) 11420원 --- 7D(<span style="color: #0000FF">-6.70</span>%) / 30D(<span style="color: red">33.10</span>%) / 60D(<span style="color: red">37.92</span>%)  
-56점 - [세방우](https://finance.naver.com/item/fchart.naver?code=004365)(004365) 9940원 --- 7D(<span style="color: red">3.65</span>%) / 30D(<span style="color: red">10.20</span>%) / 60D(<span style="color: red">32.36</span>%)  
-56점 - [세기상사](https://finance.naver.com/item/fchart.naver?code=002420)(002420) 5550원 --- 7D(<span style="color: #0000FF">-1.25</span>%) / 30D(<span style="color: red">10.56</span>%) / 60D(<span style="color: red">7.56</span>%)  
-56점 - [삼천리](https://finance.naver.com/item/fchart.naver?code=004690)(004690) 135400원 --- 7D(<span style="color: #0000FF">-1.38</span>%) / 30D(<span style="color: red">14.07</span>%) / 60D(<span style="color: red">50.28</span>%)  
-56점 - [삼일씨엔에스](https://finance.naver.com/item/fchart.naver?code=004440)(004440) 5050원 --- 7D(<span style="color: red">2.02</span>%) / 30D(<span style="color: red">16.23</span>%) / 60D(<span style="color: red">16.49</span>%)  
-56점 - [삼양홀딩스](https://finance.naver.com/item/fchart.naver?code=000070)(000070) 88100원 --- 7D(<span style="color: red">1.26</span>%) / 30D(<span style="color: red">39.84</span>%) / 60D(<span style="color: red">44.19</span>%)  
-56점 - [삼성물산우B](https://finance.naver.com/item/fchart.naver?code=02826K)(02826K) 121100원 --- 7D(<span style="color: #0000FF">-1.06</span>%) / 30D(<span style="color: red">7.93</span>%) / 60D(<span style="color: red">38.08</span>%)  
-56점 - [사조오양](https://finance.naver.com/item/fchart.naver?code=006090)(006090) 9830원 --- 7D(<span style="color: red">2.93</span>%) / 30D(<span style="color: red">15.78</span>%) / 60D(<span style="color: red">17.02</span>%)  
-56점 - [사조산업](https://finance.naver.com/item/fchart.naver?code=007160)(007160) 63500원 --- 7D(<span style="color: red">1.76</span>%) / 30D(<span style="color: red">39.56</span>%) / 60D(<span style="color: red">70.24</span>%)  
-56점 - [방림](https://finance.naver.com/item/fchart.naver?code=003610)(003610) 4215원 --- 7D(<span style="color: #0000FF">-1.52</span>%) / 30D(<span style="color: red">3.95</span>%) / 60D(<span style="color: red">8.91</span>%)  
-56점 - [미래에셋증권2우B](https://finance.naver.com/item/fchart.naver?code=00680K)(00680K) 9000원 --- 7D(<span style="color: red">8.30</span>%) / 30D(<span style="color: red">73.41</span>%) / 60D(<span style="color: red">103.62</span>%)  
-56점 - [디와이파워](https://finance.naver.com/item/fchart.naver?code=210540)(210540) 13160원 --- 7D(<span style="color: red">1.39</span>%) / 30D(<span style="color: red">6.04</span>%) / 60D(<span style="color: red">12.00</span>%)  
-56점 - [디와이](https://finance.naver.com/item/fchart.naver?code=013570)(013570) 4635원 --- 7D(<span style="color: red">1.53</span>%) / 30D(<span style="color: red">11.82</span>%) / 60D(<span style="color: red">17.34</span>%)  
-56점 - [동아지질](https://finance.naver.com/item/fchart.naver?code=028100)(028100) 17100원 --- 7D(<span style="color: red">3.14</span>%) / 30D(<span style="color: red">8.92</span>%) / 60D(<span style="color: red">16.49</span>%)  
-56점 - [더존비즈온](https://finance.naver.com/item/fchart.naver?code=012510)(012510) 76600원 --- 7D(<span style="color: red">7.58</span>%) / 30D(<span style="color: red">37.28</span>%) / 60D(<span style="color: red">23.55</span>%)  
-56점 - [녹십자홀딩스](https://finance.naver.com/item/fchart.naver?code=005250)(005250) 16790원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">19.33</span>%) / 60D(<span style="color: red">23.91</span>%)  
-56점 - [녹십자](https://finance.naver.com/item/fchart.naver?code=006280)(006280) 128000원 --- 7D(<span style="color: #0000FF">-2.07</span>%) / 30D(<span style="color: #0000FF">-1.01</span>%) / 60D(<span style="color: red">6.22</span>%)  
-56점 - [남해화학](https://finance.naver.com/item/fchart.naver?code=025860)(025860) 8000원 --- 7D(<span style="color: red">2.96</span>%) / 30D(<span style="color: red">12.36</span>%) / 60D(<span style="color: red">15.44</span>%)  
-56점 - [기업은행](https://finance.naver.com/item/fchart.naver?code=024110)(024110) 18060원 --- 7D(<span style="color: red">5.12</span>%) / 30D(<span style="color: red">16.97</span>%) / 60D(<span style="color: red">22.19</span>%)  
-56점 - [경동도시가스](https://finance.naver.com/item/fchart.naver?code=267290)(267290) 20600원 --- 7D(<span style="color: red">1.73</span>%) / 30D(<span style="color: red">9.93</span>%) / 60D(<span style="color: red">17.58</span>%)  
-56점 - [SOL 유럽탄소배출권선물S&P(H)](https://finance.naver.com/item/fchart.naver?code=400580)(400580) 10690원 --- 7D(<span style="color: #0000FF">-1.70</span>%) / 30D(<span style="color: red">2.35</span>%) / 60D(<span style="color: red">12.35</span>%)  
-56점 - [SOL 글로벌탄소배출권선물IHS(합성)](https://finance.naver.com/item/fchart.naver?code=400590)(400590) 12290원 --- 7D(<span style="color: #0000FF">-0.45</span>%) / 30D(<span style="color: red">3.10</span>%) / 60D(<span style="color: red">5.86</span>%)  
-56점 - [SK텔레콤](https://finance.naver.com/item/fchart.naver?code=017670)(017670) 56800원 --- 7D(<span style="color: red">2.71</span>%) / 30D(<span style="color: red">10.29</span>%) / 60D(<span style="color: #0000FF">-1.39</span>%)  
-56점 - [SK바이오팜](https://finance.naver.com/item/fchart.naver?code=326030)(326030) 92900원 --- 7D(<span style="color: red">2.09</span>%) / 30D(<span style="color: red">2.65</span>%) / 60D(<span style="color: #0000FF">-11.44</span>%)  
-56점 - [SK디스커버리](https://finance.naver.com/item/fchart.naver?code=006120)(006120) 56200원 --- 7D(<span style="color: red">6.64</span>%) / 30D(<span style="color: red">27.01</span>%) / 60D(<span style="color: red">39.98</span>%)  
-56점 - [SKC](https://finance.naver.com/item/fchart.naver?code=011790)(011790) 108300원 --- 7D(<span style="color: red">5.15</span>%) / 30D(<span style="color: red">16.58</span>%) / 60D(<span style="color: red">6.28</span>%)  
-56점 - [SH에너지화학](https://finance.naver.com/item/fchart.naver?code=002360)(002360) 456원 --- 7D(<span style="color: #0000FF">-4.40</span>%) / 30D(<span style="color: red">3.64</span>%) / 60D(<span style="color: red">0.00</span>%)  
-56점 - [PI첨단소재](https://finance.naver.com/item/fchart.naver?code=178920)(178920) 17650원 --- 7D(<span style="color: red">2.44</span>%) / 30D(<span style="color: #0000FF">-3.23</span>%) / 60D(<span style="color: red">9.97</span>%)  
-56점 - [NH투자증권](https://finance.naver.com/item/fchart.naver?code=005940)(005940) 20600원 --- 7D(<span style="color: red">5.91</span>%) / 30D(<span style="color: red">26.77</span>%) / 60D(<span style="color: red">45.79</span>%)  
-56점 - [LS전선아시아](https://finance.naver.com/item/fchart.naver?code=229640)(229640) 35600원 --- 7D(<span style="color: red">2.45</span>%) / 30D(<span style="color: red">1.71</span>%) / 60D(<span style="color: red">12.48</span>%)  
-56점 - [LS ELECTRIC](https://finance.naver.com/item/fchart.naver?code=010120)(010120) 311000원 --- 7D(<span style="color: red">11.07</span>%) / 30D(<span style="color: red">19.85</span>%) / 60D(<span style="color: red">72.30</span>%)  
-56점 - [KEC](https://finance.naver.com/item/fchart.naver?code=092220)(092220) 814원 --- 7D(<span style="color: #0000FF">-0.73</span>%) / 30D(<span style="color: red">13.53</span>%) / 60D(<span style="color: red">8.97</span>%)  
-56점 - [HLB생명과학](https://finance.naver.com/item/fchart.naver?code=067630)(067630) 5250원 --- 7D(<span style="color: #0000FF">-5.58</span>%) / 30D(<span style="color: #0000FF">-11.62</span>%) / 60D(<span style="color: #0000FF">-16.40</span>%)  
-56점 - [GS우](https://finance.naver.com/item/fchart.naver?code=078935)(078935) 42750원 --- 7D(<span style="color: red">0.59</span>%) / 30D(<span style="color: red">11.62</span>%) / 60D(<span style="color: red">15.38</span>%)  
-56점 - [GS](https://finance.naver.com/item/fchart.naver?code=078930)(078930) 46850원 --- 7D(<span style="color: red">0.32</span>%) / 30D(<span style="color: red">15.39</span>%) / 60D(<span style="color: red">22.64</span>%)  
-55점 - [현대두산인프라코어](https://finance.naver.com/item/fchart.naver?code=042670)(042670) 13180원 --- 7D(<span style="color: red">12.65</span>%) / 30D(<span style="color: red">51.32</span>%) / 60D(<span style="color: red">62.92</span>%)  
-55점 - [핸즈코퍼레이션](https://finance.naver.com/item/fchart.naver?code=143210)(143210) 1679원 --- 7D(<span style="color: red">1.51</span>%) / 30D(<span style="color: red">6.20</span>%) / 60D(<span style="color: red">3.51</span>%)  
-55점 - [한양증권](https://finance.naver.com/item/fchart.naver?code=001750)(001750) 18730원 --- 7D(<span style="color: red">2.24</span>%) / 30D(<span style="color: red">27.07</span>%) / 60D(<span style="color: red">43.52</span>%)  
-55점 - [한솔케미칼](https://finance.naver.com/item/fchart.naver?code=014680)(014680) 163700원 --- 7D(<span style="color: red">7.41</span>%) / 30D(<span style="color: red">34.07</span>%) / 60D(<span style="color: red">38.26</span>%)  
-55점 - [하이트진로2우B](https://finance.naver.com/item/fchart.naver?code=000087)(000087) 15790원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">3.20</span>%) / 60D(<span style="color: red">3.68</span>%)  
-55점 - [하림지주](https://finance.naver.com/item/fchart.naver?code=003380)(003380) 9350원 --- 7D(<span style="color: red">0.75</span>%) / 30D(<span style="color: red">18.35</span>%) / 60D(<span style="color: red">61.21</span>%)  
-55점 - [풍산](https://finance.naver.com/item/fchart.naver?code=103140)(103140) 125200원 --- 7D(<span style="color: red">15.82</span>%) / 30D(<span style="color: red">97.17</span>%) / 60D(<span style="color: red">125.18</span>%)  
-55점 - [티와이홀딩스](https://finance.naver.com/item/fchart.naver?code=363280)(363280) 3275원 --- 7D(<span style="color: red">4.63</span>%) / 30D(<span style="color: red">33.13</span>%) / 60D(<span style="color: red">58.21</span>%)  
-55점 - [태경산업](https://finance.naver.com/item/fchart.naver?code=015890)(015890) 5330원 --- 7D(<span style="color: #0000FF">-0.93</span>%) / 30D(<span style="color: red">6.60</span>%) / 60D(<span style="color: red">8.78</span>%)  
-55점 - [코리아써키트](https://finance.naver.com/item/fchart.naver?code=007810)(007810) 11490원 --- 7D(<span style="color: red">3.79</span>%) / 30D(<span style="color: red">14.10</span>%) / 60D(<span style="color: red">12.10</span>%)  
-55점 - [컴투스](https://finance.naver.com/item/fchart.naver?code=078340)(078340) 44200원 --- 7D(<span style="color: red">6.12</span>%) / 30D(<span style="color: red">18.02</span>%) / 60D(<span style="color: red">13.92</span>%)  
-55점 - [진양폴리](https://finance.naver.com/item/fchart.naver?code=010640)(010640) 4010원 --- 7D(<span style="color: red">0.12</span>%) / 30D(<span style="color: #0000FF">-2.08</span>%) / 60D(<span style="color: #0000FF">-3.95</span>%)  
-55점 - [인천도시가스](https://finance.naver.com/item/fchart.naver?code=034590)(034590) 25500원 --- 7D(<span style="color: red">0.59</span>%) / 30D(<span style="color: red">1.39</span>%) / 60D(<span style="color: red">3.66</span>%)  
-55점 - [이화산업](https://finance.naver.com/item/fchart.naver?code=000760)(000760) 12890원 --- 7D(<span style="color: #0000FF">-2.27</span>%) / 30D(<span style="color: red">15.09</span>%) / 60D(<span style="color: red">19.46</span>%)  
-55점 - [이노션](https://finance.naver.com/item/fchart.naver?code=214320)(214320) 20450원 --- 7D(<span style="color: red">7.18</span>%) / 30D(<span style="color: red">15.21</span>%) / 60D(<span style="color: red">14.50</span>%)  
-55점 - [유성기업](https://finance.naver.com/item/fchart.naver?code=002920)(002920) 2020원 --- 7D(<span style="color: red">0.75</span>%) / 30D(<span style="color: red">2.90</span>%) / 60D(<span style="color: red">4.88</span>%)  
-55점 - [에스티팜](https://finance.naver.com/item/fchart.naver?code=237690)(237690) 79100원 --- 7D(<span style="color: red">1.41</span>%) / 30D(<span style="color: red">3.26</span>%) / 60D(<span style="color: red">3.13</span>%)  
-55점 - [아모레퍼시픽우](https://finance.naver.com/item/fchart.naver?code=090435)(090435) 48350원 --- 7D(<span style="color: red">10.26</span>%) / 30D(<span style="color: red">21.18</span>%) / 60D(<span style="color: red">32.47</span>%)  
-55점 - [신세계푸드](https://finance.naver.com/item/fchart.naver?code=031440)(031440) 42000원 --- 7D(<span style="color: red">18.31</span>%) / 30D(<span style="color: red">25.75</span>%) / 60D(<span style="color: red">33.55</span>%)  
-55점 - [삼화콘덴서](https://finance.naver.com/item/fchart.naver?code=001820)(001820) 27450원 --- 7D(<span style="color: red">2.04</span>%) / 30D(<span style="color: red">13.43</span>%) / 60D(<span style="color: red">9.58</span>%)  
-55점 - [삼익악기](https://finance.naver.com/item/fchart.naver?code=002450)(002450) 1305원 --- 7D(<span style="color: #0000FF">-0.99</span>%) / 30D(<span style="color: red">6.53</span>%) / 60D(<span style="color: red">4.99</span>%)  
-55점 - [삼양통상](https://finance.naver.com/item/fchart.naver?code=002170)(002170) 54900원 --- 7D(<span style="color: red">0.55</span>%) / 30D(<span style="color: red">11.93</span>%) / 60D(<span style="color: red">15.22</span>%)  
-55점 - [삼성화재](https://finance.naver.com/item/fchart.naver?code=000810)(000810) 444000원 --- 7D(<span style="color: red">5.09</span>%) / 30D(<span style="color: red">11.56</span>%) / 60D(<span style="color: red">22.99</span>%)  
-55점 - [삼성전기](https://finance.naver.com/item/fchart.naver?code=009150)(009150) 136700원 --- 7D(<span style="color: red">2.78</span>%) / 30D(<span style="color: red">12.88</span>%) / 60D(<span style="color: red">11.68</span>%)  
-55점 - [미래에셋증권우](https://finance.naver.com/item/fchart.naver?code=006805)(006805) 9360원 --- 7D(<span style="color: red">6.12</span>%) / 30D(<span style="color: red">59.18</span>%) / 60D(<span style="color: red">91.02</span>%)  
-55점 - [미래에셋생명](https://finance.naver.com/item/fchart.naver?code=085620)(085620) 6100원 --- 7D(<span style="color: #0000FF">-0.65</span>%) / 30D(<span style="color: red">10.71</span>%) / 60D(<span style="color: red">21.51</span>%)  
-55점 - [동화약품](https://finance.naver.com/item/fchart.naver?code=000020)(000020) 6800원 --- 7D(<span style="color: #0000FF">-1.02</span>%) / 30D(<span style="color: red">6.25</span>%) / 60D(<span style="color: red">9.68</span>%)  
-55점 - [동일산업](https://finance.naver.com/item/fchart.naver?code=004890)(004890) 44600원 --- 7D(<span style="color: #0000FF">-2.41</span>%) / 30D(<span style="color: red">4.45</span>%) / 60D(<span style="color: red">8.38</span>%)  
-55점 - [도화엔지니어링](https://finance.naver.com/item/fchart.naver?code=002150)(002150) 6840원 --- 7D(<span style="color: red">0.59</span>%) / 30D(<span style="color: red">4.59</span>%) / 60D(<span style="color: red">3.64</span>%)  
-55점 - [대한방직](https://finance.naver.com/item/fchart.naver?code=001070)(001070) 6790원 --- 7D(<span style="color: #0000FF">-2.86</span>%) / 30D(<span style="color: red">7.44</span>%) / 60D(<span style="color: red">29.58</span>%)  
-55점 - [대창단조](https://finance.naver.com/item/fchart.naver?code=015230)(015230) 5940원 --- 7D(<span style="color: red">1.89</span>%) / 30D(<span style="color: red">6.83</span>%) / 60D(<span style="color: red">17.16</span>%)  
-55점 - [대신증권2우B](https://finance.naver.com/item/fchart.naver?code=003547)(003547) 18920원 --- 7D(<span style="color: red">4.19</span>%) / 30D(<span style="color: red">10.90</span>%) / 60D(<span style="color: red">21.52</span>%)  
-55점 - [대림통상](https://finance.naver.com/item/fchart.naver?code=006570)(006570) 2750원 --- 7D(<span style="color: red">0.73</span>%) / 30D(<span style="color: red">7.63</span>%) / 60D(<span style="color: red">8.91</span>%)  
-55점 - [다원시스](https://finance.naver.com/item/fchart.naver?code=068240)(068240) 9190원 --- 7D(<span style="color: red">3.37</span>%) / 30D(<span style="color: red">10.19</span>%) / 60D(<span style="color: red">6.74</span>%)  
-55점 - [금비](https://finance.naver.com/item/fchart.naver?code=008870)(008870) 58300원 --- 7D(<span style="color: #0000FF">-1.35</span>%) / 30D(<span style="color: #0000FF">-0.34</span>%) / 60D(<span style="color: red">3.55</span>%)  
-55점 - [극동유화](https://finance.naver.com/item/fchart.naver?code=014530)(014530) 3490원 --- 7D(<span style="color: #0000FF">-2.79</span>%) / 30D(<span style="color: red">2.50</span>%) / 60D(<span style="color: red">0.72</span>%)  
-55점 - [VITA MZ소비액티브](https://finance.naver.com/item/fchart.naver?code=422260)(422260) 11035원 --- 7D(<span style="color: #0000FF">-18.26</span>%) / 30D(<span style="color: red">8.13</span>%) / 60D(<span style="color: red">20.93</span>%)  
-55점 - [TIMEFOLIO 탄소중립액티브](https://finance.naver.com/item/fchart.naver?code=404120)(404120) 14225원 --- 7D(<span style="color: red">2.67</span>%) / 30D(<span style="color: red">16.65</span>%) / 60D(<span style="color: red">28.79</span>%)  
-55점 - [SK케미칼](https://finance.naver.com/item/fchart.naver?code=285130)(285130) 69100원 --- 7D(<span style="color: red">23.17</span>%) / 30D(<span style="color: red">26.79</span>%) / 60D(<span style="color: red">84.51</span>%)  
-55점 - [LS](https://finance.naver.com/item/fchart.naver?code=006260)(006260) 184800원 --- 7D(<span style="color: red">4.88</span>%) / 30D(<span style="color: red">20.94</span>%) / 60D(<span style="color: red">51.72</span>%)  
-55점 - [LG전자](https://finance.naver.com/item/fchart.naver?code=066570)(066570) 76200원 --- 7D(<span style="color: red">3.25</span>%) / 30D(<span style="color: red">6.42</span>%) / 60D(<span style="color: red">6.87</span>%)  
-55점 - [KCC글라스](https://finance.naver.com/item/fchart.naver?code=344820)(344820) 33650원 --- 7D(<span style="color: red">2.91</span>%) / 30D(<span style="color: red">11.79</span>%) / 60D(<span style="color: red">7.85</span>%)  
-55점 - [HD현대](https://finance.naver.com/item/fchart.naver?code=267250)(267250) 131900원 --- 7D(<span style="color: red">3.29</span>%) / 30D(<span style="color: red">51.26</span>%) / 60D(<span style="color: red">80.68</span>%)  
-54점 - [효성](https://finance.naver.com/item/fchart.naver?code=004800)(004800) 71900원 --- 7D(<span style="color: red">7.96</span>%) / 30D(<span style="color: red">27.03</span>%) / 60D(<span style="color: red">43.80</span>%)  
-54점 - [화성산업](https://finance.naver.com/item/fchart.naver?code=002460)(002460) 11000원 --- 7D(<span style="color: red">0.92</span>%) / 30D(<span style="color: red">8.16</span>%) / 60D(<span style="color: red">9.78</span>%)  
-54점 - [현대퓨처넷](https://finance.naver.com/item/fchart.naver?code=126560)(126560) 3330원 --- 7D(<span style="color: red">1.37</span>%) / 30D(<span style="color: red">3.42</span>%) / 60D(<span style="color: red">17.05</span>%)  
-54점 - [현대차증권](https://finance.naver.com/item/fchart.naver?code=001500)(001500) 8120원 --- 7D(<span style="color: red">8.41</span>%) / 30D(<span style="color: red">22.66</span>%) / 60D(<span style="color: red">39.52</span>%)  
-54점 - [현대글로비스](https://finance.naver.com/item/fchart.naver?code=086280)(086280) 136400원 --- 7D(<span style="color: red">2.02</span>%) / 30D(<span style="color: red">24.00</span>%) / 60D(<span style="color: red">18.51</span>%)  
-54점 - [한솔테크닉스](https://finance.naver.com/item/fchart.naver?code=004710)(004710) 6400원 --- 7D(<span style="color: red">19.18</span>%) / 30D(<span style="color: red">24.27</span>%) / 60D(<span style="color: red">50.94</span>%)  
-54점 - [하이트진로홀딩스](https://finance.naver.com/item/fchart.naver?code=000140)(000140) 10650원 --- 7D(<span style="color: red">0.28</span>%) / 30D(<span style="color: red">23.55</span>%) / 60D(<span style="color: red">25.89</span>%)  
-54점 - [플레이그램](https://finance.naver.com/item/fchart.naver?code=009810)(009810) 370원 --- 7D(<span style="color: #0000FF">-0.27</span>%) / 30D(<span style="color: red">22.52</span>%) / 60D(<span style="color: red">20.92</span>%)  
-54점 - [티웨이홀딩스](https://finance.naver.com/item/fchart.naver?code=004870)(004870) 666원 --- 7D(<span style="color: red">3.10</span>%) / 30D(<span style="color: red">9.00</span>%) / 60D(<span style="color: red">5.88</span>%)  
-54점 - [태평양물산](https://finance.naver.com/item/fchart.naver?code=007980)(007980) 1497원 --- 7D(<span style="color: #0000FF">-0.99</span>%) / 30D(<span style="color: red">11.22</span>%) / 60D(<span style="color: red">8.48</span>%)  
-54점 - [키움증권](https://finance.naver.com/item/fchart.naver?code=039490)(039490) 236500원 --- 7D(<span style="color: red">12.89</span>%) / 30D(<span style="color: red">58.62</span>%) / 60D(<span style="color: red">85.78</span>%)  
-54점 - [크라운해태홀딩스](https://finance.naver.com/item/fchart.naver?code=005740)(005740) 7760원 --- 7D(<span style="color: red">0.52</span>%) / 30D(<span style="color: red">25.97</span>%) / 60D(<span style="color: red">32.65</span>%)  
-54점 - [코오롱우](https://finance.naver.com/item/fchart.naver?code=002025)(002025) 23650원 --- 7D(<span style="color: red">6.05</span>%) / 30D(<span style="color: red">57.25</span>%) / 60D(<span style="color: red">58.30</span>%)  
-54점 - [카카오게임즈](https://finance.naver.com/item/fchart.naver?code=293490)(293490) 23500원 --- 7D(<span style="color: red">34.13</span>%) / 30D(<span style="color: red">55.32</span>%) / 60D(<span style="color: red">68.22</span>%)  
-54점 - [종근당홀딩스](https://finance.naver.com/item/fchart.naver?code=001630)(001630) 52000원 --- 7D(<span style="color: #0000FF">-2.26</span>%) / 30D(<span style="color: red">4.10</span>%) / 60D(<span style="color: red">13.66</span>%)  
-54점 - [종근당](https://finance.naver.com/item/fchart.naver?code=185750)(185750) 82900원 --- 7D(<span style="color: red">0.36</span>%) / 30D(<span style="color: red">0.73</span>%) / 60D(<span style="color: red">5.07</span>%)  
-54점 - [일동제약](https://finance.naver.com/item/fchart.naver?code=249420)(249420) 12790원 --- 7D(<span style="color: red">1.75</span>%) / 30D(<span style="color: red">4.92</span>%) / 60D(<span style="color: red">10.35</span>%)  
-54점 - [유니퀘스트](https://finance.naver.com/item/fchart.naver?code=077500)(077500) 6750원 --- 7D(<span style="color: red">3.37</span>%) / 30D(<span style="color: red">10.29</span>%) / 60D(<span style="color: red">18.21</span>%)  
-54점 - [우리금융지주](https://finance.naver.com/item/fchart.naver?code=316140)(316140) 22200원 --- 7D(<span style="color: red">6.22</span>%) / 30D(<span style="color: red">21.31</span>%) / 60D(<span style="color: red">29.37</span>%)  
-54점 - [영원무역홀딩스](https://finance.naver.com/item/fchart.naver?code=009970)(009970) 131200원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">13.40</span>%) / 60D(<span style="color: red">39.87</span>%)  
-54점 - [에스디바이오센서](https://finance.naver.com/item/fchart.naver?code=137310)(137310) 11030원 --- 7D(<span style="color: #0000FF">-4.25</span>%) / 30D(<span style="color: red">1.29</span>%) / 60D(<span style="color: red">20.94</span>%)  
-54점 - [안랩](https://finance.naver.com/item/fchart.naver?code=053800)(053800) 70300원 --- 7D(<span style="color: red">6.35</span>%) / 30D(<span style="color: red">14.87</span>%) / 60D(<span style="color: red">0.57</span>%)  
-54점 - [아이에스동서](https://finance.naver.com/item/fchart.naver?code=010780)(010780) 22300원 --- 7D(<span style="color: red">0.68</span>%) / 30D(<span style="color: red">16.15</span>%) / 60D(<span style="color: red">26.49</span>%)  
-54점 - [아세아시멘트](https://finance.naver.com/item/fchart.naver?code=183190)(183190) 13140원 --- 7D(<span style="color: red">8.42</span>%) / 30D(<span style="color: red">15.16</span>%) / 60D(<span style="color: red">21.89</span>%)  
-54점 - [수산중공업](https://finance.naver.com/item/fchart.naver?code=017550)(017550) 1827원 --- 7D(<span style="color: #0000FF">-0.71</span>%) / 30D(<span style="color: red">1.78</span>%) / 60D(<span style="color: #0000FF">-2.66</span>%)  
-54점 - [세진중공업](https://finance.naver.com/item/fchart.naver?code=075580)(075580) 12230원 --- 7D(<span style="color: #0000FF">-0.49</span>%) / 30D(<span style="color: red">4.98</span>%) / 60D(<span style="color: red">47.17</span>%)  
-54점 - [상상인증권](https://finance.naver.com/item/fchart.naver?code=001290)(001290) 735원 --- 7D(<span style="color: #0000FF">-0.54</span>%) / 30D(<span style="color: red">53.44</span>%) / 60D(<span style="color: red">61.18</span>%)  
-54점 - [삼화전기](https://finance.naver.com/item/fchart.naver?code=009470)(009470) 29750원 --- 7D(<span style="color: #0000FF">-1.49</span>%) / 30D(<span style="color: red">10.59</span>%) / 60D(<span style="color: red">5.50</span>%)  
-54점 - [삼원강재](https://finance.naver.com/item/fchart.naver?code=023000)(023000) 2595원 --- 7D(<span style="color: red">2.57</span>%) / 30D(<span style="color: red">6.57</span>%) / 60D(<span style="color: red">9.96</span>%)  
-54점 - [삼성화재우](https://finance.naver.com/item/fchart.naver?code=000815)(000815) 327500원 --- 7D(<span style="color: red">2.66</span>%) / 30D(<span style="color: red">12.93</span>%) / 60D(<span style="color: red">17.17</span>%)  
-54점 - [삼성전기우](https://finance.naver.com/item/fchart.naver?code=009155)(009155) 61400원 --- 7D(<span style="color: red">1.82</span>%) / 30D(<span style="color: red">13.49</span>%) / 60D(<span style="color: red">9.84</span>%)  
-54점 - [삼성엔지니어링](https://finance.naver.com/item/fchart.naver?code=028050)(028050) 23250원 --- 7D(<span style="color: red">1.53</span>%) / 30D(<span style="color: red">10.71</span>%) / 60D(<span style="color: red">18.08</span>%)  
-54점 - [롯데칠성우](https://finance.naver.com/item/fchart.naver?code=005305)(005305) 74100원 --- 7D(<span style="color: red">2.21</span>%) / 30D(<span style="color: red">14.53</span>%) / 60D(<span style="color: red">17.25</span>%)  
-54점 - [드림텍](https://finance.naver.com/item/fchart.naver?code=192650)(192650) 6240원 --- 7D(<span style="color: red">2.46</span>%) / 30D(<span style="color: red">5.58</span>%) / 60D(<span style="color: #0000FF">-3.85</span>%)  
-54점 - [두산퓨얼셀1우](https://finance.naver.com/item/fchart.naver?code=33626K)(33626K) 5870원 --- 7D(<span style="color: red">14.65</span>%) / 30D(<span style="color: red">24.63</span>%) / 60D(<span style="color: red">31.47</span>%)  
-54점 - [동양고속](https://finance.naver.com/item/fchart.naver?code=084670)(084670) 8930원 --- 7D(<span style="color: red">18.12</span>%) / 30D(<span style="color: red">21.50</span>%) / 60D(<span style="color: red">27.94</span>%)  
-54점 - [동방아그로](https://finance.naver.com/item/fchart.naver?code=007590)(007590) 6280원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">2.11</span>%) / 60D(<span style="color: red">2.28</span>%)  
-54점 - [대현](https://finance.naver.com/item/fchart.naver?code=016090)(016090) 1900원 --- 7D(<span style="color: #0000FF">-1.20</span>%) / 30D(<span style="color: red">0.42</span>%) / 60D(<span style="color: #0000FF">-5.00</span>%)  
-54점 - [대유에이텍](https://finance.naver.com/item/fchart.naver?code=002880)(002880) 1145원 --- 7D(<span style="color: red">8.22</span>%) / 30D(<span style="color: red">14.96</span>%) / 60D(<span style="color: red">17.44</span>%)  
-54점 - [대웅제약](https://finance.naver.com/item/fchart.naver?code=069620)(069620) 151200원 --- 7D(<span style="color: #0000FF">-2.95</span>%) / 30D(<span style="color: red">5.07</span>%) / 60D(<span style="color: red">16.04</span>%)  
-54점 - [대동](https://finance.naver.com/item/fchart.naver?code=000490)(000490) 11030원 --- 7D(<span style="color: red">2.04</span>%) / 30D(<span style="color: red">3.67</span>%) / 60D(<span style="color: red">4.45</span>%)  
-54점 - [노루홀딩스](https://finance.naver.com/item/fchart.naver?code=000320)(000320) 23800원 --- 7D(<span style="color: red">12.80</span>%) / 30D(<span style="color: red">43.11</span>%) / 60D(<span style="color: red">62.57</span>%)  
-54점 - [교보증권](https://finance.naver.com/item/fchart.naver?code=030610)(030610) 8780원 --- 7D(<span style="color: #0000FF">-0.68</span>%) / 30D(<span style="color: red">18.17</span>%) / 60D(<span style="color: red">37.83</span>%)  
-54점 - [고려제강](https://finance.naver.com/item/fchart.naver?code=002240)(002240) 17970원 --- 7D(<span style="color: #0000FF">-0.88</span>%) / 30D(<span style="color: red">4.17</span>%) / 60D(<span style="color: red">4.60</span>%)  
-54점 - [강남제비스코](https://finance.naver.com/item/fchart.naver?code=000860)(000860) 12790원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">5.35</span>%) / 60D(<span style="color: #0000FF">-46.37</span>%)  
-54점 - [TYM](https://finance.naver.com/item/fchart.naver?code=002900)(002900) 5320원 --- 7D(<span style="color: red">1.92</span>%) / 30D(<span style="color: #0000FF">-1.48</span>%) / 60D(<span style="color: red">17.57</span>%)  
-54점 - [S-Oil우](https://finance.naver.com/item/fchart.naver?code=010955)(010955) 38650원 --- 7D(<span style="color: #0000FF">-3.86</span>%) / 30D(<span style="color: red">8.42</span>%) / 60D(<span style="color: red">9.49</span>%)  
-54점 - [NICE](https://finance.naver.com/item/fchart.naver?code=034310)(034310) 12770원 --- 7D(<span style="color: red">2.32</span>%) / 30D(<span style="color: red">11.33</span>%) / 60D(<span style="color: red">18.13</span>%)  
-54점 - [NAVER](https://finance.naver.com/item/fchart.naver?code=035420)(035420) 290500원 --- 7D(<span style="color: red">19.30</span>%) / 30D(<span style="color: red">54.52</span>%) / 60D(<span style="color: red">50.60</span>%)  
-54점 - [MH에탄올](https://finance.naver.com/item/fchart.naver?code=023150)(023150) 5320원 --- 7D(<span style="color: #0000FF">-1.30</span>%) / 30D(<span style="color: red">4.93</span>%) / 60D(<span style="color: red">1.92</span>%)  
-54점 - [LX홀딩스1우](https://finance.naver.com/item/fchart.naver?code=38380K)(38380K) 9160원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">6.02</span>%) / 60D(<span style="color: red">14.50</span>%)  
-54점 - [LS네트웍스](https://finance.naver.com/item/fchart.naver?code=000680)(000680) 3965원 --- 7D(<span style="color: red">2.72</span>%) / 30D(<span style="color: red">11.69</span>%) / 60D(<span style="color: red">17.83</span>%)  
-54점 - [KISCO홀딩스](https://finance.naver.com/item/fchart.naver?code=001940)(001940) 26300원 --- 7D(<span style="color: #0000FF">-2.23</span>%) / 30D(<span style="color: red">18.20</span>%) / 60D(<span style="color: red">25.84</span>%)  
-54점 - [HLB](https://finance.naver.com/item/fchart.naver?code=028300)(028300) 49550원 --- 7D(<span style="color: #0000FF">-1.49</span>%) / 30D(<span style="color: #0000FF">-5.80</span>%) / 60D(<span style="color: #0000FF">-11.36</span>%)  
-54점 - [HDC현대EP](https://finance.naver.com/item/fchart.naver?code=089470)(089470) 3920원 --- 7D(<span style="color: #0000FF">-0.51</span>%) / 30D(<span style="color: red">4.39</span>%) / 60D(<span style="color: red">9.04</span>%)  
-54점 - [F&F홀딩스](https://finance.naver.com/item/fchart.naver?code=007700)(007700) 17870원 --- 7D(<span style="color: red">4.75</span>%) / 30D(<span style="color: red">27.10</span>%) / 60D(<span style="color: red">48.55</span>%)  
-54점 - [DRB동일](https://finance.naver.com/item/fchart.naver?code=004840)(004840) 5110원 --- 7D(<span style="color: red">0.39</span>%) / 30D(<span style="color: red">18.98</span>%) / 60D(<span style="color: red">13.18</span>%)  
-54점 - [BGF](https://finance.naver.com/item/fchart.naver?code=027410)(027410) 4255원 --- 7D(<span style="color: #0000FF">-0.35</span>%) / 30D(<span style="color: red">13.01</span>%) / 60D(<span style="color: red">18.36</span>%)  
-53점 - [흥국화재](https://finance.naver.com/item/fchart.naver?code=000540)(000540) 4230원 --- 7D(<span style="color: #0000FF">-0.94</span>%) / 30D(<span style="color: red">7.63</span>%) / 60D(<span style="color: red">26.65</span>%)  
-53점 - [현대리바트](https://finance.naver.com/item/fchart.naver?code=079430)(079430) 7990원 --- 7D(<span style="color: #0000FF">-0.25</span>%) / 30D(<span style="color: red">1.78</span>%) / 60D(<span style="color: red">9.90</span>%)  
-53점 - [한전KPS](https://finance.naver.com/item/fchart.naver?code=051600)(051600) 61400원 --- 7D(<span style="color: red">18.53</span>%) / 30D(<span style="color: red">33.91</span>%) / 60D(<span style="color: red">47.95</span>%)  
-53점 - [한일현대시멘트](https://finance.naver.com/item/fchart.naver?code=006390)(006390) 18420원 --- 7D(<span style="color: red">7.34</span>%) / 30D(<span style="color: red">16.36</span>%) / 60D(<span style="color: red">18.38</span>%)  
-53점 - [한신공영](https://finance.naver.com/item/fchart.naver?code=004960)(004960) 8570원 --- 7D(<span style="color: #0000FF">-1.27</span>%) / 30D(<span style="color: red">4.51</span>%) / 60D(<span style="color: red">19.53</span>%)  
-53점 - [한국앤컴퍼니](https://finance.naver.com/item/fchart.naver?code=000240)(000240) 19200원 --- 7D(<span style="color: red">2.02</span>%) / 30D(<span style="color: red">14.56</span>%) / 60D(<span style="color: red">29.99</span>%)  
-53점 - [한국단자](https://finance.naver.com/item/fchart.naver?code=025540)(025540) 66300원 --- 7D(<span style="color: red">2.16</span>%) / 30D(<span style="color: red">13.92</span>%) / 60D(<span style="color: red">5.41</span>%)  
-53점 - [하이트론](https://finance.naver.com/item/fchart.naver?code=019490)(019490) 657원 --- 7D(<span style="color: #0000FF">-3.67</span>%) / 30D(<span style="color: #0000FF">-34.76</span>%) / 60D(<span style="color: red">8.24</span>%)  
-53점 - [코스맥스비티아이](https://finance.naver.com/item/fchart.naver?code=044820)(044820) 19260원 --- 7D(<span style="color: red">0.84</span>%) / 30D(<span style="color: red">56.71</span>%) / 60D(<span style="color: red">76.54</span>%)  
-53점 - [케이카](https://finance.naver.com/item/fchart.naver?code=381970)(381970) 15360원 --- 7D(<span style="color: red">10.42</span>%) / 30D(<span style="color: red">1.86</span>%) / 60D(<span style="color: red">11.79</span>%)  
-53점 - [케이엠더블유](https://finance.naver.com/item/fchart.naver?code=032500)(032500) 13070원 --- 7D(<span style="color: red">10.76</span>%) / 30D(<span style="color: red">56.53</span>%) / 60D(<span style="color: red">62.16</span>%)  
-53점 - [컨버즈](https://finance.naver.com/item/fchart.naver?code=109070)(109070) 882원 --- 7D(<span style="color: #0000FF">-2.00</span>%) / 30D(<span style="color: #0000FF">-5.67</span>%) / 60D(<span style="color: #0000FF">-24.81</span>%)  
-53점 - [조비](https://finance.naver.com/item/fchart.naver?code=001550)(001550) 15180원 --- 7D(<span style="color: red">1.67</span>%) / 30D(<span style="color: red">25.98</span>%) / 60D(<span style="color: red">26.71</span>%)  
-53점 - [잇츠한불](https://finance.naver.com/item/fchart.naver?code=226320)(226320) 14010원 --- 7D(<span style="color: red">6.86</span>%) / 30D(<span style="color: red">14.65</span>%) / 60D(<span style="color: red">18.53</span>%)  
-53점 - [일정실업](https://finance.naver.com/item/fchart.naver?code=008500)(008500) 12680원 --- 7D(<span style="color: #0000FF">-3.21</span>%) / 30D(<span style="color: red">13.32</span>%) / 60D(<span style="color: red">14.96</span>%)  
-53점 - [이엔플러스](https://finance.naver.com/item/fchart.naver?code=074610)(074610) 511원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-53점 - [원익IPS](https://finance.naver.com/item/fchart.naver?code=240810)(240810) 26300원 --- 7D(<span style="color: red">1.35</span>%) / 30D(<span style="color: red">21.76</span>%) / 60D(<span style="color: red">14.60</span>%)  
-53점 - [아시아나IDT](https://finance.naver.com/item/fchart.naver?code=267850)(267850) 12370원 --- 7D(<span style="color: red">4.65</span>%) / 30D(<span style="color: red">8.51</span>%) / 60D(<span style="color: red">9.08</span>%)  
-53점 - [시디즈](https://finance.naver.com/item/fchart.naver?code=134790)(134790) 31700원 --- 7D(<span style="color: #0000FF">-5.65</span>%) / 30D(<span style="color: red">21.22</span>%) / 60D(<span style="color: red">2.26</span>%)  
-53점 - [스카이라이프](https://finance.naver.com/item/fchart.naver?code=053210)(053210) 5020원 --- 7D(<span style="color: red">4.58</span>%) / 30D(<span style="color: red">12.56</span>%) / 60D(<span style="color: red">14.48</span>%)  
-53점 - [센트랄모텍](https://finance.naver.com/item/fchart.naver?code=308170)(308170) 6130원 --- 7D(<span style="color: #0000FF">-4.37</span>%) / 30D(<span style="color: red">2.85</span>%) / 60D(<span style="color: red">3.90</span>%)  
-53점 - [세방](https://finance.naver.com/item/fchart.naver?code=004360)(004360) 14700원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">9.78</span>%) / 60D(<span style="color: red">27.38</span>%)  
-53점 - [비에이치](https://finance.naver.com/item/fchart.naver?code=090460)(090460) 12790원 --- 7D(<span style="color: red">0.47</span>%) / 30D(<span style="color: red">4.66</span>%) / 60D(<span style="color: red">1.27</span>%)  
-53점 - [두산2우B](https://finance.naver.com/item/fchart.naver?code=000157)(000157) 485500원 --- 7D(<span style="color: #0000FF">-5.36</span>%) / 30D(<span style="color: red">38.71</span>%) / 60D(<span style="color: red">211.62</span>%)  
-53점 - [동일제강](https://finance.naver.com/item/fchart.naver?code=002690)(002690) 1635원 --- 7D(<span style="color: red">4.07</span>%) / 30D(<span style="color: red">7.99</span>%) / 60D(<span style="color: red">21.65</span>%)  
-53점 - [동아에스티](https://finance.naver.com/item/fchart.naver?code=170900)(170900) 48000원 --- 7D(<span style="color: red">0.42</span>%) / 30D(<span style="color: red">1.27</span>%) / 60D(<span style="color: red">6.67</span>%)  
-53점 - [동부건설](https://finance.naver.com/item/fchart.naver?code=005960)(005960) 5350원 --- 7D(<span style="color: #0000FF">-2.55</span>%) / 30D(<span style="color: red">12.16</span>%) / 60D(<span style="color: red">37.71</span>%)  
-53점 - [넥센타이어1우B](https://finance.naver.com/item/fchart.naver?code=002355)(002355) 3230원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">7.85</span>%) / 60D(<span style="color: red">21.89</span>%)  
-53점 - [금호에이치티](https://finance.naver.com/item/fchart.naver?code=214330)(214330) 712원 --- 7D(<span style="color: red">4.71</span>%) / 30D(<span style="color: red">8.70</span>%) / 60D(<span style="color: red">9.04</span>%)  
-53점 - [광주신세계](https://finance.naver.com/item/fchart.naver?code=037710)(037710) 30000원 --- 7D(<span style="color: red">2.21</span>%) / 30D(<span style="color: red">7.53</span>%) / 60D(<span style="color: red">8.11</span>%)  
-53점 - [경방](https://finance.naver.com/item/fchart.naver?code=000050)(000050) 8100원 --- 7D(<span style="color: red">1.12</span>%) / 30D(<span style="color: red">14.41</span>%) / 60D(<span style="color: red">25.00</span>%)  
-53점 - [SNT모티브](https://finance.naver.com/item/fchart.naver?code=064960)(064960) 30850원 --- 7D(<span style="color: #0000FF">-4.49</span>%) / 30D(<span style="color: red">0.98</span>%) / 60D(<span style="color: red">11.78</span>%)  
-53점 - [SK디스커버리우](https://finance.naver.com/item/fchart.naver?code=006125)(006125) 42350원 --- 7D(<span style="color: red">6.94</span>%) / 30D(<span style="color: red">16.99</span>%) / 60D(<span style="color: red">24.38</span>%)  
-53점 - [SK](https://finance.naver.com/item/fchart.naver?code=034730)(034730) 199200원 --- 7D(<span style="color: red">1.58</span>%) / 30D(<span style="color: red">41.18</span>%) / 60D(<span style="color: red">51.83</span>%)  
-53점 - [SJM홀딩스](https://finance.naver.com/item/fchart.naver?code=025530)(025530) 3620원 --- 7D(<span style="color: #0000FF">-1.09</span>%) / 30D(<span style="color: red">8.38</span>%) / 60D(<span style="color: red">12.60</span>%)  
-53점 - [SG세계물산](https://finance.naver.com/item/fchart.naver?code=004060)(004060) 340원 --- 7D(<span style="color: #0000FF">-1.45</span>%) / 30D(<span style="color: red">4.29</span>%) / 60D(<span style="color: red">0.89</span>%)  
-53점 - [S-Oil](https://finance.naver.com/item/fchart.naver?code=010950)(010950) 58600원 --- 7D(<span style="color: #0000FF">-5.94</span>%) / 30D(<span style="color: red">9.33</span>%) / 60D(<span style="color: red">10.98</span>%)  
-53점 - [LG디스플레이](https://finance.naver.com/item/fchart.naver?code=034220)(034220) 9430원 --- 7D(<span style="color: red">2.39</span>%) / 30D(<span style="color: red">15.42</span>%) / 60D(<span style="color: red">11.20</span>%)  
-53점 - [KCC](https://finance.naver.com/item/fchart.naver?code=002380)(002380) 308000원 --- 7D(<span style="color: #0000FF">-1.60</span>%) / 30D(<span style="color: red">8.45</span>%) / 60D(<span style="color: red">24.70</span>%)  
-53점 - [JYP Ent.](https://finance.naver.com/item/fchart.naver?code=035900)(035900) 76000원 --- 7D(<span style="color: red">0.40</span>%) / 30D(<span style="color: red">0.53</span>%) / 60D(<span style="color: red">20.25</span>%)  
-53점 - [DB](https://finance.naver.com/item/fchart.naver?code=012030)(012030) 1469원 --- 7D(<span style="color: red">1.17</span>%) / 30D(<span style="color: red">15.31</span>%) / 60D(<span style="color: red">16.59</span>%)  
-52점 - [흥아해운](https://finance.naver.com/item/fchart.naver?code=003280)(003280) 1783원 --- 7D(<span style="color: #0000FF">-22.14</span>%) / 30D(<span style="color: red">14.15</span>%) / 60D(<span style="color: red">10.68</span>%)  
-52점 - [후성](https://finance.naver.com/item/fchart.naver?code=093370)(093370) 5060원 --- 7D(<span style="color: red">0.20</span>%) / 30D(<span style="color: red">26.50</span>%) / 60D(<span style="color: red">15.92</span>%)  
-52점 - [황금에스티](https://finance.naver.com/item/fchart.naver?code=032560)(032560) 6110원 --- 7D(<span style="color: red">0.99</span>%) / 30D(<span style="color: red">8.33</span>%) / 60D(<span style="color: red">16.16</span>%)  
-52점 - [한화](https://finance.naver.com/item/fchart.naver?code=000880)(000880) 92900원 --- 7D(<span style="color: #0000FF">-0.64</span>%) / 30D(<span style="color: red">75.61</span>%) / 60D(<span style="color: red">108.53</span>%)  
-52점 - [한전기술](https://finance.naver.com/item/fchart.naver?code=052690)(052690) 115000원 --- 7D(<span style="color: red">9.52</span>%) / 30D(<span style="color: red">77.74</span>%) / 60D(<span style="color: red">82.25</span>%)  
-52점 - [한일철강](https://finance.naver.com/item/fchart.naver?code=002220)(002220) 2715원 --- 7D(<span style="color: red">2.84</span>%) / 30D(<span style="color: red">37.33</span>%) / 60D(<span style="color: red">35.41</span>%)  
-52점 - [한익스프레스](https://finance.naver.com/item/fchart.naver?code=014130)(014130) 3450원 --- 7D(<span style="color: #0000FF">-0.72</span>%) / 30D(<span style="color: red">1.17</span>%) / 60D(<span style="color: #0000FF">-2.95</span>%)  
-52점 - [한세예스24홀딩스](https://finance.naver.com/item/fchart.naver?code=016450)(016450) 4340원 --- 7D(<span style="color: red">1.52</span>%) / 30D(<span style="color: red">13.17</span>%) / 60D(<span style="color: red">13.91</span>%)  
-52점 - [한국주강](https://finance.naver.com/item/fchart.naver?code=025890)(025890) 1885원 --- 7D(<span style="color: red">1.73</span>%) / 30D(<span style="color: red">4.03</span>%) / 60D(<span style="color: red">4.78</span>%)  
-52점 - [하나제약](https://finance.naver.com/item/fchart.naver?code=293480)(293480) 12430원 --- 7D(<span style="color: red">1.06</span>%) / 30D(<span style="color: red">6.79</span>%) / 60D(<span style="color: red">9.90</span>%)  
-52점 - [티씨케이](https://finance.naver.com/item/fchart.naver?code=064760)(064760) 102000원 --- 7D(<span style="color: red">1.09</span>%) / 30D(<span style="color: red">18.19</span>%) / 60D(<span style="color: red">14.74</span>%)  
-52점 - [태광산업](https://finance.naver.com/item/fchart.naver?code=003240)(003240) 1096000원 --- 7D(<span style="color: #0000FF">-6.64</span>%) / 30D(<span style="color: red">26.85</span>%) / 60D(<span style="color: red">49.52</span>%)  
-52점 - [코오롱인더우](https://finance.naver.com/item/fchart.naver?code=120115)(120115) 23400원 --- 7D(<span style="color: red">5.41</span>%) / 30D(<span style="color: red">14.43</span>%) / 60D(<span style="color: red">22.83</span>%)  
-52점 - [코스모화학](https://finance.naver.com/item/fchart.naver?code=005420)(005420) 15930원 --- 7D(<span style="color: red">14.60</span>%) / 30D(<span style="color: red">20.32</span>%) / 60D(<span style="color: red">2.77</span>%)  
-52점 - [카카오페이](https://finance.naver.com/item/fchart.naver?code=377300)(377300) 92000원 --- 7D(<span style="color: red">51.32</span>%) / 30D(<span style="color: red">186.60</span>%) / 60D(<span style="color: red">201.64</span>%)  
-52점 - [천보](https://finance.naver.com/item/fchart.naver?code=278280)(278280) 41350원 --- 7D(<span style="color: red">6.16</span>%) / 30D(<span style="color: red">29.83</span>%) / 60D(<span style="color: red">13.44</span>%)  
-52점 - [진흥기업](https://finance.naver.com/item/fchart.naver?code=002780)(002780) 779원 --- 7D(<span style="color: red">1.17</span>%) / 30D(<span style="color: red">3.32</span>%) / 60D(<span style="color: red">7.75</span>%)  
-52점 - [전방](https://finance.naver.com/item/fchart.naver?code=000950)(000950) 38350원 --- 7D(<span style="color: #0000FF">-2.54</span>%) / 30D(<span style="color: red">57.82</span>%) / 60D(<span style="color: red">58.80</span>%)  
-52점 - [자이에스앤디](https://finance.naver.com/item/fchart.naver?code=317400)(317400) 3670원 --- 7D(<span style="color: #0000FF">-0.81</span>%) / 30D(<span style="color: red">5.92</span>%) / 60D(<span style="color: red">9.39</span>%)  
-52점 - [일동홀딩스](https://finance.naver.com/item/fchart.naver?code=000230)(000230) 7030원 --- 7D(<span style="color: red">1.15</span>%) / 30D(<span style="color: red">4.15</span>%) / 60D(<span style="color: red">14.50</span>%)  
-52점 - [인지컨트롤스](https://finance.naver.com/item/fchart.naver?code=023800)(023800) 6220원 --- 7D(<span style="color: red">0.16</span>%) / 30D(<span style="color: red">4.36</span>%) / 60D(<span style="color: red">6.32</span>%)  
-52점 - [인스코비](https://finance.naver.com/item/fchart.naver?code=006490)(006490) 1638원 --- 7D(<span style="color: #0000FF">-2.79</span>%) / 30D(<span style="color: red">20.00</span>%) / 60D(<span style="color: red">1.87</span>%)  
-52점 - [율촌화학](https://finance.naver.com/item/fchart.naver?code=008730)(008730) 30250원 --- 7D(<span style="color: #0000FF">-0.33</span>%) / 30D(<span style="color: red">11.01</span>%) / 60D(<span style="color: red">4.85</span>%)  
-52점 - [우진아이엔에스](https://finance.naver.com/item/fchart.naver?code=010400)(010400) 2850원 --- 7D(<span style="color: red">2.15</span>%) / 30D(<span style="color: red">7.14</span>%) / 60D(<span style="color: red">4.59</span>%)  
-52점 - [에코프로비엠](https://finance.naver.com/item/fchart.naver?code=247540)(247540) 105200원 --- 7D(<span style="color: red">16.37</span>%) / 30D(<span style="color: red">23.04</span>%) / 60D(<span style="color: red">3.95</span>%)  
-52점 - [에스엠벡셀](https://finance.naver.com/item/fchart.naver?code=010580)(010580) 1759원 --- 7D(<span style="color: #0000FF">-0.62</span>%) / 30D(<span style="color: red">44.18</span>%) / 60D(<span style="color: red">49.70</span>%)  
-52점 - [아이마켓코리아](https://finance.naver.com/item/fchart.naver?code=122900)(122900) 8340원 --- 7D(<span style="color: red">1.21</span>%) / 30D(<span style="color: red">4.12</span>%) / 60D(<span style="color: red">5.97</span>%)  
-52점 - [아모레G우](https://finance.naver.com/item/fchart.naver?code=002795)(002795) 13210원 --- 7D(<span style="color: red">8.19</span>%) / 30D(<span style="color: red">27.76</span>%) / 60D(<span style="color: red">46.78</span>%)  
-52점 - [신한지주](https://finance.naver.com/item/fchart.naver?code=055550)(055550) 61000원 --- 7D(<span style="color: red">3.04</span>%) / 30D(<span style="color: red">8.35</span>%) / 60D(<span style="color: red">24.74</span>%)  
-52점 - [세아특수강](https://finance.naver.com/item/fchart.naver?code=019440)(019440) 14450원 --- 7D(<span style="color: red">1.55</span>%) / 30D(<span style="color: red">6.80</span>%) / 60D(<span style="color: red">7.68</span>%)  
-52점 - [성창기업지주](https://finance.naver.com/item/fchart.naver?code=000180)(000180) 1627원 --- 7D(<span style="color: #0000FF">-3.73</span>%) / 30D(<span style="color: red">18.76</span>%) / 60D(<span style="color: red">27.11</span>%)  
-52점 - [서연](https://finance.naver.com/item/fchart.naver?code=007860)(007860) 10000원 --- 7D(<span style="color: #0000FF">-3.19</span>%) / 30D(<span style="color: red">24.53</span>%) / 60D(<span style="color: red">33.51</span>%)  
-52점 - [삼부토건](https://finance.naver.com/item/fchart.naver?code=001470)(001470) 347원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-52점 - [보령](https://finance.naver.com/item/fchart.naver?code=003850)(003850) 8330원 --- 7D(<span style="color: red">0.12</span>%) / 30D(<span style="color: #0000FF">-1.07</span>%) / 60D(<span style="color: #0000FF">-2.57</span>%)  
-52점 - [명신산업](https://finance.naver.com/item/fchart.naver?code=009900)(009900) 8530원 --- 7D(<span style="color: red">2.90</span>%) / 30D(<span style="color: red">5.31</span>%) / 60D(<span style="color: red">8.11</span>%)  
-52점 - [디아이](https://finance.naver.com/item/fchart.naver?code=003160)(003160) 16030원 --- 7D(<span style="color: #0000FF">-3.32</span>%) / 30D(<span style="color: red">10.78</span>%) / 60D(<span style="color: red">12.49</span>%)  
-52점 - [동일고무벨트](https://finance.naver.com/item/fchart.naver?code=163560)(163560) 7540원 --- 7D(<span style="color: red">1.21</span>%) / 30D(<span style="color: red">4.29</span>%) / 60D(<span style="color: red">4.72</span>%)  
-52점 - [동아쏘시오홀딩스](https://finance.naver.com/item/fchart.naver?code=000640)(000640) 115700원 --- 7D(<span style="color: #0000FF">-5.93</span>%) / 30D(<span style="color: red">12.55</span>%) / 60D(<span style="color: red">17.82</span>%)  
-52점 - [대한화섬](https://finance.naver.com/item/fchart.naver?code=003830)(003830) 145000원 --- 7D(<span style="color: #0000FF">-1.89</span>%) / 30D(<span style="color: red">17.22</span>%) / 60D(<span style="color: red">30.98</span>%)  
-52점 - [대한해운](https://finance.naver.com/item/fchart.naver?code=005880)(005880) 1654원 --- 7D(<span style="color: #0000FF">-4.12</span>%) / 30D(<span style="color: red">6.23</span>%) / 60D(<span style="color: red">5.89</span>%)  
-52점 - [대한항공우](https://finance.naver.com/item/fchart.naver?code=003495)(003495) 24450원 --- 7D(<span style="color: red">5.84</span>%) / 30D(<span style="color: red">6.77</span>%) / 60D(<span style="color: red">13.19</span>%)  
-52점 - [대우부품](https://finance.naver.com/item/fchart.naver?code=009320)(009320) 1026원 --- 7D(<span style="color: red">0.10</span>%) / 30D(<span style="color: red">2.29</span>%) / 60D(<span style="color: red">1.89</span>%)  
-52점 - [대성산업](https://finance.naver.com/item/fchart.naver?code=128820)(128820) 4160원 --- 7D(<span style="color: #0000FF">-0.95</span>%) / 30D(<span style="color: red">21.64</span>%) / 60D(<span style="color: red">30.82</span>%)  
-52점 - [대덕전자1우](https://finance.naver.com/item/fchart.naver?code=35320K)(35320K) 8210원 --- 7D(<span style="color: red">3.92</span>%) / 30D(<span style="color: red">10.50</span>%) / 60D(<span style="color: red">7.74</span>%)  
-52점 - [대교](https://finance.naver.com/item/fchart.naver?code=019680)(019680) 2390원 --- 7D(<span style="color: #0000FF">-2.25</span>%) / 30D(<span style="color: #0000FF">-1.24</span>%) / 60D(<span style="color: red">7.90</span>%)  
-52점 - [넥슨게임즈](https://finance.naver.com/item/fchart.naver?code=225570)(225570) 14780원 --- 7D(<span style="color: #0000FF">-0.61</span>%) / 30D(<span style="color: red">16.19</span>%) / 60D(<span style="color: red">14.93</span>%)  
-52점 - [넥센](https://finance.naver.com/item/fchart.naver?code=005720)(005720) 6520원 --- 7D(<span style="color: red">5.33</span>%) / 30D(<span style="color: red">13.79</span>%) / 60D(<span style="color: red">39.91</span>%)  
-52점 - [국동](https://finance.naver.com/item/fchart.naver?code=005320)(005320) 498원 --- 7D(<span style="color: #0000FF">-1.58</span>%) / 30D(<span style="color: #0000FF">-2.35</span>%) / 60D(<span style="color: red">12.93</span>%)  
-52점 - [고영](https://finance.naver.com/item/fchart.naver?code=098460)(098460) 16790원 --- 7D(<span style="color: red">8.39</span>%) / 30D(<span style="color: red">7.08</span>%) / 60D(<span style="color: red">26.34</span>%)  
-52점 - [SOL 미국S&P500ESG](https://finance.naver.com/item/fchart.naver?code=399110)(399110) 15900원 --- 7D(<span style="color: red">0.44</span>%) / 30D(<span style="color: red">3.45</span>%) / 60D(<span style="color: red">6.93</span>%)  
-52점 - [SNT홀딩스](https://finance.naver.com/item/fchart.naver?code=036530)(036530) 54000원 --- 7D(<span style="color: red">0.37</span>%) / 30D(<span style="color: red">22.73</span>%) / 60D(<span style="color: red">67.18</span>%)  
-52점 - [SNT중공업](https://finance.naver.com/item/fchart.naver?code=003570)(003570) 53500원 --- 7D(<span style="color: #0000FF">-2.37</span>%) / 30D(<span style="color: red">30.65</span>%) / 60D(<span style="color: red">58.99</span>%)  
-52점 - [SK디앤디](https://finance.naver.com/item/fchart.naver?code=210980)(210980) 10260원 --- 7D(<span style="color: red">2.09</span>%) / 30D(<span style="color: red">10.20</span>%) / 60D(<span style="color: red">15.93</span>%)  
-52점 - [SIMPAC](https://finance.naver.com/item/fchart.naver?code=009160)(009160) 4975원 --- 7D(<span style="color: #0000FF">-0.30</span>%) / 30D(<span style="color: red">4.63</span>%) / 60D(<span style="color: red">25.63</span>%)  
-52점 - [LX세미콘](https://finance.naver.com/item/fchart.naver?code=108320)(108320) 64400원 --- 7D(<span style="color: red">2.55</span>%) / 30D(<span style="color: red">8.42</span>%) / 60D(<span style="color: red">27.02</span>%)  
-52점 - [KPX홀딩스](https://finance.naver.com/item/fchart.naver?code=092230)(092230) 68100원 --- 7D(<span style="color: red">0.15</span>%) / 30D(<span style="color: red">3.97</span>%) / 60D(<span style="color: red">16.61</span>%)  
-52점 - [JW중외제약](https://finance.naver.com/item/fchart.naver?code=001060)(001060) 23050원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">5.01</span>%) / 60D(<span style="color: red">5.25</span>%)  
-52점 - [GS리테일](https://finance.naver.com/item/fchart.naver?code=007070)(007070) 17040원 --- 7D(<span style="color: red">3.65</span>%) / 30D(<span style="color: red">19.16</span>%) / 60D(<span style="color: red">18.42</span>%)  
-52점 - [DB금융투자](https://finance.naver.com/item/fchart.naver?code=016610)(016610) 8410원 --- 7D(<span style="color: red">1.57</span>%) / 30D(<span style="color: red">26.47</span>%) / 60D(<span style="color: red">38.10</span>%)  
-52점 - [CJ제일제당 우](https://finance.naver.com/item/fchart.naver?code=097955)(097955) 149200원 --- 7D(<span style="color: red">2.26</span>%) / 30D(<span style="color: red">11.76</span>%) / 60D(<span style="color: red">11.59</span>%)  
-51점 - [현대차우](https://finance.naver.com/item/fchart.naver?code=005385)(005385) 159800원 --- 7D(<span style="color: red">0.88</span>%) / 30D(<span style="color: red">8.93</span>%) / 60D(<span style="color: red">9.60</span>%)  
-51점 - [현대차2우B](https://finance.naver.com/item/fchart.naver?code=005387)(005387) 160600원 --- 7D(<span style="color: #0000FF">-0.19</span>%) / 30D(<span style="color: red">9.03</span>%) / 60D(<span style="color: red">8.51</span>%)  
-51점 - [현대에너지솔루션](https://finance.naver.com/item/fchart.naver?code=322000)(322000) 45600원 --- 7D(<span style="color: red">0.33</span>%) / 30D(<span style="color: red">10.41</span>%) / 60D(<span style="color: red">66.73</span>%)  
-51점 - [한화생명](https://finance.naver.com/item/fchart.naver?code=088350)(088350) 3395원 --- 7D(<span style="color: red">4.30</span>%) / 30D(<span style="color: red">19.96</span>%) / 60D(<span style="color: red">33.93</span>%)  
-51점 - [한샘](https://finance.naver.com/item/fchart.naver?code=009240)(009240) 46200원 --- 7D(<span style="color: red">4.05</span>%) / 30D(<span style="color: red">12.41</span>%) / 60D(<span style="color: red">13.10</span>%)  
-51점 - [한미약품](https://finance.naver.com/item/fchart.naver?code=128940)(128940) 297500원 --- 7D(<span style="color: red">2.94</span>%) / 30D(<span style="color: #0000FF">-3.09</span>%) / 60D(<span style="color: red">22.93</span>%)  
-51점 - [한라](https://finance.naver.com/item/fchart.naver?code=014790)(014790) 2755원 --- 7D(<span style="color: red">1.10</span>%) / 30D(<span style="color: red">11.31</span>%) / 60D(<span style="color: red">13.61</span>%)  
-51점 - [하나투어](https://finance.naver.com/item/fchart.naver?code=039130)(039130) 54900원 --- 7D(<span style="color: red">2.23</span>%) / 30D(<span style="color: red">9.80</span>%) / 60D(<span style="color: red">8.28</span>%)  
-51점 - [팜젠사이언스](https://finance.naver.com/item/fchart.naver?code=004720)(004720) 4470원 --- 7D(<span style="color: red">0.34</span>%) / 30D(<span style="color: red">5.42</span>%) / 60D(<span style="color: red">9.69</span>%)  
-51점 - [티와이홀딩스우](https://finance.naver.com/item/fchart.naver?code=36328K)(36328K) 4925원 --- 7D(<span style="color: red">2.39</span>%) / 30D(<span style="color: red">34.20</span>%) / 60D(<span style="color: red">30.46</span>%)  
-51점 - [텔코웨어](https://finance.naver.com/item/fchart.naver?code=078000)(078000) 13860원 --- 7D(<span style="color: red">1.09</span>%) / 30D(<span style="color: red">7.19</span>%) / 60D(<span style="color: red">45.89</span>%)  
-51점 - [지투알](https://finance.naver.com/item/fchart.naver?code=035000)(035000) 7780원 --- 7D(<span style="color: red">0.52</span>%) / 30D(<span style="color: red">9.27</span>%) / 60D(<span style="color: red">10.83</span>%)  
-51점 - [제일기획](https://finance.naver.com/item/fchart.naver?code=030000)(030000) 20450원 --- 7D(<span style="color: red">0.74</span>%) / 30D(<span style="color: red">12.49</span>%) / 60D(<span style="color: red">12.61</span>%)  
-51점 - [이구산업](https://finance.naver.com/item/fchart.naver?code=025820)(025820) 4830원 --- 7D(<span style="color: red">3.09</span>%) / 30D(<span style="color: red">10.53</span>%) / 60D(<span style="color: red">9.15</span>%)  
-51점 - [유한양행우](https://finance.naver.com/item/fchart.naver?code=000105)(000105) 97500원 --- 7D(<span style="color: red">1.46</span>%) / 30D(<span style="color: red">0.31</span>%) / 60D(<span style="color: #0000FF">-4.51</span>%)  
-51점 - [유한양행](https://finance.naver.com/item/fchart.naver?code=000100)(000100) 102700원 --- 7D(<span style="color: #0000FF">-0.96</span>%) / 30D(<span style="color: #0000FF">-1.44</span>%) / 60D(<span style="color: #0000FF">-11.62</span>%)  
-51점 - [유진투자증권](https://finance.naver.com/item/fchart.naver?code=001200)(001200) 3760원 --- 7D(<span style="color: red">4.30</span>%) / 30D(<span style="color: red">25.96</span>%) / 60D(<span style="color: red">45.17</span>%)  
-51점 - [오스템임플란트](https://finance.naver.com/item/fchart.naver?code=048260)(048260) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-51점 - [에쓰씨엔지니어링](https://finance.naver.com/item/fchart.naver?code=023960)(023960) 1279원 --- 7D(<span style="color: #0000FF">-4.05</span>%) / 30D(<span style="color: red">2.40</span>%) / 60D(<span style="color: #0000FF">-7.05</span>%)  
-51점 - [에스원](https://finance.naver.com/item/fchart.naver?code=012750)(012750) 68100원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">2.87</span>%) / 60D(<span style="color: red">8.10</span>%)  
-51점 - [아주스틸](https://finance.naver.com/item/fchart.naver?code=139990)(139990) 4080원 --- 7D(<span style="color: #0000FF">-2.51</span>%) / 30D(<span style="color: red">4.62</span>%) / 60D(<span style="color: red">2.51</span>%)  
-51점 - [아남전자](https://finance.naver.com/item/fchart.naver?code=008700)(008700) 1511원 --- 7D(<span style="color: red">2.79</span>%) / 30D(<span style="color: red">5.81</span>%) / 60D(<span style="color: red">6.41</span>%)  
-51점 - [씨에스윈드](https://finance.naver.com/item/fchart.naver?code=112610)(112610) 47900원 --- 7D(<span style="color: red">2.35</span>%) / 30D(<span style="color: red">13.91</span>%) / 60D(<span style="color: red">26.22</span>%)  
-51점 - [쌍용차](https://finance.naver.com/item/fchart.naver?code=003620)(003620) 3660원 --- 7D(<span style="color: red">7.33</span>%) / 30D(<span style="color: red">12.96</span>%) / 60D(<span style="color: red">12.27</span>%)  
-51점 - [심텍](https://finance.naver.com/item/fchart.naver?code=222800)(222800) 24050원 --- 7D(<span style="color: red">3.22</span>%) / 30D(<span style="color: red">27.65</span>%) / 60D(<span style="color: red">38.14</span>%)  
-51점 - [세아홀딩스](https://finance.naver.com/item/fchart.naver?code=058650)(058650) 107900원 --- 7D(<span style="color: red">4.15</span>%) / 30D(<span style="color: red">9.32</span>%) / 60D(<span style="color: red">19.62</span>%)  
-51점 - [세아베스틸지주](https://finance.naver.com/item/fchart.naver?code=001430)(001430) 26900원 --- 7D(<span style="color: red">8.91</span>%) / 30D(<span style="color: red">37.81</span>%) / 60D(<span style="color: red">53.63</span>%)  
-51점 - [세방전지](https://finance.naver.com/item/fchart.naver?code=004490)(004490) 68900원 --- 7D(<span style="color: red">0.15</span>%) / 30D(<span style="color: red">3.92</span>%) / 60D(<span style="color: red">1.03</span>%)  
-51점 - [서흥](https://finance.naver.com/item/fchart.naver?code=008490)(008490) 20050원 --- 7D(<span style="color: red">5.08</span>%) / 30D(<span style="color: red">7.85</span>%) / 60D(<span style="color: red">42.81</span>%)  
-51점 - [삼양패키징](https://finance.naver.com/item/fchart.naver?code=272550)(272550) 13540원 --- 7D(<span style="color: red">1.20</span>%) / 30D(<span style="color: red">3.04</span>%) / 60D(<span style="color: #0000FF">-0.51</span>%)  
-51점 - [모나미](https://finance.naver.com/item/fchart.naver?code=005360)(005360) 2165원 --- 7D(<span style="color: red">2.85</span>%) / 30D(<span style="color: red">5.10</span>%) / 60D(<span style="color: red">5.61</span>%)  
-51점 - [동국제약](https://finance.naver.com/item/fchart.naver?code=086450)(086450) 17520원 --- 7D(<span style="color: red">2.22</span>%) / 30D(<span style="color: red">2.16</span>%) / 60D(<span style="color: red">13.69</span>%)  
-51점 - [대한제분](https://finance.naver.com/item/fchart.naver?code=001130)(001130) 149900원 --- 7D(<span style="color: #0000FF">-2.98</span>%) / 30D(<span style="color: red">12.12</span>%) / 60D(<span style="color: red">13.82</span>%)  
-51점 - [대한제당우](https://finance.naver.com/item/fchart.naver?code=001795)(001795) 2490원 --- 7D(<span style="color: #0000FF">-0.20</span>%) / 30D(<span style="color: red">8.50</span>%) / 60D(<span style="color: #0000FF">-35.58</span>%)  
-51점 - [대한제당](https://finance.naver.com/item/fchart.naver?code=001790)(001790) 2915원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">5.23</span>%) / 60D(<span style="color: #0000FF">-22.88</span>%)  
-51점 - [남광토건](https://finance.naver.com/item/fchart.naver?code=001260)(001260) 10210원 --- 7D(<span style="color: red">2.41</span>%) / 30D(<span style="color: red">18.72</span>%) / 60D(<span style="color: red">21.69</span>%)  
-51점 - [금호건설](https://finance.naver.com/item/fchart.naver?code=002990)(002990) 3510원 --- 7D(<span style="color: red">3.24</span>%) / 30D(<span style="color: red">20.62</span>%) / 60D(<span style="color: red">19.59</span>%)  
-51점 - [YG PLUS](https://finance.naver.com/item/fchart.naver?code=037270)(037270) 8430원 --- 7D(<span style="color: red">18.57</span>%) / 30D(<span style="color: red">39.34</span>%) / 60D(<span style="color: red">65.94</span>%)  
-51점 - [SOL 200 Top10](https://finance.naver.com/item/fchart.naver?code=411540)(411540) 9065원 --- 7D(<span style="color: red">4.80</span>%) / 30D(<span style="color: red">16.97</span>%) / 60D(<span style="color: red">15.55</span>%)  
-51점 - [SJM](https://finance.naver.com/item/fchart.naver?code=123700)(123700) 3475원 --- 7D(<span style="color: red">1.02</span>%) / 30D(<span style="color: red">10.49</span>%) / 60D(<span style="color: red">13.75</span>%)  
-51점 - [SFA반도체](https://finance.naver.com/item/fchart.naver?code=036540)(036540) 3265원 --- 7D(<span style="color: red">2.35</span>%) / 30D(<span style="color: red">13.57</span>%) / 60D(<span style="color: red">8.11</span>%)  
-51점 - [NI스틸](https://finance.naver.com/item/fchart.naver?code=008260)(008260) 3785원 --- 7D(<span style="color: #0000FF">-0.92</span>%) / 30D(<span style="color: red">8.76</span>%) / 60D(<span style="color: red">12.31</span>%)  
-51점 - [LX하우시스](https://finance.naver.com/item/fchart.naver?code=108670)(108670) 32250원 --- 7D(<span style="color: red">1.42</span>%) / 30D(<span style="color: red">10.45</span>%) / 60D(<span style="color: red">9.32</span>%)  
-51점 - [LG헬로비전](https://finance.naver.com/item/fchart.naver?code=037560)(037560) 2925원 --- 7D(<span style="color: red">12.28</span>%) / 30D(<span style="color: red">17.47</span>%) / 60D(<span style="color: red">20.87</span>%)  
-51점 - [GS건설](https://finance.naver.com/item/fchart.naver?code=006360)(006360) 21950원 --- 7D(<span style="color: #0000FF">-2.88</span>%) / 30D(<span style="color: red">4.77</span>%) / 60D(<span style="color: red">30.58</span>%)  
-51점 - [CS홀딩스](https://finance.naver.com/item/fchart.naver?code=000590)(000590) 89000원 --- 7D(<span style="color: #0000FF">-4.51</span>%) / 30D(<span style="color: red">18.98</span>%) / 60D(<span style="color: red">21.42</span>%)  
-50점 - [효성첨단소재](https://finance.naver.com/item/fchart.naver?code=298050)(298050) 205000원 --- 7D(<span style="color: red">4.38</span>%) / 30D(<span style="color: red">4.91</span>%) / 60D(<span style="color: red">16.15</span>%)  
-50점 - [화승엔터프라이즈](https://finance.naver.com/item/fchart.naver?code=241590)(241590) 7570원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-2.45</span>%) / 60D(<span style="color: #0000FF">-1.82</span>%)  
-50점 - [헬릭스미스](https://finance.naver.com/item/fchart.naver?code=084990)(084990) 3100원 --- 7D(<span style="color: red">9.93</span>%) / 30D(<span style="color: red">11.91</span>%) / 60D(<span style="color: red">13.14</span>%)  
-50점 - [한라홀딩스](https://finance.naver.com/item/fchart.naver?code=060980)(060980) 41300원 --- 7D(<span style="color: red">0.12</span>%) / 30D(<span style="color: red">8.26</span>%) / 60D(<span style="color: red">14.88</span>%)  
-50점 - [한국수출포장](https://finance.naver.com/item/fchart.naver?code=002200)(002200) 2985원 --- 7D(<span style="color: #0000FF">-1.97</span>%) / 30D(<span style="color: red">4.55</span>%) / 60D(<span style="color: red">6.61</span>%)  
-50점 - [파라다이스](https://finance.naver.com/item/fchart.naver?code=034230)(034230) 14860원 --- 7D(<span style="color: red">5.32</span>%) / 30D(<span style="color: red">13.26</span>%) / 60D(<span style="color: red">21.11</span>%)  
-50점 - [태영건설](https://finance.naver.com/item/fchart.naver?code=009410)(009410) 2945원 --- 7D(<span style="color: #0000FF">-3.12</span>%) / 30D(<span style="color: red">8.87</span>%) / 60D(<span style="color: red">20.20</span>%)  
-50점 - [콤텍시스템](https://finance.naver.com/item/fchart.naver?code=031820)(031820) 735원 --- 7D(<span style="color: red">1.94</span>%) / 30D(<span style="color: red">19.12</span>%) / 60D(<span style="color: red">13.60</span>%)  
-50점 - [케이씨](https://finance.naver.com/item/fchart.naver?code=029460)(029460) 23900원 --- 7D(<span style="color: #0000FF">-0.83</span>%) / 30D(<span style="color: red">11.94</span>%) / 60D(<span style="color: red">27.40</span>%)  
-50점 - [천일고속](https://finance.naver.com/item/fchart.naver?code=000650)(000650) 42150원 --- 7D(<span style="color: red">0.48</span>%) / 30D(<span style="color: red">5.90</span>%) / 60D(<span style="color: red">7.39</span>%)  
-50점 - [진양홀딩스](https://finance.naver.com/item/fchart.naver?code=100250)(100250) 3300원 --- 7D(<span style="color: #0000FF">-0.15</span>%) / 30D(<span style="color: red">7.49</span>%) / 60D(<span style="color: red">9.45</span>%)  
-50점 - [조광페인트](https://finance.naver.com/item/fchart.naver?code=004910)(004910) 5650원 --- 7D(<span style="color: red">2.91</span>%) / 30D(<span style="color: red">6.40</span>%) / 60D(<span style="color: #0000FF">-1.05</span>%)  
-50점 - [제주은행](https://finance.naver.com/item/fchart.naver?code=006220)(006220) 13840원 --- 7D(<span style="color: red">37.85</span>%) / 30D(<span style="color: red">47.23</span>%) / 60D(<span style="color: red">17.29</span>%)  
-50점 - [제일파마홀딩스](https://finance.naver.com/item/fchart.naver?code=002620)(002620) 9020원 --- 7D(<span style="color: red">7.51</span>%) / 30D(<span style="color: red">11.91</span>%) / 60D(<span style="color: red">12.75</span>%)  
-50점 - [인팩](https://finance.naver.com/item/fchart.naver?code=023810)(023810) 5870원 --- 7D(<span style="color: #0000FF">-2.33</span>%) / 30D(<span style="color: red">2.62</span>%) / 60D(<span style="color: red">3.53</span>%)  
-50점 - [이수화학](https://finance.naver.com/item/fchart.naver?code=005950)(005950) 5950원 --- 7D(<span style="color: red">11.42</span>%) / 30D(<span style="color: red">14.20</span>%) / 60D(<span style="color: red">3.30</span>%)  
-50점 - [우진](https://finance.naver.com/item/fchart.naver?code=105840)(105840) 11940원 --- 7D(<span style="color: red">10.15</span>%) / 30D(<span style="color: red">31.06</span>%) / 60D(<span style="color: red">57.31</span>%)  
-50점 - [아세아](https://finance.naver.com/item/fchart.naver?code=002030)(002030) 315000원 --- 7D(<span style="color: red">2.61</span>%) / 30D(<span style="color: red">9.00</span>%) / 60D(<span style="color: red">17.10</span>%)  
-50점 - [써니전자](https://finance.naver.com/item/fchart.naver?code=004770)(004770) 1772원 --- 7D(<span style="color: red">3.63</span>%) / 30D(<span style="color: red">6.43</span>%) / 60D(<span style="color: #0000FF">-13.35</span>%)  
-50점 - [신영증권](https://finance.naver.com/item/fchart.naver?code=001720)(001720) 120300원 --- 7D(<span style="color: red">1.09</span>%) / 30D(<span style="color: red">9.66</span>%) / 60D(<span style="color: red">51.32</span>%)  
-50점 - [세우글로벌](https://finance.naver.com/item/fchart.naver?code=013000)(013000) 1165원 --- 7D(<span style="color: #0000FF">-2.84</span>%) / 30D(<span style="color: red">0.09</span>%) / 60D(<span style="color: #0000FF">-18.36</span>%)  
-50점 - [삼양홀딩스우](https://finance.naver.com/item/fchart.naver?code=000075)(000075) 87200원 --- 7D(<span style="color: red">0.46</span>%) / 30D(<span style="color: red">39.97</span>%) / 60D(<span style="color: red">45.09</span>%)  
-50점 - [삼양사](https://finance.naver.com/item/fchart.naver?code=145990)(145990) 52400원 --- 7D(<span style="color: red">0.38</span>%) / 30D(<span style="color: red">8.26</span>%) / 60D(<span style="color: red">11.61</span>%)  
-50점 - [백광산업](https://finance.naver.com/item/fchart.naver?code=001340)(001340) 5830원 --- 7D(<span style="color: red">2.64</span>%) / 30D(<span style="color: red">4.67</span>%) / 60D(<span style="color: #0000FF">-6.42</span>%)  
-50점 - [두산밥캣](https://finance.naver.com/item/fchart.naver?code=241560)(241560) 61800원 --- 7D(<span style="color: red">18.16</span>%) / 30D(<span style="color: red">33.05</span>%) / 60D(<span style="color: red">36.42</span>%)  
-50점 - [동양생명](https://finance.naver.com/item/fchart.naver?code=082640)(082640) 6900원 --- 7D(<span style="color: #0000FF">-0.58</span>%) / 30D(<span style="color: red">23.21</span>%) / 60D(<span style="color: red">10.93</span>%)  
-50점 - [동양](https://finance.naver.com/item/fchart.naver?code=001520)(001520) 654원 --- 7D(<span style="color: red">2.99</span>%) / 30D(<span style="color: red">15.14</span>%) / 60D(<span style="color: red">8.46</span>%)  
-50점 - [동성케미컬](https://finance.naver.com/item/fchart.naver?code=102260)(102260) 4350원 --- 7D(<span style="color: #0000FF">-0.57</span>%) / 30D(<span style="color: red">8.21</span>%) / 60D(<span style="color: red">8.75</span>%)  
-50점 - [더블유게임즈](https://finance.naver.com/item/fchart.naver?code=192080)(192080) 62100원 --- 7D(<span style="color: red">15.64</span>%) / 30D(<span style="color: red">20.82</span>%) / 60D(<span style="color: red">12.70</span>%)  
-50점 - [대창](https://finance.naver.com/item/fchart.naver?code=012800)(012800) 1408원 --- 7D(<span style="color: red">0.93</span>%) / 30D(<span style="color: red">6.26</span>%) / 60D(<span style="color: red">3.45</span>%)  
-50점 - [강원랜드](https://finance.naver.com/item/fchart.naver?code=035250)(035250) 18260원 --- 7D(<span style="color: red">2.07</span>%) / 30D(<span style="color: red">5.98</span>%) / 60D(<span style="color: red">14.48</span>%)  
-50점 - [STX](https://finance.naver.com/item/fchart.naver?code=011810)(011810) 3650원 --- 7D(<span style="color: red">4.14</span>%) / 30D(<span style="color: red">12.65</span>%) / 60D(<span style="color: red">2.96</span>%)  
-50점 - [SK렌터카](https://finance.naver.com/item/fchart.naver?code=068400)(068400) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-50점 - [LG전자우](https://finance.naver.com/item/fchart.naver?code=066575)(066575) 37550원 --- 7D(<span style="color: red">1.90</span>%) / 30D(<span style="color: red">6.98</span>%) / 60D(<span style="color: red">6.68</span>%)  
-50점 - [KCTC](https://finance.naver.com/item/fchart.naver?code=009070)(009070) 4190원 --- 7D(<span style="color: red">0.72</span>%) / 30D(<span style="color: red">7.16</span>%) / 60D(<span style="color: red">8.69</span>%)  
-50점 - [GS글로벌](https://finance.naver.com/item/fchart.naver?code=001250)(001250) 2730원 --- 7D(<span style="color: red">0.92</span>%) / 30D(<span style="color: red">5.20</span>%) / 60D(<span style="color: red">3.41</span>%)  
-50점 - [DB하이텍](https://finance.naver.com/item/fchart.naver?code=000990)(000990) 47000원 --- 7D(<span style="color: #0000FF">-0.53</span>%) / 30D(<span style="color: red">22.88</span>%) / 60D(<span style="color: red">14.91</span>%)  
-49점 - [호텔신라우](https://finance.naver.com/item/fchart.naver?code=008775)(008775) 46300원 --- 7D(<span style="color: red">2.09</span>%) / 30D(<span style="color: red">7.18</span>%) / 60D(<span style="color: red">46.75</span>%)  
-49점 - [현대홈쇼핑](https://finance.naver.com/item/fchart.naver?code=057050)(057050) 55900원 --- 7D(<span style="color: red">3.33</span>%) / 30D(<span style="color: red">2.95</span>%) / 60D(<span style="color: red">15.73</span>%)  
-49점 - [현대코퍼레이션](https://finance.naver.com/item/fchart.naver?code=011760)(011760) 29350원 --- 7D(<span style="color: red">6.92</span>%) / 30D(<span style="color: red">19.07</span>%) / 60D(<span style="color: red">33.71</span>%)  
-49점 - [현대차3우B](https://finance.naver.com/item/fchart.naver?code=005389)(005389) 158800원 --- 7D(<span style="color: red">0.70</span>%) / 30D(<span style="color: red">8.03</span>%) / 60D(<span style="color: red">8.99</span>%)  
-49점 - [한화솔루션](https://finance.naver.com/item/fchart.naver?code=009830)(009830) 32300원 --- 7D(<span style="color: red">0.78</span>%) / 30D(<span style="color: red">12.74</span>%) / 60D(<span style="color: red">34.86</span>%)  
-49점 - [한컴라이프케어](https://finance.naver.com/item/fchart.naver?code=372910)(372910) 3180원 --- 7D(<span style="color: #0000FF">-4.22</span>%) / 30D(<span style="color: red">8.72</span>%) / 60D(<span style="color: red">0.79</span>%)  
-49점 - [한진칼](https://finance.naver.com/item/fchart.naver?code=180640)(180640) 126000원 --- 7D(<span style="color: #0000FF">-4.18</span>%) / 30D(<span style="color: #0000FF">-5.19</span>%) / 60D(<span style="color: red">52.36</span>%)  
-49점 - [한진중공업홀딩스](https://finance.naver.com/item/fchart.naver?code=003480)(003480) 5270원 --- 7D(<span style="color: #0000FF">-1.50</span>%) / 30D(<span style="color: red">1.74</span>%) / 60D(<span style="color: red">26.68</span>%)  
-49점 - [한솔로지스틱스](https://finance.naver.com/item/fchart.naver?code=009180)(009180) 2340원 --- 7D(<span style="color: red">0.43</span>%) / 30D(<span style="color: red">6.36</span>%) / 60D(<span style="color: red">8.58</span>%)  
-49점 - [한세실업](https://finance.naver.com/item/fchart.naver?code=105630)(105630) 10670원 --- 7D(<span style="color: red">2.20</span>%) / 30D(<span style="color: red">2.99</span>%) / 60D(<span style="color: #0000FF">-2.02</span>%)  
-49점 - [한국공항](https://finance.naver.com/item/fchart.naver?code=005430)(005430) 54300원 --- 7D(<span style="color: red">1.50</span>%) / 30D(<span style="color: red">4.22</span>%) / 60D(<span style="color: red">17.03</span>%)  
-49점 - [하나머티리얼즈](https://finance.naver.com/item/fchart.naver?code=166090)(166090) 25550원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">4.71</span>%) / 60D(<span style="color: #0000FF">-8.75</span>%)  
-49점 - [퍼시스](https://finance.naver.com/item/fchart.naver?code=016800)(016800) 43700원 --- 7D(<span style="color: #0000FF">-1.58</span>%) / 30D(<span style="color: #0000FF">-1.35</span>%) / 60D(<span style="color: red">1.75</span>%)  
-49점 - [티에이치엔](https://finance.naver.com/item/fchart.naver?code=019180)(019180) 2925원 --- 7D(<span style="color: red">0.34</span>%) / 30D(<span style="color: red">5.98</span>%) / 60D(<span style="color: red">0.34</span>%)  
-49점 - [코웨이](https://finance.naver.com/item/fchart.naver?code=021240)(021240) 97300원 --- 7D(<span style="color: red">1.67</span>%) / 30D(<span style="color: red">2.75</span>%) / 60D(<span style="color: red">23.79</span>%)  
-49점 - [케이씨텍](https://finance.naver.com/item/fchart.naver?code=281820)(281820) 26900원 --- 7D(<span style="color: red">1.51</span>%) / 30D(<span style="color: red">4.47</span>%) / 60D(<span style="color: red">3.07</span>%)  
-49점 - [지누스](https://finance.naver.com/item/fchart.naver?code=013890)(013890) 17150원 --- 7D(<span style="color: red">2.88</span>%) / 30D(<span style="color: #0000FF">-1.32</span>%) / 60D(<span style="color: #0000FF">-4.51</span>%)  
-49점 - [제주항공](https://finance.naver.com/item/fchart.naver?code=089590)(089590) 7300원 --- 7D(<span style="color: red">5.95</span>%) / 30D(<span style="color: red">9.12</span>%) / 60D(<span style="color: red">9.12</span>%)  
-49점 - [제일약품](https://finance.naver.com/item/fchart.naver?code=271980)(271980) 16250원 --- 7D(<span style="color: red">13.64</span>%) / 30D(<span style="color: red">28.66</span>%) / 60D(<span style="color: red">27.85</span>%)  
-49점 - [위지윅스튜디오](https://finance.naver.com/item/fchart.naver?code=299900)(299900) 1236원 --- 7D(<span style="color: #0000FF">-15.75</span>%) / 30D(<span style="color: #0000FF">-8.71</span>%) / 60D(<span style="color: red">0.49</span>%)  
-49점 - [용평리조트](https://finance.naver.com/item/fchart.naver?code=070960)(070960) 5230원 --- 7D(<span style="color: red">2.15</span>%) / 30D(<span style="color: red">23.93</span>%) / 60D(<span style="color: red">18.73</span>%)  
-49점 - [오리온홀딩스](https://finance.naver.com/item/fchart.naver?code=001800)(001800) 22050원 --- 7D(<span style="color: red">3.52</span>%) / 30D(<span style="color: red">19.12</span>%) / 60D(<span style="color: red">29.10</span>%)  
-49점 - [영풍](https://finance.naver.com/item/fchart.naver?code=000670)(000670) 43450원 --- 7D(<span style="color: red">3.21</span>%) / 30D(<span style="color: red">19.37</span>%) / 60D(<span style="color: #0000FF">-88.18</span>%)  
-49점 - [에이블씨엔씨](https://finance.naver.com/item/fchart.naver?code=078520)(078520) 7950원 --- 7D(<span style="color: red">7.72</span>%) / 30D(<span style="color: red">12.45</span>%) / 60D(<span style="color: red">16.74</span>%)  
-49점 - [신세계](https://finance.naver.com/item/fchart.naver?code=004170)(004170) 185000원 --- 7D(<span style="color: red">0.38</span>%) / 30D(<span style="color: red">5.53</span>%) / 60D(<span style="color: red">23.75</span>%)  
-49점 - [송원산업](https://finance.naver.com/item/fchart.naver?code=004430)(004430) 12870원 --- 7D(<span style="color: red">4.55</span>%) / 30D(<span style="color: red">9.44</span>%) / 60D(<span style="color: red">9.25</span>%)  
-49점 - [성문전자](https://finance.naver.com/item/fchart.naver?code=014910)(014910) 1222원 --- 7D(<span style="color: red">1.41</span>%) / 30D(<span style="color: red">2.09</span>%) / 60D(<span style="color: red">8.72</span>%)  
-49점 - [삼천당제약](https://finance.naver.com/item/fchart.naver?code=000250)(000250) 166600원 --- 7D(<span style="color: red">3.80</span>%) / 30D(<span style="color: red">9.75</span>%) / 60D(<span style="color: red">17.49</span>%)  
-49점 - [삼익THK](https://finance.naver.com/item/fchart.naver?code=004380)(004380) 9960원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: #0000FF">-2.92</span>%)  
-49점 - [부광약품](https://finance.naver.com/item/fchart.naver?code=003000)(003000) 3685원 --- 7D(<span style="color: #0000FF">-3.28</span>%) / 30D(<span style="color: #0000FF">-11.20</span>%) / 60D(<span style="color: #0000FF">-8.10</span>%)  
-49점 - [백산](https://finance.naver.com/item/fchart.naver?code=035150)(035150) 14640원 --- 7D(<span style="color: red">1.67</span>%) / 30D(<span style="color: red">1.17</span>%) / 60D(<span style="color: red">2.88</span>%)  
-49점 - [미원홀딩스](https://finance.naver.com/item/fchart.naver?code=107590)(107590) 76600원 --- 7D(<span style="color: red">1.73</span>%) / 30D(<span style="color: red">2.82</span>%) / 60D(<span style="color: red">4.93</span>%)  
-49점 - [미래산업](https://finance.naver.com/item/fchart.naver?code=025560)(025560) 650원 --- 7D(<span style="color: red">1.25</span>%) / 30D(<span style="color: red">1.88</span>%) / 60D(<span style="color: red">1.40</span>%)  
-49점 - [명문제약](https://finance.naver.com/item/fchart.naver?code=017180)(017180) 1680원 --- 7D(<span style="color: #0000FF">-0.53</span>%) / 30D(<span style="color: #0000FF">-0.59</span>%) / 60D(<span style="color: red">0.60</span>%)  
-49점 - [맥쿼리인프라](https://finance.naver.com/item/fchart.naver?code=088980)(088980) 11860원 --- 7D(<span style="color: red">0.25</span>%) / 30D(<span style="color: red">1.54</span>%) / 60D(<span style="color: red">4.59</span>%)  
-49점 - [리노공업](https://finance.naver.com/item/fchart.naver?code=058470)(058470) 51000원 --- 7D(<span style="color: red">1.59</span>%) / 30D(<span style="color: red">25.00</span>%) / 60D(<span style="color: #0000FF">-70.40</span>%)  
-49점 - [롯데하이마트](https://finance.naver.com/item/fchart.naver?code=071840)(071840) 8150원 --- 7D(<span style="color: red">3.16</span>%) / 30D(<span style="color: red">4.09</span>%) / 60D(<span style="color: red">12.72</span>%)  
-49점 - [롯데지주](https://finance.naver.com/item/fchart.naver?code=004990)(004990) 28000원 --- 7D(<span style="color: red">1.45</span>%) / 30D(<span style="color: red">8.32</span>%) / 60D(<span style="color: red">25.56</span>%)  
-49점 - [두산퓨얼셀2우B](https://finance.naver.com/item/fchart.naver?code=33626L)(33626L) 11500원 --- 7D(<span style="color: red">37.40</span>%) / 30D(<span style="color: red">44.11</span>%) / 60D(<span style="color: red">46.31</span>%)  
-49점 - [덕산네오룩스](https://finance.naver.com/item/fchart.naver?code=213420)(213420) 36050원 --- 7D(<span style="color: #0000FF">-1.77</span>%) / 30D(<span style="color: red">2.85</span>%) / 60D(<span style="color: red">21.59</span>%)  
-49점 - [넥센타이어](https://finance.naver.com/item/fchart.naver?code=002350)(002350) 6480원 --- 7D(<span style="color: red">1.57</span>%) / 30D(<span style="color: red">5.71</span>%) / 60D(<span style="color: red">22.96</span>%)  
-49점 - [고려아연](https://finance.naver.com/item/fchart.naver?code=010130)(010130) 819000원 --- 7D(<span style="color: #0000FF">-2.03</span>%) / 30D(<span style="color: red">5.54</span>%) / 60D(<span style="color: red">16.01</span>%)  
-49점 - [계양전기](https://finance.naver.com/item/fchart.naver?code=012200)(012200) 1458원 --- 7D(<span style="color: red">0.48</span>%) / 30D(<span style="color: #0000FF">-0.27</span>%) / 60D(<span style="color: #0000FF">-1.82</span>%)  
-49점 - [갤럭시아에스엠](https://finance.naver.com/item/fchart.naver?code=011420)(011420) 2850원 --- 7D(<span style="color: red">0.35</span>%) / 30D(<span style="color: red">28.09</span>%) / 60D(<span style="color: red">17.77</span>%)  
-49점 - [WISCOM](https://finance.naver.com/item/fchart.naver?code=024070)(024070) 2035원 --- 7D(<span style="color: red">2.16</span>%) / 30D(<span style="color: red">2.73</span>%) / 60D(<span style="color: red">2.78</span>%)  
-49점 - [TKG휴켐스](https://finance.naver.com/item/fchart.naver?code=069260)(069260) 16650원 --- 7D(<span style="color: red">2.90</span>%) / 30D(<span style="color: red">2.84</span>%) / 60D(<span style="color: red">3.22</span>%)  
-49점 - [STX중공업](https://finance.naver.com/item/fchart.naver?code=071970)(071970) 55600원 --- 7D(<span style="color: red">6.72</span>%) / 30D(<span style="color: red">32.54</span>%) / 60D(<span style="color: red">64.50</span>%)  
-49점 - [SK증권우](https://finance.naver.com/item/fchart.naver?code=001515)(001515) 2210원 --- 7D(<span style="color: #0000FF">-5.35</span>%) / 30D(<span style="color: red">26.36</span>%) / 60D(<span style="color: red">23.95</span>%)  
-49점 - [NHN](https://finance.naver.com/item/fchart.naver?code=181710)(181710) 32950원 --- 7D(<span style="color: red">2.33</span>%) / 30D(<span style="color: red">75.55</span>%) / 60D(<span style="color: red">53.26</span>%)  
-49점 - [LG화학우](https://finance.naver.com/item/fchart.naver?code=051915)(051915) 107700원 --- 7D(<span style="color: red">2.77</span>%) / 30D(<span style="color: red">14.57</span>%) / 60D(<span style="color: #0000FF">-2.89</span>%)  
-49점 - [LG이노텍](https://finance.naver.com/item/fchart.naver?code=011070)(011070) 151700원 --- 7D(<span style="color: #0000FF">-1.11</span>%) / 30D(<span style="color: red">6.08</span>%) / 60D(<span style="color: red">4.26</span>%)  
-49점 - [KC코트렐](https://finance.naver.com/item/fchart.naver?code=119650)(119650) 918원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">100.00</span>%) / 60D(<span style="color: red">100.00</span>%)  
-49점 - [KB금융](https://finance.naver.com/item/fchart.naver?code=105560)(105560) 112300원 --- 7D(<span style="color: red">4.95</span>%) / 30D(<span style="color: red">10.10</span>%) / 60D(<span style="color: red">32.12</span>%)  
-49점 - [DGB금융지주](https://finance.naver.com/item/fchart.naver?code=139130)(139130) 12130원 --- 7D(<span style="color: red">4.57</span>%) / 30D(<span style="color: red">14.43</span>%) / 60D(<span style="color: red">26.22</span>%)  
-49점 - [CJ4우(전환)](https://finance.naver.com/item/fchart.naver?code=00104K)(00104K) 131900원 --- 7D(<span style="color: red">7.59</span>%) / 30D(<span style="color: red">27.19</span>%) / 60D(<span style="color: red">39.28</span>%)  
-48점 - [호텔신라](https://finance.naver.com/item/fchart.naver?code=008770)(008770) 51600원 --- 7D(<span style="color: red">2.99</span>%) / 30D(<span style="color: red">6.39</span>%) / 60D(<span style="color: red">33.85</span>%)  
-48점 - [현대로템](https://finance.naver.com/item/fchart.naver?code=064350)(064350) 200000원 --- 7D(<span style="color: red">1.78</span>%) / 30D(<span style="color: red">46.41</span>%) / 60D(<span style="color: red">79.37</span>%)  
-48점 - [한화시스템](https://finance.naver.com/item/fchart.naver?code=272210)(272210) 63100원 --- 7D(<span style="color: #0000FF">-7.61</span>%) / 30D(<span style="color: red">37.62</span>%) / 60D(<span style="color: red">62.63</span>%)  
-48점 - [한화솔루션우](https://finance.naver.com/item/fchart.naver?code=009835)(009835) 26450원 --- 7D(<span style="color: red">1.73</span>%) / 30D(<span style="color: red">13.28</span>%) / 60D(<span style="color: red">23.60</span>%)  
-48점 - [한섬](https://finance.naver.com/item/fchart.naver?code=020000)(020000) 17390원 --- 7D(<span style="color: red">2.23</span>%) / 30D(<span style="color: red">11.12</span>%) / 60D(<span style="color: red">12.85</span>%)  
-48점 - [한독](https://finance.naver.com/item/fchart.naver?code=002390)(002390) 11840원 --- 7D(<span style="color: red">2.96</span>%) / 30D(<span style="color: red">3.86</span>%) / 60D(<span style="color: red">2.69</span>%)  
-48점 - [한국화장품](https://finance.naver.com/item/fchart.naver?code=123690)(123690) 9290원 --- 7D(<span style="color: red">28.67</span>%) / 30D(<span style="color: red">36.42</span>%) / 60D(<span style="color: red">34.64</span>%)  
-48점 - [한국콜마](https://finance.naver.com/item/fchart.naver?code=161890)(161890) 89800원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">7.03</span>%) / 60D(<span style="color: red">23.52</span>%)  
-48점 - [한국석유](https://finance.naver.com/item/fchart.naver?code=004090)(004090) 14430원 --- 7D(<span style="color: #0000FF">-28.92</span>%) / 30D(<span style="color: red">18.67</span>%) / 60D(<span style="color: red">18.96</span>%)  
-48점 - [조선내화](https://finance.naver.com/item/fchart.naver?code=000480)(000480) 5540원 --- 7D(<span style="color: red">1.47</span>%) / 30D(<span style="color: red">5.52</span>%) / 60D(<span style="color: red">7.57</span>%)  
-48점 - [일진다이아](https://finance.naver.com/item/fchart.naver?code=081000)(081000) 13460원 --- 7D(<span style="color: red">4.91</span>%) / 30D(<span style="color: red">11.61</span>%) / 60D(<span style="color: red">9.70</span>%)  
-48점 - [와이지엔터테인먼트](https://finance.naver.com/item/fchart.naver?code=122870)(122870) 93000원 --- 7D(<span style="color: red">8.64</span>%) / 30D(<span style="color: red">15.38</span>%) / 60D(<span style="color: red">48.56</span>%)  
-48점 - [에코프로](https://finance.naver.com/item/fchart.naver?code=086520)(086520) 48900원 --- 7D(<span style="color: red">16.99</span>%) / 30D(<span style="color: red">23.80</span>%) / 60D(<span style="color: #0000FF">-1.41</span>%)  
-48점 - [에셋플러스 글로벌플랫폼액티브](https://finance.naver.com/item/fchart.naver?code=407830)(407830) 14325원 --- 7D(<span style="color: red">4.33</span>%) / 30D(<span style="color: red">6.35</span>%) / 60D(<span style="color: red">25.66</span>%)  
-48점 - [솔루스첨단소재](https://finance.naver.com/item/fchart.naver?code=336370)(336370) 8570원 --- 7D(<span style="color: red">3.25</span>%) / 30D(<span style="color: red">16.12</span>%) / 60D(<span style="color: red">7.39</span>%)  
-48점 - [셀트리온헬스케어](https://finance.naver.com/item/fchart.naver?code=091990)(091990) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-48점 - [세이브존I&C](https://finance.naver.com/item/fchart.naver?code=067830)(067830) 2640원 --- 7D(<span style="color: #0000FF">-3.30</span>%) / 30D(<span style="color: red">7.76</span>%) / 60D(<span style="color: red">17.86</span>%)  
-48점 - [성안](https://finance.naver.com/item/fchart.naver?code=011300)(011300) 476원 --- 7D(<span style="color: red">1.28</span>%) / 30D(<span style="color: red">4.39</span>%) / 60D(<span style="color: #0000FF">-4.42</span>%)  
-48점 - [삼화페인트](https://finance.naver.com/item/fchart.naver?code=000390)(000390) 6150원 --- 7D(<span style="color: red">1.32</span>%) / 30D(<span style="color: red">4.24</span>%) / 60D(<span style="color: red">2.33</span>%)  
-48점 - [삼영무역](https://finance.naver.com/item/fchart.naver?code=002810)(002810) 15850원 --- 7D(<span style="color: red">0.76</span>%) / 30D(<span style="color: red">5.60</span>%) / 60D(<span style="color: red">16.54</span>%)  
-48점 - [삼양식품](https://finance.naver.com/item/fchart.naver?code=003230)(003230) 1296000원 --- 7D(<span style="color: red">1.89</span>%) / 30D(<span style="color: red">16.13</span>%) / 60D(<span style="color: red">39.96</span>%)  
-48점 - [삼성전자우](https://finance.naver.com/item/fchart.naver?code=005935)(005935) 49400원 --- 7D(<span style="color: red">0.61</span>%) / 30D(<span style="color: red">10.27</span>%) / 60D(<span style="color: red">7.74</span>%)  
-48점 - [삼성전자](https://finance.naver.com/item/fchart.naver?code=005930)(005930) 60500원 --- 7D(<span style="color: red">1.17</span>%) / 30D(<span style="color: red">10.60</span>%) / 60D(<span style="color: red">8.62</span>%)  
-48점 - [삼강엠앤티](https://finance.naver.com/item/fchart.naver?code=100090)(100090) 19200원 --- 7D(<span style="color: red">4.18</span>%) / 30D(<span style="color: red">5.21</span>%) / 60D(<span style="color: red">26.57</span>%)  
-48점 - [부산산업](https://finance.naver.com/item/fchart.naver?code=011390)(011390) 107200원 --- 7D(<span style="color: #0000FF">-0.92</span>%) / 30D(<span style="color: red">12.84</span>%) / 60D(<span style="color: red">23.22</span>%)  
-48점 - [무림페이퍼](https://finance.naver.com/item/fchart.naver?code=009200)(009200) 2175원 --- 7D(<span style="color: red">0.93</span>%) / 30D(<span style="color: red">3.08</span>%) / 60D(<span style="color: #0000FF">-0.23</span>%)  
-48점 - [만도](https://finance.naver.com/item/fchart.naver?code=204320)(204320) 33750원 --- 7D(<span style="color: red">1.20</span>%) / 30D(<span style="color: red">0.75</span>%) / 60D(<span style="color: #0000FF">-7.66</span>%)  
-48점 - [롯데칠성](https://finance.naver.com/item/fchart.naver?code=005300)(005300) 121100원 --- 7D(<span style="color: red">2.54</span>%) / 30D(<span style="color: red">18.49</span>%) / 60D(<span style="color: red">12.65</span>%)  
-48점 - [롯데정밀화학](https://finance.naver.com/item/fchart.naver?code=004000)(004000) 38400원 --- 7D(<span style="color: red">1.59</span>%) / 30D(<span style="color: red">4.92</span>%) / 60D(<span style="color: red">13.11</span>%)  
-48점 - [동성제약](https://finance.naver.com/item/fchart.naver?code=002210)(002210) 973원 --- 7D(<span style="color: #0000FF">-65.00</span>%) / 30D(<span style="color: #0000FF">-65.00</span>%) / 60D(<span style="color: #0000FF">-75.74</span>%)  
-48점 - [동국제강](https://finance.naver.com/item/fchart.naver?code=001230)(001230) 8350원 --- 7D(<span style="color: #0000FF">-1.65</span>%) / 30D(<span style="color: red">8.58</span>%) / 60D(<span style="color: red">18.61</span>%)  
-48점 - [대웅](https://finance.naver.com/item/fchart.naver?code=003090)(003090) 23200원 --- 7D(<span style="color: #0000FF">-6.45</span>%) / 30D(<span style="color: red">17.65</span>%) / 60D(<span style="color: red">15.14</span>%)  
-48점 - [대교우B](https://finance.naver.com/item/fchart.naver?code=019685)(019685) 1317원 --- 7D(<span style="color: #0000FF">-1.94</span>%) / 30D(<span style="color: red">1.93</span>%) / 60D(<span style="color: red">0.53</span>%)  
-48점 - [노루페인트](https://finance.naver.com/item/fchart.naver?code=090350)(090350) 9390원 --- 7D(<span style="color: red">3.53</span>%) / 30D(<span style="color: red">9.70</span>%) / 60D(<span style="color: red">14.93</span>%)  
-48점 - [넥센우](https://finance.naver.com/item/fchart.naver?code=005725)(005725) 4280원 --- 7D(<span style="color: red">3.76</span>%) / 30D(<span style="color: red">6.60</span>%) / 60D(<span style="color: red">29.31</span>%)  
-48점 - [기신정기](https://finance.naver.com/item/fchart.naver?code=092440)(092440) 2560원 --- 7D(<span style="color: red">0.79</span>%) / 30D(<span style="color: red">2.40</span>%) / 60D(<span style="color: red">0.39</span>%)  
-48점 - [국도화학](https://finance.naver.com/item/fchart.naver?code=007690)(007690) 34450원 --- 7D(<span style="color: red">1.03</span>%) / 30D(<span style="color: red">4.55</span>%) / 60D(<span style="color: red">6.99</span>%)  
-48점 - [경인전자](https://finance.naver.com/item/fchart.naver?code=009140)(009140) 20500원 --- 7D(<span style="color: red">0.99</span>%) / 30D(<span style="color: red">5.45</span>%) / 60D(<span style="color: red">5.34</span>%)  
-48점 - [경보제약](https://finance.naver.com/item/fchart.naver?code=214390)(214390) 4830원 --- 7D(<span style="color: #0000FF">-3.21</span>%) / 30D(<span style="color: #0000FF">-9.55</span>%) / 60D(<span style="color: #0000FF">-12.97</span>%)  
-48점 - [SK네트웍스](https://finance.naver.com/item/fchart.naver?code=001740)(001740) 4640원 --- 7D(<span style="color: red">8.79</span>%) / 30D(<span style="color: red">15.57</span>%) / 60D(<span style="color: red">9.95</span>%)  
-48점 - [NICE평가정보](https://finance.naver.com/item/fchart.naver?code=030190)(030190) 16320원 --- 7D(<span style="color: red">10.94</span>%) / 30D(<span style="color: red">14.29</span>%) / 60D(<span style="color: red">26.51</span>%)  
-48점 - [KTis](https://finance.naver.com/item/fchart.naver?code=058860)(058860) 2925원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-0.51</span>%) / 60D(<span style="color: red">14.48</span>%)  
-48점 - [KT&G](https://finance.naver.com/item/fchart.naver?code=033780)(033780) 124600원 --- 7D(<span style="color: #0000FF">-1.50</span>%) / 30D(<span style="color: #0000FF">-0.32</span>%) / 60D(<span style="color: red">10.36</span>%)  
-48점 - [JW생명과학](https://finance.naver.com/item/fchart.naver?code=234080)(234080) 12100원 --- 7D(<span style="color: #0000FF">-0.82</span>%) / 30D(<span style="color: #0000FF">-0.41</span>%) / 60D(<span style="color: red">7.56</span>%)  
-48점 - [HSD엔진](https://finance.naver.com/item/fchart.naver?code=082740)(082740) 29850원 --- 7D(<span style="color: #0000FF">-2.93</span>%) / 30D(<span style="color: red">6.04</span>%) / 60D(<span style="color: red">13.28</span>%)  
-48점 - [BGF리테일](https://finance.naver.com/item/fchart.naver?code=282330)(282330) 121500원 --- 7D(<span style="color: red">0.41</span>%) / 30D(<span style="color: red">19.35</span>%) / 60D(<span style="color: red">16.49</span>%)  
-48점 - [AJ네트웍스](https://finance.naver.com/item/fchart.naver?code=095570)(095570) 4090원 --- 7D(<span style="color: red">4.34</span>%) / 30D(<span style="color: red">8.06</span>%) / 60D(<span style="color: red">9.65</span>%)  
-47점 - [환인제약](https://finance.naver.com/item/fchart.naver?code=016580)(016580) 12050원 --- 7D(<span style="color: red">1.77</span>%) / 30D(<span style="color: red">6.54</span>%) / 60D(<span style="color: red">3.26</span>%)  
-47점 - [현대차](https://finance.naver.com/item/fchart.naver?code=005380)(005380) 206000원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">13.25</span>%) / 60D(<span style="color: red">8.42</span>%)  
-47점 - [현대제철](https://finance.naver.com/item/fchart.naver?code=004020)(004020) 29550원 --- 7D(<span style="color: red">1.55</span>%) / 30D(<span style="color: red">15.88</span>%) / 60D(<span style="color: red">23.38</span>%)  
-47점 - [현대바이오](https://finance.naver.com/item/fchart.naver?code=048410)(048410) 8960원 --- 7D(<span style="color: #0000FF">-10.76</span>%) / 30D(<span style="color: #0000FF">-18.99</span>%) / 60D(<span style="color: #0000FF">-22.96</span>%)  
-47점 - [현대미포조선](https://finance.naver.com/item/fchart.naver?code=010620)(010620) 201500원 --- 7D(<span style="color: red">8.57</span>%) / 30D(<span style="color: red">6.28</span>%) / 60D(<span style="color: red">46.33</span>%)  
-47점 - [현대건설기계](https://finance.naver.com/item/fchart.naver?code=267270)(267270) 80200원 --- 7D(<span style="color: red">6.51</span>%) / 30D(<span style="color: red">14.57</span>%) / 60D(<span style="color: red">23.38</span>%)  
-47점 - [해성디에스](https://finance.naver.com/item/fchart.naver?code=195870)(195870) 26350원 --- 7D(<span style="color: red">1.15</span>%) / 30D(<span style="color: red">44.46</span>%) / 60D(<span style="color: red">7.55</span>%)  
-47점 - [한진칼우](https://finance.naver.com/item/fchart.naver?code=18064K)(18064K) 37400원 --- 7D(<span style="color: #0000FF">-1.06</span>%) / 30D(<span style="color: #0000FF">-13.12</span>%) / 60D(<span style="color: red">70.39</span>%)  
-47점 - [한솔홈데코](https://finance.naver.com/item/fchart.naver?code=025750)(025750) 729원 --- 7D(<span style="color: #0000FF">-0.14</span>%) / 30D(<span style="color: red">0.97</span>%) / 60D(<span style="color: #0000FF">-10.66</span>%)  
-47점 - [한국화장품제조](https://finance.naver.com/item/fchart.naver?code=003350)(003350) 58600원 --- 7D(<span style="color: red">11.62</span>%) / 30D(<span style="color: red">18.62</span>%) / 60D(<span style="color: red">17.20</span>%)  
-47점 - [한국철강](https://finance.naver.com/item/fchart.naver?code=104700)(104700) 9290원 --- 7D(<span style="color: #0000FF">-7.93</span>%) / 30D(<span style="color: red">3.45</span>%) / 60D(<span style="color: red">9.94</span>%)  
-47점 - [태경비케이](https://finance.naver.com/item/fchart.naver?code=014580)(014580) 4960원 --- 7D(<span style="color: red">3.77</span>%) / 30D(<span style="color: red">6.10</span>%) / 60D(<span style="color: red">3.23</span>%)  
-47점 - [쿠쿠홀딩스](https://finance.naver.com/item/fchart.naver?code=192400)(192400) 32000원 --- 7D(<span style="color: red">3.23</span>%) / 30D(<span style="color: red">7.20</span>%) / 60D(<span style="color: red">31.69</span>%)  
-47점 - [콜마비앤에이치](https://finance.naver.com/item/fchart.naver?code=200130)(200130) 14920원 --- 7D(<span style="color: #0000FF">-2.80</span>%) / 30D(<span style="color: red">5.37</span>%) / 60D(<span style="color: red">19.55</span>%)  
-47점 - [코오롱인더](https://finance.naver.com/item/fchart.naver?code=120110)(120110) 39150원 --- 7D(<span style="color: red">16.52</span>%) / 30D(<span style="color: red">28.36</span>%) / 60D(<span style="color: red">29.64</span>%)  
-47점 - [카카오](https://finance.naver.com/item/fchart.naver?code=035720)(035720) 70400원 --- 7D(<span style="color: red">27.54</span>%) / 30D(<span style="color: red">80.51</span>%) / 60D(<span style="color: red">78.68</span>%)  
-47점 - [진원생명과학](https://finance.naver.com/item/fchart.naver?code=011000)(011000) 2595원 --- 7D(<span style="color: #0000FF">-6.99</span>%) / 30D(<span style="color: #0000FF">-31.44</span>%) / 60D(<span style="color: red">10.19</span>%)  
-47점 - [주연테크](https://finance.naver.com/item/fchart.naver?code=044380)(044380) 368원 --- 7D(<span style="color: red">3.37</span>%) / 30D(<span style="color: red">7.60</span>%) / 60D(<span style="color: red">2.79</span>%)  
-47점 - [조일알미늄](https://finance.naver.com/item/fchart.naver?code=018470)(018470) 1524원 --- 7D(<span style="color: #0000FF">-2.06</span>%) / 30D(<span style="color: #0000FF">-1.10</span>%) / 60D(<span style="color: red">2.08</span>%)  
-47점 - [일진디스플](https://finance.naver.com/item/fchart.naver?code=020760)(020760) 750원 --- 7D(<span style="color: red">3.31</span>%) / 30D(<span style="color: red">4.31</span>%) / 60D(<span style="color: #0000FF">-2.85</span>%)  
-47점 - [우진플라임](https://finance.naver.com/item/fchart.naver?code=049800)(049800) 1999원 --- 7D(<span style="color: #0000FF">-2.25</span>%) / 30D(<span style="color: #0000FF">-1.53</span>%) / 60D(<span style="color: #0000FF">-7.67</span>%)  
-47점 - [영화금속](https://finance.naver.com/item/fchart.naver?code=012280)(012280) 844원 --- 7D(<span style="color: #0000FF">-2.65</span>%) / 30D(<span style="color: red">1.93</span>%) / 60D(<span style="color: #0000FF">-2.99</span>%)  
-47점 - [영진약품](https://finance.naver.com/item/fchart.naver?code=003520)(003520) 2360원 --- 7D(<span style="color: red">10.54</span>%) / 30D(<span style="color: red">7.76</span>%) / 60D(<span style="color: red">16.54</span>%)  
-47점 - [에이엔피](https://finance.naver.com/item/fchart.naver?code=015260)(015260) 428원 --- 7D(<span style="color: #0000FF">-10.83</span>%) / 30D(<span style="color: red">2.39</span>%) / 60D(<span style="color: #0000FF">-8.35</span>%)  
-47점 - [에스에프에이](https://finance.naver.com/item/fchart.naver?code=056190)(056190) 23450원 --- 7D(<span style="color: red">10.09</span>%) / 30D(<span style="color: red">10.61</span>%) / 60D(<span style="color: red">11.14</span>%)  
-47점 - [아모레퍼시픽](https://finance.naver.com/item/fchart.naver?code=090430)(090430) 145700원 --- 7D(<span style="color: red">10.55</span>%) / 30D(<span style="color: red">7.61</span>%) / 60D(<span style="color: red">27.25</span>%)  
-47점 - [씨아이테크](https://finance.naver.com/item/fchart.naver?code=004920)(004920) 1271원 --- 7D(<span style="color: #0000FF">-4.00</span>%) / 30D(<span style="color: red">3.92</span>%) / 60D(<span style="color: #0000FF">-14.70</span>%)  
-47점 - [신송홀딩스](https://finance.naver.com/item/fchart.naver?code=006880)(006880) 7990원 --- 7D(<span style="color: #0000FF">-1.84</span>%) / 30D(<span style="color: red">10.06</span>%) / 60D(<span style="color: red">8.71</span>%)  
-47점 - [신라교역](https://finance.naver.com/item/fchart.naver?code=004970)(004970) 10000원 --- 7D(<span style="color: #0000FF">-0.70</span>%) / 30D(<span style="color: red">8.11</span>%) / 60D(<span style="color: red">9.17</span>%)  
-47점 - [삼성출판사](https://finance.naver.com/item/fchart.naver?code=068290)(068290) 18190원 --- 7D(<span style="color: red">6.50</span>%) / 30D(<span style="color: red">3.47</span>%) / 60D(<span style="color: red">8.08</span>%)  
-47점 - [삼성제약](https://finance.naver.com/item/fchart.naver?code=001360)(001360) 1793원 --- 7D(<span style="color: #0000FF">-3.39</span>%) / 30D(<span style="color: red">15.90</span>%) / 60D(<span style="color: red">17.19</span>%)  
-47점 - [삼성SDI우](https://finance.naver.com/item/fchart.naver?code=006405)(006405) 104600원 --- 7D(<span style="color: red">3.56</span>%) / 30D(<span style="color: red">4.70</span>%) / 60D(<span style="color: #0000FF">-4.04</span>%)  
-47점 - [모토닉](https://finance.naver.com/item/fchart.naver?code=009680)(009680) 10460원 --- 7D(<span style="color: #0000FF">-1.23</span>%) / 30D(<span style="color: red">1.65</span>%) / 60D(<span style="color: red">10.11</span>%)  
-47점 - [롯데지주우](https://finance.naver.com/item/fchart.naver?code=00499K)(00499K) 34200원 --- 7D(<span style="color: #0000FF">-1.87</span>%) / 30D(<span style="color: red">21.93</span>%) / 60D(<span style="color: red">34.38</span>%)  
-47점 - [롯데렌탈](https://finance.naver.com/item/fchart.naver?code=089860)(089860) 33850원 --- 7D(<span style="color: #0000FF">-0.59</span>%) / 30D(<span style="color: red">8.84</span>%) / 60D(<span style="color: red">17.13</span>%)  
-47점 - [두올](https://finance.naver.com/item/fchart.naver?code=016740)(016740) 3305원 --- 7D(<span style="color: #0000FF">-0.75</span>%) / 30D(<span style="color: red">3.93</span>%) / 60D(<span style="color: red">5.25</span>%)  
-47점 - [동화기업](https://finance.naver.com/item/fchart.naver?code=025900)(025900) 8700원 --- 7D(<span style="color: red">4.57</span>%) / 30D(<span style="color: red">8.34</span>%) / 60D(<span style="color: red">0.93</span>%)  
-47점 - [덕성우](https://finance.naver.com/item/fchart.naver?code=004835)(004835) 8320원 --- 7D(<span style="color: #0000FF">-1.19</span>%) / 30D(<span style="color: red">7.91</span>%) / 60D(<span style="color: #0000FF">-12.70</span>%)  
-47점 - [다이나믹디자인](https://finance.naver.com/item/fchart.naver?code=145210)(145210) 906원 --- 7D(<span style="color: red">2.95</span>%) / 30D(<span style="color: #0000FF">-7.83</span>%) / 60D(<span style="color: red">14.68</span>%)  
-47점 - [까뮤이앤씨](https://finance.naver.com/item/fchart.naver?code=013700)(013700) 1082원 --- 7D(<span style="color: #0000FF">-1.64</span>%) / 30D(<span style="color: #0000FF">-2.70</span>%) / 60D(<span style="color: #0000FF">-9.46</span>%)  
-47점 - [광동제약](https://finance.naver.com/item/fchart.naver?code=009290)(009290) 5950원 --- 7D(<span style="color: red">3.48</span>%) / 30D(<span style="color: red">8.58</span>%) / 60D(<span style="color: red">8.97</span>%)  
-47점 - [SK아이이테크놀로지](https://finance.naver.com/item/fchart.naver?code=361610)(361610) 28250원 --- 7D(<span style="color: red">16.98</span>%) / 30D(<span style="color: red">37.80</span>%) / 60D(<span style="color: red">25.84</span>%)  
-47점 - [SGC에너지](https://finance.naver.com/item/fchart.naver?code=005090)(005090) 25150원 --- 7D(<span style="color: red">3.71</span>%) / 30D(<span style="color: red">7.25</span>%) / 60D(<span style="color: red">11.53</span>%)  
-47점 - [LG유플러스](https://finance.naver.com/item/fchart.naver?code=032640)(032640) 13750원 --- 7D(<span style="color: red">3.93</span>%) / 30D(<span style="color: red">6.59</span>%) / 60D(<span style="color: red">17.52</span>%)  
-47점 - [HDC랩스](https://finance.naver.com/item/fchart.naver?code=039570)(039570) 9590원 --- 7D(<span style="color: red">0.95</span>%) / 30D(<span style="color: red">7.75</span>%) / 60D(<span style="color: red">9.10</span>%)  
-47점 - [DSR](https://finance.naver.com/item/fchart.naver?code=155660)(155660) 4000원 --- 7D(<span style="color: #0000FF">-0.25</span>%) / 30D(<span style="color: red">6.10</span>%) / 60D(<span style="color: red">0.00</span>%)  
-47점 - [DL](https://finance.naver.com/item/fchart.naver?code=000210)(000210) 43850원 --- 7D(<span style="color: #0000FF">-2.88</span>%) / 30D(<span style="color: red">5.03</span>%) / 60D(<span style="color: red">38.99</span>%)  
-47점 - [CJ대한통운](https://finance.naver.com/item/fchart.naver?code=000120)(000120) 88900원 --- 7D(<span style="color: red">4.71</span>%) / 30D(<span style="color: red">10.99</span>%) / 60D(<span style="color: red">5.21</span>%)  
-47점 - [CJ ENM](https://finance.naver.com/item/fchart.naver?code=035760)(035760) 81800원 --- 7D(<span style="color: red">8.34</span>%) / 30D(<span style="color: red">47.92</span>%) / 60D(<span style="color: red">44.01</span>%)  
-46점 - [휴비스](https://finance.naver.com/item/fchart.naver?code=079980)(079980) 3030원 --- 7D(<span style="color: #0000FF">-0.98</span>%) / 30D(<span style="color: red">5.57</span>%) / 60D(<span style="color: red">9.39</span>%)  
-46점 - [효성티앤씨](https://finance.naver.com/item/fchart.naver?code=298020)(298020) 258000원 --- 7D(<span style="color: red">2.58</span>%) / 30D(<span style="color: red">4.88</span>%) / 60D(<span style="color: red">22.27</span>%)  
-46점 - [효성ITX](https://finance.naver.com/item/fchart.naver?code=094280)(094280) 14290원 --- 7D(<span style="color: #0000FF">-6.23</span>%) / 30D(<span style="color: red">18.20</span>%) / 60D(<span style="color: red">19.78</span>%)  
-46점 - [화승코퍼레이션](https://finance.naver.com/item/fchart.naver?code=013520)(013520) 2035원 --- 7D(<span style="color: #0000FF">-0.73</span>%) / 30D(<span style="color: red">7.05</span>%) / 60D(<span style="color: red">17.36</span>%)  
-46점 - [현대엘리베이](https://finance.naver.com/item/fchart.naver?code=017800)(017800) 86700원 --- 7D(<span style="color: red">0.81</span>%) / 30D(<span style="color: red">13.48</span>%) / 60D(<span style="color: red">23.68</span>%)  
-46점 - [현대모비스](https://finance.naver.com/item/fchart.naver?code=012330)(012330) 285000원 --- 7D(<span style="color: #0000FF">-4.84</span>%) / 30D(<span style="color: red">16.80</span>%) / 60D(<span style="color: red">13.10</span>%)  
-46점 - [한창제지](https://finance.naver.com/item/fchart.naver?code=009460)(009460) 756원 --- 7D(<span style="color: red">2.02</span>%) / 30D(<span style="color: red">5.00</span>%) / 60D(<span style="color: #0000FF">-3.94</span>%)  
-46점 - [한진](https://finance.naver.com/item/fchart.naver?code=002320)(002320) 20300원 --- 7D(<span style="color: red">1.00</span>%) / 30D(<span style="color: red">2.89</span>%) / 60D(<span style="color: red">9.55</span>%)  
-46점 - [퍼스텍](https://finance.naver.com/item/fchart.naver?code=010820)(010820) 3955원 --- 7D(<span style="color: #0000FF">-2.35</span>%) / 30D(<span style="color: red">7.77</span>%) / 60D(<span style="color: red">10.47</span>%)  
-46점 - [파미셀](https://finance.naver.com/item/fchart.naver?code=005690)(005690) 10770원 --- 7D(<span style="color: #0000FF">-0.74</span>%) / 30D(<span style="color: #0000FF">-11.87</span>%) / 60D(<span style="color: red">5.80</span>%)  
-46점 - [코오롱](https://finance.naver.com/item/fchart.naver?code=002020)(002020) 43300원 --- 7D(<span style="color: red">7.85</span>%) / 30D(<span style="color: red">77.46</span>%) / 60D(<span style="color: red">70.81</span>%)  
-46점 - [코아스](https://finance.naver.com/item/fchart.naver?code=071950)(071950) 9020원 --- 7D(<span style="color: #0000FF">-3.01</span>%) / 30D(<span style="color: #0000FF">-7.11</span>%) / 60D(<span style="color: #0000FF">-8.89</span>%)  
-46점 - [지엠비코리아](https://finance.naver.com/item/fchart.naver?code=013870)(013870) 4050원 --- 7D(<span style="color: #0000FF">-0.12</span>%) / 30D(<span style="color: red">2.27</span>%) / 60D(<span style="color: red">1.89</span>%)  
-46점 - [조선선재](https://finance.naver.com/item/fchart.naver?code=120030)(120030) 101000원 --- 7D(<span style="color: #0000FF">-1.46</span>%) / 30D(<span style="color: red">0.70</span>%) / 60D(<span style="color: red">5.76</span>%)  
-46점 - [일진머티리얼즈](https://finance.naver.com/item/fchart.naver?code=020150)(020150) 23100원 --- 7D(<span style="color: red">4.76</span>%) / 30D(<span style="color: red">14.07</span>%) / 60D(<span style="color: red">1.32</span>%)  
-46점 - [일양약품](https://finance.naver.com/item/fchart.naver?code=007570)(007570) 15130원 --- 7D(<span style="color: red">6.93</span>%) / 30D(<span style="color: red">16.74</span>%) / 60D(<span style="color: red">25.14</span>%)  
-46점 - [우성](https://finance.naver.com/item/fchart.naver?code=006980)(006980) 18460원 --- 7D(<span style="color: red">6.09</span>%) / 30D(<span style="color: red">7.39</span>%) / 60D(<span style="color: red">15.45</span>%)  
-46점 - [영원무역](https://finance.naver.com/item/fchart.naver?code=111770)(111770) 60500원 --- 7D(<span style="color: red">5.58</span>%) / 30D(<span style="color: #0000FF">-0.49</span>%) / 60D(<span style="color: red">31.52</span>%)  
-46점 - [엘브이엠씨홀딩스](https://finance.naver.com/item/fchart.naver?code=900140)(900140) 2060원 --- 7D(<span style="color: red">8.76</span>%) / 30D(<span style="color: red">16.91</span>%) / 60D(<span style="color: red">17.98</span>%)  
-46점 - [엔켐](https://finance.naver.com/item/fchart.naver?code=348370)(348370) 62200원 --- 7D(<span style="color: red">15.61</span>%) / 30D(<span style="color: red">4.71</span>%) / 60D(<span style="color: #0000FF">-26.48</span>%)  
-46점 - [알테오젠](https://finance.naver.com/item/fchart.naver?code=196170)(196170) 390000원 --- 7D(<span style="color: #0000FF">-1.27</span>%) / 30D(<span style="color: red">17.65</span>%) / 60D(<span style="color: red">0.26</span>%)  
-46점 - [알루코](https://finance.naver.com/item/fchart.naver?code=001780)(001780) 2360원 --- 7D(<span style="color: red">1.72</span>%) / 30D(<span style="color: red">1.51</span>%) / 60D(<span style="color: red">9.26</span>%)  
-46점 - [신원](https://finance.naver.com/item/fchart.naver?code=009270)(009270) 1825원 --- 7D(<span style="color: red">2.01</span>%) / 30D(<span style="color: red">6.35</span>%) / 60D(<span style="color: red">3.58</span>%)  
-46점 - [신성이엔지](https://finance.naver.com/item/fchart.naver?code=011930)(011930) 1535원 --- 7D(<span style="color: red">4.49</span>%) / 30D(<span style="color: red">9.02</span>%) / 60D(<span style="color: red">6.15</span>%)  
-46점 - [솔루스첨단소재1우](https://finance.naver.com/item/fchart.naver?code=33637K)(33637K) 1670원 --- 7D(<span style="color: red">2.27</span>%) / 30D(<span style="color: red">1.64</span>%) / 60D(<span style="color: #0000FF">-4.57</span>%)  
-46점 - [셀트리온제약](https://finance.naver.com/item/fchart.naver?code=068760)(068760) 50900원 --- 7D(<span style="color: red">2.62</span>%) / 30D(<span style="color: red">7.84</span>%) / 60D(<span style="color: red">4.52</span>%)  
-46점 - [세종공업](https://finance.naver.com/item/fchart.naver?code=033530)(033530) 4555원 --- 7D(<span style="color: red">0.55</span>%) / 30D(<span style="color: red">4.95</span>%) / 60D(<span style="color: red">5.93</span>%)  
-46점 - [선진](https://finance.naver.com/item/fchart.naver?code=136490)(136490) 11650원 --- 7D(<span style="color: red">3.65</span>%) / 30D(<span style="color: red">23.54</span>%) / 60D(<span style="color: red">98.13</span>%)  
-46점 - [삼아알미늄](https://finance.naver.com/item/fchart.naver?code=006110)(006110) 18780원 --- 7D(<span style="color: red">5.33</span>%) / 30D(<span style="color: #0000FF">-3.54</span>%) / 60D(<span style="color: #0000FF">-25.33</span>%)  
-46점 - [사조대림](https://finance.naver.com/item/fchart.naver?code=003960)(003960) 41850원 --- 7D(<span style="color: #0000FF">-0.59</span>%) / 30D(<span style="color: red">11.01</span>%) / 60D(<span style="color: red">9.41</span>%)  
-46점 - [무학](https://finance.naver.com/item/fchart.naver?code=033920)(033920) 7880원 --- 7D(<span style="color: #0000FF">-1.99</span>%) / 30D(<span style="color: red">3.28</span>%) / 60D(<span style="color: red">10.99</span>%)  
-46점 - [덕성](https://finance.naver.com/item/fchart.naver?code=004830)(004830) 6140원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">6.04</span>%) / 60D(<span style="color: #0000FF">-7.95</span>%)  
-46점 - [대주전자재료](https://finance.naver.com/item/fchart.naver?code=078600)(078600) 69300원 --- 7D(<span style="color: red">4.05</span>%) / 30D(<span style="color: #0000FF">-3.21</span>%) / 60D(<span style="color: #0000FF">-19.98</span>%)  
-46점 - [대상홀딩스](https://finance.naver.com/item/fchart.naver?code=084690)(084690) 10890원 --- 7D(<span style="color: red">1.30</span>%) / 30D(<span style="color: red">15.97</span>%) / 60D(<span style="color: #0000FF">-12.18</span>%)  
-46점 - [녹십자홀딩스2우](https://finance.naver.com/item/fchart.naver?code=005257)(005257) 47700원 --- 7D(<span style="color: #0000FF">-1.24</span>%) / 30D(<span style="color: red">113.90</span>%) / 60D(<span style="color: red">127.14</span>%)  
-46점 - [남성](https://finance.naver.com/item/fchart.naver?code=004270)(004270) 1200원 --- 7D(<span style="color: red">4.53</span>%) / 30D(<span style="color: red">13.21</span>%) / 60D(<span style="color: red">8.89</span>%)  
-46점 - [남선알미늄](https://finance.naver.com/item/fchart.naver?code=008350)(008350) 1218원 --- 7D(<span style="color: #0000FF">-0.57</span>%) / 30D(<span style="color: #0000FF">-2.48</span>%) / 60D(<span style="color: #0000FF">-17.09</span>%)  
-46점 - [금호타이어](https://finance.naver.com/item/fchart.naver?code=073240)(073240) 4470원 --- 7D(<span style="color: red">2.41</span>%) / 30D(<span style="color: red">6.30</span>%) / 60D(<span style="color: #0000FF">-2.72</span>%)  
-46점 - [금양](https://finance.naver.com/item/fchart.naver?code=001570)(001570) 9900원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-46점 - [경동인베스트](https://finance.naver.com/item/fchart.naver?code=012320)(012320) 63500원 --- 7D(<span style="color: #0000FF">-0.31</span>%) / 30D(<span style="color: red">15.66</span>%) / 60D(<span style="color: red">6.90</span>%)  
-46점 - [STX엔진](https://finance.naver.com/item/fchart.naver?code=077970)(077970) 24000원 --- 7D(<span style="color: #0000FF">-1.44</span>%) / 30D(<span style="color: #0000FF">-3.42</span>%) / 60D(<span style="color: red">8.35</span>%)  
-46점 - [SOL 차이나태양광CSI(합성)](https://finance.naver.com/item/fchart.naver?code=413220)(413220) 3475원 --- 7D(<span style="color: red">0.43</span>%) / 30D(<span style="color: #0000FF">-1.28</span>%) / 60D(<span style="color: #0000FF">-2.93</span>%)  
-46점 - [SHD](https://finance.naver.com/item/fchart.naver?code=001770)(001770) 17920원 --- 7D(<span style="color: #0000FF">-0.22</span>%) / 30D(<span style="color: red">11.30</span>%) / 60D(<span style="color: red">13.71</span>%)  
-46점 - [OCI](https://finance.naver.com/item/fchart.naver?code=010060)(010060) 73100원 --- 7D(<span style="color: red">1.39</span>%) / 30D(<span style="color: red">10.42</span>%) / 60D(<span style="color: red">8.78</span>%)  
-46점 - [LG생활건강우](https://finance.naver.com/item/fchart.naver?code=051905)(051905) 140000원 --- 7D(<span style="color: red">0.14</span>%) / 30D(<span style="color: red">13.45</span>%) / 60D(<span style="color: red">16.67</span>%)  
-46점 - [LG생활건강](https://finance.naver.com/item/fchart.naver?code=051900)(051900) 349500원 --- 7D(<span style="color: red">3.10</span>%) / 30D(<span style="color: red">9.05</span>%) / 60D(<span style="color: red">8.71</span>%)  
-46점 - [KTcs](https://finance.naver.com/item/fchart.naver?code=058850)(058850) 2930원 --- 7D(<span style="color: #0000FF">-0.34</span>%) / 30D(<span style="color: red">2.99</span>%) / 60D(<span style="color: red">3.53</span>%)  
-46점 - [HK이노엔](https://finance.naver.com/item/fchart.naver?code=195940)(195940) 42900원 --- 7D(<span style="color: red">1.18</span>%) / 30D(<span style="color: red">2.63</span>%) / 60D(<span style="color: red">13.94</span>%)  
-46점 - [DL이앤씨](https://finance.naver.com/item/fchart.naver?code=375500)(375500) 48400원 --- 7D(<span style="color: #0000FF">-7.46</span>%) / 30D(<span style="color: #0000FF">-1.02</span>%) / 60D(<span style="color: red">18.63</span>%)  
-45점 - [현대중공업](https://finance.naver.com/item/fchart.naver?code=329180)(329180) 463500원 --- 7D(<span style="color: red">8.17</span>%) / 30D(<span style="color: red">12.36</span>%) / 60D(<span style="color: red">26.29</span>%)  
-45점 - [현대약품](https://finance.naver.com/item/fchart.naver?code=004310)(004310) 3550원 --- 7D(<span style="color: red">1.43</span>%) / 30D(<span style="color: red">2.45</span>%) / 60D(<span style="color: red">2.45</span>%)  
-45점 - [한솔제지](https://finance.naver.com/item/fchart.naver?code=213500)(213500) 8810원 --- 7D(<span style="color: red">1.26</span>%) / 30D(<span style="color: red">4.26</span>%) / 60D(<span style="color: red">5.26</span>%)  
-45점 - [한국전력](https://finance.naver.com/item/fchart.naver?code=015760)(015760) 34100원 --- 7D(<span style="color: red">17.99</span>%) / 30D(<span style="color: red">7.57</span>%) / 60D(<span style="color: red">35.32</span>%)  
-45점 - [지역난방공사](https://finance.naver.com/item/fchart.naver?code=071320)(071320) 84900원 --- 7D(<span style="color: red">12.45</span>%) / 30D(<span style="color: red">11.27</span>%) / 60D(<span style="color: red">65.82</span>%)  
-45점 - [인디에프](https://finance.naver.com/item/fchart.naver?code=014990)(014990) 1272원 --- 7D(<span style="color: red">8.44</span>%) / 30D(<span style="color: red">39.02</span>%) / 60D(<span style="color: red">25.94</span>%)  
-45점 - [이건산업](https://finance.naver.com/item/fchart.naver?code=008250)(008250) 5680원 --- 7D(<span style="color: red">2.34</span>%) / 30D(<span style="color: red">5.38</span>%) / 60D(<span style="color: #0000FF">-3.73</span>%)  
-45점 - [유화증권](https://finance.naver.com/item/fchart.naver?code=003460)(003460) 2730원 --- 7D(<span style="color: #0000FF">-2.33</span>%) / 30D(<span style="color: red">8.76</span>%) / 60D(<span style="color: red">16.17</span>%)  
-45점 - [유엔젤](https://finance.naver.com/item/fchart.naver?code=072130)(072130) 5420원 --- 7D(<span style="color: #0000FF">-0.55</span>%) / 30D(<span style="color: red">7.54</span>%) / 60D(<span style="color: red">0.18</span>%)  
-45점 - [유니온](https://finance.naver.com/item/fchart.naver?code=000910)(000910) 4810원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">4.11</span>%) / 60D(<span style="color: #0000FF">-11.74</span>%)  
-45점 - [우신시스템](https://finance.naver.com/item/fchart.naver?code=017370)(017370) 7880원 --- 7D(<span style="color: #0000FF">-3.19</span>%) / 30D(<span style="color: red">6.78</span>%) / 60D(<span style="color: red">26.08</span>%)  
-45점 - [와이투솔루션](https://finance.naver.com/item/fchart.naver?code=011690)(011690) 3270원 --- 7D(<span style="color: red">7.57</span>%) / 30D(<span style="color: red">2.19</span>%) / 60D(<span style="color: red">33.20</span>%)  
-45점 - [엔케이](https://finance.naver.com/item/fchart.naver?code=085310)(085310) 840원 --- 7D(<span style="color: #0000FF">-0.12</span>%) / 30D(<span style="color: red">0.96</span>%) / 60D(<span style="color: #0000FF">-3.56</span>%)  
-45점 - [에이프로젠 MED](https://finance.naver.com/item/fchart.naver?code=007460)(007460) 672원 --- 7D(<span style="color: #0000FF">-0.15</span>%) / 30D(<span style="color: red">1.20</span>%) / 60D(<span style="color: #0000FF">-9.80</span>%)  
-45점 - [애경산업](https://finance.naver.com/item/fchart.naver?code=018250)(018250) 16520원 --- 7D(<span style="color: red">2.74</span>%) / 30D(<span style="color: red">12.08</span>%) / 60D(<span style="color: red">17.16</span>%)  
-45점 - [신세계건설](https://finance.naver.com/item/fchart.naver?code=034300)(034300) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-45점 - [솔브레인](https://finance.naver.com/item/fchart.naver?code=357780)(357780) 179900원 --- 7D(<span style="color: red">5.33</span>%) / 30D(<span style="color: red">13.93</span>%) / 60D(<span style="color: red">0.62</span>%)  
-45점 - [보해양조](https://finance.naver.com/item/fchart.naver?code=000890)(000890) 500원 --- 7D(<span style="color: #0000FF">-1.57</span>%) / 30D(<span style="color: #0000FF">-7.41</span>%) / 60D(<span style="color: red">3.09</span>%)  
-45점 - [범양건영](https://finance.naver.com/item/fchart.naver?code=002410)(002410) 1935원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-45점 - [락앤락](https://finance.naver.com/item/fchart.naver?code=115390)(115390) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-45점 - [동양피스톤](https://finance.naver.com/item/fchart.naver?code=092780)(092780) 4545원 --- 7D(<span style="color: #0000FF">-0.87</span>%) / 30D(<span style="color: red">2.13</span>%) / 60D(<span style="color: #0000FF">-1.52</span>%)  
-45점 - [대한항공](https://finance.naver.com/item/fchart.naver?code=003490)(003490) 23450원 --- 7D(<span style="color: red">9.84</span>%) / 30D(<span style="color: red">2.85</span>%) / 60D(<span style="color: red">12.47</span>%)  
-45점 - [대원제약](https://finance.naver.com/item/fchart.naver?code=003220)(003220) 13400원 --- 7D(<span style="color: #0000FF">-0.67</span>%) / 30D(<span style="color: #0000FF">-3.80</span>%) / 60D(<span style="color: #0000FF">-2.33</span>%)  
-45점 - [남양유업우](https://finance.naver.com/item/fchart.naver?code=003925)(003925) 43550원 --- 7D(<span style="color: #0000FF">-1.69</span>%) / 30D(<span style="color: #0000FF">-6.65</span>%) / 60D(<span style="color: red">11.67</span>%)  
-45점 - [기아](https://finance.naver.com/item/fchart.naver?code=000270)(000270) 96900원 --- 7D(<span style="color: #0000FF">-2.02</span>%) / 30D(<span style="color: red">9.99</span>%) / 60D(<span style="color: red">7.67</span>%)  
-45점 - [가온전선](https://finance.naver.com/item/fchart.naver?code=000500)(000500) 64100원 --- 7D(<span style="color: #0000FF">-1.38</span>%) / 30D(<span style="color: #0000FF">-18.76</span>%) / 60D(<span style="color: red">17.18</span>%)  
-45점 - [TBH글로벌](https://finance.naver.com/item/fchart.naver?code=084870)(084870) 1348원 --- 7D(<span style="color: red">8.53</span>%) / 30D(<span style="color: red">12.71</span>%) / 60D(<span style="color: red">23.22</span>%)  
-45점 - [SK이노베이션](https://finance.naver.com/item/fchart.naver?code=096770)(096770) 101800원 --- 7D(<span style="color: red">0.69</span>%) / 30D(<span style="color: red">21.92</span>%) / 60D(<span style="color: red">6.37</span>%)  
-45점 - [LG에너지솔루션](https://finance.naver.com/item/fchart.naver?code=373220)(373220) 300500원 --- 7D(<span style="color: red">2.91</span>%) / 30D(<span style="color: red">8.09</span>%) / 60D(<span style="color: #0000FF">-13.90</span>%)  
-45점 - [KPX케미칼](https://finance.naver.com/item/fchart.naver?code=025000)(025000) 47900원 --- 7D(<span style="color: red">0.21</span>%) / 30D(<span style="color: red">6.21</span>%) / 60D(<span style="color: red">7.64</span>%)  
-45점 - [DSR제강](https://finance.naver.com/item/fchart.naver?code=069730)(069730) 3710원 --- 7D(<span style="color: #0000FF">-1.07</span>%) / 30D(<span style="color: red">2.77</span>%) / 60D(<span style="color: #0000FF">-1.85</span>%)  
-45점 - [DN오토모티브](https://finance.naver.com/item/fchart.naver?code=007340)(007340) 21800원 --- 7D(<span style="color: #0000FF">-0.68</span>%) / 30D(<span style="color: red">3.07</span>%) / 60D(<span style="color: #0000FF">-7.63</span>%)  
-45점 - [DL이앤씨2우(전환)](https://finance.naver.com/item/fchart.naver?code=37550L)(37550L) 33300원 --- 7D(<span style="color: #0000FF">-3.76</span>%) / 30D(<span style="color: red">6.22</span>%) / 60D(<span style="color: red">24.72</span>%)  
-45점 - [DI동일](https://finance.naver.com/item/fchart.naver?code=001530)(001530) 38700원 --- 7D(<span style="color: red">0.26</span>%) / 30D(<span style="color: red">4.59</span>%) / 60D(<span style="color: #0000FF">-11.74</span>%)  
-45점 - [CJ](https://finance.naver.com/item/fchart.naver?code=001040)(001040) 160500원 --- 7D(<span style="color: red">8.08</span>%) / 30D(<span style="color: red">25.00</span>%) / 60D(<span style="color: red">38.12</span>%)  
-45점 - [CJ CGV](https://finance.naver.com/item/fchart.naver?code=079160)(079160) 5170원 --- 7D(<span style="color: red">8.73</span>%) / 30D(<span style="color: red">13.50</span>%) / 60D(<span style="color: red">13.88</span>%)  
-44점 - [화천기계](https://finance.naver.com/item/fchart.naver?code=010660)(010660) 5480원 --- 7D(<span style="color: red">7.24</span>%) / 30D(<span style="color: red">7.45</span>%) / 60D(<span style="color: red">34.31</span>%)  
-44점 - [화신](https://finance.naver.com/item/fchart.naver?code=010690)(010690) 8600원 --- 7D(<span style="color: red">1.53</span>%) / 30D(<span style="color: red">12.57</span>%) / 60D(<span style="color: red">9.28</span>%)  
-44점 - [현대백화점](https://finance.naver.com/item/fchart.naver?code=069960)(069960) 75800원 --- 7D(<span style="color: red">5.28</span>%) / 30D(<span style="color: red">8.13</span>%) / 60D(<span style="color: red">34.64</span>%)  
-44점 - [한온시스템](https://finance.naver.com/item/fchart.naver?code=018880)(018880) 3160원 --- 7D(<span style="color: red">2.10</span>%) / 30D(<span style="color: red">4.46</span>%) / 60D(<span style="color: #0000FF">-9.71</span>%)  
-44점 - [한세엠케이](https://finance.naver.com/item/fchart.naver?code=069640)(069640) 1158원 --- 7D(<span style="color: #0000FF">-7.43</span>%) / 30D(<span style="color: #0000FF">-23.77</span>%) / 60D(<span style="color: #0000FF">-6.76</span>%)  
-44점 - [한국자산신탁](https://finance.naver.com/item/fchart.naver?code=123890)(123890) 2560원 --- 7D(<span style="color: red">3.64</span>%) / 30D(<span style="color: red">7.79</span>%) / 60D(<span style="color: red">12.04</span>%)  
-44점 - [하이브](https://finance.naver.com/item/fchart.naver?code=352820)(352820) 312500원 --- 7D(<span style="color: red">2.80</span>%) / 30D(<span style="color: red">7.94</span>%) / 60D(<span style="color: red">35.57</span>%)  
-44점 - [포스코케미칼](https://finance.naver.com/item/fchart.naver?code=003670)(003670) 129200원 --- 7D(<span style="color: red">6.95</span>%) / 30D(<span style="color: red">26.79</span>%) / 60D(<span style="color: #0000FF">-2.71</span>%)  
-44점 - [케이비아이동국실업](https://finance.naver.com/item/fchart.naver?code=001620)(001620) 485원 --- 7D(<span style="color: #0000FF">-0.82</span>%) / 30D(<span style="color: #0000FF">-2.02</span>%) / 60D(<span style="color: #0000FF">-8.83</span>%)  
-44점 - [초록뱀헬스케어](https://finance.naver.com/item/fchart.naver?code=118000)(118000) 340원 --- 7D(<span style="color: #0000FF">-3.95</span>%) / 30D(<span style="color: #0000FF">-2.86</span>%) / 60D(<span style="color: red">0.59</span>%)  
-44점 - [체시스](https://finance.naver.com/item/fchart.naver?code=033250)(033250) 1151원 --- 7D(<span style="color: #0000FF">-2.21</span>%) / 30D(<span style="color: #0000FF">-18.66</span>%) / 60D(<span style="color: #0000FF">-0.95</span>%)  
-44점 - [일신석재](https://finance.naver.com/item/fchart.naver?code=007110)(007110) 2615원 --- 7D(<span style="color: #0000FF">-1.32</span>%) / 30D(<span style="color: red">20.79</span>%) / 60D(<span style="color: red">10.81</span>%)  
-44점 - [영흥](https://finance.naver.com/item/fchart.naver?code=012160)(012160) 531원 --- 7D(<span style="color: #0000FF">-0.38</span>%) / 30D(<span style="color: red">7.93</span>%) / 60D(<span style="color: red">32.09</span>%)  
-44점 - [엠씨넥스](https://finance.naver.com/item/fchart.naver?code=097520)(097520) 27950원 --- 7D(<span style="color: red">2.01</span>%) / 30D(<span style="color: #0000FF">-0.18</span>%) / 60D(<span style="color: red">20.47</span>%)  
-44점 - [엘앤에프](https://finance.naver.com/item/fchart.naver?code=066970)(066970) 54300원 --- 7D(<span style="color: red">10.93</span>%) / 30D(<span style="color: red">13.60</span>%) / 60D(<span style="color: #0000FF">-18.59</span>%)  
-44점 - [애경케미칼](https://finance.naver.com/item/fchart.naver?code=161000)(161000) 10300원 --- 7D(<span style="color: red">2.79</span>%) / 30D(<span style="color: red">11.96</span>%) / 60D(<span style="color: red">44.87</span>%)  
-44점 - [스튜디오드래곤](https://finance.naver.com/item/fchart.naver?code=253450)(253450) 53600원 --- 7D(<span style="color: red">1.13</span>%) / 30D(<span style="color: red">15.89</span>%) / 60D(<span style="color: red">22.37</span>%)  
-44점 - [솔루엠](https://finance.naver.com/item/fchart.naver?code=248070)(248070) 15620원 --- 7D(<span style="color: red">0.51</span>%) / 30D(<span style="color: #0000FF">-0.26</span>%) / 60D(<span style="color: #0000FF">-4.05</span>%)  
-44점 - [세하](https://finance.naver.com/item/fchart.naver?code=027970)(027970) 815원 --- 7D(<span style="color: #0000FF">-0.49</span>%) / 30D(<span style="color: red">1.49</span>%) / 60D(<span style="color: #0000FF">-1.21</span>%)  
-44점 - [서원](https://finance.naver.com/item/fchart.naver?code=021050)(021050) 1329원 --- 7D(<span style="color: red">0.08</span>%) / 30D(<span style="color: red">9.93</span>%) / 60D(<span style="color: red">5.56</span>%)  
-44점 - [삼호개발](https://finance.naver.com/item/fchart.naver?code=010960)(010960) 3490원 --- 7D(<span style="color: #0000FF">-1.83</span>%) / 30D(<span style="color: red">1.75</span>%) / 60D(<span style="color: #0000FF">-12.20</span>%)  
-44점 - [삼영화학](https://finance.naver.com/item/fchart.naver?code=003720)(003720) 3995원 --- 7D(<span style="color: red">1.65</span>%) / 30D(<span style="color: red">2.70</span>%) / 60D(<span style="color: #0000FF">-2.68</span>%)  
-44점 - [삼성SDI](https://finance.naver.com/item/fchart.naver?code=006400)(006400) 176800원 --- 7D(<span style="color: red">4.49</span>%) / 30D(<span style="color: red">6.51</span>%) / 60D(<span style="color: #0000FF">-7.14</span>%)  
-44점 - [보락](https://finance.naver.com/item/fchart.naver?code=002760)(002760) 1063원 --- 7D(<span style="color: #0000FF">-1.94</span>%) / 30D(<span style="color: #0000FF">-1.12</span>%) / 60D(<span style="color: #0000FF">-4.66</span>%)  
-44점 - [미창석유](https://finance.naver.com/item/fchart.naver?code=003650)(003650) 109100원 --- 7D(<span style="color: #0000FF">-2.76</span>%) / 30D(<span style="color: red">8.13</span>%) / 60D(<span style="color: red">8.77</span>%)  
-44점 - [미래아이앤지](https://finance.naver.com/item/fchart.naver?code=007120)(007120) 1018원 --- 7D(<span style="color: #0000FF">-0.20</span>%) / 30D(<span style="color: #0000FF">-4.68</span>%) / 60D(<span style="color: #0000FF">-6.61</span>%)  
-44점 - [마스턴프리미어리츠](https://finance.naver.com/item/fchart.naver?code=357430)(357430) 1436원 --- 7D(<span style="color: #0000FF">-1.44</span>%) / 30D(<span style="color: #0000FF">-1.85</span>%) / 60D(<span style="color: #0000FF">-2.45</span>%)  
-44점 - [롯데손해보험](https://finance.naver.com/item/fchart.naver?code=000400)(000400) 1740원 --- 7D(<span style="color: red">3.26</span>%) / 30D(<span style="color: red">9.43</span>%) / 60D(<span style="color: red">1.22</span>%)  
-44점 - [디아이씨](https://finance.naver.com/item/fchart.naver?code=092200)(092200) 4785원 --- 7D(<span style="color: red">0.21</span>%) / 30D(<span style="color: #0000FF">-0.62</span>%) / 60D(<span style="color: red">0.10</span>%)  
-44점 - [동원산업](https://finance.naver.com/item/fchart.naver?code=006040)(006040) 47050원 --- 7D(<span style="color: red">0.75</span>%) / 30D(<span style="color: red">3.86</span>%) / 60D(<span style="color: red">12.43</span>%)  
-44점 - [대한유화](https://finance.naver.com/item/fchart.naver?code=006650)(006650) 86800원 --- 7D(<span style="color: red">4.83</span>%) / 30D(<span style="color: red">8.36</span>%) / 60D(<span style="color: #0000FF">-1.70</span>%)  
-44점 - [대원강업](https://finance.naver.com/item/fchart.naver?code=000430)(000430) 3775원 --- 7D(<span style="color: #0000FF">-0.66</span>%) / 30D(<span style="color: red">3.14</span>%) / 60D(<span style="color: red">1.21</span>%)  
-44점 - [대우조선해양](https://finance.naver.com/item/fchart.naver?code=042660)(042660) 87400원 --- 7D(<span style="color: #0000FF">-5.41</span>%) / 30D(<span style="color: red">10.77</span>%) / 60D(<span style="color: red">9.39</span>%)  
-44점 - [대덕](https://finance.naver.com/item/fchart.naver?code=008060)(008060) 8000원 --- 7D(<span style="color: red">0.88</span>%) / 30D(<span style="color: red">4.30</span>%) / 60D(<span style="color: red">0.63</span>%)  
-44점 - [대덕1우](https://finance.naver.com/item/fchart.naver?code=00806K)(00806K) 8470원 --- 7D(<span style="color: red">0.83</span>%) / 30D(<span style="color: red">10.86</span>%) / 60D(<span style="color: red">3.93</span>%)  
-44점 - [금호석유우](https://finance.naver.com/item/fchart.naver?code=011785)(011785) 57100원 --- 7D(<span style="color: red">1.24</span>%) / 30D(<span style="color: red">6.33</span>%) / 60D(<span style="color: red">5.74</span>%)  
-44점 - [SUN&L](https://finance.naver.com/item/fchart.naver?code=002820)(002820) 2980원 --- 7D(<span style="color: red">0.34</span>%) / 30D(<span style="color: red">2.41</span>%) / 60D(<span style="color: red">1.71</span>%)  
-44점 - [KTOP 코스피50](https://finance.naver.com/item/fchart.naver?code=168300)(168300) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-44점 - [KG스틸](https://finance.naver.com/item/fchart.naver?code=016380)(016380) 6240원 --- 7D(<span style="color: red">1.13</span>%) / 30D(<span style="color: red">8.90</span>%) / 60D(<span style="color: red">8.52</span>%)  
-44점 - [F&F](https://finance.naver.com/item/fchart.naver?code=383220)(383220) 78300원 --- 7D(<span style="color: red">0.90</span>%) / 30D(<span style="color: red">1.82</span>%) / 60D(<span style="color: red">12.99</span>%)  
-44점 - [CJ제일제당](https://finance.naver.com/item/fchart.naver?code=097950)(097950) 254000원 --- 7D(<span style="color: red">6.50</span>%) / 30D(<span style="color: red">13.39</span>%) / 60D(<span style="color: red">5.18</span>%)  
-44점 - [CJ우](https://finance.naver.com/item/fchart.naver?code=001045)(001045) 84800원 --- 7D(<span style="color: red">6.94</span>%) / 30D(<span style="color: red">17.61</span>%) / 60D(<span style="color: red">28.29</span>%)  
-43점 - [휴스틸](https://finance.naver.com/item/fchart.naver?code=005010)(005010) 4830원 --- 7D(<span style="color: #0000FF">-0.10</span>%) / 30D(<span style="color: red">0.42</span>%) / 60D(<span style="color: #0000FF">-8.52</span>%)  
-43점 - [화인베스틸](https://finance.naver.com/item/fchart.naver?code=133820)(133820) 819원 --- 7D(<span style="color: #0000FF">-2.03</span>%) / 30D(<span style="color: red">3.41</span>%) / 60D(<span style="color: #0000FF">-9.00</span>%)  
-43점 - [호전실업](https://finance.naver.com/item/fchart.naver?code=111110)(111110) 8740원 --- 7D(<span style="color: #0000FF">-4.27</span>%) / 30D(<span style="color: red">2.82</span>%) / 60D(<span style="color: red">8.17</span>%)  
-43점 - [현대위아](https://finance.naver.com/item/fchart.naver?code=011210)(011210) 47550원 --- 7D(<span style="color: red">3.03</span>%) / 30D(<span style="color: red">16.54</span>%) / 60D(<span style="color: red">10.32</span>%)  
-43점 - [한성기업](https://finance.naver.com/item/fchart.naver?code=003680)(003680) 5160원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.98</span>%) / 60D(<span style="color: red">2.38</span>%)  
-43점 - [한국패러랠](https://finance.naver.com/item/fchart.naver?code=168490)(168490) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-43점 - [하이트진로](https://finance.naver.com/item/fchart.naver?code=000080)(000080) 20400원 --- 7D(<span style="color: red">1.75</span>%) / 30D(<span style="color: red">5.81</span>%) / 60D(<span style="color: red">6.14</span>%)  
-43점 - [페이퍼코리아](https://finance.naver.com/item/fchart.naver?code=001020)(001020) 736원 --- 7D(<span style="color: red">1.38</span>%) / 30D(<span style="color: #0000FF">-3.54</span>%) / 60D(<span style="color: #0000FF">-7.77</span>%)  
-43점 - [테이팩스](https://finance.naver.com/item/fchart.naver?code=055490)(055490) 13910원 --- 7D(<span style="color: red">3.27</span>%) / 30D(<span style="color: red">7.33</span>%) / 60D(<span style="color: #0000FF">-2.18</span>%)  
-43점 - [태영건설우](https://finance.naver.com/item/fchart.naver?code=009415)(009415) 5630원 --- 7D(<span style="color: #0000FF">-2.26</span>%) / 30D(<span style="color: red">2.36</span>%) / 60D(<span style="color: red">19.28</span>%)  
-43점 - [진에어](https://finance.naver.com/item/fchart.naver?code=272450)(272450) 9420원 --- 7D(<span style="color: red">4.55</span>%) / 30D(<span style="color: red">1.95</span>%) / 60D(<span style="color: red">8.15</span>%)  
-43점 - [지씨셀](https://finance.naver.com/item/fchart.naver?code=144510)(144510) 21150원 --- 7D(<span style="color: red">4.96</span>%) / 30D(<span style="color: red">4.70</span>%) / 60D(<span style="color: #0000FF">-1.17</span>%)  
-43점 - [종근당바이오](https://finance.naver.com/item/fchart.naver?code=063160)(063160) 22500원 --- 7D(<span style="color: #0000FF">-4.05</span>%) / 30D(<span style="color: #0000FF">-1.75</span>%) / 60D(<span style="color: #0000FF">-2.60</span>%)  
-43점 - [에어부산](https://finance.naver.com/item/fchart.naver?code=298690)(298690) 2205원 --- 7D(<span style="color: red">5.50</span>%) / 30D(<span style="color: red">1.15</span>%) / 60D(<span style="color: red">9.16</span>%)  
-43점 - [아시아나항공](https://finance.naver.com/item/fchart.naver?code=020560)(020560) 9880원 --- 7D(<span style="color: red">3.46</span>%) / 30D(<span style="color: #0000FF">-1.00</span>%) / 60D(<span style="color: red">4.33</span>%)  
-43점 - [씨아이에스](https://finance.naver.com/item/fchart.naver?code=222080)(222080) 7150원 --- 7D(<span style="color: red">3.32</span>%) / 30D(<span style="color: red">6.72</span>%) / 60D(<span style="color: #0000FF">-3.38</span>%)  
-43점 - [신한서부티엔디리츠](https://finance.naver.com/item/fchart.naver?code=404990)(404990) 3520원 --- 7D(<span style="color: red">2.03</span>%) / 30D(<span style="color: red">0.86</span>%) / 60D(<span style="color: red">4.45</span>%)  
-43점 - [솔루스첨단소재2우B](https://finance.naver.com/item/fchart.naver?code=33637L)(33637L) 4175원 --- 7D(<span style="color: red">0.60</span>%) / 30D(<span style="color: red">5.03</span>%) / 60D(<span style="color: #0000FF">-10.98</span>%)  
-43점 - [셀트리온](https://finance.naver.com/item/fchart.naver?code=068270)(068270) 161200원 --- 7D(<span style="color: #0000FF">-0.68</span>%) / 30D(<span style="color: red">5.36</span>%) / 60D(<span style="color: red">0.81</span>%)  
-43점 - [서연이화](https://finance.naver.com/item/fchart.naver?code=200880)(200880) 12500원 --- 7D(<span style="color: red">1.13</span>%) / 30D(<span style="color: red">14.26</span>%) / 60D(<span style="color: red">6.93</span>%)  
-43점 - [샘표](https://finance.naver.com/item/fchart.naver?code=007540)(007540) 45300원 --- 7D(<span style="color: #0000FF">-2.58</span>%) / 30D(<span style="color: red">2.72</span>%) / 60D(<span style="color: red">7.47</span>%)  
-43점 - [삼진제약](https://finance.naver.com/item/fchart.naver?code=005500)(005500) 19300원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">10.16</span>%) / 60D(<span style="color: red">8.92</span>%)  
-43점 - [비상교육](https://finance.naver.com/item/fchart.naver?code=100220)(100220) 6930원 --- 7D(<span style="color: red">0.43</span>%) / 30D(<span style="color: red">21.58</span>%) / 60D(<span style="color: red">26.92</span>%)  
-43점 - [맵스리얼티1](https://finance.naver.com/item/fchart.naver?code=094800)(094800) 4335원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-0.80</span>%) / 60D(<span style="color: red">1.76</span>%)  
-43점 - [롯데푸드](https://finance.naver.com/item/fchart.naver?code=002270)(002270) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-43점 - [롯데쇼핑](https://finance.naver.com/item/fchart.naver?code=023530)(023530) 75000원 --- 7D(<span style="color: red">0.81</span>%) / 30D(<span style="color: #0000FF">-3.72</span>%) / 60D(<span style="color: red">13.29</span>%)  
-43점 - [동서](https://finance.naver.com/item/fchart.naver?code=026960)(026960) 26700원 --- 7D(<span style="color: #0000FF">-1.29</span>%) / 30D(<span style="color: red">4.30</span>%) / 60D(<span style="color: red">4.91</span>%)  
-43점 - [덴티움](https://finance.naver.com/item/fchart.naver?code=145720)(145720) 64800원 --- 7D(<span style="color: #0000FF">-0.92</span>%) / 30D(<span style="color: red">5.71</span>%) / 60D(<span style="color: #0000FF">-13.25</span>%)  
-43점 - [경인양행](https://finance.naver.com/item/fchart.naver?code=012610)(012610) 3420원 --- 7D(<span style="color: #0000FF">-2.29</span>%) / 30D(<span style="color: red">9.44</span>%) / 60D(<span style="color: red">5.39</span>%)  
-43점 - [POSCO홀딩스](https://finance.naver.com/item/fchart.naver?code=005490)(005490) 263000원 --- 7D(<span style="color: red">1.54</span>%) / 30D(<span style="color: red">8.90</span>%) / 60D(<span style="color: red">1.15</span>%)  
-43점 - [KC그린홀딩스](https://finance.naver.com/item/fchart.naver?code=009440)(009440) 756원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-43점 - [HJ중공업](https://finance.naver.com/item/fchart.naver?code=097230)(097230) 7850원 --- 7D(<span style="color: red">6.80</span>%) / 30D(<span style="color: red">3.70</span>%) / 60D(<span style="color: red">7.09</span>%)  
-43점 - [HDC현대산업개발](https://finance.naver.com/item/fchart.naver?code=294870)(294870) 24650원 --- 7D(<span style="color: #0000FF">-1.79</span>%) / 30D(<span style="color: red">4.67</span>%) / 60D(<span style="color: red">10.79</span>%)  
-43점 - [AK홀딩스](https://finance.naver.com/item/fchart.naver?code=006840)(006840) 11740원 --- 7D(<span style="color: #0000FF">-0.17</span>%) / 30D(<span style="color: red">10.44</span>%) / 60D(<span style="color: red">16.01</span>%)  
-42점 - [한국콜마홀딩스](https://finance.naver.com/item/fchart.naver?code=024720)(024720) 15570원 --- 7D(<span style="color: #0000FF">-2.38</span>%) / 30D(<span style="color: red">34.34</span>%) / 60D(<span style="color: red">72.43</span>%)  
-42점 - [하이스틸](https://finance.naver.com/item/fchart.naver?code=071090)(071090) 4045원 --- 7D(<span style="color: red">0.75</span>%) / 30D(<span style="color: #0000FF">-3.35</span>%) / 60D(<span style="color: #0000FF">-11.49</span>%)  
-42점 - [피엔티](https://finance.naver.com/item/fchart.naver?code=137400)(137400) 32400원 --- 7D(<span style="color: red">5.71</span>%) / 30D(<span style="color: red">3.85</span>%) / 60D(<span style="color: #0000FF">-22.12</span>%)  
-42점 - [태원물산](https://finance.naver.com/item/fchart.naver?code=001420)(001420) 3975원 --- 7D(<span style="color: #0000FF">-3.28</span>%) / 30D(<span style="color: #0000FF">-3.75</span>%) / 60D(<span style="color: red">5.16</span>%)  
-42점 - [태림포장](https://finance.naver.com/item/fchart.naver?code=011280)(011280) 2200원 --- 7D(<span style="color: red">0.69</span>%) / 30D(<span style="color: red">0.23</span>%) / 60D(<span style="color: red">3.04</span>%)  
-42점 - [클래시스](https://finance.naver.com/item/fchart.naver?code=214150)(214150) 64300원 --- 7D(<span style="color: red">5.76</span>%) / 30D(<span style="color: red">8.61</span>%) / 60D(<span style="color: red">2.88</span>%)  
-42점 - [크라운제과](https://finance.naver.com/item/fchart.naver?code=264900)(264900) 8960원 --- 7D(<span style="color: red">1.13</span>%) / 30D(<span style="color: red">6.16</span>%) / 60D(<span style="color: red">5.29</span>%)  
-42점 - [쿠쿠홈시스](https://finance.naver.com/item/fchart.naver?code=284740)(284740) 26000원 --- 7D(<span style="color: #0000FF">-0.38</span>%) / 30D(<span style="color: #0000FF">-3.35</span>%) / 60D(<span style="color: red">19.82</span>%)  
-42점 - [코오롱플라스틱](https://finance.naver.com/item/fchart.naver?code=138490)(138490) 6780원 --- 7D(<span style="color: red">1.65</span>%) / 30D(<span style="color: red">7.45</span>%) / 60D(<span style="color: red">8.83</span>%)  
-42점 - [코스모신소재](https://finance.naver.com/item/fchart.naver?code=005070)(005070) 35350원 --- 7D(<span style="color: red">9.78</span>%) / 30D(<span style="color: red">15.52</span>%) / 60D(<span style="color: #0000FF">-14.09</span>%)  
-42점 - [참엔지니어링](https://finance.naver.com/item/fchart.naver?code=009310)(009310) 1470원 --- 7D(<span style="color: red">4.03</span>%) / 30D(<span style="color: red">11.20</span>%) / 60D(<span style="color: red">419.43</span>%)  
-42점 - [조흥](https://finance.naver.com/item/fchart.naver?code=002600)(002600) 157000원 --- 7D(<span style="color: #0000FF">-1.26</span>%) / 30D(<span style="color: red">1.49</span>%) / 60D(<span style="color: #0000FF">-1.57</span>%)  
-42점 - [유유제약1우](https://finance.naver.com/item/fchart.naver?code=000225)(000225) 5160원 --- 7D(<span style="color: red">3.41</span>%) / 30D(<span style="color: #0000FF">-0.58</span>%) / 60D(<span style="color: #0000FF">-0.77</span>%)  
-42점 - [유나이티드제약](https://finance.naver.com/item/fchart.naver?code=033270)(033270) 21350원 --- 7D(<span style="color: red">2.64</span>%) / 30D(<span style="color: red">6.48</span>%) / 60D(<span style="color: red">7.02</span>%)  
-42점 - [에스엘](https://finance.naver.com/item/fchart.naver?code=005850)(005850) 32350원 --- 7D(<span style="color: red">2.70</span>%) / 30D(<span style="color: red">6.77</span>%) / 60D(<span style="color: #0000FF">-3.58</span>%)  
-42점 - [씨젠](https://finance.naver.com/item/fchart.naver?code=096530)(096530) 33450원 --- 7D(<span style="color: #0000FF">-1.04</span>%) / 30D(<span style="color: red">3.88</span>%) / 60D(<span style="color: red">32.74</span>%)  
-42점 - [성신양회](https://finance.naver.com/item/fchart.naver?code=004980)(004980) 9600원 --- 7D(<span style="color: red">5.49</span>%) / 30D(<span style="color: red">8.60</span>%) / 60D(<span style="color: #0000FF">-7.07</span>%)  
-42점 - [서울식품](https://finance.naver.com/item/fchart.naver?code=004410)(004410) 161원 --- 7D(<span style="color: #0000FF">-0.62</span>%) / 30D(<span style="color: red">4.55</span>%) / 60D(<span style="color: red">0.62</span>%)  
-42점 - [레고켐바이오](https://finance.naver.com/item/fchart.naver?code=141080)(141080) 107400원 --- 7D(<span style="color: red">1.32</span>%) / 30D(<span style="color: #0000FF">-3.50</span>%) / 60D(<span style="color: #0000FF">-5.54</span>%)  
-42점 - [동원시스템즈](https://finance.naver.com/item/fchart.naver?code=014820)(014820) 32300원 --- 7D(<span style="color: red">7.13</span>%) / 30D(<span style="color: red">8.39</span>%) / 60D(<span style="color: #0000FF">-5.28</span>%)  
-42점 - [동아타이어](https://finance.naver.com/item/fchart.naver?code=282690)(282690) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-42점 - [동방](https://finance.naver.com/item/fchart.naver?code=004140)(004140) 2680원 --- 7D(<span style="color: #0000FF">-0.19</span>%) / 30D(<span style="color: red">14.04</span>%) / 60D(<span style="color: red">6.99</span>%)  
-42점 - [대영포장](https://finance.naver.com/item/fchart.naver?code=014160)(014160) 1183원 --- 7D(<span style="color: red">0.60</span>%) / 30D(<span style="color: #0000FF">-13.40</span>%) / 60D(<span style="color: #0000FF">-26.57</span>%)  
-42점 - [대상우](https://finance.naver.com/item/fchart.naver?code=001685)(001685) 17130원 --- 7D(<span style="color: red">0.12</span>%) / 30D(<span style="color: red">4.39</span>%) / 60D(<span style="color: red">1.48</span>%)  
-42점 - [다스코](https://finance.naver.com/item/fchart.naver?code=058730)(058730) 3125원 --- 7D(<span style="color: #0000FF">-0.16</span>%) / 30D(<span style="color: red">3.65</span>%) / 60D(<span style="color: #0000FF">-2.04</span>%)  
-42점 - [나노신소재](https://finance.naver.com/item/fchart.naver?code=121600)(121600) 52200원 --- 7D(<span style="color: red">8.41</span>%) / 30D(<span style="color: red">14.47</span>%) / 60D(<span style="color: #0000FF">-7.45</span>%)  
-42점 - [금호전기](https://finance.naver.com/item/fchart.naver?code=001210)(001210) 1101원 --- 7D(<span style="color: #0000FF">-1.52</span>%) / 30D(<span style="color: red">2.90</span>%) / 60D(<span style="color: #0000FF">-10.34</span>%)  
-42점 - [그린케미칼](https://finance.naver.com/item/fchart.naver?code=083420)(083420) 8270원 --- 7D(<span style="color: #0000FF">-2.48</span>%) / 30D(<span style="color: red">1.97</span>%) / 60D(<span style="color: #0000FF">-1.08</span>%)  
-42점 - [국제약품](https://finance.naver.com/item/fchart.naver?code=002720)(002720) 4775원 --- 7D(<span style="color: #0000FF">-1.14</span>%) / 30D(<span style="color: #0000FF">-1.34</span>%) / 60D(<span style="color: red">0.63</span>%)  
-42점 - [고려산업](https://finance.naver.com/item/fchart.naver?code=002140)(002140) 2960원 --- 7D(<span style="color: #0000FF">-2.63</span>%) / 30D(<span style="color: red">8.42</span>%) / 60D(<span style="color: red">0.85</span>%)  
-42점 - [SK이노베이션우](https://finance.naver.com/item/fchart.naver?code=096775)(096775) 71200원 --- 7D(<span style="color: red">4.09</span>%) / 30D(<span style="color: red">23.61</span>%) / 60D(<span style="color: red">6.75</span>%)  
-42점 - [KT](https://finance.naver.com/item/fchart.naver?code=030200)(030200) 52100원 --- 7D(<span style="color: #0000FF">-0.57</span>%) / 30D(<span style="color: red">0.77</span>%) / 60D(<span style="color: red">4.83</span>%)  
-42점 - [HDC](https://finance.naver.com/item/fchart.naver?code=012630)(012630) 23450원 --- 7D(<span style="color: red">2.18</span>%) / 30D(<span style="color: red">24.40</span>%) / 60D(<span style="color: red">32.11</span>%)  
-41점 - [형지엘리트](https://finance.naver.com/item/fchart.naver?code=093240)(093240) 2675원 --- 7D(<span style="color: #0000FF">-7.28</span>%) / 30D(<span style="color: red">38.74</span>%) / 60D(<span style="color: red">10.54</span>%)  
-41점 - [한국타이어앤테크놀로지](https://finance.naver.com/item/fchart.naver?code=161390)(161390) 39400원 --- 7D(<span style="color: red">1.29</span>%) / 30D(<span style="color: red">3.68</span>%) / 60D(<span style="color: #0000FF">-1.38</span>%)  
-41점 - [한국ANKOR유전](https://finance.naver.com/item/fchart.naver?code=152550)(152550) 268원 --- 7D(<span style="color: #0000FF">-23.65</span>%) / 30D(<span style="color: red">6.77</span>%) / 60D(<span style="color: red">1.52</span>%)  
-41점 - [프레스티지바이오파마](https://finance.naver.com/item/fchart.naver?code=950210)(950210) 11440원 --- 7D(<span style="color: #0000FF">-4.27</span>%) / 30D(<span style="color: #0000FF">-21.96</span>%) / 60D(<span style="color: #0000FF">-24.74</span>%)  
-41점 - [포스코스틸리온](https://finance.naver.com/item/fchart.naver?code=058430)(058430) 39450원 --- 7D(<span style="color: #0000FF">-0.13</span>%) / 30D(<span style="color: red">6.19</span>%) / 60D(<span style="color: red">4.37</span>%)  
-41점 - [코람코더원리츠](https://finance.naver.com/item/fchart.naver?code=417310)(417310) 5280원 --- 7D(<span style="color: red">0.96</span>%) / 30D(<span style="color: red">1.15</span>%) / 60D(<span style="color: red">5.71</span>%)  
-41점 - [케어젠](https://finance.naver.com/item/fchart.naver?code=214370)(214370) 32600원 --- 7D(<span style="color: red">5.16</span>%) / 30D(<span style="color: #0000FF">-10.32</span>%) / 60D(<span style="color: red">28.85</span>%)  
-41점 - [인터지스](https://finance.naver.com/item/fchart.naver?code=129260)(129260) 2720원 --- 7D(<span style="color: red">0.93</span>%) / 30D(<span style="color: red">5.84</span>%) / 60D(<span style="color: #0000FF">-4.06</span>%)  
-41점 - [유화증권우](https://finance.naver.com/item/fchart.naver?code=003465)(003465) 2650원 --- 7D(<span style="color: #0000FF">-0.56</span>%) / 30D(<span style="color: red">9.28</span>%) / 60D(<span style="color: red">11.11</span>%)  
-41점 - [에이프로젠제약](https://finance.naver.com/item/fchart.naver?code=003060)(003060) 661원 --- 7D(<span style="color: red">0.46</span>%) / 30D(<span style="color: red">2.48</span>%) / 60D(<span style="color: #0000FF">-8.07</span>%)  
-41점 - [신풍제지](https://finance.naver.com/item/fchart.naver?code=002870)(002870) 1177원 --- 7D(<span style="color: red">5.28</span>%) / 30D(<span style="color: red">16.77</span>%) / 60D(<span style="color: #0000FF">-0.34</span>%)  
-41점 - [삼성바이오로직스](https://finance.naver.com/item/fchart.naver?code=207940)(207940) 1004000원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-3.74</span>%) / 60D(<span style="color: #0000FF">-5.82</span>%)  
-41점 - [부국철강](https://finance.naver.com/item/fchart.naver?code=026940)(026940) 2320원 --- 7D(<span style="color: red">0.43</span>%) / 30D(<span style="color: #0000FF">-1.07</span>%) / 60D(<span style="color: #0000FF">-12.29</span>%)  
-41점 - [롯데케미칼](https://finance.naver.com/item/fchart.naver?code=011170)(011170) 65000원 --- 7D(<span style="color: red">5.01</span>%) / 30D(<span style="color: red">12.26</span>%) / 60D(<span style="color: red">3.34</span>%)  
-41점 - [동진쎄미켐](https://finance.naver.com/item/fchart.naver?code=005290)(005290) 32100원 --- 7D(<span style="color: red">2.23</span>%) / 30D(<span style="color: red">12.43</span>%) / 60D(<span style="color: red">8.26</span>%)  
-41점 - [동남합성](https://finance.naver.com/item/fchart.naver?code=023450)(023450) 34100원 --- 7D(<span style="color: #0000FF">-0.87</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: #0000FF">-0.73</span>%)  
-41점 - [덕양산업](https://finance.naver.com/item/fchart.naver?code=024900)(024900) 2640원 --- 7D(<span style="color: #0000FF">-1.86</span>%) / 30D(<span style="color: red">1.15</span>%) / 60D(<span style="color: #0000FF">-9.12</span>%)  
-41점 - [대호에이엘](https://finance.naver.com/item/fchart.naver?code=069460)(069460) 1934원 --- 7D(<span style="color: red">0.99</span>%) / 30D(<span style="color: red">8.23</span>%) / 60D(<span style="color: red">10.96</span>%)  
-41점 - [네이처셀](https://finance.naver.com/item/fchart.naver?code=007390)(007390) 28600원 --- 7D(<span style="color: red">4.19</span>%) / 30D(<span style="color: red">10.85</span>%) / 60D(<span style="color: #0000FF">-6.23</span>%)  
-41점 - [금호석유](https://finance.naver.com/item/fchart.naver?code=011780)(011780) 113900원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">1.06</span>%) / 60D(<span style="color: #0000FF">-3.06</span>%)  
-41점 - [SK가스](https://finance.naver.com/item/fchart.naver?code=018670)(018670) 255500원 --- 7D(<span style="color: red">15.09</span>%) / 30D(<span style="color: red">18.84</span>%) / 60D(<span style="color: red">9.19</span>%)  
-41점 - [KSS해운](https://finance.naver.com/item/fchart.naver?code=044450)(044450) 9800원 --- 7D(<span style="color: #0000FF">-0.41</span>%) / 30D(<span style="color: #0000FF">-1.01</span>%) / 60D(<span style="color: red">9.01</span>%)  
-40점 - [한국특강](https://finance.naver.com/item/fchart.naver?code=007280)(007280) 1515원 --- 7D(<span style="color: #0000FF">-4.36</span>%) / 30D(<span style="color: #0000FF">-8.13</span>%) / 60D(<span style="color: #0000FF">-18.85</span>%)  
-40점 - [한국카본](https://finance.naver.com/item/fchart.naver?code=017960)(017960) 25350원 --- 7D(<span style="color: red">1.20</span>%) / 30D(<span style="color: red">18.18</span>%) / 60D(<span style="color: red">33.35</span>%)  
-40점 - [한국내화](https://finance.naver.com/item/fchart.naver?code=010040)(010040) 2430원 --- 7D(<span style="color: #0000FF">-1.22</span>%) / 30D(<span style="color: red">2.53</span>%) / 60D(<span style="color: red">3.85</span>%)  
-40점 - [포스코인터내셔널](https://finance.naver.com/item/fchart.naver?code=047050)(047050) 49300원 --- 7D(<span style="color: #0000FF">-0.50</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: #0000FF">-5.37</span>%)  
-40점 - [키다리스튜디오](https://finance.naver.com/item/fchart.naver?code=020120)(020120) 4075원 --- 7D(<span style="color: red">5.30</span>%) / 30D(<span style="color: red">27.54</span>%) / 60D(<span style="color: red">15.60</span>%)  
-40점 - [차바이오텍](https://finance.naver.com/item/fchart.naver?code=085660)(085660) 11090원 --- 7D(<span style="color: red">7.46</span>%) / 30D(<span style="color: red">4.72</span>%) / 60D(<span style="color: #0000FF">-2.46</span>%)  
-40점 - [유수홀딩스](https://finance.naver.com/item/fchart.naver?code=000700)(000700) 6050원 --- 7D(<span style="color: #0000FF">-1.63</span>%) / 30D(<span style="color: red">1.85</span>%) / 60D(<span style="color: red">8.62</span>%)  
-40점 - [유니드](https://finance.naver.com/item/fchart.naver?code=014830)(014830) 91200원 --- 7D(<span style="color: red">7.42</span>%) / 30D(<span style="color: #0000FF">-2.67</span>%) / 60D(<span style="color: red">5.07</span>%)  
-40점 - [신영증권우](https://finance.naver.com/item/fchart.naver?code=001725)(001725) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-40점 - [샘표식품](https://finance.naver.com/item/fchart.naver?code=248170)(248170) 26950원 --- 7D(<span style="color: red">1.13</span>%) / 30D(<span style="color: red">4.26</span>%) / 60D(<span style="color: red">0.37</span>%)  
-40점 - [새론오토모티브](https://finance.naver.com/item/fchart.naver?code=075180)(075180) 3365원 --- 7D(<span style="color: red">2.75</span>%) / 30D(<span style="color: red">2.28</span>%) / 60D(<span style="color: red">2.75</span>%)  
-40점 - [삼성중공업](https://finance.naver.com/item/fchart.naver?code=010140)(010140) 17060원 --- 7D(<span style="color: #0000FF">-4.43</span>%) / 30D(<span style="color: red">12.98</span>%) / 60D(<span style="color: red">19.30</span>%)  
-40점 - [삼성공조](https://finance.naver.com/item/fchart.naver?code=006660)(006660) 14670원 --- 7D(<span style="color: red">0.89</span>%) / 30D(<span style="color: #0000FF">-0.74</span>%) / 60D(<span style="color: #0000FF">-1.87</span>%)  
-40점 - [문배철강](https://finance.naver.com/item/fchart.naver?code=008420)(008420) 2390원 --- 7D(<span style="color: red">2.36</span>%) / 30D(<span style="color: red">5.29</span>%) / 60D(<span style="color: #0000FF">-5.35</span>%)  
-40점 - [디씨엠](https://finance.naver.com/item/fchart.naver?code=024090)(024090) 13560원 --- 7D(<span style="color: #0000FF">-0.29</span>%) / 30D(<span style="color: red">6.77</span>%) / 60D(<span style="color: red">9.80</span>%)  
-40점 - [동원금속](https://finance.naver.com/item/fchart.naver?code=018500)(018500) 1311원 --- 7D(<span style="color: #0000FF">-0.23</span>%) / 30D(<span style="color: #0000FF">-5.21</span>%) / 60D(<span style="color: #0000FF">-13.06</span>%)  
-40점 - [대한제강](https://finance.naver.com/item/fchart.naver?code=084010)(084010) 16140원 --- 7D(<span style="color: #0000FF">-3.53</span>%) / 30D(<span style="color: #0000FF">-3.35</span>%) / 60D(<span style="color: #0000FF">-4.95</span>%)  
-40점 - [대양금속](https://finance.naver.com/item/fchart.naver?code=009190)(009190) 1692원 --- 7D(<span style="color: #0000FF">-4.08</span>%) / 30D(<span style="color: #0000FF">-6.78</span>%) / 60D(<span style="color: #0000FF">-1.05</span>%)  
-40점 - [다올투자증권](https://finance.naver.com/item/fchart.naver?code=030210)(030210) 3820원 --- 7D(<span style="color: red">3.24</span>%) / 30D(<span style="color: red">14.03</span>%) / 60D(<span style="color: red">10.25</span>%)  
-40점 - [경동나비엔](https://finance.naver.com/item/fchart.naver?code=009450)(009450) 72500원 --- 7D(<span style="color: red">0.28</span>%) / 30D(<span style="color: #0000FF">-9.49</span>%) / 60D(<span style="color: red">1.97</span>%)  
-40점 - [TCC스틸](https://finance.naver.com/item/fchart.naver?code=002710)(002710) 17160원 --- 7D(<span style="color: red">8.26</span>%) / 30D(<span style="color: red">1.54</span>%) / 60D(<span style="color: #0000FF">-18.09</span>%)  
-40점 - [SNT에너지](https://finance.naver.com/item/fchart.naver?code=100840)(100840) 40750원 --- 7D(<span style="color: #0000FF">-6.32</span>%) / 30D(<span style="color: #0000FF">-6.75</span>%) / 60D(<span style="color: red">13.19</span>%)  
-40점 - [LG화학](https://finance.naver.com/item/fchart.naver?code=051910)(051910) 211000원 --- 7D(<span style="color: red">1.69</span>%) / 30D(<span style="color: red">12.41</span>%) / 60D(<span style="color: #0000FF">-5.80</span>%)  
-40점 - [KR모터스](https://finance.naver.com/item/fchart.naver?code=000040)(000040) 419원 --- 7D(<span style="color: red">0.24</span>%) / 30D(<span style="color: red">3.97</span>%) / 60D(<span style="color: #0000FF">-8.91</span>%)  
-40점 - [KG케미칼](https://finance.naver.com/item/fchart.naver?code=001390)(001390) 4795원 --- 7D(<span style="color: red">3.45</span>%) / 30D(<span style="color: red">25.20</span>%) / 60D(<span style="color: red">22.32</span>%)  
-40점 - [CJ씨푸드](https://finance.naver.com/item/fchart.naver?code=011150)(011150) 3055원 --- 7D(<span style="color: red">0.99</span>%) / 30D(<span style="color: red">3.21</span>%) / 60D(<span style="color: #0000FF">-3.78</span>%)  
-39점 - [화승인더](https://finance.naver.com/item/fchart.naver?code=006060)(006060) 4720원 --- 7D(<span style="color: red">1.72</span>%) / 30D(<span style="color: red">3.85</span>%) / 60D(<span style="color: #0000FF">-0.21</span>%)  
-39점 - [한농화성](https://finance.naver.com/item/fchart.naver?code=011500)(011500) 15220원 --- 7D(<span style="color: red">3.54</span>%) / 30D(<span style="color: red">8.71</span>%) / 60D(<span style="color: #0000FF">-2.50</span>%)  
-39점 - [한국항공우주](https://finance.naver.com/item/fchart.naver?code=047810)(047810) 91100원 --- 7D(<span style="color: #0000FF">-5.99</span>%) / 30D(<span style="color: red">3.17</span>%) / 60D(<span style="color: red">13.31</span>%)  
-39점 - [한국주철관](https://finance.naver.com/item/fchart.naver?code=000970)(000970) 7140원 --- 7D(<span style="color: #0000FF">-0.83</span>%) / 30D(<span style="color: red">0.85</span>%) / 60D(<span style="color: #0000FF">-1.65</span>%)  
-39점 - [토니모리](https://finance.naver.com/item/fchart.naver?code=214420)(214420) 12210원 --- 7D(<span style="color: red">11.71</span>%) / 30D(<span style="color: red">38.75</span>%) / 60D(<span style="color: red">40.51</span>%)  
-39점 - [제이준코스메틱](https://finance.naver.com/item/fchart.naver?code=025620)(025620) 8230원 --- 7D(<span style="color: #0000FF">-1.44</span>%) / 30D(<span style="color: red">7.72</span>%) / 60D(<span style="color: red">2.88</span>%)  
-39점 - [유유제약](https://finance.naver.com/item/fchart.naver?code=000220)(000220) 4600원 --- 7D(<span style="color: red">1.10</span>%) / 30D(<span style="color: #0000FF">-1.50</span>%) / 60D(<span style="color: #0000FF">-2.54</span>%)  
-39점 - [우리종금](https://finance.naver.com/item/fchart.naver?code=010050)(010050) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-39점 - [오리온](https://finance.naver.com/item/fchart.naver?code=271560)(271560) 107400원 --- 7D(<span style="color: red">0.47</span>%) / 30D(<span style="color: #0000FF">-3.42</span>%) / 60D(<span style="color: #0000FF">-11.09</span>%)  
-39점 - [스틱인베스트먼트](https://finance.naver.com/item/fchart.naver?code=026890)(026890) 11220원 --- 7D(<span style="color: red">8.93</span>%) / 30D(<span style="color: red">12.88</span>%) / 60D(<span style="color: red">12.88</span>%)  
-39점 - [사조동아원](https://finance.naver.com/item/fchart.naver?code=008040)(008040) 1164원 --- 7D(<span style="color: #0000FF">-3.00</span>%) / 30D(<span style="color: #0000FF">-4.04</span>%) / 60D(<span style="color: red">7.38</span>%)  
-39점 - [미원화학](https://finance.naver.com/item/fchart.naver?code=134380)(134380) 79500원 --- 7D(<span style="color: #0000FF">-0.25</span>%) / 30D(<span style="color: red">1.92</span>%) / 60D(<span style="color: red">1.40</span>%)  
-39점 - [모나리자](https://finance.naver.com/item/fchart.naver?code=012690)(012690) 2760원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-1.43</span>%) / 60D(<span style="color: #0000FF">-7.07</span>%)  
-39점 - [메리츠화재](https://finance.naver.com/item/fchart.naver?code=000060)(000060) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-39점 - [메가스터디교육](https://finance.naver.com/item/fchart.naver?code=215200)(215200) 50400원 --- 7D(<span style="color: #0000FF">-0.98</span>%) / 30D(<span style="color: #0000FF">-3.26</span>%) / 60D(<span style="color: red">8.27</span>%)  
-39점 - [동원F&B](https://finance.naver.com/item/fchart.naver?code=049770)(049770) 41750원 --- 7D(<span style="color: red">3.09</span>%) / 30D(<span style="color: red">4.11</span>%) / 60D(<span style="color: red">13.14</span>%)  
-39점 - [교촌에프앤비](https://finance.naver.com/item/fchart.naver?code=339770)(339770) 5420원 --- 7D(<span style="color: #0000FF">-1.45</span>%) / 30D(<span style="color: red">11.75</span>%) / 60D(<span style="color: red">0.18</span>%)  
-38점 - [휠라홀딩스](https://finance.naver.com/item/fchart.naver?code=081660)(081660) 33650원 --- 7D(<span style="color: #0000FF">-0.44</span>%) / 30D(<span style="color: #0000FF">-6.66</span>%) / 60D(<span style="color: #0000FF">-6.14</span>%)  
-38점 - [현대비앤지스틸](https://finance.naver.com/item/fchart.naver?code=004560)(004560) 12160원 --- 7D(<span style="color: red">0.33</span>%) / 30D(<span style="color: red">3.14</span>%) / 60D(<span style="color: #0000FF">-6.46</span>%)  
-38점 - [한일시멘트](https://finance.naver.com/item/fchart.naver?code=300720)(300720) 18280원 --- 7D(<span style="color: red">0.05</span>%) / 30D(<span style="color: #0000FF">-1.72</span>%) / 60D(<span style="color: red">7.66</span>%)  
-38점 - [포스코 ICT](https://finance.naver.com/item/fchart.naver?code=022100)(022100) 24900원 --- 7D(<span style="color: red">5.96</span>%) / 30D(<span style="color: red">18.01</span>%) / 60D(<span style="color: #0000FF">-1.97</span>%)  
-38점 - [태양금속](https://finance.naver.com/item/fchart.naver?code=004100)(004100) 2755원 --- 7D(<span style="color: red">2.23</span>%) / 30D(<span style="color: #0000FF">-3.33</span>%) / 60D(<span style="color: #0000FF">-24.73</span>%)  
-38점 - [코리아써우](https://finance.naver.com/item/fchart.naver?code=007815)(007815) 5940원 --- 7D(<span style="color: red">0.68</span>%) / 30D(<span style="color: red">9.19</span>%) / 60D(<span style="color: #0000FF">-0.17</span>%)  
-38점 - [케이탑리츠](https://finance.naver.com/item/fchart.naver?code=145270)(145270) 957원 --- 7D(<span style="color: red">0.31</span>%) / 30D(<span style="color: red">5.63</span>%) / 60D(<span style="color: red">0.53</span>%)  
-38점 - [삼화전자](https://finance.naver.com/item/fchart.naver?code=011230)(011230) 5270원 --- 7D(<span style="color: red">4.36</span>%) / 30D(<span style="color: red">30.28</span>%) / 60D(<span style="color: red">18.83</span>%)  
-38점 - [삼일제약](https://finance.naver.com/item/fchart.naver?code=000520)(000520) 10010원 --- 7D(<span style="color: #0000FF">-2.72</span>%) / 30D(<span style="color: #0000FF">-14.30</span>%) / 60D(<span style="color: #0000FF">-27.25</span>%)  
-38점 - [벽산](https://finance.naver.com/item/fchart.naver?code=007210)(007210) 2270원 --- 7D(<span style="color: #0000FF">-2.37</span>%) / 30D(<span style="color: red">1.11</span>%) / 60D(<span style="color: #0000FF">-8.28</span>%)  
-38점 - [마니커](https://finance.naver.com/item/fchart.naver?code=027740)(027740) 901원 --- 7D(<span style="color: #0000FF">-0.33</span>%) / 30D(<span style="color: #0000FF">-13.11</span>%) / 60D(<span style="color: red">3.56</span>%)  
-38점 - [대상](https://finance.naver.com/item/fchart.naver?code=001680)(001680) 22500원 --- 7D(<span style="color: red">2.51</span>%) / 30D(<span style="color: red">5.63</span>%) / 60D(<span style="color: #0000FF">-2.60</span>%)  
-38점 - [대림B&Co](https://finance.naver.com/item/fchart.naver?code=005750)(005750) 4150원 --- 7D(<span style="color: red">2.98</span>%) / 30D(<span style="color: #0000FF">-0.24</span>%) / 60D(<span style="color: red">3.11</span>%)  
-38점 - [NH프라임리츠](https://finance.naver.com/item/fchart.naver?code=338100)(338100) 4560원 --- 7D(<span style="color: red">0.77</span>%) / 30D(<span style="color: red">0.22</span>%) / 60D(<span style="color: #0000FF">-0.22</span>%)  
-37점 - [한화에어로스페이스](https://finance.naver.com/item/fchart.naver?code=012450)(012450) 895000원 --- 7D(<span style="color: #0000FF">-3.45</span>%) / 30D(<span style="color: red">7.44</span>%) / 60D(<span style="color: red">9.95</span>%)  
-37점 - [한국종합기술](https://finance.naver.com/item/fchart.naver?code=023350)(023350) 5490원 --- 7D(<span style="color: red">0.18</span>%) / 30D(<span style="color: red">1.29</span>%) / 60D(<span style="color: #0000FF">-9.26</span>%)  
-37점 - [한국가스공사](https://finance.naver.com/item/fchart.naver?code=036460)(036460) 39450원 --- 7D(<span style="color: red">3.41</span>%) / 30D(<span style="color: #0000FF">-5.51</span>%) / 60D(<span style="color: red">1.81</span>%)  
-37점 - [진도](https://finance.naver.com/item/fchart.naver?code=088790)(088790) 1975원 --- 7D(<span style="color: #0000FF">-0.30</span>%) / 30D(<span style="color: #0000FF">-2.47</span>%) / 60D(<span style="color: red">9.24</span>%)  
-37점 - [주성엔지니어링](https://finance.naver.com/item/fchart.naver?code=036930)(036930) 31550원 --- 7D(<span style="color: #0000FF">-0.63</span>%) / 30D(<span style="color: #0000FF">-0.16</span>%) / 60D(<span style="color: #0000FF">-15.75</span>%)  
-37점 - [유니온머티리얼](https://finance.naver.com/item/fchart.naver?code=047400)(047400) 1627원 --- 7D(<span style="color: #0000FF">-0.31</span>%) / 30D(<span style="color: red">0.06</span>%) / 60D(<span style="color: #0000FF">-17.83</span>%)  
-37점 - [에이비엘바이오](https://finance.naver.com/item/fchart.naver?code=298380)(298380) 67300원 --- 7D(<span style="color: #0000FF">-4.13</span>%) / 30D(<span style="color: #0000FF">-0.15</span>%) / 60D(<span style="color: #0000FF">-3.03</span>%)  
-37점 - [에스엠](https://finance.naver.com/item/fchart.naver?code=041510)(041510) 135800원 --- 7D(<span style="color: red">0.67</span>%) / 30D(<span style="color: red">2.34</span>%) / 60D(<span style="color: red">20.71</span>%)  
-37점 - [신라젠](https://finance.naver.com/item/fchart.naver?code=215600)(215600) 3100원 --- 7D(<span style="color: #0000FF">-2.82</span>%) / 30D(<span style="color: #0000FF">-2.97</span>%) / 60D(<span style="color: #0000FF">-24.76</span>%)  
-37점 - [세아제강지주](https://finance.naver.com/item/fchart.naver?code=003030)(003030) 218500원 --- 7D(<span style="color: red">3.31</span>%) / 30D(<span style="color: #0000FF">-5.62</span>%) / 60D(<span style="color: #0000FF">-6.22</span>%)  
-37점 - [미원에스씨](https://finance.naver.com/item/fchart.naver?code=268280)(268280) 140900원 --- 7D(<span style="color: #0000FF">-6.38</span>%) / 30D(<span style="color: #0000FF">-14.45</span>%) / 60D(<span style="color: #0000FF">-7.97</span>%)  
-37점 - [메리츠증권](https://finance.naver.com/item/fchart.naver?code=008560)(008560) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-37점 - [메리츠금융지주](https://finance.naver.com/item/fchart.naver?code=138040)(138040) 114100원 --- 7D(<span style="color: red">5.94</span>%) / 30D(<span style="color: red">4.20</span>%) / 60D(<span style="color: #0000FF">-4.68</span>%)  
-37점 - [만호제강](https://finance.naver.com/item/fchart.naver?code=001080)(001080) 25800원 --- 7D(<span style="color: #0000FF">-8.35</span>%) / 30D(<span style="color: #0000FF">-6.01</span>%) / 60D(<span style="color: #0000FF">-4.97</span>%)  
-37점 - [디앤디플랫폼리츠](https://finance.naver.com/item/fchart.naver?code=377190)(377190) 3135원 --- 7D(<span style="color: #0000FF">-1.10</span>%) / 30D(<span style="color: #0000FF">-3.54</span>%) / 60D(<span style="color: #0000FF">-1.26</span>%)  
-37점 - [HMM](https://finance.naver.com/item/fchart.naver?code=011200)(011200) 22800원 --- 7D(<span style="color: #0000FF">-0.65</span>%) / 30D(<span style="color: red">2.70</span>%) / 60D(<span style="color: red">19.56</span>%)  
-36점 - [화승알앤에이](https://finance.naver.com/item/fchart.naver?code=378850)(378850) 3270원 --- 7D(<span style="color: #0000FF">-0.15</span>%) / 30D(<span style="color: red">3.48</span>%) / 60D(<span style="color: red">1.55</span>%)  
-36점 - [평화산업](https://finance.naver.com/item/fchart.naver?code=090080)(090080) 1103원 --- 7D(<span style="color: red">1.10</span>%) / 30D(<span style="color: #0000FF">-30.10</span>%) / 60D(<span style="color: #0000FF">-18.90</span>%)  
-36점 - [상신브레이크](https://finance.naver.com/item/fchart.naver?code=041650)(041650) 2920원 --- 7D(<span style="color: red">0.52</span>%) / 30D(<span style="color: #0000FF">-2.18</span>%) / 60D(<span style="color: #0000FF">-0.51</span>%)  
-36점 - [삼화왕관](https://finance.naver.com/item/fchart.naver?code=004450)(004450) 34700원 --- 7D(<span style="color: red">0.14</span>%) / 30D(<span style="color: #0000FF">-7.34</span>%) / 60D(<span style="color: #0000FF">-12.81</span>%)  
-36점 - [롯데리츠](https://finance.naver.com/item/fchart.naver?code=330590)(330590) 3760원 --- 7D(<span style="color: red">1.62</span>%) / 30D(<span style="color: red">1.90</span>%) / 60D(<span style="color: red">6.06</span>%)  
-36점 - [대구백화점](https://finance.naver.com/item/fchart.naver?code=006370)(006370) 6800원 --- 7D(<span style="color: #0000FF">-4.23</span>%) / 30D(<span style="color: red">6.42</span>%) / 60D(<span style="color: #0000FF">-16.77</span>%)  
-36점 - [골프존](https://finance.naver.com/item/fchart.naver?code=215000)(215000) 67800원 --- 7D(<span style="color: red">3.20</span>%) / 30D(<span style="color: red">3.51</span>%) / 60D(<span style="color: red">4.31</span>%)  
-36점 - [SOL KIS단기통안채](https://finance.naver.com/item/fchart.naver?code=363510)(363510) 110650원 --- 7D(<span style="color: red">0.04</span>%) / 30D(<span style="color: red">0.19</span>%) / 60D(<span style="color: red">0.46</span>%)  
-36점 - [ESR켄달스퀘어리츠](https://finance.naver.com/item/fchart.naver?code=365550)(365550) 4105원 --- 7D(<span style="color: #0000FF">-2.26</span>%) / 30D(<span style="color: #0000FF">-8.78</span>%) / 60D(<span style="color: #0000FF">-13.85</span>%)  
-35점 - [해태제과식품](https://finance.naver.com/item/fchart.naver?code=101530)(101530) 7070원 --- 7D(<span style="color: red">1.29</span>%) / 30D(<span style="color: red">3.36</span>%) / 60D(<span style="color: red">2.46</span>%)  
-35점 - [평화홀딩스](https://finance.naver.com/item/fchart.naver?code=010770)(010770) 4990원 --- 7D(<span style="color: #0000FF">-0.60</span>%) / 30D(<span style="color: #0000FF">-49.95</span>%) / 60D(<span style="color: #0000FF">-40.60</span>%)  
-35점 - [인바이오젠](https://finance.naver.com/item/fchart.naver?code=101140)(101140) 12070원 --- 7D(<span style="color: #0000FF">-0.17</span>%) / 30D(<span style="color: #0000FF">-1.87</span>%) / 60D(<span style="color: red">67.87</span>%)  
-35점 - [영보화학](https://finance.naver.com/item/fchart.naver?code=014440)(014440) 4520원 --- 7D(<span style="color: red">1.01</span>%) / 30D(<span style="color: red">4.27</span>%) / 60D(<span style="color: #0000FF">-12.57</span>%)  
-35점 - [미래에셋맵스리츠](https://finance.naver.com/item/fchart.naver?code=357250)(357250) 2690원 --- 7D(<span style="color: #0000FF">-0.74</span>%) / 30D(<span style="color: #0000FF">-4.27</span>%) / 60D(<span style="color: red">0.75</span>%)  
-35점 - [메타랩스](https://finance.naver.com/item/fchart.naver?code=090370)(090370) 1380원 --- 7D(<span style="color: #0000FF">-1.92</span>%) / 30D(<span style="color: #0000FF">-7.07</span>%) / 60D(<span style="color: #0000FF">-2.27</span>%)  
-35점 - [금강공업](https://finance.naver.com/item/fchart.naver?code=014280)(014280) 4625원 --- 7D(<span style="color: red">1.09</span>%) / 30D(<span style="color: red">2.78</span>%) / 60D(<span style="color: #0000FF">-2.22</span>%)  
-35점 - [SOL 차이나육성산업액티브(합성)](https://finance.naver.com/item/fchart.naver?code=415760)(415760) 7230원 --- 7D(<span style="color: red">0.49</span>%) / 30D(<span style="color: #0000FF">-0.75</span>%) / 60D(<span style="color: #0000FF">-7.31</span>%)  
-34점 - [휴젤](https://finance.naver.com/item/fchart.naver?code=145020)(145020) 368000원 --- 7D(<span style="color: #0000FF">-4.17</span>%) / 30D(<span style="color: red">2.36</span>%) / 60D(<span style="color: red">4.69</span>%)  
-34점 - [태경케미컬](https://finance.naver.com/item/fchart.naver?code=006890)(006890) 11320원 --- 7D(<span style="color: red">1.52</span>%) / 30D(<span style="color: #0000FF">-1.99</span>%) / 60D(<span style="color: #0000FF">-3.66</span>%)  
-34점 - [유니켐](https://finance.naver.com/item/fchart.naver?code=011330)(011330) 1408원 --- 7D(<span style="color: #0000FF">-5.31</span>%) / 30D(<span style="color: #0000FF">-7.61</span>%) / 60D(<span style="color: #0000FF">-17.23</span>%)  
-34점 - [오뚜기](https://finance.naver.com/item/fchart.naver?code=007310)(007310) 395500원 --- 7D(<span style="color: red">1.28</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: #0000FF">-1.37</span>%)  
-34점 - [미원상사](https://finance.naver.com/item/fchart.naver?code=002840)(002840) 168800원 --- 7D(<span style="color: #0000FF">-3.82</span>%) / 30D(<span style="color: #0000FF">-6.12</span>%) / 60D(<span style="color: #0000FF">-10.59</span>%)  
-34점 - [동양철관](https://finance.naver.com/item/fchart.naver?code=008970)(008970) 1369원 --- 7D(<span style="color: #0000FF">-3.32</span>%) / 30D(<span style="color: #0000FF">-4.13</span>%) / 60D(<span style="color: #0000FF">-22.04</span>%)  
-34점 - [남양유업](https://finance.naver.com/item/fchart.naver?code=003920)(003920) 65900원 --- 7D(<span style="color: #0000FF">-1.64</span>%) / 30D(<span style="color: #0000FF">-15.19</span>%) / 60D(<span style="color: #0000FF">-9.73</span>%)  
-34점 - [SPC삼립](https://finance.naver.com/item/fchart.naver?code=005610)(005610) 57700원 --- 7D(<span style="color: red">5.68</span>%) / 30D(<span style="color: red">12.04</span>%) / 60D(<span style="color: #0000FF">-6.33</span>%)  
-34점 - [DL건설](https://finance.naver.com/item/fchart.naver?code=001880)(001880) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-33점 - [신한알파리츠](https://finance.naver.com/item/fchart.naver?code=293940)(293940) 5480원 --- 7D(<span style="color: red">0.37</span>%) / 30D(<span style="color: #0000FF">-4.03</span>%) / 60D(<span style="color: #0000FF">-3.69</span>%)  
-33점 - [신일전자](https://finance.naver.com/item/fchart.naver?code=002700)(002700) 1470원 --- 7D(<span style="color: red">0.68</span>%) / 30D(<span style="color: #0000FF">-4.30</span>%) / 60D(<span style="color: #0000FF">-5.04</span>%)  
-33점 - [삼성중공우](https://finance.naver.com/item/fchart.naver?code=010145)(010145) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-33점 - [비비안](https://finance.naver.com/item/fchart.naver?code=002070)(002070) 791원 --- 7D(<span style="color: #0000FF">-2.22</span>%) / 30D(<span style="color: #0000FF">-16.47</span>%) / 60D(<span style="color: #0000FF">-16.56</span>%)  
-33점 - [무림P&P](https://finance.naver.com/item/fchart.naver?code=009580)(009580) 2825원 --- 7D(<span style="color: #0000FF">-0.18</span>%) / 30D(<span style="color: red">0.18</span>%) / 60D(<span style="color: #0000FF">-6.61</span>%)  
-33점 - [롯데제과](https://finance.naver.com/item/fchart.naver?code=280360)(280360) 117300원 --- 7D(<span style="color: red">0.77</span>%) / 30D(<span style="color: red">6.06</span>%) / 60D(<span style="color: #0000FF">-0.17</span>%)  
-33점 - [깨끗한나라](https://finance.naver.com/item/fchart.naver?code=004540)(004540) 2130원 --- 7D(<span style="color: red">0.47</span>%) / 30D(<span style="color: #0000FF">-0.47</span>%) / 60D(<span style="color: #0000FF">-13.59</span>%)  
-33점 - [WOORI 대한민국국고채액티브](https://finance.naver.com/item/fchart.naver?code=426150)(426150) 58480원 --- 7D(<span style="color: #0000FF">-0.07</span>%) / 30D(<span style="color: #0000FF">-0.86</span>%) / 60D(<span style="color: #0000FF">-1.92</span>%)  
-33점 - [NH올원리츠](https://finance.naver.com/item/fchart.naver?code=400760)(400760) 3660원 --- 7D(<span style="color: red">0.27</span>%) / 30D(<span style="color: red">0.41</span>%) / 60D(<span style="color: red">2.66</span>%)  
-32점 - [제이알글로벌리츠](https://finance.naver.com/item/fchart.naver?code=348950)(348950) 2665원 --- 7D(<span style="color: #0000FF">-0.93</span>%) / 30D(<span style="color: #0000FF">-3.27</span>%) / 60D(<span style="color: #0000FF">-0.56</span>%)  
-32점 - [윌비스](https://finance.naver.com/item/fchart.naver?code=008600)(008600) 430원 --- 7D(<span style="color: #0000FF">-9.28</span>%) / 30D(<span style="color: #0000FF">-14.51</span>%) / 60D(<span style="color: #0000FF">-42.90</span>%)  
-32점 - [바다로19호](https://finance.naver.com/item/fchart.naver?code=155900)(155900) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-31점 - [풀무원](https://finance.naver.com/item/fchart.naver?code=017810)(017810) 12280원 --- 7D(<span style="color: red">0.74</span>%) / 30D(<span style="color: #0000FF">-1.92</span>%) / 60D(<span style="color: #0000FF">-20.62</span>%)  
-31점 - [크래프톤](https://finance.naver.com/item/fchart.naver?code=259960)(259960) 361500원 --- 7D(<span style="color: #0000FF">-5.49</span>%) / 30D(<span style="color: #0000FF">-5.49</span>%) / 60D(<span style="color: #0000FF">-3.21</span>%)  
-31점 - [코람코에너지리츠](https://finance.naver.com/item/fchart.naver?code=357120)(357120) 4410원 --- 7D(<span style="color: red">0.68</span>%) / 30D(<span style="color: #0000FF">-2.22</span>%) / 60D(<span style="color: #0000FF">-0.56</span>%)  
-31점 - [이지스밸류리츠](https://finance.naver.com/item/fchart.naver?code=334890)(334890) 4805원 --- 7D(<span style="color: red">2.89</span>%) / 30D(<span style="color: red">2.23</span>%) / 60D(<span style="color: red">3.56</span>%)  
-31점 - [이마트](https://finance.naver.com/item/fchart.naver?code=139480)(139480) 86600원 --- 7D(<span style="color: red">5.48</span>%) / 30D(<span style="color: #0000FF">-1.03</span>%) / 60D(<span style="color: red">0.23</span>%)  
-31점 - [오리엔트바이오](https://finance.naver.com/item/fchart.naver?code=002630)(002630) 821원 --- 7D(<span style="color: #0000FF">-4.87</span>%) / 30D(<span style="color: #0000FF">-34.21</span>%) / 60D(<span style="color: #0000FF">-45.81</span>%)  
-31점 - [신흥](https://finance.naver.com/item/fchart.naver?code=004080)(004080) 14590원 --- 7D(<span style="color: #0000FF">-0.07</span>%) / 30D(<span style="color: #0000FF">-0.07</span>%) / 60D(<span style="color: red">0.62</span>%)  
-31점 - [농심](https://finance.naver.com/item/fchart.naver?code=004370)(004370) 399000원 --- 7D(<span style="color: red">2.44</span>%) / 30D(<span style="color: #0000FF">-6.23</span>%) / 60D(<span style="color: red">0.38</span>%)  
-31점 - [계룡건설](https://finance.naver.com/item/fchart.naver?code=013580)(013580) 22250원 --- 7D(<span style="color: red">6.71</span>%) / 30D(<span style="color: red">10.15</span>%) / 60D(<span style="color: #0000FF">-8.25</span>%)  
-31점 - [SK리츠](https://finance.naver.com/item/fchart.naver?code=395400)(395400) 4605원 --- 7D(<span style="color: red">0.33</span>%) / 30D(<span style="color: #0000FF">-4.46</span>%) / 60D(<span style="color: #0000FF">-5.54</span>%)  
-30점 - [이지스레지던스리츠](https://finance.naver.com/item/fchart.naver?code=350520)(350520) 4220원 --- 7D(<span style="color: red">0.60</span>%) / 30D(<span style="color: #0000FF">-0.71</span>%) / 60D(<span style="color: #0000FF">-0.35</span>%)  
-30점 - [에넥스](https://finance.naver.com/item/fchart.naver?code=011090)(011090) 636원 --- 7D(<span style="color: #0000FF">-1.40</span>%) / 30D(<span style="color: #0000FF">-7.42</span>%) / 60D(<span style="color: #0000FF">-22.15</span>%)  
-29점 - [빙그레](https://finance.naver.com/item/fchart.naver?code=005180)(005180) 83300원 --- 7D(<span style="color: #0000FF">-0.36</span>%) / 30D(<span style="color: #0000FF">-6.19</span>%) / 60D(<span style="color: #0000FF">-11.85</span>%)  
-29점 - [미래에셋글로벌리츠](https://finance.naver.com/item/fchart.naver?code=396690)(396690) 2660원 --- 7D(<span style="color: red">0.95</span>%) / 30D(<span style="color: #0000FF">-4.32</span>%) / 60D(<span style="color: #0000FF">-2.92</span>%)  
-28점 - [히어로즈 단기채권ESG액티브](https://finance.naver.com/item/fchart.naver?code=419890)(419890) 108370원 --- 7D(<span style="color: red">0.05</span>%) / 30D(<span style="color: red">0.15</span>%) / 60D(<span style="color: red">0.47</span>%)  
-28점 - [일성건설](https://finance.naver.com/item/fchart.naver?code=013360)(013360) 1857원 --- 7D(<span style="color: #0000FF">-2.47</span>%) / 30D(<span style="color: #0000FF">-21.48</span>%) / 60D(<span style="color: #0000FF">-43.56</span>%)  
-27점 - [베트남개발1](https://finance.naver.com/item/fchart.naver?code=096300)(096300) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-26점 - [한솔PNS](https://finance.naver.com/item/fchart.naver?code=010420)(010420) 1885원 --- 7D(<span style="color: red">0.43</span>%) / 30D(<span style="color: #0000FF">-0.37</span>%) / 60D(<span style="color: #0000FF">-0.37</span>%)  
-26점 - [세아제강](https://finance.naver.com/item/fchart.naver?code=306200)(306200) 152500원 --- 7D(<span style="color: red">1.67</span>%) / 30D(<span style="color: #0000FF">-8.30</span>%) / 60D(<span style="color: #0000FF">-16.39</span>%)  
-26점 - [KG스틸우](https://finance.naver.com/item/fchart.naver?code=016385)(016385) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-26점 - [DB하이텍1우](https://finance.naver.com/item/fchart.naver?code=000995)(000995) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-25점 - [이스타코](https://finance.naver.com/item/fchart.naver?code=015020)(015020) 720원 --- 7D(<span style="color: #0000FF">-6.98</span>%) / 30D(<span style="color: #0000FF">-26.53</span>%) / 60D(<span style="color: #0000FF">-51.74</span>%)  
-24점 - [이리츠코크렙](https://finance.naver.com/item/fchart.naver?code=088260)(088260) 4545원 --- 7D(<span style="color: red">1.45</span>%) / 30D(<span style="color: #0000FF">-2.88</span>%) / 60D(<span style="color: #0000FF">-0.66</span>%)  
-22점 - [쌍방울](https://finance.naver.com/item/fchart.naver?code=102280)(102280) 2690원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: #0000FF">-80.00</span>%)  
-20점 - [쌍용C&E](https://finance.naver.com/item/fchart.naver?code=003410)(003410) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-18점 - [효성화학](https://finance.naver.com/item/fchart.naver?code=298000)(298000) 38900원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-18점 - [아센디오](https://finance.naver.com/item/fchart.naver?code=012170)(012170) 3655원 --- 7D(<span style="color: #0000FF">-4.69</span>%) / 30D(<span style="color: #0000FF">-16.74</span>%) / 60D(<span style="color: #0000FF">-13.90</span>%)  
-14점 - [KH 필룩스](https://finance.naver.com/item/fchart.naver?code=033180)(033180) 5310원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: #0000FF">-80.00</span>%) / 60D(<span style="color: #0000FF">-19.91</span>%)  
-13점 - [모두투어리츠](https://finance.naver.com/item/fchart.naver?code=204210)(204210) 2035원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [현대사료](https://finance.naver.com/item/fchart.naver?code=016790)(016790) 994원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [한창](https://finance.naver.com/item/fchart.naver?code=005110)(005110) 1254원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [큐로](https://finance.naver.com/item/fchart.naver?code=015590)(015590) 515원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [카프로](https://finance.naver.com/item/fchart.naver?code=006380)(006380) 3660원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [이아이디](https://finance.naver.com/item/fchart.naver?code=093230)(093230) 1392원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [웰바이오텍](https://finance.naver.com/item/fchart.naver?code=010600)(010600) 545원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [에이리츠](https://finance.naver.com/item/fchart.naver?code=140910)(140910) 3130원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [쎌마테라퓨틱스](https://finance.naver.com/item/fchart.naver?code=015540)(015540) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-0점 - [센트럴인사이트](https://finance.naver.com/item/fchart.naver?code=012600)(012600) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-0점 - [세원이앤씨](https://finance.naver.com/item/fchart.naver?code=091090)(091090) 1270원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [선도전기](https://finance.naver.com/item/fchart.naver?code=007610)(007610) 3000원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [비케이탑스](https://finance.naver.com/item/fchart.naver?code=030790)(030790) 0원 --- 7D(<span style="color: #0000FF">-100.00</span>%) / 30D(<span style="color: #0000FF">-100.00</span>%) / 60D(<span style="color: #0000FF">-100.00</span>%)  
-0점 - [부산주공](https://finance.naver.com/item/fchart.naver?code=005030)(005030) 486원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [대유플러스](https://finance.naver.com/item/fchart.naver?code=000300)(000300) 1984원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [대동전자](https://finance.naver.com/item/fchart.naver?code=008110)(008110) 15040원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [국보](https://finance.naver.com/item/fchart.naver?code=001140)(001140) 2110원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
-0점 - [IHQ](https://finance.naver.com/item/fchart.naver?code=003560)(003560) 10760원 --- 7D(<span style="color: red">0.00</span>%) / 30D(<span style="color: red">0.00</span>%) / 60D(<span style="color: red">0.00</span>%)  
+| 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |  
+|------|--------|------|--------|-------------|--------------|--------------|  
+| 66점 | [한화투자증권](https://finance.naver.com/item/fchart.naver?code=003530) | 003530 | 6,710원 | 🔻-2.75% | 🔺+63.66% | 🔺+102.72% |  
+| 66점 | [대한전선](https://finance.naver.com/item/fchart.naver?code=001440) | 001440 | 17,450원 | 🔺+8.86% | 🔺+37.40% | 🔺+49.53% |  
+| 66점 | [LX인터내셔널](https://finance.naver.com/item/fchart.naver?code=001120) | 001120 | 31,625원 | 🔺+1.20% | 🔺+13.15% | 🔺+22.34% |  
+| 65점 | [효성중공업](https://finance.naver.com/item/fchart.naver?code=298040) | 298040 | 854,000원 | 🔺+1.18% | 🔺+40.23% | 🔺+94.75% |  
+| 65점 | [풍산홀딩스](https://finance.naver.com/item/fchart.naver?code=005810) | 005810 | 45,050원 | 🔻-0.33% | 🔺+41.44% | 🔺+65.02% |  
+| 65점 | [일진홀딩스](https://finance.naver.com/item/fchart.naver?code=015860) | 015860 | 5,200원 | 🔻-2.62% | 🔺+23.37% | 🔺+38.67% |  
+| 65점 | [대성홀딩스](https://finance.naver.com/item/fchart.naver?code=016710) | 016710 | 9,960원 | 🔻-2.35% | 🔺+21.61% | 🔺+40.68% |  
+| 65점 | [DB손해보험](https://finance.naver.com/item/fchart.naver?code=005830) | 005830 | 122,900원 | 🔺+5.40% | 🔺+25.15% | 🔺+39.98% |  
+| 65점 | [BYC우](https://finance.naver.com/item/fchart.naver?code=001465) | 001465 | 22,700원 | 🔻-4.22% | 🔺+49.74% | 🔺+69.66% |  
+| 64점 | [한화투자증권우](https://finance.naver.com/item/fchart.naver?code=003535) | 003535 | 8,930원 | 🔻-6.20% | 🔺+40.19% | 🔺+53.44% |  
+| 64점 | [일성신약](https://finance.naver.com/item/fchart.naver?code=003120) | 003120 | 22,600원 | 🔻-1.95% | 🔺+19.01% | 🔺+42.77% |  
+| 64점 | [웅진](https://finance.naver.com/item/fchart.naver?code=016880) | 016880 | 2,980원 | 🔺+4.20% | 🔺+49.60% | 🔺+183.81% |  
+| 64점 | [SK바이오사이언스](https://finance.naver.com/item/fchart.naver?code=302440) | 302440 | 50,400원 | 🔺+11.88% | 🔺+17.21% | 🔺+25.22% |  
+| 63점 | [현대일렉트릭](https://finance.naver.com/item/fchart.naver?code=267260) | 267260 | 500,000원 | 🔺+5.71% | 🔺+27.39% | 🔺+70.65% |  
+| 63점 | [아프리카TV](https://finance.naver.com/item/fchart.naver?code=067160) | 067160 | 92,200원 | 🔻-2.23% | 🔺+6.10% | 🔺+13.41% |  
+| 63점 | [JB금융지주](https://finance.naver.com/item/fchart.naver?code=175330) | 175330 | 21,300원 | 🔻-0.23% | 🔺+18.73% | 🔺+19.46% |  
+| 62점 | [현대오토에버](https://finance.naver.com/item/fchart.naver?code=307950) | 307950 | 177,700원 | 🔺+7.89% | 🔺+23.15% | 🔺+50.72% |  
+| 62점 | [한국금융지주우](https://finance.naver.com/item/fchart.naver?code=071055) | 071055 | 93,900원 | 🔺+8.81% | 🔺+26.55% | 🔺+58.61% |  
+| 62점 | [예스코홀딩스](https://finance.naver.com/item/fchart.naver?code=015360) | 015360 | 55,800원 | 🔺+4.10% | 🔺+9.41% | 🔺+14.11% |  
+| 62점 | [신영와코루](https://finance.naver.com/item/fchart.naver?code=005800) | 005800 | 12,780원 | 🔻-0.85% | 🔺+11.23% | 🔺+23.84% |  
+| 62점 | [성보화학](https://finance.naver.com/item/fchart.naver?code=003080) | 003080 | 2,840원 | 🔺+2.16% | 🔺+9.65% | 🔺+11.59% |  
+| 62점 | [대신증권우](https://finance.naver.com/item/fchart.naver?code=003545) | 003545 | 20,800원 | 🔺+5.96% | 🔺+15.94% | 🔺+28.40% |  
+| 62점 | [넷마블](https://finance.naver.com/item/fchart.naver?code=251270) | 251270 | 60,500원 | 🔺+1.00% | 🔺+17.93% | 🔺+38.76% |  
+| 62점 | [JW홀딩스](https://finance.naver.com/item/fchart.naver?code=096760) | 096760 | 3,650원 | 🔻-4.07% | 🔺+13.35% | 🔺+20.66% |  
+| 61점 | [현대해상](https://finance.naver.com/item/fchart.naver?code=001450) | 001450 | 26,750원 | 🔺+6.15% | 🔺+12.63% | 🔺+27.99% |  
+| 61점 | [한미사이언스](https://finance.naver.com/item/fchart.naver?code=008930) | 008930 | 45,700원 | 🔺+1.11% | 🔺+33.04% | 🔺+61.77% |  
+| 61점 | [신성통상](https://finance.naver.com/item/fchart.naver?code=005390) | 005390 | 4,070원 | 🔺+0.00% | 🔺+50.46% | 🔺+88.86% |  
+| 61점 | [삼영전자](https://finance.naver.com/item/fchart.naver?code=005680) | 005680 | 11,460원 | 🔺+0.00% | 🔺+7.10% | 🔺+10.83% |  
+| 61점 | [삼양사우](https://finance.naver.com/item/fchart.naver?code=145995) | 145995 | 36,800원 | 🔺+1.66% | 🔺+13.23% | 🔺+20.46% |  
+| 61점 | [롯데관광개발](https://finance.naver.com/item/fchart.naver?code=032350) | 032350 | 16,680원 | 🔻-0.89% | 🔺+41.48% | 🔺+74.48% |  
+| 61점 | [두산에너빌리티](https://finance.naver.com/item/fchart.naver?code=034020) | 034020 | 66,400원 | 🔺+8.85% | 🔺+56.79% | 🔺+146.84% |  
+| 61점 | [대원화성](https://finance.naver.com/item/fchart.naver?code=024890) | 024890 | 910원 | 🔻-0.66% | 🔺+1.56% | 🔺+1.68% |  
+| 61점 | [대덕전자](https://finance.naver.com/item/fchart.naver?code=353200) | 353200 | 17,730원 | 🔺+3.99% | 🔺+22.70% | 🔺+21.44% |  
+| 61점 | [TIMEFOLIO 이노베이션액티브](https://finance.naver.com/item/fchart.naver?code=385710) | 385710 | 9,165원 | 🔺+4.38% | 🔺+18.33% | 🔺+23.43% |  
+| 61점 | [TIMEFOLIO Kstock액티브](https://finance.naver.com/item/fchart.naver?code=385720) | 385720 | 11,780원 | 🔺+4.20% | 🔺+15.26% | 🔺+24.79% |  
+| 61점 | [SG글로벌](https://finance.naver.com/item/fchart.naver?code=001380) | 001380 | 1,695원 | 🔻-1.63% | 🔻-3.09% | 🔻-14.70% |  
+| 60점 | [현대건설우](https://finance.naver.com/item/fchart.naver?code=000725) | 000725 | 68,700원 | 🔺+1.18% | 🔺+13.18% | 🔺+33.40% |  
+| 60점 | [한화손해보험](https://finance.naver.com/item/fchart.naver?code=000370) | 000370 | 5,640원 | 🔻-1.23% | 🔺+27.03% | 🔺+41.53% |  
+| 60점 | [한미반도체](https://finance.naver.com/item/fchart.naver?code=042700) | 042700 | 96,800원 | 🔺+4.65% | 🔺+17.62% | 🔺+16.21% |  
+| 60점 | [한국조선해양](https://finance.naver.com/item/fchart.naver?code=009540) | 009540 | 379,000원 | 🔺+0.00% | 🔺+28.04% | 🔺+51.90% |  
+| 60점 | [제이에스코퍼레이션](https://finance.naver.com/item/fchart.naver?code=194370) | 194370 | 11,910원 | 🔺+3.12% | 🔺+1.19% | 🔺+57.96% |  
+| 60점 | [일진전기](https://finance.naver.com/item/fchart.naver?code=103590) | 103590 | 33,900원 | 🔺+1.35% | 🔺+10.24% | 🔺+45.81% |  
+| 60점 | [위메이드](https://finance.naver.com/item/fchart.naver?code=112040) | 112040 | 38,200원 | 🔺+11.05% | 🔺+53.41% | 🔺+36.43% |  
+| 60점 | [영풍제지](https://finance.naver.com/item/fchart.naver?code=006740) | 006740 | 1,078원 | 🔻-0.74% | 🔺+8.02% | 🔺+13.12% |  
+| 60점 | [엔씨소프트](https://finance.naver.com/item/fchart.naver?code=036570) | 036570 | 192,600원 | 🔺+1.10% | 🔺+22.21% | 🔺+30.40% |  
+| 60점 | [아세아제지](https://finance.naver.com/item/fchart.naver?code=002310) | 002310 | 8,090원 | 🔻-0.74% | 🔺+12.52% | 🔺+16.57% |  
+| 60점 | [신풍제약](https://finance.naver.com/item/fchart.naver?code=019170) | 019170 | 13,650원 | 🔻-23.44% | 🔺+11.98% | 🔺+73.00% |  
+| 60점 | [신세계 I&C](https://finance.naver.com/item/fchart.naver?code=035510) | 035510 | 21,000원 | 🔻-4.55% | 🔺+60.06% | 🔺+40.19% |  
+| 60점 | [삼성생명](https://finance.naver.com/item/fchart.naver?code=032830) | 032830 | 128,500원 | 🔺+3.21% | 🔺+32.47% | 🔺+55.01% |  
+| 60점 | [부국증권](https://finance.naver.com/item/fchart.naver?code=001270) | 001270 | 43,650원 | 🔺+4.80% | 🔺+28.19% | 🔺+59.31% |  
+| 60점 | [두산퓨얼셀](https://finance.naver.com/item/fchart.naver?code=336260) | 336260 | 23,850원 | 🔺+22.94% | 🔺+43.50% | 🔺+56.50% |  
+| 60점 | [두산](https://finance.naver.com/item/fchart.naver?code=000150) | 000150 | 677,000원 | 🔺+10.98% | 🔺+42.83% | 🔺+132.25% |  
+| 60점 | [대신증권](https://finance.naver.com/item/fchart.naver?code=003540) | 003540 | 25,050원 | 🔺+3.73% | 🔺+21.31% | 🔺+44.05% |  
+| 60점 | [경농](https://finance.naver.com/item/fchart.naver?code=002100) | 002100 | 10,280원 | 🔺+1.38% | 🔺+10.66% | 🔺+11.62% |  
+| 60점 | [WOORI AI ESG액티브](https://finance.naver.com/item/fchart.naver?code=413930) | 413930 | 11,620원 | 🔺+5.83% | 🔺+20.23% | 🔺+27.06% |  
+| 60점 | [TIMEFOLIO 미국나스닥100액티브](https://finance.naver.com/item/fchart.naver?code=426030) | 426030 | 29,320원 | 🔺+4.90% | 🔺+19.28% | 🔺+38.14% |  
+| 60점 | [SOL KRX300](https://finance.naver.com/item/fchart.naver?code=292500) | 292500 | 19,925원 | 🔺+5.09% | 🔺+18.60% | 🔺+23.22% |  
+| 60점 | [SK하이닉스](https://finance.naver.com/item/fchart.naver?code=000660) | 000660 | 287,500원 | 🔺+16.87% | 🔺+41.98% | 🔺+61.25% |  
+| 60점 | [SK증권](https://finance.naver.com/item/fchart.naver?code=001510) | 001510 | 698원 | 🔺+4.02% | 🔺+36.59% | 🔺+48.20% |  
+| 60점 | [NH투자증권우](https://finance.naver.com/item/fchart.naver?code=005945) | 005945 | 18,900원 | 🔺+10.53% | 🔺+29.81% | 🔺+43.18% |  
+| 60점 | [LX하우시스우](https://finance.naver.com/item/fchart.naver?code=108675) | 108675 | 18,840원 | 🔺+0.59% | 🔺+3.69% | 🔺+3.57% |  
+| 60점 | [LG](https://finance.naver.com/item/fchart.naver?code=003550) | 003550 | 83,800원 | 🔺+11.29% | 🔺+23.42% | 🔺+28.92% |  
+| 60점 | [BNK금융지주](https://finance.naver.com/item/fchart.naver?code=138930) | 138930 | 12,620원 | 🔺+7.04% | 🔺+19.06% | 🔺+19.06% |  
+| 59점 | [현대건설](https://finance.naver.com/item/fchart.naver?code=000720) | 000720 | 81,500원 | 🔺+3.95% | 🔺+31.45% | 🔺+103.75% |  
+| 59점 | [한화3우B](https://finance.naver.com/item/fchart.naver?code=00088K) | 00088K | 37,050원 | 🔻-5.73% | 🔺+40.08% | 🔺+86.46% |  
+| 59점 | [한전산업](https://finance.naver.com/item/fchart.naver?code=130660) | 130660 | 15,370원 | 🔺+0.79% | 🔺+26.29% | 🔺+42.45% |  
+| 59점 | [한신기계](https://finance.naver.com/item/fchart.naver?code=011700) | 011700 | 4,285원 | 🔻-13.70% | 🔺+17.08% | 🔺+44.03% |  
+| 59점 | [한솔홀딩스](https://finance.naver.com/item/fchart.naver?code=004150) | 004150 | 3,260원 | 🔺+3.99% | 🔺+27.10% | 🔺+32.79% |  
+| 59점 | [펄어비스](https://finance.naver.com/item/fchart.naver?code=263750) | 263750 | 42,400원 | 🔻-0.93% | 🔺+10.70% | 🔺+27.52% |  
+| 59점 | [파워 200](https://finance.naver.com/item/fchart.naver?code=152870) | 152870 | 42,425원 | 🔺+4.91% | 🔺+19.15% | 🔺+24.00% |  
+| 59점 | [일양약품우](https://finance.naver.com/item/fchart.naver?code=007575) | 007575 | 15,170원 | 🔺+4.05% | 🔺+17.69% | 🔺+24.34% |  
+| 59점 | [에셋플러스 코리아플랫폼액티브](https://finance.naver.com/item/fchart.naver?code=407820) | 407820 | 8,380원 | 🔺+2.89% | 🔺+14.79% | 🔺+22.51% |  
+| 59점 | [신풍제약우](https://finance.naver.com/item/fchart.naver?code=019175) | 019175 | 34,550원 | 🔻-25.62% | 🔺+76.01% | 🔺+185.54% |  
+| 59점 | [삼성에스디에스](https://finance.naver.com/item/fchart.naver?code=018260) | 018260 | 179,600원 | 🔺+6.65% | 🔺+34.33% | 🔺+44.49% |  
+| 59점 | [롯데정보통신](https://finance.naver.com/item/fchart.naver?code=286940) | 286940 | 24,950원 | 🔻-6.55% | 🔺+35.82% | 🔺+36.71% |  
+| 59점 | [대우건설](https://finance.naver.com/item/fchart.naver?code=047040) | 047040 | 4,390원 | 🔻-0.11% | 🔺+8.53% | 🔺+33.23% |  
+| 59점 | [다우기술](https://finance.naver.com/item/fchart.naver?code=023590) | 023590 | 35,650원 | 🔺+13.17% | 🔺+44.62% | 🔺+69.36% |  
+| 59점 | [농심홀딩스](https://finance.naver.com/item/fchart.naver?code=072710) | 072710 | 83,300원 | 🔻-0.24% | 🔺+13.49% | 🔺+26.21% |  
+| 59점 | [SOL 200TR](https://finance.naver.com/item/fchart.naver?code=295040) | 295040 | 15,545원 | 🔺+4.93% | 🔺+19.03% | 🔺+25.31% |  
+| 59점 | [LX홀딩스](https://finance.naver.com/item/fchart.naver?code=383800) | 383800 | 9,440원 | 🔺+2.39% | 🔺+28.61% | 🔺+45.90% |  
+| 59점 | [LIG넥스원](https://finance.naver.com/item/fchart.naver?code=079550) | 079550 | 525,000원 | 🔻-11.47% | 🔺+17.85% | 🔺+69.63% |  
+| 59점 | [LG우](https://finance.naver.com/item/fchart.naver?code=003555) | 003555 | 64,700원 | 🔺+4.86% | 🔺+13.51% | 🔺+18.50% |  
+| 59점 | [E1](https://finance.naver.com/item/fchart.naver?code=017940) | 017940 | 80,000원 | 🔺+3.23% | 🔺+14.78% | 🔺+31.58% |  
+| 59점 | [BYC](https://finance.naver.com/item/fchart.naver?code=001460) | 001460 | 38,800원 | 🔻-2.27% | 🔺+13.45% | 🔺+42.65% |  
+| 58점 | [화천기공](https://finance.naver.com/item/fchart.naver?code=000850) | 000850 | 32,850원 | 🔻-0.45% | 🔺+6.48% | 🔺+13.28% |  
+| 58점 | [현대그린푸드](https://finance.naver.com/item/fchart.naver?code=005440) | 005440 | 8,670원 | 🔺+1.17% | 🔺+19.26% | 🔺+64.20% |  
+| 58점 | [한미글로벌](https://finance.naver.com/item/fchart.naver?code=053690) | 053690 | 21,400원 | 🔻-5.31% | 🔺+18.95% | 🔺+32.92% |  
+| 58점 | [한국전자홀딩스](https://finance.naver.com/item/fchart.naver?code=006200) | 006200 | 761원 | 🔺+0.40% | 🔺+13.41% | 🔺+9.34% |  
+| 58점 | [한국쉘석유](https://finance.naver.com/item/fchart.naver?code=002960) | 002960 | 439,000원 | 🔻-2.88% | 🔺+12.56% | 🔺+27.43% |  
+| 58점 | [한국금융지주](https://finance.naver.com/item/fchart.naver?code=071050) | 071050 | 145,000원 | 🔺+13.90% | 🔺+44.71% | 🔺+87.58% |  
+| 58점 | [파워 코스피100](https://finance.naver.com/item/fchart.naver?code=140950) | 140950 | 31,710원 | 🔺+4.72% | 🔺+19.17% | 🔺+23.15% |  
+| 58점 | [코오롱글로벌](https://finance.naver.com/item/fchart.naver?code=003070) | 003070 | 9,780원 | 🔺+0.62% | 🔺+11.90% | 🔺+13.85% |  
+| 58점 | [코스맥스](https://finance.naver.com/item/fchart.naver?code=192820) | 192820 | 285,000원 | 🔺+11.11% | 🔺+37.35% | 🔺+68.04% |  
+| 58점 | [코리안리](https://finance.naver.com/item/fchart.naver?code=003690) | 003690 | 10,530원 | 🔺+4.78% | 🔺+15.33% | 🔺+31.79% |  
+| 58점 | [카카오뱅크](https://finance.naver.com/item/fchart.naver?code=323410) | 323410 | 35,700원 | 🔺+27.05% | 🔺+51.59% | 🔺+64.14% |  
+| 58점 | [제일연마](https://finance.naver.com/item/fchart.naver?code=001560) | 001560 | 9,460원 | 🔻-4.44% | 🔻-3.47% | 🔺+7.13% |  
+| 58점 | [일신방직](https://finance.naver.com/item/fchart.naver?code=003200) | 003200 | 10,960원 | 🔻-3.09% | 🔺+17.47% | 🔺+27.44% |  
+| 58점 | [이수페타시스](https://finance.naver.com/item/fchart.naver?code=007660) | 007660 | 50,100원 | 🔺+6.26% | 🔺+19.43% | 🔺+50.00% |  
+| 58점 | [아모레G3우(전환)](https://finance.naver.com/item/fchart.naver?code=00279K) | 00279K | 23,300원 | 🔺+5.19% | 🔺+18.58% | 🔺+31.71% |  
+| 58점 | [서울가스](https://finance.naver.com/item/fchart.naver?code=017390) | 017390 | 58,900원 | 🔻-0.34% | 🔺+4.43% | 🔺+17.92% |  
+| 58점 | [삼성카드](https://finance.naver.com/item/fchart.naver?code=029780) | 029780 | 49,300원 | 🔺+0.72% | 🔺+14.25% | 🔺+18.65% |  
+| 58점 | [삼성증권](https://finance.naver.com/item/fchart.naver?code=016360) | 016360 | 76,600원 | 🔺+13.82% | 🔺+36.06% | 🔺+60.59% |  
+| 58점 | [사조씨푸드](https://finance.naver.com/item/fchart.naver?code=014710) | 014710 | 7,940원 | 🔻-1.61% | 🔺+40.78% | 🔺+36.90% |  
+| 58점 | [부국증권우](https://finance.naver.com/item/fchart.naver?code=001275) | 001275 | 26,900원 | 🔺+2.28% | 🔺+17.72% | 🔺+26.00% |  
+| 58점 | [대원전선](https://finance.naver.com/item/fchart.naver?code=006340) | 006340 | 3,085원 | 🔺+0.98% | 🔺+4.05% | 🔺+9.59% |  
+| 58점 | [대성에너지](https://finance.naver.com/item/fchart.naver?code=117580) | 117580 | 8,540원 | 🔻-13.74% | 🔺+10.77% | 🔺+9.91% |  
+| 58점 | [남해화학](https://finance.naver.com/item/fchart.naver?code=025860) | 025860 | 8,060원 | 🔺+3.20% | 🔺+14.33% | 🔺+18.18% |  
+| 58점 | [기업은행](https://finance.naver.com/item/fchart.naver?code=024110) | 024110 | 18,680원 | 🔺+8.60% | 🔺+20.75% | 🔺+25.79% |  
+| 58점 | [광명전기](https://finance.naver.com/item/fchart.naver?code=017040) | 017040 | 2,050원 | 🔺+0.49% | 🔺+15.17% | 🔺+39.55% |  
+| 58점 | [TIMEFOLIO 미국S&P500액티브](https://finance.naver.com/item/fchart.naver?code=426020) | 426020 | 22,337원 | 🔺+1.86% | 🔺+10.25% | 🔺+19.90% |  
+| 58점 | [SK케미칼우](https://finance.naver.com/item/fchart.naver?code=28513K) | 28513K | 28,000원 | 🔺+8.53% | 🔺+17.89% | 🔺+41.56% |  
+| 58점 | [SK우](https://finance.naver.com/item/fchart.naver?code=03473K) | 03473K | 163,300원 | 🔺+1.37% | 🔺+30.95% | 🔺+40.05% |  
+| 58점 | [SK스퀘어](https://finance.naver.com/item/fchart.naver?code=402340) | 402340 | 192,500원 | 🔺+29.72% | 🔺+91.54% | 🔺+129.99% |  
+| 58점 | [SBS](https://finance.naver.com/item/fchart.naver?code=034120) | 034120 | 26,800원 | 🔻-0.92% | 🔺+17.54% | 🔺+39.73% |  
+| 58점 | [LF](https://finance.naver.com/item/fchart.naver?code=093050) | 093050 | 18,020원 | 🔺+0.67% | 🔺+16.33% | 🔺+22.25% |  
+| 58점 | [FOCUS KRX300](https://finance.naver.com/item/fchart.naver?code=292730) | 292730 | 20,205원 | 🔺+4.47% | 🔺+18.50% | 🔺+22.71% |  
+| 58점 | [DL이앤씨우](https://finance.naver.com/item/fchart.naver?code=37550K) | 37550K | 25,100원 | 🔺+11.31% | 🔺+25.50% | 🔺+45.59% |  
+| 57점 | [현대코퍼레이션홀딩스](https://finance.naver.com/item/fchart.naver?code=227840) | 227840 | 13,100원 | 🔺+2.50% | 🔺+13.32% | 🔺+18.77% |  
+| 57점 | [한국프랜지](https://finance.naver.com/item/fchart.naver?code=010100) | 010100 | 4,640원 | 🔺+2.65% | 🔺+18.37% | 🔺+14.57% |  
+| 57점 | [한국토지신탁](https://finance.naver.com/item/fchart.naver?code=034830) | 034830 | 1,251원 | 🔺+2.04% | 🔺+10.32% | 🔺+23.25% |  
+| 57점 | [팜스코](https://finance.naver.com/item/fchart.naver?code=036580) | 036580 | 2,730원 | 🔺+2.06% | 🔺+9.20% | 🔺+32.85% |  
+| 57점 | [진양화학](https://finance.naver.com/item/fchart.naver?code=051630) | 051630 | 2,010원 | 🔻-1.95% | 🔻-1.95% | 🔻-9.87% |  
+| 57점 | [진양산업](https://finance.naver.com/item/fchart.naver?code=003780) | 003780 | 5,800원 | 🔻-0.51% | 🔺+0.69% | 🔺+0.52% |  
+| 57점 | [자화전자](https://finance.naver.com/item/fchart.naver?code=033240) | 033240 | 15,470원 | 🔺+3.55% | 🔺+35.94% | 🔺+34.64% |  
+| 57점 | [일진하이솔루스](https://finance.naver.com/item/fchart.naver?code=271940) | 271940 | 16,430원 | 🔺+11.31% | 🔺+34.12% | 🔺+20.99% |  
+| 57점 | [이월드](https://finance.naver.com/item/fchart.naver?code=084680) | 084680 | 1,700원 | 🔺+11.84% | 🔺+19.38% | 🔺+19.89% |  
+| 57점 | [이오테크닉스](https://finance.naver.com/item/fchart.naver?code=039030) | 039030 | 166,200원 | 🔺+8.20% | 🔺+15.98% | 🔺+38.96% |  
+| 57점 | [유안타증권](https://finance.naver.com/item/fchart.naver?code=003470) | 003470 | 3,680원 | 🔺+4.55% | 🔺+18.33% | 🔺+31.43% |  
+| 57점 | [에이플러스에셋](https://finance.naver.com/item/fchart.naver?code=244920) | 244920 | 6,240원 | 🔺+4.52% | 🔺+14.29% | 🔺+44.61% |  
+| 57점 | [아모레G](https://finance.naver.com/item/fchart.naver?code=002790) | 002790 | 31,500원 | 🔺+6.06% | 🔺+23.77% | 🔺+45.16% |  
+| 57점 | [신세계푸드](https://finance.naver.com/item/fchart.naver?code=031440) | 031440 | 41,050원 | 🔺+12.01% | 🔺+19.16% | 🔺+28.68% |  
+| 57점 | [신세계인터내셔날](https://finance.naver.com/item/fchart.naver?code=031430) | 031430 | 12,730원 | 🔺+0.79% | 🔺+16.68% | 🔺+31.10% |  
+| 57점 | [신대양제지](https://finance.naver.com/item/fchart.naver?code=016590) | 016590 | 13,210원 | 🔻-8.20% | 🔺+49.27% | 🔺+69.79% |  
+| 57점 | [세원정공](https://finance.naver.com/item/fchart.naver?code=021820) | 021820 | 11,320원 | 🔻-4.63% | 🔺+32.09% | 🔺+36.71% |  
+| 57점 | [세방우](https://finance.naver.com/item/fchart.naver?code=004365) | 004365 | 10,230원 | 🔺+5.03% | 🔺+14.30% | 🔺+35.86% |  
+| 57점 | [삼성물산](https://finance.naver.com/item/fchart.naver?code=028260) | 028260 | 164,500원 | 🔻-0.48% | 🔺+9.30% | 🔺+39.29% |  
+| 57점 | [미래에셋증권](https://finance.naver.com/item/fchart.naver?code=006800) | 006800 | 22,800원 | 🔺+14.34% | 🔺+70.15% | 🔺+121.79% |  
+| 57점 | [두산우](https://finance.naver.com/item/fchart.naver?code=000155) | 000155 | 411,500원 | 🔻-3.97% | 🔺+30.22% | 🔺+158.97% |  
+| 57점 | [동아지질](https://finance.naver.com/item/fchart.naver?code=028100) | 028100 | 17,220원 | 🔺+2.26% | 🔺+10.95% | 🔺+17.38% |  
+| 57점 | [대신증권2우B](https://finance.naver.com/item/fchart.naver?code=003547) | 003547 | 18,980원 | 🔺+5.21% | 🔺+11.91% | 🔺+21.59% |  
+| 57점 | [광전자](https://finance.naver.com/item/fchart.naver?code=017900) | 017900 | 1,998원 | 🔺+0.86% | 🔺+7.13% | 🔺+9.42% |  
+| 57점 | [SOL 유럽탄소배출권선물S&P(H)](https://finance.naver.com/item/fchart.naver?code=400580) | 400580 | 10,670원 | 🔻-0.28% | 🔺+0.71% | 🔺+9.16% |  
+| 57점 | [SK텔레콤](https://finance.naver.com/item/fchart.naver?code=017670) | 017670 | 57,100원 | 🔺+3.25% | 🔺+10.23% | 🔻-1.04% |  
+| 57점 | [SK케미칼](https://finance.naver.com/item/fchart.naver?code=285130) | 285130 | 68,700원 | 🔺+24.23% | 🔺+26.29% | 🔺+81.99% |  
+| 57점 | [SK바이오팜](https://finance.naver.com/item/fchart.naver?code=326030) | 326030 | 93,000원 | 🔺+3.10% | 🔺+2.42% | 🔻-10.83% |  
+| 57점 | [SKC](https://finance.naver.com/item/fchart.naver?code=011790) | 011790 | 109,700원 | 🔻-0.81% | 🔺+21.35% | 🔺+6.92% |  
+| 57점 | [NPC우](https://finance.naver.com/item/fchart.naver?code=004255) | 004255 | 2,660원 | 🔺+3.50% | 🔺+12.71% | 🔺+12.71% |  
+| 57점 | [NPC](https://finance.naver.com/item/fchart.naver?code=004250) | 004250 | 4,560원 | 🔺+0.00% | 🔺+5.31% | 🔺+9.48% |  
+| 57점 | [NH투자증권](https://finance.naver.com/item/fchart.naver?code=005940) | 005940 | 20,450원 | 🔺+6.51% | 🔺+25.69% | 🔺+43.71% |  
+| 57점 | [LS ELECTRIC](https://finance.naver.com/item/fchart.naver?code=010120) | 010120 | 300,500원 | 🔺+8.29% | 🔺+15.80% | 🔺+67.50% |  
+| 57점 | [HLB생명과학](https://finance.naver.com/item/fchart.naver?code=067630) | 067630 | 5,130원 | 🔻-10.78% | 🔻-13.20% | 🔻-17.26% |  
+| 57점 | [HLB글로벌](https://finance.naver.com/item/fchart.naver?code=003580) | 003580 | 2,820원 | 🔻-6.00% | 🔻-3.92% | 🔻-6.62% |  
+| 57점 | [FOCUS ESG리더스](https://finance.naver.com/item/fchart.naver?code=285690) | 285690 | 13,485원 | 🔺+4.17% | 🔺+16.50% | 🔺+22.42% |  
+| 57점 | [DL우](https://finance.naver.com/item/fchart.naver?code=000215) | 000215 | 23,900원 | 🔺+3.02% | 🔺+11.68% | 🔺+22.13% |  
+| 56점 | [혜인](https://finance.naver.com/item/fchart.naver?code=003010) | 003010 | 5,430원 | 🔻-1.27% | 🔺+9.15% | 🔺+7.74% |  
+| 56점 | [현대두산인프라코어](https://finance.naver.com/item/fchart.naver?code=042670) | 042670 | 12,950원 | 🔺+2.78% | 🔺+50.41% | 🔺+58.31% |  
+| 56점 | [현대글로비스](https://finance.naver.com/item/fchart.naver?code=086280) | 086280 | 136,500원 | 🔺+2.40% | 🔺+22.42% | 🔺+21.01% |  
+| 56점 | [한화우](https://finance.naver.com/item/fchart.naver?code=000885) | 000885 | 65,000원 | 🔻-6.61% | 🔺+47.73% | 🔺+61.49% |  
+| 56점 | [한일홀딩스](https://finance.naver.com/item/fchart.naver?code=003300) | 003300 | 18,210원 | 🔺+0.77% | 🔺+10.90% | 🔺+28.06% |  
+| 56점 | [한솔테크닉스](https://finance.naver.com/item/fchart.naver?code=004710) | 004710 | 6,320원 | 🔺+16.39% | 🔺+27.55% | 🔺+49.59% |  
+| 56점 | [하림지주](https://finance.naver.com/item/fchart.naver?code=003380) | 003380 | 9,270원 | 🔺+0.65% | 🔺+8.68% | 🔺+57.65% |  
+| 56점 | [하나금융지주](https://finance.naver.com/item/fchart.naver?code=086790) | 086790 | 82,800원 | 🔺+5.21% | 🔺+18.12% | 🔺+36.18% |  
+| 56점 | [풍산](https://finance.naver.com/item/fchart.naver?code=103140) | 103140 | 127,300원 | 🔺+0.63% | 🔺+100.79% | 🔺+128.14% |  
+| 56점 | [팬오션](https://finance.naver.com/item/fchart.naver?code=028670) | 028670 | 3,845원 | 🔻-2.53% | 🔺+6.22% | 🔺+16.69% |  
+| 56점 | [티웨이항공](https://finance.naver.com/item/fchart.naver?code=091810) | 091810 | 2,120원 | 🔺+5.21% | 🔺+2.17% | 🔻-0.93% |  
+| 56점 | [콘텐트리중앙](https://finance.naver.com/item/fchart.naver?code=036420) | 036420 | 13,130원 | 🔺+5.12% | 🔺+23.17% | 🔺+56.87% |  
+| 56점 | [코리아써키트](https://finance.naver.com/item/fchart.naver?code=007810) | 007810 | 11,430원 | 🔺+1.06% | 🔺+14.41% | 🔺+13.51% |  
+| 56점 | [컴투스](https://finance.naver.com/item/fchart.naver?code=078340) | 078340 | 43,700원 | 🔺+3.92% | 🔺+15.76% | 🔺+10.35% |  
+| 56점 | [카카오게임즈](https://finance.naver.com/item/fchart.naver?code=293490) | 293490 | 22,100원 | 🔺+25.85% | 🔺+38.12% | 🔺+55.96% |  
+| 56점 | [인천도시가스](https://finance.naver.com/item/fchart.naver?code=034590) | 034590 | 25,850원 | 🔺+1.17% | 🔺+2.99% | 🔺+5.30% |  
+| 56점 | [이연제약](https://finance.naver.com/item/fchart.naver?code=102460) | 102460 | 11,240원 | 🔻-0.62% | 🔺+3.69% | 🔻-0.97% |  
+| 56점 | [이노션](https://finance.naver.com/item/fchart.naver?code=214320) | 214320 | 20,250원 | 🔺+0.50% | 🔺+13.89% | 🔺+12.88% |  
+| 56점 | [유안타증권우](https://finance.naver.com/item/fchart.naver?code=003475) | 003475 | 3,765원 | 🔺+1.48% | 🔺+20.87% | 🔺+27.84% |  
+| 56점 | [원림](https://finance.naver.com/item/fchart.naver?code=005820) | 005820 | 16,150원 | 🔺+3.00% | 🔺+10.39% | 🔺+13.57% |  
+| 56점 | [웅진씽크빅](https://finance.naver.com/item/fchart.naver?code=095720) | 095720 | 1,853원 | 🔺+0.43% | 🔺+9.00% | 🔺+15.45% |  
+| 56점 | [신도리코](https://finance.naver.com/item/fchart.naver?code=029530) | 029530 | 50,600원 | 🔺+4.76% | 🔺+7.43% | 🔺+22.22% |  
+| 56점 | [세기상사](https://finance.naver.com/item/fchart.naver?code=002420) | 002420 | 5,380원 | 🔻-4.44% | 🔺+6.53% | 🔺+4.87% |  
+| 56점 | [삼천리](https://finance.naver.com/item/fchart.naver?code=004690) | 004690 | 135,100원 | 🔺+0.00% | 🔺+12.68% | 🔺+49.94% |  
+| 56점 | [삼정펄프](https://finance.naver.com/item/fchart.naver?code=009770) | 009770 | 30,000원 | 🔻-0.17% | 🔺+7.33% | 🔺+14.94% |  
+| 56점 | [삼일씨엔에스](https://finance.naver.com/item/fchart.naver?code=004440) | 004440 | 5,010원 | 🔻-0.20% | 🔺+17.88% | 🔺+17.33% |  
+| 56점 | [삼양홀딩스](https://finance.naver.com/item/fchart.naver?code=000070) | 000070 | 88,600원 | 🔺+1.49% | 🔺+38.87% | 🔺+42.90% |  
+| 56점 | [삼성물산우B](https://finance.naver.com/item/fchart.naver?code=02826K) | 02826K | 121,800원 | 🔻-0.08% | 🔺+9.83% | 🔺+39.04% |  
+| 56점 | [사조산업](https://finance.naver.com/item/fchart.naver?code=007160) | 007160 | 63,200원 | 🔺+2.27% | 🔺+31.67% | 🔺+68.09% |  
+| 56점 | [방림](https://finance.naver.com/item/fchart.naver?code=003610) | 003610 | 4,210원 | 🔻-1.17% | 🔺+1.81% | 🔺+8.23% |  
+| 56점 | [미래에셋증권우](https://finance.naver.com/item/fchart.naver?code=006805) | 006805 | 9,300원 | 🔺+9.67% | 🔺+60.62% | 🔺+90.38% |  
+| 56점 | [미래에셋증권2우B](https://finance.naver.com/item/fchart.naver?code=00680K) | 00680K | 8,990원 | 🔺+11.96% | 🔺+76.97% | 🔺+102.71% |  
+| 56점 | [디와이파워](https://finance.naver.com/item/fchart.naver?code=210540) | 210540 | 13,180원 | 🔺+0.69% | 🔺+8.30% | 🔺+11.79% |  
+| 56점 | [디와이](https://finance.naver.com/item/fchart.naver?code=013570) | 013570 | 4,640원 | 🔻-0.75% | 🔺+11.00% | 🔺+18.52% |  
+| 56점 | [동원수산](https://finance.naver.com/item/fchart.naver?code=030720) | 030720 | 6,090원 | 🔺+0.83% | 🔺+10.73% | 🔺+20.59% |  
+| 56점 | [동양고속](https://finance.naver.com/item/fchart.naver?code=084670) | 084670 | 8,690원 | 🔺+2.00% | 🔺+17.91% | 🔺+23.61% |  
+| 56점 | [도화엔지니어링](https://finance.naver.com/item/fchart.naver?code=002150) | 002150 | 6,810원 | 🔻-1.16% | 🔺+3.65% | 🔺+3.81% |  
+| 56점 | [더존비즈온](https://finance.naver.com/item/fchart.naver?code=012510) | 012510 | 71,950원 | 🔺+2.20% | 🔺+28.48% | 🔺+16.99% |  
+| 56점 | [녹십자홀딩스](https://finance.naver.com/item/fchart.naver?code=005250) | 005250 | 16,650원 | 🔺+1.83% | 🔺+19.18% | 🔺+22.88% |  
+| 56점 | [교보증권](https://finance.naver.com/item/fchart.naver?code=030610) | 030610 | 8,810원 | 🔺+2.92% | 🔺+20.85% | 🔺+40.51% |  
+| 56점 | [경동도시가스](https://finance.naver.com/item/fchart.naver?code=267290) | 267290 | 20,800원 | 🔺+2.21% | 🔺+11.11% | 🔺+18.38% |  
+| 56점 | [SOL 글로벌탄소배출권선물IHS(합성)](https://finance.naver.com/item/fchart.naver?code=400590) | 400590 | 12,275원 | 🔻-2.23% | 🔺+1.53% | 🔺+4.91% |  
+| 56점 | [SK디스커버리](https://finance.naver.com/item/fchart.naver?code=006120) | 006120 | 57,800원 | 🔺+6.25% | 🔺+27.03% | 🔺+39.61% |  
+| 56점 | [SH에너지화학](https://finance.naver.com/item/fchart.naver?code=002360) | 002360 | 466원 | 🔻-1.69% | 🔺+6.39% | 🔺+2.42% |  
+| 56점 | [PI첨단소재](https://finance.naver.com/item/fchart.naver?code=178920) | 178920 | 17,820원 | 🔺+3.30% | 🔻-0.78% | 🔺+8.66% |  
+| 56점 | [NAVER](https://finance.naver.com/item/fchart.naver?code=035420) | 035420 | 284,000원 | 🔺+12.70% | 🔺+54.52% | 🔺+48.30% |  
+| 56점 | [LS전선아시아](https://finance.naver.com/item/fchart.naver?code=229640) | 229640 | 35,300원 | 🔺+1.29% | 🔺+6.01% | 🔺+12.06% |  
+| 56점 | [KEC](https://finance.naver.com/item/fchart.naver?code=092220) | 092220 | 841원 | 🔺+4.47% | 🔺+17.79% | 🔺+12.13% |  
+| 56점 | [KCC글라스](https://finance.naver.com/item/fchart.naver?code=344820) | 344820 | 34,150원 | 🔺+3.80% | 🔺+14.98% | 🔺+8.07% |  
+| 56점 | [GS우](https://finance.naver.com/item/fchart.naver?code=078935) | 078935 | 42,800원 | 🔺+0.71% | 🔺+11.17% | 🔺+14.75% |  
+| 56점 | [GS](https://finance.naver.com/item/fchart.naver?code=078930) | 078930 | 46,850원 | 🔺+0.97% | 🔺+14.83% | 🔺+21.69% |  
+| 56점 | [GKL](https://finance.naver.com/item/fchart.naver?code=114090) | 114090 | 15,230원 | 🔻-0.13% | 🔺+7.33% | 🔺+27.34% |  
+| 55점 | [휴니드](https://finance.naver.com/item/fchart.naver?code=005870) | 005870 | 8,900원 | 🔻-12.23% | 🔻-0.78% | 🔺+9.74% |  
+| 55점 | [효성](https://finance.naver.com/item/fchart.naver?code=004800) | 004800 | 72,000원 | 🔺+8.76% | 🔺+23.50% | 🔺+41.73% |  
+| 55점 | [현대차증권](https://finance.naver.com/item/fchart.naver?code=001500) | 001500 | 8,020원 | 🔺+8.09% | 🔺+22.44% | 🔺+37.80% |  
+| 55점 | [핸즈코퍼레이션](https://finance.naver.com/item/fchart.naver?code=143210) | 143210 | 1,694원 | 🔺+0.83% | 🔺+7.90% | 🔺+2.98% |  
+| 55점 | [한올바이오파마](https://finance.naver.com/item/fchart.naver?code=009420) | 009420 | 25,300원 | 🔻-1.75% | 🔻-3.25% | 🔻-9.16% |  
+| 55점 | [한양증권](https://finance.naver.com/item/fchart.naver?code=001750) | 001750 | 18,560원 | 🔺+3.57% | 🔺+26.00% | 🔺+40.50% |  
+| 55점 | [한솔케미칼](https://finance.naver.com/item/fchart.naver?code=014680) | 014680 | 160,800원 | 🔺+1.77% | 🔺+33.44% | 🔺+35.13% |  
+| 55점 | [티와이홀딩스](https://finance.naver.com/item/fchart.naver?code=363280) | 363280 | 3,260원 | 🔺+0.62% | 🔺+25.38% | 🔺+56.35% |  
+| 55점 | [태경산업](https://finance.naver.com/item/fchart.naver?code=015890) | 015890 | 5,330원 | 🔺+0.76% | 🔺+6.60% | 🔺+9.11% |  
+| 55점 | [코오롱우](https://finance.naver.com/item/fchart.naver?code=002025) | 002025 | 22,950원 | 🔻-3.77% | 🔺+51.39% | 🔺+54.55% |  
+| 55점 | [진양폴리](https://finance.naver.com/item/fchart.naver?code=010640) | 010640 | 4,025원 | 🔺+0.37% | 🔺+0.25% | 🔻-4.62% |  
+| 55점 | [조비](https://finance.naver.com/item/fchart.naver?code=001550) | 001550 | 15,340원 | 🔺+3.23% | 🔺+26.36% | 🔺+28.69% |  
+| 55점 | [조광피혁](https://finance.naver.com/item/fchart.naver?code=004700) | 004700 | 62,500원 | 🔺+0.81% | 🔺+12.41% | 🔺+20.66% |  
+| 55점 | [이화산업](https://finance.naver.com/item/fchart.naver?code=000760) | 000760 | 13,090원 | 🔻-0.76% | 🔺+16.05% | 🔺+23.14% |  
+| 55점 | [유성기업](https://finance.naver.com/item/fchart.naver?code=002920) | 002920 | 2,020원 | 🔺+1.10% | 🔺+2.33% | 🔺+4.66% |  
+| 55점 | [에스티팜](https://finance.naver.com/item/fchart.naver?code=237690) | 237690 | 79,900원 | 🔺+3.36% | 🔺+3.10% | 🔺+3.23% |  
+| 55점 | [안랩](https://finance.naver.com/item/fchart.naver?code=053800) | 053800 | 70,400원 | 🔺+2.47% | 🔺+14.66% | 🔺+1.29% |  
+| 55점 | [아모레퍼시픽우](https://finance.naver.com/item/fchart.naver?code=090435) | 090435 | 46,300원 | 🔺+5.59% | 🔺+13.62% | 🔺+26.85% |  
+| 55점 | [수산중공업](https://finance.naver.com/item/fchart.naver?code=017550) | 017550 | 1,835원 | 🔺+0.11% | 🔺+2.92% | 🔻-2.03% |  
+| 55점 | [삼화콘덴서](https://finance.naver.com/item/fchart.naver?code=001820) | 001820 | 27,450원 | 🔺+2.04% | 🔺+15.58% | 🔺+9.36% |  
+| 55점 | [삼화전기](https://finance.naver.com/item/fchart.naver?code=009470) | 009470 | 29,850원 | 🔺+0.17% | 🔺+11.80% | 🔺+8.15% |  
+| 55점 | [삼원강재](https://finance.naver.com/item/fchart.naver?code=023000) | 023000 | 2,577원 | 🔺+1.66% | 🔺+6.05% | 🔺+9.19% |  
+| 55점 | [삼양통상](https://finance.naver.com/item/fchart.naver?code=002170) | 002170 | 55,000원 | 🔻-0.18% | 🔺+12.13% | 🔺+16.28% |  
+| 55점 | [삼성화재우](https://finance.naver.com/item/fchart.naver?code=000815) | 000815 | 326,000원 | 🔺+1.24% | 🔺+12.03% | 🔺+17.48% |  
+| 55점 | [삼성화재](https://finance.naver.com/item/fchart.naver?code=000810) | 000810 | 441,000원 | 🔺+3.04% | 🔺+11.65% | 🔺+21.82% |  
+| 55점 | [삼성전기우](https://finance.naver.com/item/fchart.naver?code=009155) | 009155 | 61,500원 | 🔺+2.50% | 🔺+15.60% | 🔺+10.61% |  
+| 55점 | [삼성전기](https://finance.naver.com/item/fchart.naver?code=009150) | 009150 | 138,000원 | 🔺+5.91% | 🔺+16.16% | 🔺+13.11% |  
+| 55점 | [사조오양](https://finance.naver.com/item/fchart.naver?code=006090) | 006090 | 9,770원 | 🔺+3.50% | 🔺+14.94% | 🔺+16.31% |  
+| 55점 | [미래에셋생명](https://finance.naver.com/item/fchart.naver?code=085620) | 085620 | 6,240원 | 🔺+3.14% | 🔺+14.71% | 🔺+23.56% |  
+| 55점 | [드림텍](https://finance.naver.com/item/fchart.naver?code=192650) | 192650 | 6,260원 | 🔺+1.62% | 🔺+8.12% | 🔻-2.64% |  
+| 55점 | [두산퓨얼셀1우](https://finance.naver.com/item/fchart.naver?code=33626K) | 33626K | 5,850원 | 🔺+9.96% | 🔺+24.47% | 🔺+34.48% |  
+| 55점 | [동화약품](https://finance.naver.com/item/fchart.naver?code=000020) | 000020 | 6,840원 | 🔺+0.00% | 🔺+6.71% | 🔺+9.97% |  
+| 55점 | [동일산업](https://finance.naver.com/item/fchart.naver?code=004890) | 004890 | 44,100원 | 🔻-4.13% | 🔺+2.56% | 🔺+4.50% |  
+| 55점 | [대림통상](https://finance.naver.com/item/fchart.naver?code=006570) | 006570 | 2,810원 | 🔺+2.93% | 🔺+9.34% | 🔺+12.85% |  
+| 55점 | [다원시스](https://finance.naver.com/item/fchart.naver?code=068240) | 068240 | 9,190원 | 🔺+0.44% | 🔺+12.48% | 🔺+4.08% |  
+| 55점 | [녹십자](https://finance.naver.com/item/fchart.naver?code=006280) | 006280 | 128,600원 | 🔺+0.23% | 🔺+2.06% | 🔺+5.93% |  
+| 55점 | [노루홀딩스](https://finance.naver.com/item/fchart.naver?code=000320) | 000320 | 23,950원 | 🔺+18.56% | 🔺+43.59% | 🔺+62.93% |  
+| 55점 | [VITA MZ소비액티브](https://finance.naver.com/item/fchart.naver?code=422260) | 422260 | 10,990원 | 🔺+2.95% | 🔺+7.75% | 🔺+19.07% |  
+| 55점 | [TYM](https://finance.naver.com/item/fchart.naver?code=002900) | 002900 | 5,310원 | 🔻-0.19% | 🔺+2.91% | 🔺+17.61% |  
+| 55점 | [TIMEFOLIO 탄소중립액티브](https://finance.naver.com/item/fchart.naver?code=404120) | 404120 | 14,370원 | 🔺+3.49% | 🔺+17.07% | 🔺+28.02% |  
+| 55점 | [LS네트웍스](https://finance.naver.com/item/fchart.naver?code=000680) | 000680 | 3,895원 | 🔻-0.38% | 🔺+12.41% | 🔺+14.39% |  
+| 55점 | [LS](https://finance.naver.com/item/fchart.naver?code=006260) | 006260 | 181,000원 | 🔺+1.06% | 🔺+22.55% | 🔺+48.00% |  
+| 55점 | [LG전자](https://finance.naver.com/item/fchart.naver?code=066570) | 066570 | 75,800원 | 🔺+3.69% | 🔺+9.86% | 🔺+7.82% |  
+| 55점 | [HD현대](https://finance.naver.com/item/fchart.naver?code=267250) | 267250 | 131,100원 | 🔻-0.53% | 🔺+50.86% | 🔺+79.10% |  
+| 55점 | [F&F홀딩스](https://finance.naver.com/item/fchart.naver?code=007700) | 007700 | 19,240원 | 🔺+10.45% | 🔺+36.07% | 🔺+59.54% |  
+| 55점 | [BGF](https://finance.naver.com/item/fchart.naver?code=027410) | 027410 | 4,220원 | 🔻-1.52% | 🔺+12.68% | 🔺+18.04% |  
+| 54점 | [현대퓨처넷](https://finance.naver.com/item/fchart.naver?code=126560) | 126560 | 3,340원 | 🔺+0.75% | 🔺+3.89% | 🔺+17.81% |  
+| 54점 | [한전기술](https://finance.naver.com/item/fchart.naver?code=052690) | 052690 | 114,200원 | 🔺+0.18% | 🔺+75.15% | 🔺+79.28% |  
+| 54점 | [한전KPS](https://finance.naver.com/item/fchart.naver?code=051600) | 051600 | 62,800원 | 🔺+6.44% | 🔺+39.09% | 🔺+51.14% |  
+| 54점 | [한일현대시멘트](https://finance.naver.com/item/fchart.naver?code=006390) | 006390 | 19,100원 | 🔺+10.21% | 🔺+21.42% | 🔺+25.25% |  
+| 54점 | [한국단자](https://finance.naver.com/item/fchart.naver?code=025540) | 025540 | 66,400원 | 🔺+0.91% | 🔺+14.68% | 🔺+5.73% |  
+| 54점 | [하이트진로홀딩스](https://finance.naver.com/item/fchart.naver?code=000140) | 000140 | 10,620원 | 🔺+0.47% | 🔺+22.21% | 🔺+25.98% |  
+| 54점 | [하이트진로2우B](https://finance.naver.com/item/fchart.naver?code=000087) | 000087 | 15,780원 | 🔻-0.63% | 🔺+2.94% | 🔺+3.48% |  
+| 54점 | [플레이그램](https://finance.naver.com/item/fchart.naver?code=009810) | 009810 | 365원 | 🔺+0.83% | 🔺+21.26% | 🔺+19.28% |  
+| 54점 | [태평양물산](https://finance.naver.com/item/fchart.naver?code=007980) | 007980 | 1,502원 | 🔻-0.53% | 🔺+12.43% | 🔺+10.12% |  
+| 54점 | [키움증권](https://finance.naver.com/item/fchart.naver?code=039490) | 039490 | 235,000원 | 🔺+14.36% | 🔺+58.57% | 🔺+84.31% |  
+| 54점 | [크라운해태홀딩스](https://finance.naver.com/item/fchart.naver?code=005740) | 005740 | 7,700원 | 🔺+0.00% | 🔺+26.02% | 🔺+32.76% |  
+| 54점 | [코오롱인더우](https://finance.naver.com/item/fchart.naver?code=120115) | 120115 | 23,300원 | 🔺+4.48% | 🔺+12.29% | 🔺+21.42% |  
+| 54점 | [케이엠더블유](https://finance.naver.com/item/fchart.naver?code=032500) | 032500 | 13,020원 | 🔺+7.16% | 🔺+54.82% | 🔺+62.14% |  
+| 54점 | [종근당홀딩스](https://finance.naver.com/item/fchart.naver?code=001630) | 001630 | 51,500원 | 🔻-3.56% | 🔺+2.39% | 🔺+12.32% |  
+| 54점 | [종근당](https://finance.naver.com/item/fchart.naver?code=185750) | 185750 | 84,100원 | 🔺+3.06% | 🔺+2.31% | 🔺+7.00% |  
+| 54점 | [잇츠한불](https://finance.naver.com/item/fchart.naver?code=226320) | 226320 | 13,810원 | 🔺+5.42% | 🔺+12.28% | 🔺+16.15% |  
+| 54점 | [일동제약](https://finance.naver.com/item/fchart.naver?code=249420) | 249420 | 12,770원 | 🔺+0.63% | 🔺+5.45% | 🔺+9.52% |  
+| 54점 | [이엔플러스](https://finance.naver.com/item/fchart.naver?code=074610) | 074610 | 511원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 54점 | [유니퀘스트](https://finance.naver.com/item/fchart.naver?code=077500) | 077500 | 6,680원 | 🔺+2.61% | 🔺+6.71% | 🔺+16.99% |  
+| 54점 | [우리금융지주](https://finance.naver.com/item/fchart.naver?code=316140) | 316140 | 22,600원 | 🔺+8.39% | 🔺+23.56% | 🔺+31.40% |  
+| 54점 | [영원무역홀딩스](https://finance.naver.com/item/fchart.naver?code=009970) | 009970 | 131,900원 | 🔺+0.23% | 🔺+15.20% | 🔺+42.44% |  
+| 54점 | [에스디바이오센서](https://finance.naver.com/item/fchart.naver?code=137310) | 137310 | 11,100원 | 🔻-1.33% | 🔻-8.04% | 🔺+19.23% |  
+| 54점 | [아이에스동서](https://finance.naver.com/item/fchart.naver?code=010780) | 010780 | 22,200원 | 🔺+0.91% | 🔺+16.05% | 🔺+25.21% |  
+| 54점 | [아시아나IDT](https://finance.naver.com/item/fchart.naver?code=267850) | 267850 | 12,330원 | 🔻-1.04% | 🔺+7.97% | 🔺+9.50% |  
+| 54점 | [아세아시멘트](https://finance.naver.com/item/fchart.naver?code=183190) | 183190 | 12,880원 | 🔺+7.51% | 🔺+11.42% | 🔺+19.37% |  
+| 54점 | [스카이라이프](https://finance.naver.com/item/fchart.naver?code=053210) | 053210 | 5,040원 | 🔺+4.67% | 🔺+10.53% | 🔺+14.94% |  
+| 54점 | [상상인증권](https://finance.naver.com/item/fchart.naver?code=001290) | 001290 | 722원 | 🔺+1.40% | 🔺+55.27% | 🔺+60.09% |  
+| 54점 | [삼익악기](https://finance.naver.com/item/fchart.naver?code=002450) | 002450 | 1,300원 | 🔻-1.52% | 🔺+5.78% | 🔺+4.08% |  
+| 54점 | [롯데칠성우](https://finance.naver.com/item/fchart.naver?code=005305) | 005305 | 72,600원 | 🔻-1.49% | 🔺+11.52% | 🔺+13.62% |  
+| 54점 | [동일고무벨트](https://finance.naver.com/item/fchart.naver?code=163560) | 163560 | 7,500원 | 🔻-1.19% | 🔺+5.34% | 🔺+4.90% |  
+| 54점 | [동방아그로](https://finance.naver.com/item/fchart.naver?code=007590) | 007590 | 6,300원 | 🔺+0.64% | 🔺+2.27% | 🔺+2.94% |  
+| 54점 | [대현](https://finance.naver.com/item/fchart.naver?code=016090) | 016090 | 1,906원 | 🔻-0.47% | 🔺+1.38% | 🔻-4.60% |  
+| 54점 | [대한항공우](https://finance.naver.com/item/fchart.naver?code=003495) | 003495 | 24,550원 | 🔺+6.05% | 🔺+6.05% | 🔺+12.10% |  
+| 54점 | [대한방직](https://finance.naver.com/item/fchart.naver?code=001070) | 001070 | 6,710원 | 🔻-2.89% | 🔺+6.17% | 🔺+29.04% |  
+| 54점 | [대창단조](https://finance.naver.com/item/fchart.naver?code=015230) | 015230 | 5,870원 | 🔺+0.17% | 🔺+7.31% | 🔺+15.55% |  
+| 54점 | [대유에이텍](https://finance.naver.com/item/fchart.naver?code=002880) | 002880 | 1,203원 | 🔺+13.28% | 🔺+22.26% | 🔺+26.63% |  
+| 54점 | [대웅제약](https://finance.naver.com/item/fchart.naver?code=069620) | 069620 | 146,100원 | 🔻-5.50% | 🔺+1.25% | 🔺+12.56% |  
+| 54점 | [대동](https://finance.naver.com/item/fchart.naver?code=000490) | 000490 | 11,030원 | 🔺+2.04% | 🔺+5.75% | 🔺+5.65% |  
+| 54점 | [대덕전자1우](https://finance.naver.com/item/fchart.naver?code=35320K) | 35320K | 8,240원 | 🔺+1.98% | 🔺+12.26% | 🔺+7.57% |  
+| 54점 | [넥센타이어1우B](https://finance.naver.com/item/fchart.naver?code=002355) | 002355 | 3,260원 | 🔺+1.24% | 🔺+10.51% | 🔺+23.02% |  
+| 54점 | [금호에이치티](https://finance.naver.com/item/fchart.naver?code=214330) | 214330 | 711원 | 🔺+2.45% | 🔺+7.56% | 🔺+8.05% |  
+| 54점 | [금비](https://finance.naver.com/item/fchart.naver?code=008870) | 008870 | 58,500원 | 🔻-1.68% | 🔺+3.54% | 🔺+4.46% |  
+| 54점 | [극동유화](https://finance.naver.com/item/fchart.naver?code=014530) | 014530 | 3,490원 | 🔻-2.79% | 🔺+2.50% | 🔺+0.87% |  
+| 54점 | [광주신세계](https://finance.naver.com/item/fchart.naver?code=037710) | 037710 | 30,100원 | 🔺+2.56% | 🔺+7.89% | 🔺+8.47% |  
+| 54점 | [고영](https://finance.naver.com/item/fchart.naver?code=098460) | 098460 | 16,970원 | 🔺+11.06% | 🔺+10.19% | 🔺+29.05% |  
+| 54점 | [고려제강](https://finance.naver.com/item/fchart.naver?code=002240) | 002240 | 17,970원 | 🔻-0.94% | 🔺+4.60% | 🔺+4.29% |  
+| 54점 | [SK디스커버리우](https://finance.naver.com/item/fchart.naver?code=006125) | 006125 | 42,200원 | 🔺+4.84% | 🔺+12.53% | 🔺+22.14% |  
+| 54점 | [SG세계물산](https://finance.naver.com/item/fchart.naver?code=004060) | 004060 | 339원 | 🔺+0.30% | 🔺+3.67% | 🔺+0.89% |  
+| 54점 | [S-Oil우](https://finance.naver.com/item/fchart.naver?code=010955) | 010955 | 38,350원 | 🔻-3.88% | 🔺+3.93% | 🔺+9.57% |  
+| 54점 | [NICE](https://finance.naver.com/item/fchart.naver?code=034310) | 034310 | 12,840원 | 🔺+1.99% | 🔺+11.94% | 🔺+15.78% |  
+| 54점 | [LX홀딩스1우](https://finance.naver.com/item/fchart.naver?code=38380K) | 38380K | 9,180원 | 🔺+0.22% | 🔺+5.88% | 🔺+14.75% |  
+| 54점 | [LG디스플레이](https://finance.naver.com/item/fchart.naver?code=034220) | 034220 | 9,350원 | 🔺+1.74% | 🔺+15.57% | 🔺+11.18% |  
+| 54점 | [KISCO홀딩스](https://finance.naver.com/item/fchart.naver?code=001940) | 001940 | 26,150원 | 🔺+2.35% | 🔺+18.59% | 🔺+27.25% |  
+| 54점 | [JYP Ent.](https://finance.naver.com/item/fchart.naver?code=035900) | 035900 | 74,800원 | 🔻-1.06% | 🔺+0.27% | 🔺+19.30% |  
+| 54점 | [HLB](https://finance.naver.com/item/fchart.naver?code=028300) | 028300 | 49,600원 | 🔻-6.77% | 🔻-5.88% | 🔻-10.14% |  
+| 54점 | [HDC현대EP](https://finance.naver.com/item/fchart.naver?code=089470) | 089470 | 3,910원 | 🔻-0.76% | 🔺+3.58% | 🔺+8.91% |  
+| 53점 | [흥아해운](https://finance.naver.com/item/fchart.naver?code=003280) | 003280 | 1,840원 | 🔻-12.38% | 🔺+18.94% | 🔺+15.72% |  
+| 53점 | [후성](https://finance.naver.com/item/fchart.naver?code=093370) | 093370 | 5,040원 | 🔻-1.18% | 🔺+25.69% | 🔺+15.60% |  
+| 53점 | [화성산업](https://finance.naver.com/item/fchart.naver?code=002460) | 002460 | 11,200원 | 🔺+3.13% | 🔺+9.91% | 🔺+13.13% |  
+| 53점 | [현대리바트](https://finance.naver.com/item/fchart.naver?code=079430) | 079430 | 7,930원 | 🔻-0.13% | 🔺+0.89% | 🔺+9.23% |  
+| 53점 | [한일철강](https://finance.naver.com/item/fchart.naver?code=002220) | 002220 | 2,865원 | 🔺+7.10% | 🔺+45.65% | 🔺+45.73% |  
+| 53점 | [한세예스24홀딩스](https://finance.naver.com/item/fchart.naver?code=016450) | 016450 | 4,360원 | 🔺+1.99% | 🔺+13.99% | 🔺+15.96% |  
+| 53점 | [한국앤컴퍼니](https://finance.naver.com/item/fchart.naver?code=000240) | 000240 | 19,250원 | 🔺+1.37% | 🔺+15.34% | 🔺+30.95% |  
+| 53점 | [하이트론](https://finance.naver.com/item/fchart.naver?code=019490) | 019490 | 678원 | 🔺+0.44% | 🔻-26.62% | 🔺+13.19% |  
+| 53점 | [티웨이홀딩스](https://finance.naver.com/item/fchart.naver?code=004870) | 004870 | 681원 | 🔺+6.24% | 🔺+11.27% | 🔺+8.27% |  
+| 53점 | [티씨케이](https://finance.naver.com/item/fchart.naver?code=064760) | 064760 | 106,100원 | 🔺+5.89% | 🔺+21.81% | 🔺+21.53% |  
+| 53점 | [코스모화학](https://finance.naver.com/item/fchart.naver?code=005420) | 005420 | 15,670원 | 🔺+13.06% | 🔺+21.85% | 🔺+0.13% |  
+| 53점 | [코스맥스비티아이](https://finance.naver.com/item/fchart.naver?code=044820) | 044820 | 19,100원 | 🔺+3.64% | 🔺+52.68% | 🔺+73.16% |  
+| 53점 | [케이카](https://finance.naver.com/item/fchart.naver?code=381970) | 381970 | 15,530원 | 🔺+4.65% | 🔺+2.44% | 🔺+12.13% |  
+| 53점 | [컨버즈](https://finance.naver.com/item/fchart.naver?code=109070) | 109070 | 877원 | 🔻-0.45% | 🔻-6.30% | 🔻-26.73% |  
+| 53점 | [카카오페이](https://finance.naver.com/item/fchart.naver?code=377300) | 377300 | 98,600원 | 🔺+60.85% | 🔺+174.27% | 🔺+223.81% |  
+| 53점 | [천보](https://finance.naver.com/item/fchart.naver?code=278280) | 278280 | 41,850원 | 🔺+6.90% | 🔺+32.23% | 🔺+14.19% |  
+| 53점 | [진흥기업](https://finance.naver.com/item/fchart.naver?code=002780) | 002780 | 802원 | 🔺+4.02% | 🔺+5.94% | 🔺+10.93% |  
+| 53점 | [일정실업](https://finance.naver.com/item/fchart.naver?code=008500) | 008500 | 12,570원 | 🔻-4.99% | 🔺+13.04% | 🔺+14.59% |  
+| 53점 | [원익IPS](https://finance.naver.com/item/fchart.naver?code=240810) | 240810 | 27,050원 | 🔺+5.25% | 🔺+25.52% | 🔺+17.61% |  
+| 53점 | [시디즈](https://finance.naver.com/item/fchart.naver?code=134790) | 134790 | 31,500원 | 🔻-11.76% | 🔺+13.31% | 🔺+12.30% |  
+| 53점 | [세진중공업](https://finance.naver.com/item/fchart.naver?code=075580) | 075580 | 11,710원 | 🔻-5.34% | 🔺+1.91% | 🔺+34.91% |  
+| 53점 | [세아특수강](https://finance.naver.com/item/fchart.naver?code=019440) | 019440 | 14,680원 | 🔺+3.31% | 🔺+8.26% | 🔺+9.23% |  
+| 53점 | [세방](https://finance.naver.com/item/fchart.naver?code=004360) | 004360 | 15,030원 | 🔺+4.01% | 🔺+12.33% | 🔺+31.50% |  
+| 53점 | [삼성엔지니어링](https://finance.naver.com/item/fchart.naver?code=028050) | 028050 | 23,000원 | 🔺+1.55% | 🔺+5.75% | 🔺+20.17% |  
+| 53점 | [삼부토건](https://finance.naver.com/item/fchart.naver?code=001470) | 001470 | 347원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 53점 | [비에이치](https://finance.naver.com/item/fchart.naver?code=090460) | 090460 | 12,840원 | 🔺+0.78% | 🔺+6.20% | 🔺+2.88% |  
+| 53점 | [명신산업](https://finance.naver.com/item/fchart.naver?code=009900) | 009900 | 8,540원 | 🔺+2.40% | 🔺+5.96% | 🔺+6.22% |  
+| 53점 | [두산2우B](https://finance.naver.com/item/fchart.naver?code=000157) | 000157 | 476,000원 | 🔻-3.45% | 🔺+28.65% | 🔺+204.54% |  
+| 53점 | [동아에스티](https://finance.naver.com/item/fchart.naver?code=170900) | 170900 | 48,450원 | 🔺+2.32% | 🔺+1.68% | 🔺+6.95% |  
+| 53점 | [동부건설](https://finance.naver.com/item/fchart.naver?code=005960) | 005960 | 5,370원 | 🔻-2.01% | 🔺+11.30% | 🔺+32.43% |  
+| 53점 | [대우부품](https://finance.naver.com/item/fchart.naver?code=009320) | 009320 | 1,027원 | 🔺+1.28% | 🔺+0.39% | 🔺+1.99% |  
+| 53점 | [넥슨게임즈](https://finance.naver.com/item/fchart.naver?code=225570) | 225570 | 14,620원 | 🔺+0.90% | 🔺+14.49% | 🔺+13.86% |  
+| 53점 | [강남제비스코](https://finance.naver.com/item/fchart.naver?code=000860) | 000860 | 12,910원 | 🔺+1.41% | 🔺+5.65% | 🔻-45.87% |  
+| 53점 | [YG PLUS](https://finance.naver.com/item/fchart.naver?code=037270) | 037270 | 8,450원 | 🔺+13.12% | 🔺+42.74% | 🔺+67.66% |  
+| 53점 | [SOL 미국S&P500ESG](https://finance.naver.com/item/fchart.naver?code=399110) | 399110 | 15,895원 | 🔺+0.35% | 🔺+3.11% | 🔺+6.18% |  
+| 53점 | [SOL 200 Top10](https://finance.naver.com/item/fchart.naver?code=411540) | 411540 | 9,075원 | 🔺+5.22% | 🔺+17.93% | 🔺+16.72% |  
+| 53점 | [SNT중공업](https://finance.naver.com/item/fchart.naver?code=003570) | 003570 | 54,200원 | 🔻-3.21% | 🔺+33.66% | 🔺+59.88% |  
+| 53점 | [SNT모티브](https://finance.naver.com/item/fchart.naver?code=064960) | 064960 | 31,050원 | 🔻-2.51% | 🔺+5.43% | 🔺+10.30% |  
+| 53점 | [SK](https://finance.naver.com/item/fchart.naver?code=034730) | 034730 | 199,000원 | 🔺+3.32% | 🔺+42.04% | 🔺+53.43% |  
+| 53점 | [MH에탄올](https://finance.naver.com/item/fchart.naver?code=023150) | 023150 | 5,300원 | 🔻-1.67% | 🔺+3.72% | 🔺+2.91% |  
+| 53점 | [LX세미콘](https://finance.naver.com/item/fchart.naver?code=108320) | 108320 | 65,500원 | 🔺+5.48% | 🔺+10.64% | 🔺+28.94% |  
+| 53점 | [LG헬로비전](https://finance.naver.com/item/fchart.naver?code=037560) | 037560 | 2,860원 | 🔺+8.95% | 🔺+16.97% | 🔺+19.92% |  
+| 53점 | [KCC](https://finance.naver.com/item/fchart.naver?code=002380) | 002380 | 311,000원 | 🔻-0.32% | 🔺+9.89% | 🔺+26.17% |  
+| 53점 | [DRB동일](https://finance.naver.com/item/fchart.naver?code=004840) | 004840 | 5,080원 | 🔺+0.40% | 🔺+18.41% | 🔺+15.45% |  
+| 53점 | [DB](https://finance.naver.com/item/fchart.naver?code=012030) | 012030 | 1,457원 | 🔺+1.11% | 🔺+15.27% | 🔺+16.56% |  
+| 52점 | [흥국화재](https://finance.naver.com/item/fchart.naver?code=000540) | 000540 | 4,280원 | 🔺+0.59% | 🔺+11.02% | 🔺+26.44% |  
+| 52점 | [황금에스티](https://finance.naver.com/item/fchart.naver?code=032560) | 032560 | 6,130원 | 🔺+0.33% | 🔺+10.25% | 🔺+16.76% |  
+| 52점 | [현대차우](https://finance.naver.com/item/fchart.naver?code=005385) | 005385 | 162,600원 | 🔺+2.39% | 🔺+11.29% | 🔺+11.68% |  
+| 52점 | [한화생명](https://finance.naver.com/item/fchart.naver?code=088350) | 088350 | 3,365원 | 🔺+1.97% | 🔺+19.12% | 🔺+31.70% |  
+| 52점 | [한화](https://finance.naver.com/item/fchart.naver?code=000880) | 000880 | 91,400원 | 🔻-3.69% | 🔺+47.90% | 🔺+96.14% |  
+| 52점 | [한익스프레스](https://finance.naver.com/item/fchart.naver?code=014130) | 014130 | 3,520원 | 🔺+1.44% | 🔺+3.53% | 🔻-0.14% |  
+| 52점 | [한신공영](https://finance.naver.com/item/fchart.naver?code=004960) | 004960 | 8,690원 | 🔻-0.69% | 🔺+2.72% | 🔺+20.36% |  
+| 52점 | [한샘](https://finance.naver.com/item/fchart.naver?code=009240) | 009240 | 46,550원 | 🔺+4.14% | 🔺+16.08% | 🔺+13.81% |  
+| 52점 | [한국주강](https://finance.naver.com/item/fchart.naver?code=025890) | 025890 | 1,883원 | 🔺+1.35% | 🔺+3.18% | 🔺+3.23% |  
+| 52점 | [태광산업](https://finance.naver.com/item/fchart.naver?code=003240) | 003240 | 1,082,000원 | 🔻-4.67% | 🔺+25.67% | 🔺+49.65% |  
+| 52점 | [전방](https://finance.naver.com/item/fchart.naver?code=000950) | 000950 | 38,000원 | 🔺+0.93% | 🔺+56.06% | 🔺+56.38% |  
+| 52점 | [자이에스앤디](https://finance.naver.com/item/fchart.naver?code=317400) | 317400 | 3,745원 | 🔺+2.74% | 🔺+5.79% | 🔺+11.62% |  
+| 52점 | [일동홀딩스](https://finance.naver.com/item/fchart.naver?code=000230) | 000230 | 7,000원 | 🔻-0.57% | 🔺+3.24% | 🔺+13.09% |  
+| 52점 | [인지컨트롤스](https://finance.naver.com/item/fchart.naver?code=023800) | 023800 | 6,210원 | 🔺+0.49% | 🔺+7.44% | 🔺+6.34% |  
+| 52점 | [이수화학](https://finance.naver.com/item/fchart.naver?code=005950) | 005950 | 5,900원 | 🔺+1.90% | 🔺+13.03% | 🔺+3.69% |  
+| 52점 | [우진](https://finance.naver.com/item/fchart.naver?code=105840) | 105840 | 11,540원 | 🔻-9.70% | 🔺+29.81% | 🔺+51.84% |  
+| 52점 | [에코프로비엠](https://finance.naver.com/item/fchart.naver?code=247540) | 247540 | 104,100원 | 🔺+14.52% | 🔺+28.20% | 🔺+3.27% |  
+| 52점 | [에스원](https://finance.naver.com/item/fchart.naver?code=012750) | 012750 | 68,150원 | 🔻-0.66% | 🔺+4.85% | 🔺+8.00% |  
+| 52점 | [에스엠벡셀](https://finance.naver.com/item/fchart.naver?code=010580) | 010580 | 1,808원 | 🔺+6.04% | 🔺+47.83% | 🔺+53.61% |  
+| 52점 | [아이마켓코리아](https://finance.naver.com/item/fchart.naver?code=122900) | 122900 | 8,370원 | 🔺+1.58% | 🔺+4.49% | 🔺+5.95% |  
+| 52점 | [아모레G우](https://finance.naver.com/item/fchart.naver?code=002795) | 002795 | 12,760원 | 🔺+3.15% | 🔺+20.38% | 🔺+40.99% |  
+| 52점 | [아남전자](https://finance.naver.com/item/fchart.naver?code=008700) | 008700 | 1,525원 | 🔺+2.56% | 🔺+7.70% | 🔺+8.23% |  
+| 52점 | [쌍용차](https://finance.naver.com/item/fchart.naver?code=003620) | 003620 | 3,620원 | 🔺+4.02% | 🔺+8.06% | 🔺+11.04% |  
+| 52점 | [심텍](https://finance.naver.com/item/fchart.naver?code=222800) | 222800 | 24,250원 | 🔺+4.08% | 🔺+29.96% | 🔺+41.90% |  
+| 52점 | [신한지주](https://finance.naver.com/item/fchart.naver?code=055550) | 055550 | 60,400원 | 🔺+1.68% | 🔺+6.90% | 🔺+23.90% |  
+| 52점 | [센트랄모텍](https://finance.naver.com/item/fchart.naver?code=308170) | 308170 | 6,180원 | 🔻-2.22% | 🔺+6.37% | 🔺+4.04% |  
+| 52점 | [서연](https://finance.naver.com/item/fchart.naver?code=007860) | 007860 | 10,110원 | 🔻-1.94% | 🔺+26.22% | 🔺+32.68% |  
+| 52점 | [보령](https://finance.naver.com/item/fchart.naver?code=003850) | 003850 | 8,410원 | 🔺+1.57% | 🔻-1.06% | 🔻-1.98% |  
+| 52점 | [디아이](https://finance.naver.com/item/fchart.naver?code=003160) | 003160 | 16,180원 | 🔻-0.25% | 🔺+12.36% | 🔺+13.31% |  
+| 52점 | [동일제강](https://finance.naver.com/item/fchart.naver?code=002690) | 002690 | 1,628원 | 🔺+1.43% | 🔺+7.67% | 🔺+19.53% |  
+| 52점 | [대한해운](https://finance.naver.com/item/fchart.naver?code=005880) | 005880 | 1,635원 | 🔻-3.82% | 🔺+7.21% | 🔺+5.96% |  
+| 52점 | [대창](https://finance.naver.com/item/fchart.naver?code=012800) | 012800 | 1,436원 | 🔺+2.28% | 🔺+9.37% | 🔺+7.08% |  
+| 52점 | [대성산업](https://finance.naver.com/item/fchart.naver?code=128820) | 128820 | 4,190원 | 🔻-1.76% | 🔺+22.51% | 🔺+32.18% |  
+| 52점 | [넥센](https://finance.naver.com/item/fchart.naver?code=005720) | 005720 | 6,420원 | 🔺+3.55% | 🔺+17.58% | 🔺+38.81% |  
+| 52점 | [남광토건](https://finance.naver.com/item/fchart.naver?code=001260) | 001260 | 10,290원 | 🔺+2.90% | 🔺+18.55% | 🔺+24.13% |  
+| 52점 | [금호건설](https://finance.naver.com/item/fchart.naver?code=002990) | 002990 | 3,545원 | 🔺+4.11% | 🔺+21.82% | 🔺+21.40% |  
+| 52점 | [국동](https://finance.naver.com/item/fchart.naver?code=005320) | 005320 | 494원 | 🔻-1.00% | 🔻-3.70% | 🔺+14.62% |  
+| 52점 | [강원랜드](https://finance.naver.com/item/fchart.naver?code=035250) | 035250 | 18,720원 | 🔺+3.65% | 🔺+9.28% | 🔺+17.66% |  
+| 52점 | [SNT홀딩스](https://finance.naver.com/item/fchart.naver?code=036530) | 036530 | 57,900원 | 🔺+9.87% | 🔺+25.32% | 🔺+72.84% |  
+| 52점 | [SK디앤디](https://finance.naver.com/item/fchart.naver?code=210980) | 210980 | 10,150원 | 🔺+2.53% | 🔺+9.14% | 🔺+14.56% |  
+| 52점 | [SJM홀딩스](https://finance.naver.com/item/fchart.naver?code=025530) | 025530 | 3,620원 | 🔻-1.50% | 🔺+8.06% | 🔺+10.87% |  
+| 52점 | [SIMPAC](https://finance.naver.com/item/fchart.naver?code=009160) | 009160 | 4,975원 | 🔻-0.30% | 🔺+1.32% | 🔺+25.00% |  
+| 52점 | [SFA반도체](https://finance.naver.com/item/fchart.naver?code=036540) | 036540 | 3,355원 | 🔺+4.84% | 🔺+18.34% | 🔺+10.73% |  
+| 52점 | [S-Oil](https://finance.naver.com/item/fchart.naver?code=010950) | 010950 | 58,200원 | 🔻-5.37% | 🔺+3.01% | 🔺+11.49% |  
+| 52점 | [KPX홀딩스](https://finance.naver.com/item/fchart.naver?code=092230) | 092230 | 69,100원 | 🔺+1.47% | 🔺+4.70% | 🔺+18.12% |  
+| 52점 | [KCTC](https://finance.naver.com/item/fchart.naver?code=009070) | 009070 | 5,440원 | 🔺+31.88% | 🔺+41.12% | 🔺+40.75% |  
+| 52점 | [JW중외제약](https://finance.naver.com/item/fchart.naver?code=001060) | 001060 | 23,150원 | 🔺+2.21% | 🔺+4.28% | 🔺+4.28% |  
+| 52점 | [GS리테일](https://finance.naver.com/item/fchart.naver?code=007070) | 007070 | 16,980원 | 🔺+2.91% | 🔺+14.73% | 🔺+18.74% |  
+| 52점 | [DB금융투자](https://finance.naver.com/item/fchart.naver?code=016610) | 016610 | 8,410원 | 🔺+2.19% | 🔺+29.38% | 🔺+37.64% |  
+| 52점 | [CS홀딩스](https://finance.naver.com/item/fchart.naver?code=000590) | 000590 | 90,100원 | 🔺+0.33% | 🔺+19.65% | 🔺+23.26% |  
+| 52점 | [CJ제일제당 우](https://finance.naver.com/item/fchart.naver?code=097955) | 097955 | 147,800원 | 🔺+0.82% | 🔺+10.30% | 🔺+10.30% |  
+| 51점 | [효성첨단소재](https://finance.naver.com/item/fchart.naver?code=298050) | 298050 | 208,500원 | 🔺+6.60% | 🔺+3.73% | 🔺+19.21% |  
+| 51점 | [현대차2우B](https://finance.naver.com/item/fchart.naver?code=005387) | 005387 | 163,700원 | 🔺+2.12% | 🔺+11.74% | 🔺+11.13% |  
+| 51점 | [현대에너지솔루션](https://finance.naver.com/item/fchart.naver?code=322000) | 322000 | 46,850원 | 🔺+4.11% | 🔺+18.31% | 🔺+70.36% |  
+| 51점 | [한미약품](https://finance.naver.com/item/fchart.naver?code=128940) | 128940 | 295,000원 | 🔻-0.51% | 🔻-3.59% | 🔺+22.66% |  
+| 51점 | [한라](https://finance.naver.com/item/fchart.naver?code=014790) | 014790 | 2,745원 | 🔻-0.72% | 🔺+10.24% | 🔺+14.61% |  
+| 51점 | [하나투어](https://finance.naver.com/item/fchart.naver?code=039130) | 039130 | 55,500원 | 🔺+2.02% | 🔺+9.90% | 🔺+8.61% |  
+| 51점 | [하나제약](https://finance.naver.com/item/fchart.naver?code=293480) | 293480 | 12,320원 | 🔻-0.24% | 🔺+6.12% | 🔺+6.76% |  
+| 51점 | [팜젠사이언스](https://finance.naver.com/item/fchart.naver?code=004720) | 004720 | 4,440원 | 🔺+1.83% | 🔺+5.34% | 🔺+9.77% |  
+| 51점 | [파라다이스](https://finance.naver.com/item/fchart.naver?code=034230) | 034230 | 14,970원 | 🔺+2.32% | 🔺+12.73% | 🔺+24.65% |  
+| 51점 | [티와이홀딩스우](https://finance.naver.com/item/fchart.naver?code=36328K) | 36328K | 4,845원 | 🔻-1.52% | 🔺+28.86% | 🔺+20.52% |  
+| 51점 | [텔코웨어](https://finance.naver.com/item/fchart.naver?code=078000) | 078000 | 14,150원 | 🔺+4.81% | 🔺+9.52% | 🔺+48.79% |  
+| 51점 | [천일고속](https://finance.naver.com/item/fchart.naver?code=000650) | 000650 | 42,450원 | 🔺+2.91% | 🔺+5.99% | 🔺+9.13% |  
+| 51점 | [지투알](https://finance.naver.com/item/fchart.naver?code=035000) | 035000 | 7,720원 | 🔻-1.03% | 🔺+8.73% | 🔺+10.29% |  
+| 51점 | [제주은행](https://finance.naver.com/item/fchart.naver?code=006220) | 006220 | 15,370원 | 🔺+49.22% | 🔺+66.16% | 🔺+25.06% |  
+| 51점 | [제일기획](https://finance.naver.com/item/fchart.naver?code=030000) | 030000 | 20,200원 | 🔻-1.46% | 🔺+11.60% | 🔺+10.62% |  
+| 51점 | [인스코비](https://finance.naver.com/item/fchart.naver?code=006490) | 006490 | 1,644원 | 🔻-3.69% | 🔺+22.78% | 🔺+6.41% |  
+| 51점 | [이구산업](https://finance.naver.com/item/fchart.naver?code=025820) | 025820 | 5,030원 | 🔺+4.90% | 🔺+16.17% | 🔺+15.63% |  
+| 51점 | [율촌화학](https://finance.naver.com/item/fchart.naver?code=008730) | 008730 | 29,650원 | 🔻-1.17% | 🔺+9.61% | 🔺+3.67% |  
+| 51점 | [유한양행우](https://finance.naver.com/item/fchart.naver?code=000105) | 000105 | 97,300원 | 🔺+3.07% | 🔻-0.41% | 🔻-4.42% |  
+| 51점 | [유진투자증권](https://finance.naver.com/item/fchart.naver?code=001200) | 001200 | 3,690원 | 🔺+4.98% | 🔺+27.02% | 🔺+41.11% |  
+| 51점 | [우진아이엔에스](https://finance.naver.com/item/fchart.naver?code=010400) | 010400 | 2,790원 | 🔻-4.12% | 🔺+2.57% | 🔺+0.72% |  
+| 51점 | [오스템임플란트](https://finance.naver.com/item/fchart.naver?code=048260) | 048260 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 51점 | [에쓰씨엔지니어링](https://finance.naver.com/item/fchart.naver?code=023960) | 023960 | 1,380원 | 🔺+5.91% | 🔺+10.05% | 🔺+1.47% |  
+| 51점 | [아주스틸](https://finance.naver.com/item/fchart.naver?code=139990) | 139990 | 4,040원 | 🔻-3.58% | 🔺+2.02% | 🔺+1.76% |  
+| 51점 | [씨에스윈드](https://finance.naver.com/item/fchart.naver?code=112610) | 112610 | 48,350원 | 🔺+3.20% | 🔺+12.84% | 🔺+28.59% |  
+| 51점 | [세아베스틸지주](https://finance.naver.com/item/fchart.naver?code=001430) | 001430 | 31,150원 | 🔺+17.33% | 🔺+53.07% | 🔺+78.41% |  
+| 51점 | [세방전지](https://finance.naver.com/item/fchart.naver?code=004490) | 004490 | 69,600원 | 🔺+1.31% | 🔺+6.10% | 🔺+0.72% |  
+| 51점 | [성창기업지주](https://finance.naver.com/item/fchart.naver?code=000180) | 000180 | 1,648원 | 🔻-2.49% | 🔺+16.63% | 🔺+29.46% |  
+| 51점 | [서흥](https://finance.naver.com/item/fchart.naver?code=008490) | 008490 | 19,820원 | 🔺+2.91% | 🔺+5.59% | 🔺+41.07% |  
+| 51점 | [백광산업](https://finance.naver.com/item/fchart.naver?code=001340) | 001340 | 6,130원 | 🔺+7.92% | 🔺+11.45% | 🔻-1.13% |  
+| 51점 | [모나미](https://finance.naver.com/item/fchart.naver?code=005360) | 005360 | 2,145원 | 🔺+1.90% | 🔺+4.38% | 🔺+4.63% |  
+| 51점 | [두산퓨얼셀2우B](https://finance.naver.com/item/fchart.naver?code=33626L) | 33626L | 11,340원 | 🔺+32.79% | 🔺+43.73% | 🔺+41.75% |  
+| 51점 | [두산밥캣](https://finance.naver.com/item/fchart.naver?code=241560) | 241560 | 61,200원 | 🔺+17.92% | 🔺+33.62% | 🔺+33.33% |  
+| 51점 | [동양](https://finance.naver.com/item/fchart.naver?code=001520) | 001520 | 664원 | 🔺+5.23% | 🔺+16.70% | 🔺+13.50% |  
+| 51점 | [동아쏘시오홀딩스](https://finance.naver.com/item/fchart.naver?code=000640) | 000640 | 113,200원 | 🔻-6.06% | 🔺+9.37% | 🔺+15.27% |  
+| 51점 | [동국제약](https://finance.naver.com/item/fchart.naver?code=086450) | 086450 | 17,440원 | 🔺+2.41% | 🔺+2.23% | 🔺+12.81% |  
+| 51점 | [더블유게임즈](https://finance.naver.com/item/fchart.naver?code=192080) | 192080 | 58,800원 | 🔺+8.29% | 🔺+15.75% | 🔺+6.33% |  
+| 51점 | [대한화섬](https://finance.naver.com/item/fchart.naver?code=003830) | 003830 | 143,700원 | 🔻-2.77% | 🔺+16.45% | 🔺+30.52% |  
+| 51점 | [대한제분](https://finance.naver.com/item/fchart.naver?code=001130) | 001130 | 150,400원 | 🔻-2.21% | 🔺+12.57% | 🔺+15.25% |  
+| 51점 | [대한제당](https://finance.naver.com/item/fchart.naver?code=001790) | 001790 | 2,905원 | 🔺+0.17% | 🔺+4.87% | 🔻-24.55% |  
+| 51점 | [대교](https://finance.naver.com/item/fchart.naver?code=019680) | 019680 | 2,350원 | 🔻-2.69% | 🔻-1.47% | 🔺+6.09% |  
+| 51점 | [고려아연](https://finance.naver.com/item/fchart.naver?code=010130) | 010130 | 799,000원 | 🔻-4.08% | 🔺+7.54% | 🔺+10.82% |  
+| 51점 | [계양전기](https://finance.naver.com/item/fchart.naver?code=012200) | 012200 | 1,460원 | 🔺+1.04% | 🔺+0.55% | 🔻-2.47% |  
+| 51점 | [경방](https://finance.naver.com/item/fchart.naver?code=000050) | 000050 | 7,970원 | 🔻-0.25% | 🔺+13.86% | 🔺+19.49% |  
+| 51점 | [STX](https://finance.naver.com/item/fchart.naver?code=011810) | 011810 | 3,680원 | 🔺+5.60% | 🔺+14.82% | 🔺+3.81% |  
+| 51점 | [SJM](https://finance.naver.com/item/fchart.naver?code=123700) | 123700 | 3,445원 | 🔻-0.14% | 🔺+8.50% | 🔺+12.58% |  
+| 51점 | [NI스틸](https://finance.naver.com/item/fchart.naver?code=008260) | 008260 | 3,795원 | 🔻-1.17% | 🔺+7.51% | 🔺+12.61% |  
+| 51점 | [LX하우시스](https://finance.naver.com/item/fchart.naver?code=108670) | 108670 | 32,300원 | 🔺+1.73% | 🔺+9.86% | 🔺+8.75% |  
+| 51점 | [GS글로벌](https://finance.naver.com/item/fchart.naver?code=001250) | 001250 | 2,760원 | 🔺+2.99% | 🔺+7.81% | 🔺+5.54% |  
+| 51점 | [GS건설](https://finance.naver.com/item/fchart.naver?code=006360) | 006360 | 22,500원 | 🔺+1.35% | 🔺+7.14% | 🔺+31.43% |  
+| 50점 | [화승엔터프라이즈](https://finance.naver.com/item/fchart.naver?code=241590) | 241590 | 7,520원 | 🔻-1.57% | 🔻-1.18% | 🔻-2.59% |  
+| 50점 | [현대코퍼레이션](https://finance.naver.com/item/fchart.naver?code=011760) | 011760 | 29,450원 | 🔺+8.27% | 🔺+20.94% | 🔺+33.86% |  
+| 50점 | [현대차3우B](https://finance.naver.com/item/fchart.naver?code=005389) | 005389 | 161,800원 | 🔺+2.41% | 🔺+10.44% | 🔺+10.90% |  
+| 50점 | [한라홀딩스](https://finance.naver.com/item/fchart.naver?code=060980) | 060980 | 41,050원 | 🔻-1.56% | 🔺+7.46% | 🔺+14.03% |  
+| 50점 | [한국화장품](https://finance.naver.com/item/fchart.naver?code=123690) | 123690 | 8,830원 | 🔺+21.29% | 🔺+29.66% | 🔺+27.60% |  
+| 50점 | [한국석유](https://finance.naver.com/item/fchart.naver?code=004090) | 004090 | 14,570원 | 🔻-20.03% | 🔺+19.92% | 🔺+18.17% |  
+| 50점 | [하나머티리얼즈](https://finance.naver.com/item/fchart.naver?code=166090) | 166090 | 25,800원 | 🔺+1.18% | 🔺+4.45% | 🔻-7.53% |  
+| 50점 | [티에이치엔](https://finance.naver.com/item/fchart.naver?code=019180) | 019180 | 2,965원 | 🔺+2.24% | 🔺+9.01% | 🔺+2.07% |  
+| 50점 | [태영건설](https://finance.naver.com/item/fchart.naver?code=009410) | 009410 | 3,015원 | 🔻-1.47% | 🔺+5.98% | 🔺+23.31% |  
+| 50점 | [코웨이](https://finance.naver.com/item/fchart.naver?code=021240) | 021240 | 96,300원 | 🔺+1.37% | 🔺+5.13% | 🔺+21.90% |  
+| 50점 | [케이씨](https://finance.naver.com/item/fchart.naver?code=029460) | 029460 | 23,900원 | 🔻-2.05% | 🔺+9.89% | 🔺+29.75% |  
+| 50점 | [조광페인트](https://finance.naver.com/item/fchart.naver?code=004910) | 004910 | 5,670원 | 🔺+2.72% | 🔺+5.00% | 🔻-1.05% |  
+| 50점 | [제주항공](https://finance.naver.com/item/fchart.naver?code=089590) | 089590 | 7,280원 | 🔺+2.25% | 🔺+9.80% | 🔺+8.01% |  
+| 50점 | [제일약품](https://finance.naver.com/item/fchart.naver?code=271980) | 271980 | 16,250원 | 🔺+15.91% | 🔺+28.97% | 🔺+28.97% |  
+| 50점 | [인팩](https://finance.naver.com/item/fchart.naver?code=023810) | 023810 | 5,860원 | 🔻-1.68% | 🔺+2.99% | 🔺+3.35% |  
+| 50점 | [유한양행](https://finance.naver.com/item/fchart.naver?code=000100) | 000100 | 102,600원 | 🔺+1.48% | 🔻-2.47% | 🔻-11.48% |  
+| 50점 | [용평리조트](https://finance.naver.com/item/fchart.naver?code=070960) | 070960 | 5,200원 | 🔺+0.97% | 🔺+23.22% | 🔺+22.64% |  
+| 50점 | [영풍](https://finance.naver.com/item/fchart.naver?code=000670) | 000670 | 42,900원 | 🔺+0.94% | 🔺+18.67% | 🔻-88.33% |  
+| 50점 | [아세아](https://finance.naver.com/item/fchart.naver?code=002030) | 002030 | 309,000원 | 🔺+2.15% | 🔺+6.55% | 🔺+17.05% |  
+| 50점 | [써니전자](https://finance.naver.com/item/fchart.naver?code=004770) | 004770 | 1,784원 | 🔺+2.59% | 🔺+7.92% | 🔻-11.46% |  
+| 50점 | [신영증권](https://finance.naver.com/item/fchart.naver?code=001720) | 001720 | 122,500원 | 🔺+4.08% | 🔺+14.81% | 🔺+54.48% |  
+| 50점 | [신세계](https://finance.naver.com/item/fchart.naver?code=004170) | 004170 | 184,300원 | 🔻-0.22% | 🔺+6.41% | 🔺+19.68% |  
+| 50점 | [세우글로벌](https://finance.naver.com/item/fchart.naver?code=013000) | 013000 | 1,181원 | 🔻-1.50% | 🔺+1.64% | 🔻-17.76% |  
+| 50점 | [세아홀딩스](https://finance.naver.com/item/fchart.naver?code=058650) | 058650 | 107,300원 | 🔺+3.37% | 🔺+13.31% | 🔺+18.96% |  
+| 50점 | [삼익THK](https://finance.naver.com/item/fchart.naver?code=004380) | 004380 | 9,960원 | 🔺+0.00% | 🔺+0.00% | 🔻-1.68% |  
+| 50점 | [삼양홀딩스우](https://finance.naver.com/item/fchart.naver?code=000075) | 000075 | 86,500원 | 🔻-0.80% | 🔺+37.08% | 🔺+41.80% |  
+| 50점 | [삼양패키징](https://finance.naver.com/item/fchart.naver?code=272550) | 272550 | 13,560원 | 🔺+0.97% | 🔺+4.39% | 🔺+0.22% |  
+| 50점 | [맥쿼리인프라](https://finance.naver.com/item/fchart.naver?code=088980) | 088980 | 11,870원 | 🔻-0.75% | 🔺+1.89% | 🔺+4.58% |  
+| 50점 | [리노공업](https://finance.naver.com/item/fchart.naver?code=058470) | 058470 | 51,300원 | 🔺+1.38% | 🔺+27.93% | 🔻-70.23% |  
+| 50점 | [동양생명](https://finance.naver.com/item/fchart.naver?code=082640) | 082640 | 6,970원 | 🔻-1.41% | 🔺+27.89% | 🔺+12.97% |  
+| 50점 | [동성케미컬](https://finance.naver.com/item/fchart.naver?code=102260) | 102260 | 4,325원 | 🔻-0.80% | 🔺+8.26% | 🔺+9.77% |  
+| 50점 | [대한제당우](https://finance.naver.com/item/fchart.naver?code=001795) | 001795 | 2,490원 | 🔺+0.81% | 🔺+8.73% | 🔻-42.36% |  
+| 50점 | [TKG휴켐스](https://finance.naver.com/item/fchart.naver?code=069260) | 069260 | 16,570원 | 🔺+0.79% | 🔺+3.30% | 🔺+3.24% |  
+| 50점 | [STX중공업](https://finance.naver.com/item/fchart.naver?code=071970) | 071970 | 52,900원 | 🔻-2.40% | 🔺+27.47% | 🔺+52.45% |  
+| 50점 | [SK렌터카](https://finance.naver.com/item/fchart.naver?code=068400) | 068400 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 50점 | [SK네트웍스](https://finance.naver.com/item/fchart.naver?code=001740) | 001740 | 4,580원 | 🔺+6.88% | 🔺+13.93% | 🔺+7.76% |  
+| 50점 | [NICE평가정보](https://finance.naver.com/item/fchart.naver?code=030190) | 030190 | 17,080원 | 🔺+10.12% | 🔺+19.44% | 🔺+33.86% |  
+| 50점 | [LG화학우](https://finance.naver.com/item/fchart.naver?code=051915) | 051915 | 107,450원 | 🔺+3.92% | 🔺+17.43% | 🔻-0.78% |  
+| 50점 | [LG전자우](https://finance.naver.com/item/fchart.naver?code=066575) | 066575 | 37,600원 | 🔺+2.73% | 🔺+9.14% | 🔺+7.74% |  
+| 50점 | [LG이노텍](https://finance.naver.com/item/fchart.naver?code=011070) | 011070 | 153,200원 | 🔺+3.51% | 🔺+10.77% | 🔺+9.90% |  
+| 50점 | [DGB금융지주](https://finance.naver.com/item/fchart.naver?code=139130) | 139130 | 12,480원 | 🔺+6.58% | 🔺+17.74% | 🔺+28.93% |  
+| 50점 | [DB하이텍](https://finance.naver.com/item/fchart.naver?code=000990) | 000990 | 47,000원 | 🔺+0.21% | 🔺+22.08% | 🔺+15.06% |  
+| 49점 | [호텔신라우](https://finance.naver.com/item/fchart.naver?code=008775) | 008775 | 46,400원 | 🔺+1.53% | 🔺+8.16% | 🔺+46.60% |  
+| 49점 | [현대홈쇼핑](https://finance.naver.com/item/fchart.naver?code=057050) | 057050 | 56,200원 | 🔺+3.31% | 🔺+4.66% | 🔺+14.58% |  
+| 49점 | [헬릭스미스](https://finance.naver.com/item/fchart.naver?code=084990) | 084990 | 3,050원 | 🔺+6.83% | 🔺+4.99% | 🔺+10.51% |  
+| 49점 | [해성디에스](https://finance.naver.com/item/fchart.naver?code=195870) | 195870 | 27,400원 | 🔺+6.41% | 🔺+51.30% | 🔺+13.93% |  
+| 49점 | [한화시스템](https://finance.naver.com/item/fchart.naver?code=272210) | 272210 | 59,300원 | 🔻-13.56% | 🔺+28.63% | 🔺+52.84% |  
+| 49점 | [한화솔루션](https://finance.naver.com/item/fchart.naver?code=009830) | 009830 | 33,200원 | 🔺+3.75% | 🔺+16.90% | 🔺+22.51% |  
+| 49점 | [한컴라이프케어](https://finance.naver.com/item/fchart.naver?code=372910) | 372910 | 3,170원 | 🔻-7.45% | 🔺+8.38% | 🔺+2.09% |  
+| 49점 | [한진칼](https://finance.naver.com/item/fchart.naver?code=180640) | 180640 | 124,000원 | 🔻-5.05% | 🔻-8.15% | 🔺+53.66% |  
+| 49점 | [한진중공업홀딩스](https://finance.naver.com/item/fchart.naver?code=003480) | 003480 | 5,470원 | 🔺+4.39% | 🔺+6.84% | 🔺+29.16% |  
+| 49점 | [한솔로지스틱스](https://finance.naver.com/item/fchart.naver?code=009180) | 009180 | 2,400원 | 🔺+2.78% | 🔺+8.35% | 🔺+10.85% |  
+| 49점 | [한국수출포장](https://finance.naver.com/item/fchart.naver?code=002200) | 002200 | 2,995원 | 🔻-1.64% | 🔺+3.45% | 🔺+7.16% |  
+| 49점 | [한국공항](https://finance.naver.com/item/fchart.naver?code=005430) | 005430 | 53,800원 | 🔺+1.89% | 🔺+0.56% | 🔺+15.57% |  
+| 49점 | [콤텍시스템](https://finance.naver.com/item/fchart.naver?code=031820) | 031820 | 718원 | 🔺+0.14% | 🔺+17.70% | 🔺+13.97% |  
+| 49점 | [케이씨텍](https://finance.naver.com/item/fchart.naver?code=281820) | 281820 | 27,000원 | 🔺+1.12% | 🔺+8.87% | 🔺+5.68% |  
+| 49점 | [진양홀딩스](https://finance.naver.com/item/fchart.naver?code=100250) | 100250 | 3,290원 | 🔻-0.15% | 🔺+7.17% | 🔺+8.76% |  
+| 49점 | [제일파마홀딩스](https://finance.naver.com/item/fchart.naver?code=002620) | 002620 | 8,890원 | 🔺+6.98% | 🔺+9.89% | 🔺+11.12% |  
+| 49점 | [위지윅스튜디오](https://finance.naver.com/item/fchart.naver?code=299900) | 299900 | 1,210원 | 🔻-5.17% | 🔻-7.21% | 🔻-2.34% |  
+| 49점 | [오리온홀딩스](https://finance.naver.com/item/fchart.naver?code=001800) | 001800 | 21,350원 | 🔻-2.29% | 🔺+16.92% | 🔺+24.13% |  
+| 49점 | [에코프로](https://finance.naver.com/item/fchart.naver?code=086520) | 086520 | 47,550원 | 🔺+15.13% | 🔺+23.99% | 🔻-5.09% |  
+| 49점 | [에이엔피](https://finance.naver.com/item/fchart.naver?code=015260) | 015260 | 430원 | 🔻-4.44% | 🔻-0.92% | 🔻-7.73% |  
+| 49점 | [에이블씨엔씨](https://finance.naver.com/item/fchart.naver?code=078520) | 078520 | 7,880원 | 🔺+5.35% | 🔺+10.67% | 🔺+11.46% |  
+| 49점 | [에스에프에이](https://finance.naver.com/item/fchart.naver?code=056190) | 056190 | 23,600원 | 🔺+4.89% | 🔺+13.46% | 🔺+14.01% |  
+| 49점 | [에셋플러스 글로벌플랫폼액티브](https://finance.naver.com/item/fchart.naver?code=407830) | 407830 | 14,220원 | 🔺+1.75% | 🔺+5.41% | 🔺+23.38% |  
+| 49점 | [송원산업](https://finance.naver.com/item/fchart.naver?code=004430) | 004430 | 12,770원 | 🔺+3.32% | 🔺+10.56% | 🔺+9.61% |  
+| 49점 | [성문전자](https://finance.naver.com/item/fchart.naver?code=014910) | 014910 | 1,224원 | 🔺+4.08% | 🔺+0.74% | 🔺+6.81% |  
+| 49점 | [삼화페인트](https://finance.naver.com/item/fchart.naver?code=000390) | 000390 | 6,180원 | 🔺+1.98% | 🔺+3.00% | 🔺+3.00% |  
+| 49점 | [삼천당제약](https://finance.naver.com/item/fchart.naver?code=000250) | 000250 | 165,900원 | 🔺+2.92% | 🔺+7.87% | 🔺+17.66% |  
+| 49점 | [삼양식품](https://finance.naver.com/item/fchart.naver?code=003230) | 003230 | 1,309,000원 | 🔺+2.19% | 🔺+15.94% | 🔺+40.90% |  
+| 49점 | [삼양사](https://finance.naver.com/item/fchart.naver?code=145990) | 145990 | 51,400원 | 🔺+0.19% | 🔺+3.94% | 🔺+9.25% |  
+| 49점 | [삼성전자우](https://finance.naver.com/item/fchart.naver?code=005935) | 005935 | 49,650원 | 🔺+2.37% | 🔺+11.70% | 🔺+7.58% |  
+| 49점 | [부산산업](https://finance.naver.com/item/fchart.naver?code=011390) | 011390 | 107,600원 | 🔺+1.41% | 🔺+13.74% | 🔺+29.33% |  
+| 49점 | [부광약품](https://finance.naver.com/item/fchart.naver?code=003000) | 003000 | 3,715원 | 🔻-0.93% | 🔻-12.07% | 🔻-6.89% |  
+| 49점 | [미원홀딩스](https://finance.naver.com/item/fchart.naver?code=107590) | 107590 | 77,400원 | 🔺+2.93% | 🔺+3.89% | 🔺+6.03% |  
+| 49점 | [미래산업](https://finance.naver.com/item/fchart.naver?code=025560) | 025560 | 657원 | 🔺+2.50% | 🔺+2.82% | 🔺+3.14% |  
+| 49점 | [명문제약](https://finance.naver.com/item/fchart.naver?code=017180) | 017180 | 1,678원 | 🔺+0.06% | 🔺+0.54% | 🔺+0.96% |  
+| 49점 | [롯데하이마트](https://finance.naver.com/item/fchart.naver?code=071840) | 071840 | 8,130원 | 🔺+1.50% | 🔺+5.17% | 🔺+11.07% |  
+| 49점 | [롯데지주](https://finance.naver.com/item/fchart.naver?code=004990) | 004990 | 28,150원 | 🔺+3.11% | 🔺+9.11% | 🔺+26.23% |  
+| 49점 | [롯데정밀화학](https://finance.naver.com/item/fchart.naver?code=004000) | 004000 | 39,300원 | 🔺+3.97% | 🔺+7.23% | 🔺+16.27% |  
+| 49점 | [덕산네오룩스](https://finance.naver.com/item/fchart.naver?code=213420) | 213420 | 36,000원 | 🔻-0.96% | 🔻-1.77% | 🔺+16.88% |  
+| 49점 | [넥센타이어](https://finance.naver.com/item/fchart.naver?code=002350) | 002350 | 6,540원 | 🔺+2.03% | 🔺+8.46% | 🔺+23.40% |  
+| 49점 | [넥센우](https://finance.naver.com/item/fchart.naver?code=005725) | 005725 | 4,300원 | 🔺+3.86% | 🔺+8.45% | 🔺+29.91% |  
+| 49점 | [SK증권우](https://finance.naver.com/item/fchart.naver?code=001515) | 001515 | 2,395원 | 🔺+8.62% | 🔺+37.01% | 🔺+35.01% |  
+| 49점 | [SK아이이테크놀로지](https://finance.naver.com/item/fchart.naver?code=361610) | 361610 | 27,800원 | 🔺+12.55% | 🔺+39.28% | 🔺+24.38% |  
+| 49점 | [NHN](https://finance.naver.com/item/fchart.naver?code=181710) | 181710 | 33,100원 | 🔻-1.63% | 🔺+75.13% | 🔺+52.89% |  
+| 49점 | [KB금융](https://finance.naver.com/item/fchart.naver?code=105560) | 105560 | 110,000원 | 🔺+3.09% | 🔺+7.95% | 🔺+30.02% |  
+| 49점 | [CJ4우(전환)](https://finance.naver.com/item/fchart.naver?code=00104K) | 00104K | 129,700원 | 🔻-2.48% | 🔺+20.32% | 🔺+30.35% |  
+| 48점 | [호텔신라](https://finance.naver.com/item/fchart.naver?code=008770) | 008770 | 52,800원 | 🔺+4.55% | 🔺+7.98% | 🔺+35.56% |  
+| 48점 | [현대차](https://finance.naver.com/item/fchart.naver?code=005380) | 005380 | 215,500원 | 🔺+4.11% | 🔺+18.47% | 🔺+14.08% |  
+| 48점 | [현대로템](https://finance.naver.com/item/fchart.naver?code=064350) | 064350 | 191,700원 | 🔻-9.58% | 🔺+35.76% | 🔺+74.59% |  
+| 48점 | [현대건설기계](https://finance.naver.com/item/fchart.naver?code=267270) | 267270 | 78,000원 | 🔺+1.56% | 🔺+14.04% | 🔺+16.42% |  
+| 48점 | [한화솔루션우](https://finance.naver.com/item/fchart.naver?code=009835) | 009835 | 27,050원 | 🔺+3.44% | 🔺+15.11% | 🔺+16.34% |  
+| 48점 | [한세실업](https://finance.naver.com/item/fchart.naver?code=105630) | 105630 | 10,670원 | 🔺+0.85% | 🔺+2.60% | 🔻-0.93% |  
+| 48점 | [한섬](https://finance.naver.com/item/fchart.naver?code=020000) | 020000 | 17,280원 | 🔺+0.17% | 🔺+10.91% | 🔺+12.50% |  
+| 48점 | [한독](https://finance.naver.com/item/fchart.naver?code=002390) | 002390 | 11,750원 | 🔺+2.17% | 🔺+2.44% | 🔻-1.76% |  
+| 48점 | [한국화장품제조](https://finance.naver.com/item/fchart.naver?code=003350) | 003350 | 56,800원 | 🔺+7.98% | 🔺+13.71% | 🔺+12.70% |  
+| 48점 | [퍼시스](https://finance.naver.com/item/fchart.naver?code=016800) | 016800 | 43,200원 | 🔻-2.48% | 🔻-1.26% | 🔺+1.17% |  
+| 48점 | [코오롱인더](https://finance.naver.com/item/fchart.naver?code=120110) | 120110 | 39,450원 | 🔺+16.03% | 🔺+25.44% | 🔺+30.85% |  
+| 48점 | [진원생명과학](https://finance.naver.com/item/fchart.naver?code=011000) | 011000 | 2,590원 | 🔻-2.63% | 🔻-25.79% | 🔺+9.75% |  
+| 48점 | [지누스](https://finance.naver.com/item/fchart.naver?code=013890) | 013890 | 17,050원 | 🔺+1.19% | 🔺+2.34% | 🔻-4.91% |  
+| 48점 | [조선내화](https://finance.naver.com/item/fchart.naver?code=000480) | 000480 | 5,480원 | 🔻-0.54% | 🔺+4.58% | 🔺+6.20% |  
+| 48점 | [일진디스플](https://finance.naver.com/item/fchart.naver?code=020760) | 020760 | 755원 | 🔺+4.43% | 🔺+6.49% | 🔻-1.18% |  
+| 48점 | [일진다이아](https://finance.naver.com/item/fchart.naver?code=081000) | 081000 | 13,540원 | 🔺+5.21% | 🔺+12.65% | 🔺+11.72% |  
+| 48점 | [일양약품](https://finance.naver.com/item/fchart.naver?code=007570) | 007570 | 14,730원 | 🔺+8.55% | 🔺+14.54% | 🔺+17.46% |  
+| 48점 | [와이지엔터테인먼트](https://finance.naver.com/item/fchart.naver?code=122870) | 122870 | 91,500원 | 🔺+2.23% | 🔺+12.96% | 🔺+46.63% |  
+| 48점 | [영진약품](https://finance.naver.com/item/fchart.naver?code=003520) | 003520 | 2,315원 | 🔺+3.35% | 🔺+5.47% | 🔺+14.32% |  
+| 48점 | [솔루스첨단소재](https://finance.naver.com/item/fchart.naver?code=336370) | 336370 | 8,500원 | 🔺+1.92% | 🔺+16.76% | 🔺+7.46% |  
+| 48점 | [셀트리온헬스케어](https://finance.naver.com/item/fchart.naver?code=091990) | 091990 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 48점 | [성안](https://finance.naver.com/item/fchart.naver?code=011300) | 011300 | 467원 | 🔻-1.27% | 🔺+1.74% | 🔻-11.05% |  
+| 48점 | [삼영무역](https://finance.naver.com/item/fchart.naver?code=002810) | 002810 | 15,890원 | 🔺+1.60% | 🔺+4.95% | 🔺+17.62% |  
+| 48점 | [삼성전자](https://finance.naver.com/item/fchart.naver?code=005930) | 005930 | 60,400원 | 🔺+2.03% | 🔺+12.06% | 🔺+8.44% |  
+| 48점 | [삼성SDI우](https://finance.naver.com/item/fchart.naver?code=006405) | 006405 | 104,700원 | 🔺+4.28% | 🔺+6.40% | 🔻-2.88% |  
+| 48점 | [삼강엠앤티](https://finance.naver.com/item/fchart.naver?code=100090) | 100090 | 18,840원 | 🔺+1.07% | 🔺+4.67% | 🔺+24.36% |  
+| 48점 | [백산](https://finance.naver.com/item/fchart.naver?code=035150) | 035150 | 14,510원 | 🔻-1.83% | 🔻-0.27% | 🔺+2.18% |  
+| 48점 | [만도](https://finance.naver.com/item/fchart.naver?code=204320) | 204320 | 34,000원 | 🔺+1.34% | 🔺+2.41% | 🔻-7.73% |  
+| 48점 | [롯데칠성](https://finance.naver.com/item/fchart.naver?code=005300) | 005300 | 120,700원 | 🔺+2.03% | 🔺+18.57% | 🔺+11.14% |  
+| 48점 | [동화기업](https://finance.naver.com/item/fchart.naver?code=025900) | 025900 | 8,860원 | 🔺+6.62% | 🔺+10.34% | 🔺+3.02% |  
+| 48점 | [동국제강](https://finance.naver.com/item/fchart.naver?code=001230) | 001230 | 8,290원 | 🔻-1.89% | 🔺+11.28% | 🔺+17.59% |  
+| 48점 | [대웅](https://finance.naver.com/item/fchart.naver?code=003090) | 003090 | 22,800원 | 🔻-5.59% | 🔺+18.01% | 🔺+14.23% |  
+| 48점 | [대교우B](https://finance.naver.com/item/fchart.naver?code=019685) | 019685 | 1,305원 | 🔻-1.95% | 🔺+1.01% | 🔺+1.32% |  
+| 48점 | [노루페인트](https://finance.naver.com/item/fchart.naver?code=090350) | 090350 | 9,440원 | 🔺+3.85% | 🔺+4.77% | 🔺+15.12% |  
+| 48점 | [기신정기](https://finance.naver.com/item/fchart.naver?code=092440) | 092440 | 2,525원 | 🔺+0.00% | 🔺+1.41% | 🔺+2.23% |  
+| 48점 | [국도화학](https://finance.naver.com/item/fchart.naver?code=007690) | 007690 | 34,500원 | 🔺+2.07% | 🔺+4.55% | 🔺+7.81% |  
+| 48점 | [경인전자](https://finance.naver.com/item/fchart.naver?code=009140) | 009140 | 20,500원 | 🔺+2.55% | 🔺+5.94% | 🔺+5.67% |  
+| 48점 | [경보제약](https://finance.naver.com/item/fchart.naver?code=214390) | 214390 | 4,900원 | 🔺+0.31% | 🔻-8.07% | 🔻-10.91% |  
+| 48점 | [갤럭시아에스엠](https://finance.naver.com/item/fchart.naver?code=011420) | 011420 | 2,745원 | 🔻-1.08% | 🔺+23.37% | 🔺+16.07% |  
+| 48점 | [WISCOM](https://finance.naver.com/item/fchart.naver?code=024070) | 024070 | 2,025원 | 🔺+0.75% | 🔺+2.38% | 🔺+3.37% |  
+| 48점 | [STX엔진](https://finance.naver.com/item/fchart.naver?code=077970) | 077970 | 22,800원 | 🔻-6.56% | 🔻-8.62% | 🔺+0.88% |  
+| 48점 | [KTis](https://finance.naver.com/item/fchart.naver?code=058860) | 058860 | 2,925원 | 🔻-0.34% | 🔻-0.85% | 🔺+14.71% |  
+| 48점 | [KT&G](https://finance.naver.com/item/fchart.naver?code=033780) | 033780 | 126,300원 | 🔺+0.56% | 🔺+2.27% | 🔺+11.28% |  
+| 48점 | [KC코트렐](https://finance.naver.com/item/fchart.naver?code=119650) | 119650 | 918원 | 🔺+0.00% | 🔺+100.00% | 🔺+100.00% |  
+| 48점 | [JW생명과학](https://finance.naver.com/item/fchart.naver?code=234080) | 234080 | 12,120원 | 🔻-0.49% | 🔺+1.08% | 🔺+7.73% |  
+| 48점 | [HSD엔진](https://finance.naver.com/item/fchart.naver?code=082740) | 082740 | 28,700원 | 🔻-4.01% | 🔺+1.06% | 🔺+8.30% |  
+| 48점 | [BGF리테일](https://finance.naver.com/item/fchart.naver?code=282330) | 282330 | 119,600원 | 🔻-1.64% | 🔺+18.18% | 🔺+15.89% |  
+| 48점 | [AJ네트웍스](https://finance.naver.com/item/fchart.naver?code=095570) | 095570 | 4,095원 | 🔺+3.54% | 🔺+8.48% | 🔺+9.93% |  
+| 47점 | [효성ITX](https://finance.naver.com/item/fchart.naver?code=094280) | 094280 | 13,990원 | 🔻-5.02% | 🔺+16.29% | 🔺+17.27% |  
+| 47점 | [환인제약](https://finance.naver.com/item/fchart.naver?code=016580) | 016580 | 12,070원 | 🔺+1.09% | 🔺+7.10% | 🔺+3.78% |  
+| 47점 | [현대제철](https://finance.naver.com/item/fchart.naver?code=004020) | 004020 | 31,300원 | 🔺+7.19% | 🔺+19.47% | 🔺+29.07% |  
+| 47점 | [현대엘리베이](https://finance.naver.com/item/fchart.naver?code=017800) | 017800 | 85,800원 | 🔻-0.58% | 🔺+12.75% | 🔺+27.49% |  
+| 47점 | [현대바이오](https://finance.naver.com/item/fchart.naver?code=048410) | 048410 | 9,170원 | 🔺+1.21% | 🔻-16.64% | 🔻-17.76% |  
+| 47점 | [현대미포조선](https://finance.naver.com/item/fchart.naver?code=010620) | 010620 | 201,500원 | 🔺+8.45% | 🔺+6.44% | 🔺+27.13% |  
+| 47점 | [현대모비스](https://finance.naver.com/item/fchart.naver?code=012330) | 012330 | 297,000원 | 🔺+1.37% | 🔺+22.22% | 🔺+17.62% |  
+| 47점 | [한진칼우](https://finance.naver.com/item/fchart.naver?code=18064K) | 18064K | 36,700원 | 🔻-0.14% | 🔻-16.78% | 🔺+67.20% |  
+| 47점 | [한솔홈데코](https://finance.naver.com/item/fchart.naver?code=025750) | 025750 | 730원 | 🔺+0.14% | 🔺+0.69% | 🔻-9.43% |  
+| 47점 | [한국콜마](https://finance.naver.com/item/fchart.naver?code=161890) | 161890 | 89,850원 | 🔺+2.10% | 🔺+7.09% | 🔺+19.01% |  
+| 47점 | [한국철강](https://finance.naver.com/item/fchart.naver?code=104700) | 104700 | 9,130원 | 🔻-4.20% | 🔻-0.54% | 🔺+8.82% |  
+| 47점 | [파미셀](https://finance.naver.com/item/fchart.naver?code=005690) | 005690 | 12,870원 | 🔺+15.53% | 🔺+5.23% | 🔺+28.06% |  
+| 47점 | [태경비케이](https://finance.naver.com/item/fchart.naver?code=014580) | 014580 | 4,920원 | 🔺+1.86% | 🔺+6.61% | 🔺+3.69% |  
+| 47점 | [콜마비앤에이치](https://finance.naver.com/item/fchart.naver?code=200130) | 200130 | 14,750원 | 🔻-2.64% | 🔻-2.64% | 🔺+14.96% |  
+| 47점 | [코오롱](https://finance.naver.com/item/fchart.naver?code=002020) | 002020 | 42,200원 | 🔺+0.72% | 🔺+66.14% | 🔺+75.47% |  
+| 47점 | [카카오](https://finance.naver.com/item/fchart.naver?code=035720) | 035720 | 69,200원 | 🔺+14.57% | 🔺+68.99% | 🔺+75.41% |  
+| 47점 | [지역난방공사](https://finance.naver.com/item/fchart.naver?code=071320) | 071320 | 87,200원 | 🔺+15.80% | 🔺+13.69% | 🔺+70.31% |  
+| 47점 | [주연테크](https://finance.naver.com/item/fchart.naver?code=044380) | 044380 | 364원 | 🔺+0.55% | 🔺+5.51% | 🔺+1.96% |  
+| 47점 | [조일알미늄](https://finance.naver.com/item/fchart.naver?code=018470) | 018470 | 1,513원 | 🔻-1.56% | 🔻-1.05% | 🔺+3.00% |  
+| 47점 | [일진머티리얼즈](https://finance.naver.com/item/fchart.naver?code=020150) | 020150 | 23,150원 | 🔺+3.81% | 🔺+16.33% | 🔺+1.76% |  
+| 47점 | [우신시스템](https://finance.naver.com/item/fchart.naver?code=017370) | 017370 | 8,140원 | 🔺+0.74% | 🔺+10.45% | 🔺+30.24% |  
+| 47점 | [엘브이엠씨홀딩스](https://finance.naver.com/item/fchart.naver?code=900140) | 900140 | 2,080원 | 🔺+10.17% | 🔺+18.72% | 🔺+18.72% |  
+| 47점 | [아모레퍼시픽](https://finance.naver.com/item/fchart.naver?code=090430) | 090430 | 138,050원 | 🔺+3.56% | 🔺+1.28% | 🔺+17.59% |  
+| 47점 | [신라교역](https://finance.naver.com/item/fchart.naver?code=004970) | 004970 | 10,060원 | 🔻-0.10% | 🔺+10.31% | 🔺+10.79% |  
+| 47점 | [셀트리온제약](https://finance.naver.com/item/fchart.naver?code=068760) | 068760 | 50,700원 | 🔺+2.22% | 🔺+6.51% | 🔺+4.75% |  
+| 47점 | [세이브존I&C](https://finance.naver.com/item/fchart.naver?code=067830) | 067830 | 2,670원 | 🔺+0.00% | 🔺+6.16% | 🔺+18.14% |  
+| 47점 | [삼아알미늄](https://finance.naver.com/item/fchart.naver?code=006110) | 006110 | 18,680원 | 🔺+4.77% | 🔻-0.11% | 🔻-24.98% |  
+| 47점 | [삼성출판사](https://finance.naver.com/item/fchart.naver?code=068290) | 068290 | 17,850원 | 🔺+3.90% | 🔻-9.21% | 🔺+9.24% |  
+| 47점 | [삼성제약](https://finance.naver.com/item/fchart.naver?code=001360) | 001360 | 1,780원 | 🔻-2.31% | 🔺+10.22% | 🔺+17.03% |  
+| 47점 | [무림페이퍼](https://finance.naver.com/item/fchart.naver?code=009200) | 009200 | 2,167원 | 🔺+0.79% | 🔺+3.19% | 🔺+0.32% |  
+| 47점 | [롯데지주우](https://finance.naver.com/item/fchart.naver?code=00499K) | 00499K | 34,200원 | 🔻-1.72% | 🔺+21.71% | 🔺+32.30% |  
+| 47점 | [롯데렌탈](https://finance.naver.com/item/fchart.naver?code=089860) | 089860 | 34,050원 | 🔺+0.15% | 🔺+9.13% | 🔺+17.21% |  
+| 47점 | [덕성우](https://finance.naver.com/item/fchart.naver?code=004835) | 004835 | 8,230원 | 🔺+0.49% | 🔺+6.61% | 🔻-8.56% |  
+| 47점 | [덕성](https://finance.naver.com/item/fchart.naver?code=004830) | 004830 | 6,150원 | 🔺+1.15% | 🔺+7.71% | 🔻-6.82% |  
+| 47점 | [대주전자재료](https://finance.naver.com/item/fchart.naver?code=078600) | 078600 | 69,000원 | 🔺+2.83% | 🔻-1.71% | 🔻-18.82% |  
+| 47점 | [다이나믹디자인](https://finance.naver.com/item/fchart.naver?code=145210) | 145210 | 875원 | 🔻-0.23% | 🔻-14.05% | 🔺+3.55% |  
+| 47점 | [남성](https://finance.naver.com/item/fchart.naver?code=004270) | 004270 | 1,202원 | 🔺+4.34% | 🔺+14.26% | 🔺+7.80% |  
+| 47점 | [금호타이어](https://finance.naver.com/item/fchart.naver?code=073240) | 073240 | 4,515원 | 🔺+3.08% | 🔺+8.40% | 🔻-2.38% |  
+| 47점 | [광동제약](https://finance.naver.com/item/fchart.naver?code=009290) | 009290 | 5,950원 | 🔺+2.59% | 🔺+8.58% | 🔺+8.38% |  
+| 47점 | [경동인베스트](https://finance.naver.com/item/fchart.naver?code=012320) | 012320 | 63,700원 | 🔺+0.00% | 🔺+17.96% | 🔺+8.15% |  
+| 47점 | [SOL 차이나태양광CSI(합성)](https://finance.naver.com/item/fchart.naver?code=413220) | 413220 | 3,450원 | 🔺+0.00% | 🔻-1.00% | 🔻-3.90% |  
+| 47점 | [SGC에너지](https://finance.naver.com/item/fchart.naver?code=005090) | 005090 | 25,450원 | 🔺+3.88% | 🔺+8.76% | 🔺+11.87% |  
+| 47점 | [LG유플러스](https://finance.naver.com/item/fchart.naver?code=032640) | 032640 | 13,660원 | 🔺+2.86% | 🔺+6.22% | 🔺+18.37% |  
+| 47점 | [HDC랩스](https://finance.naver.com/item/fchart.naver?code=039570) | 039570 | 9,510원 | 🔻-0.63% | 🔺+4.16% | 🔺+7.22% |  
+| 47점 | [DL이앤씨](https://finance.naver.com/item/fchart.naver?code=375500) | 375500 | 56,100원 | 🔺+14.96% | 🔺+15.08% | 🔺+35.51% |  
+| 47점 | [DL](https://finance.naver.com/item/fchart.naver?code=000210) | 000210 | 46,050원 | 🔺+5.26% | 🔺+10.96% | 🔺+44.81% |  
+| 47점 | [CJ대한통운](https://finance.naver.com/item/fchart.naver?code=000120) | 000120 | 89,500원 | 🔺+4.68% | 🔺+12.16% | 🔺+7.57% |  
+| 47점 | [CJ ENM](https://finance.naver.com/item/fchart.naver?code=035760) | 035760 | 80,600원 | 🔺+1.00% | 🔺+43.42% | 🔺+37.31% |  
+| 46점 | [휴비스](https://finance.naver.com/item/fchart.naver?code=079980) | 079980 | 3,055원 | 🔻-0.16% | 🔺+5.71% | 🔺+11.29% |  
+| 46점 | [효성티앤씨](https://finance.naver.com/item/fchart.naver?code=298020) | 298020 | 256,000원 | 🔺+0.00% | 🔺+0.39% | 🔺+21.33% |  
+| 46점 | [화승코퍼레이션](https://finance.naver.com/item/fchart.naver?code=013520) | 013520 | 2,005원 | 🔻-1.72% | 🔺+5.58% | 🔺+14.05% |  
+| 46점 | [한진](https://finance.naver.com/item/fchart.naver?code=002320) | 002320 | 20,300원 | 🔺+1.50% | 🔺+3.78% | 🔺+8.73% |  
+| 46점 | [한온시스템](https://finance.naver.com/item/fchart.naver?code=018880) | 018880 | 3,197원 | 🔺+3.30% | 🔺+5.69% | 🔻-10.32% |  
+| 46점 | [한국전력](https://finance.naver.com/item/fchart.naver?code=015760) | 015760 | 37,350원 | 🔺+31.98% | 🔺+22.06% | 🔺+48.80% |  
+| 46점 | [쿠쿠홀딩스](https://finance.naver.com/item/fchart.naver?code=192400) | 192400 | 31,750원 | 🔺+2.42% | 🔺+7.81% | 🔺+34.25% |  
+| 46점 | [지엠비코리아](https://finance.naver.com/item/fchart.naver?code=013870) | 013870 | 4,005원 | 🔻-0.99% | 🔺+0.38% | 🔺+0.63% |  
+| 46점 | [이건산업](https://finance.naver.com/item/fchart.naver?code=008250) | 008250 | 5,730원 | 🔺+1.42% | 🔺+5.14% | 🔻-1.04% |  
+| 46점 | [우진플라임](https://finance.naver.com/item/fchart.naver?code=049800) | 049800 | 1,987원 | 🔻-3.07% | 🔻-2.36% | 🔻-7.80% |  
+| 46점 | [와이투솔루션](https://finance.naver.com/item/fchart.naver?code=011690) | 011690 | 3,310원 | 🔺+8.70% | 🔺+4.58% | 🔺+34.83% |  
+| 46점 | [영원무역](https://finance.naver.com/item/fchart.naver?code=111770) | 111770 | 61,300원 | 🔺+3.90% | 🔺+4.07% | 🔺+29.87% |  
+| 46점 | [엔켐](https://finance.naver.com/item/fchart.naver?code=348370) | 348370 | 61,100원 | 🔺+8.53% | 🔺+3.38% | 🔻-28.45% |  
+| 46점 | [알테오젠](https://finance.naver.com/item/fchart.naver?code=196170) | 196170 | 393,500원 | 🔺+1.68% | 🔺+14.39% | 🔺+1.29% |  
+| 46점 | [알루코](https://finance.naver.com/item/fchart.naver?code=001780) | 001780 | 2,375원 | 🔺+1.50% | 🔺+3.04% | 🔺+10.21% |  
+| 46점 | [신송홀딩스](https://finance.naver.com/item/fchart.naver?code=006880) | 006880 | 7,900원 | 🔻-2.59% | 🔺+4.22% | 🔺+8.07% |  
+| 46점 | [신성이엔지](https://finance.naver.com/item/fchart.naver?code=011930) | 011930 | 1,528원 | 🔺+3.24% | 🔺+10.17% | 🔺+4.37% |  
+| 46점 | [솔루엠](https://finance.naver.com/item/fchart.naver?code=248070) | 248070 | 15,560원 | 🔻-2.14% | 🔺+0.58% | 🔻-4.48% |  
+| 46점 | [솔루스첨단소재1우](https://finance.naver.com/item/fchart.naver?code=33637K) | 33637K | 1,683원 | 🔺+3.51% | 🔺+3.76% | 🔻-3.44% |  
+| 46점 | [세종공업](https://finance.naver.com/item/fchart.naver?code=033530) | 033530 | 4,590원 | 🔺+0.88% | 🔺+7.87% | 🔺+7.37% |  
+| 46점 | [선진](https://finance.naver.com/item/fchart.naver?code=136490) | 136490 | 11,530원 | 🔻-1.20% | 🔺+16.11% | 🔺+96.09% |  
+| 46점 | [사조대림](https://finance.naver.com/item/fchart.naver?code=003960) | 003960 | 41,750원 | 🔻-2.68% | 🔺+10.16% | 🔺+9.15% |  
+| 46점 | [무학](https://finance.naver.com/item/fchart.naver?code=033920) | 033920 | 7,930원 | 🔻-0.88% | 🔺+2.59% | 🔺+11.85% |  
+| 46점 | [모토닉](https://finance.naver.com/item/fchart.naver?code=009680) | 009680 | 10,430원 | 🔺+0.38% | 🔺+1.36% | 🔺+10.02% |  
+| 46점 | [롯데손해보험](https://finance.naver.com/item/fchart.naver?code=000400) | 000400 | 1,767원 | 🔺+5.94% | 🔺+13.71% | 🔺+3.64% |  
+| 46점 | [디아이씨](https://finance.naver.com/item/fchart.naver?code=092200) | 092200 | 4,935원 | 🔺+3.03% | 🔺+3.79% | 🔺+3.24% |  
+| 46점 | [두올](https://finance.naver.com/item/fchart.naver?code=016740) | 016740 | 3,320원 | 🔻-1.78% | 🔺+4.40% | 🔺+5.73% |  
+| 46점 | [동성제약](https://finance.naver.com/item/fchart.naver?code=002210) | 002210 | 973원 | 🔻-65.00% | 🔻-65.00% | 🔻-75.58% |  
+| 46점 | [대한항공](https://finance.naver.com/item/fchart.naver?code=003490) | 003490 | 23,650원 | 🔺+10.51% | 🔺+4.88% | 🔺+13.98% |  
+| 46점 | [대우조선해양](https://finance.naver.com/item/fchart.naver?code=042660) | 042660 | 84,400원 | 🔻-5.38% | 🔺+7.11% | 🔺+4.33% |  
+| 46점 | [녹십자홀딩스2우](https://finance.naver.com/item/fchart.naver?code=005257) | 005257 | 44,700원 | 🔺+0.56% | 🔺+110.35% | 🔺+112.86% |  
+| 46점 | [남선알미늄](https://finance.naver.com/item/fchart.naver?code=008350) | 008350 | 1,223원 | 🔺+0.58% | 🔻-1.21% | 🔻-15.89% |  
+| 46점 | [까뮤이앤씨](https://finance.naver.com/item/fchart.naver?code=013700) | 013700 | 1,084원 | 🔻-0.55% | 🔻-2.17% | 🔻-11.44% |  
+| 46점 | [TBH글로벌](https://finance.naver.com/item/fchart.naver?code=084870) | 084870 | 1,338원 | 🔺+6.53% | 🔺+12.34% | 🔺+22.53% |  
+| 46점 | [SHD](https://finance.naver.com/item/fchart.naver?code=001770) | 001770 | 18,120원 | 🔺+0.83% | 🔺+11.85% | 🔺+13.89% |  
+| 46점 | [LG에너지솔루션](https://finance.naver.com/item/fchart.naver?code=373220) | 373220 | 298,000원 | 🔺+2.41% | 🔺+9.36% | 🔻-12.74% |  
+| 46점 | [LG생활건강우](https://finance.naver.com/item/fchart.naver?code=051905) | 051905 | 138,150원 | 🔺+1.81% | 🔺+11.05% | 🔺+15.41% |  
+| 46점 | [LG생활건강](https://finance.naver.com/item/fchart.naver?code=051900) | 051900 | 344,500원 | 🔺+1.77% | 🔺+6.16% | 🔺+6.99% |  
+| 46점 | [KTcs](https://finance.naver.com/item/fchart.naver?code=058850) | 058850 | 2,935원 | 🔻-0.51% | 🔺+1.21% | 🔺+3.16% |  
+| 46점 | [HK이노엔](https://finance.naver.com/item/fchart.naver?code=195940) | 195940 | 43,425원 | 🔺+2.42% | 🔺+6.17% | 🔻-11.20% |  
+| 46점 | [DSR](https://finance.naver.com/item/fchart.naver?code=155660) | 155660 | 4,050원 | 🔺+2.27% | 🔺+7.57% | 🔺+0.75% |  
+| 46점 | [DL이앤씨2우(전환)](https://finance.naver.com/item/fchart.naver?code=37550L) | 37550L | 36,650원 | 🔺+13.29% | 🔺+17.47% | 🔺+37.01% |  
+| 46점 | [DI동일](https://finance.naver.com/item/fchart.naver?code=001530) | 001530 | 39,200원 | 🔺+0.64% | 🔺+9.65% | 🔻-10.40% |  
+| 46점 | [CJ CGV](https://finance.naver.com/item/fchart.naver?code=079160) | 079160 | 5,150원 | 🔺+7.40% | 🔺+12.94% | 🔺+9.34% |  
+| 45점 | [현대중공업](https://finance.naver.com/item/fchart.naver?code=329180) | 329180 | 456,000원 | 🔺+5.92% | 🔺+10.68% | 🔺+21.28% |  
+| 45점 | [현대약품](https://finance.naver.com/item/fchart.naver?code=004310) | 004310 | 3,520원 | 🔺+1.15% | 🔺+1.73% | 🔺+2.77% |  
+| 45점 | [현대백화점](https://finance.naver.com/item/fchart.naver?code=069960) | 069960 | 77,100원 | 🔺+4.05% | 🔺+10.62% | 🔺+32.70% |  
+| 45점 | [한창제지](https://finance.naver.com/item/fchart.naver?code=009460) | 009460 | 746원 | 🔺+0.67% | 🔺+3.32% | 🔻-4.85% |  
+| 45점 | [한솔제지](https://finance.naver.com/item/fchart.naver?code=213500) | 213500 | 8,805원 | 🔺+1.56% | 🔺+3.83% | 🔺+4.57% |  
+| 45점 | [퍼스텍](https://finance.naver.com/item/fchart.naver?code=010820) | 010820 | 3,925원 | 🔻-6.66% | 🔺+4.95% | 🔺+9.18% |  
+| 45점 | [코아스](https://finance.naver.com/item/fchart.naver?code=071950) | 071950 | 9,100원 | 🔻-3.19% | 🔻-6.28% | 🔻-5.89% |  
+| 45점 | [조선선재](https://finance.naver.com/item/fchart.naver?code=120030) | 120030 | 100,900원 | 🔻-1.27% | 🔺+0.90% | 🔺+6.89% |  
+| 45점 | [인디에프](https://finance.naver.com/item/fchart.naver?code=014990) | 014990 | 1,314원 | 🔺+13.96% | 🔺+43.45% | 🔺+38.03% |  
+| 45점 | [우성](https://finance.naver.com/item/fchart.naver?code=006980) | 006980 | 18,240원 | 🔺+1.50% | 🔺+7.29% | 🔺+12.94% |  
+| 45점 | [영화금속](https://finance.naver.com/item/fchart.naver?code=012280) | 012280 | 837원 | 🔻-1.65% | 🔺+0.36% | 🔻-3.68% |  
+| 45점 | [엠씨넥스](https://finance.naver.com/item/fchart.naver?code=097520) | 097520 | 27,650원 | 🔻-0.90% | 🔺+1.65% | 🔺+19.70% |  
+| 45점 | [엘앤에프](https://finance.naver.com/item/fchart.naver?code=066970) | 066970 | 52,700원 | 🔺+7.66% | 🔺+9.79% | 🔻-19.30% |  
+| 45점 | [에이프로젠 MED](https://finance.naver.com/item/fchart.naver?code=007460) | 007460 | 671원 | 🔻-0.15% | 🔺+1.67% | 🔻-8.96% |  
+| 45점 | [애경산업](https://finance.naver.com/item/fchart.naver?code=018250) | 018250 | 16,300원 | 🔺+3.82% | 🔺+10.06% | 🔺+13.91% |  
+| 45점 | [씨아이테크](https://finance.naver.com/item/fchart.naver?code=004920) | 004920 | 1,269원 | 🔻-2.16% | 🔺+12.40% | 🔻-24.69% |  
+| 45점 | [신원](https://finance.naver.com/item/fchart.naver?code=009270) | 009270 | 1,841원 | 🔺+2.11% | 🔺+4.66% | 🔺+8.68% |  
+| 45점 | [신세계건설](https://finance.naver.com/item/fchart.naver?code=034300) | 034300 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 45점 | [솔브레인](https://finance.naver.com/item/fchart.naver?code=357780) | 357780 | 182,200원 | 🔺+7.62% | 🔺+16.79% | 🔺+4.11% |  
+| 45점 | [서원](https://finance.naver.com/item/fchart.naver?code=021050) | 021050 | 1,328원 | 🔺+0.45% | 🔺+11.22% | 🔺+5.23% |  
+| 45점 | [삼성SDI](https://finance.naver.com/item/fchart.naver?code=006400) | 006400 | 174,600원 | 🔺+3.80% | 🔺+8.99% | 🔻-5.47% |  
+| 45점 | [락앤락](https://finance.naver.com/item/fchart.naver?code=115390) | 115390 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 45점 | [동양피스톤](https://finance.naver.com/item/fchart.naver?code=092780) | 092780 | 4,570원 | 🔻-0.98% | 🔺+3.16% | 🔻-0.76% |  
+| 45점 | [대한유화](https://finance.naver.com/item/fchart.naver?code=006650) | 006650 | 86,100원 | 🔺+4.62% | 🔺+7.49% | 🔻-2.38% |  
+| 45점 | [대원제약](https://finance.naver.com/item/fchart.naver?code=003220) | 003220 | 13,350원 | 🔻-0.52% | 🔻-2.34% | 🔻-3.26% |  
+| 45점 | [대상홀딩스](https://finance.naver.com/item/fchart.naver?code=084690) | 084690 | 10,860원 | 🔺+0.56% | 🔺+17.41% | 🔻-10.54% |  
+| 45점 | [남양유업우](https://finance.naver.com/item/fchart.naver?code=003925) | 003925 | 43,850원 | 🔺+1.04% | 🔻-7.78% | 🔺+11.29% |  
+| 45점 | [기아](https://finance.naver.com/item/fchart.naver?code=000270) | 000270 | 100,400원 | 🔺+2.24% | 🔺+13.83% | 🔺+13.06% |  
+| 45점 | [금양](https://finance.naver.com/item/fchart.naver?code=001570) | 001570 | 9,900원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 45점 | [가온전선](https://finance.naver.com/item/fchart.naver?code=000500) | 000500 | 63,800원 | 🔻-0.78% | 🔻-15.83% | 🔺+13.73% |  
+| 45점 | [SK이노베이션](https://finance.naver.com/item/fchart.naver?code=096770) | 096770 | 101,100원 | 🔺+0.30% | 🔺+23.29% | 🔺+6.53% |  
+| 45점 | [OCI](https://finance.naver.com/item/fchart.naver?code=010060) | 010060 | 73,700원 | 🔺+2.65% | 🔺+10.99% | 🔺+3.08% |  
+| 45점 | [KPX케미칼](https://finance.naver.com/item/fchart.naver?code=025000) | 025000 | 48,350원 | 🔺+1.15% | 🔺+6.15% | 🔺+8.90% |  
+| 45점 | [DSR제강](https://finance.naver.com/item/fchart.naver?code=069730) | 069730 | 3,725원 | 🔻-1.06% | 🔺+4.05% | 🔺+0.40% |  
+| 45점 | [DN오토모티브](https://finance.naver.com/item/fchart.naver?code=007340) | 007340 | 21,950원 | 🔺+0.23% | 🔺+2.81% | 🔻-7.77% |  
+| 45점 | [CJ](https://finance.naver.com/item/fchart.naver?code=001040) | 001040 | 158,600원 | 🔻-2.64% | 🔺+18.36% | 🔺+30.86% |  
+| 44점 | [화인베스틸](https://finance.naver.com/item/fchart.naver?code=133820) | 133820 | 821원 | 🔻-0.61% | 🔻-12.66% | 🔻-9.18% |  
+| 44점 | [화신](https://finance.naver.com/item/fchart.naver?code=010690) | 010690 | 8,810원 | 🔺+4.14% | 🔺+15.01% | 🔺+10.12% |  
+| 44점 | [현대위아](https://finance.naver.com/item/fchart.naver?code=011210) | 011210 | 47,900원 | 🔺+3.12% | 🔺+18.86% | 🔺+11.01% |  
+| 44점 | [한세엠케이](https://finance.naver.com/item/fchart.naver?code=069640) | 069640 | 1,146원 | 🔻-8.32% | 🔻-31.62% | 🔻-5.13% |  
+| 44점 | [한국콜마홀딩스](https://finance.naver.com/item/fchart.naver?code=024720) | 024720 | 15,340원 | 🔻-12.04% | 🔺+21.94% | 🔺+51.88% |  
+| 44점 | [한국자산신탁](https://finance.naver.com/item/fchart.naver?code=123890) | 123890 | 2,615원 | 🔺+6.09% | 🔺+11.04% | 🔺+13.94% |  
+| 44점 | [하이브](https://finance.naver.com/item/fchart.naver?code=352820) | 352820 | 311,500원 | 🔺+3.83% | 🔺+8.73% | 🔺+36.62% |  
+| 44점 | [포스코케미칼](https://finance.naver.com/item/fchart.naver?code=003670) | 003670 | 129,000원 | 🔺+2.54% | 🔺+28.87% | 🔻-0.92% |  
+| 44점 | [페이퍼코리아](https://finance.naver.com/item/fchart.naver?code=001020) | 001020 | 734원 | 🔺+0.14% | 🔺+2.09% | 🔻-5.66% |  
+| 44점 | [클래시스](https://finance.naver.com/item/fchart.naver?code=214150) | 214150 | 63,700원 | 🔺+2.91% | 🔺+6.52% | 🔻-0.62% |  
+| 44점 | [케이비아이동국실업](https://finance.naver.com/item/fchart.naver?code=001620) | 001620 | 485원 | 🔻-1.02% | 🔻-2.02% | 🔻-10.02% |  
+| 44점 | [초록뱀헬스케어](https://finance.naver.com/item/fchart.naver?code=118000) | 118000 | 341원 | 🔻-2.29% | 🔻-5.28% | 🔺+3.02% |  
+| 44점 | [유화증권](https://finance.naver.com/item/fchart.naver?code=003460) | 003460 | 2,750원 | 🔻-1.08% | 🔺+10.89% | 🔺+16.77% |  
+| 44점 | [유엔젤](https://finance.naver.com/item/fchart.naver?code=072130) | 072130 | 5,280원 | 🔻-4.17% | 🔺+4.14% | 🔻-0.56% |  
+| 44점 | [영흥](https://finance.naver.com/item/fchart.naver?code=012160) | 012160 | 549원 | 🔺+4.57% | 🔺+13.90% | 🔺+38.29% |  
+| 44점 | [엔케이](https://finance.naver.com/item/fchart.naver?code=085310) | 085310 | 830원 | 🔻-1.54% | 🔻-2.35% | 🔻-7.05% |  
+| 44점 | [애경케미칼](https://finance.naver.com/item/fchart.naver?code=161000) | 161000 | 10,190원 | 🔺+2.10% | 🔺+11.86% | 🔺+27.85% |  
+| 44점 | [아시아나항공](https://finance.naver.com/item/fchart.naver?code=020560) | 020560 | 9,920원 | 🔺+3.55% | 🔻-0.50% | 🔺+4.75% |  
+| 44점 | [씨아이에스](https://finance.naver.com/item/fchart.naver?code=222080) | 222080 | 7,140원 | 🔺+3.33% | 🔺+8.35% | 🔻-2.19% |  
+| 44점 | [스튜디오드래곤](https://finance.naver.com/item/fchart.naver?code=253450) | 253450 | 53,600원 | 🔻-2.01% | 🔺+17.54% | 🔺+22.37% |  
+| 44점 | [세하](https://finance.naver.com/item/fchart.naver?code=027970) | 027970 | 810원 | 🔻-1.22% | 🔺+0.75% | 🔻-2.06% |  
+| 44점 | [서연이화](https://finance.naver.com/item/fchart.naver?code=200880) | 200880 | 12,670원 | 🔺+1.93% | 🔺+17.42% | 🔺+7.56% |  
+| 44점 | [삼영화학](https://finance.naver.com/item/fchart.naver?code=003720) | 003720 | 3,950원 | 🔻-6.84% | 🔺+1.28% | 🔻-6.40% |  
+| 44점 | [보해양조](https://finance.naver.com/item/fchart.naver?code=000890) | 000890 | 498원 | 🔻-0.99% | 🔻-6.21% | 🔺+3.32% |  
+| 44점 | [보락](https://finance.naver.com/item/fchart.naver?code=002760) | 002760 | 1,058원 | 🔻-1.40% | 🔻-0.09% | 🔻-4.34% |  
+| 44점 | [범양건영](https://finance.naver.com/item/fchart.naver?code=002410) | 002410 | 1,935원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 44점 | [미래아이앤지](https://finance.naver.com/item/fchart.naver?code=007120) | 007120 | 1,025원 | 🔻-0.87% | 🔺+1.89% | 🔻-4.30% |  
+| 44점 | [마스턴프리미어리츠](https://finance.naver.com/item/fchart.naver?code=357430) | 357430 | 1,431원 | 🔻-1.58% | 🔻-2.52% | 🔻-2.92% |  
+| 44점 | [동원시스템즈](https://finance.naver.com/item/fchart.naver?code=014820) | 014820 | 31,850원 | 🔺+4.94% | 🔺+8.33% | 🔻-3.04% |  
+| 44점 | [동원산업](https://finance.naver.com/item/fchart.naver?code=006040) | 006040 | 47,500원 | 🔻-2.26% | 🔺+6.50% | 🔺+15.29% |  
+| 44점 | [동서](https://finance.naver.com/item/fchart.naver?code=026960) | 026960 | 29,000원 | 🔺+8.21% | 🔺+14.40% | 🔺+8.01% |  
+| 44점 | [대원강업](https://finance.naver.com/item/fchart.naver?code=000430) | 000430 | 3,810원 | 🔺+0.93% | 🔺+6.13% | 🔺+2.01% |  
+| 44점 | [대덕1우](https://finance.naver.com/item/fchart.naver?code=00806K) | 00806K | 8,450원 | 🔺+0.12% | 🔺+6.16% | 🔺+3.43% |  
+| 44점 | [금호석유우](https://finance.naver.com/item/fchart.naver?code=011785) | 011785 | 57,100원 | 🔺+1.78% | 🔺+6.93% | 🔺+6.33% |  
+| 44점 | [경인양행](https://finance.naver.com/item/fchart.naver?code=012610) | 012610 | 3,445원 | 🔻-1.43% | 🔺+10.77% | 🔺+7.99% |  
+| 44점 | [POSCO홀딩스](https://finance.naver.com/item/fchart.naver?code=005490) | 005490 | 266,500원 | 🔺+2.50% | 🔺+12.45% | 🔺+3.70% |  
+| 44점 | [KTOP 코스피50](https://finance.naver.com/item/fchart.naver?code=168300) | 168300 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 44점 | [F&F](https://finance.naver.com/item/fchart.naver?code=383220) | 383220 | 77,100원 | 🔻-4.70% | 🔺+0.65% | 🔺+10.62% |  
+| 44점 | [CJ제일제당](https://finance.naver.com/item/fchart.naver?code=097950) | 097950 | 253,500원 | 🔺+6.51% | 🔺+12.67% | 🔺+4.54% |  
+| 44점 | [CJ우](https://finance.naver.com/item/fchart.naver?code=001045) | 001045 | 86,800원 | 🔺+2.97% | 🔺+17.93% | 🔺+27.46% |  
+| 43점 | [화천기계](https://finance.naver.com/item/fchart.naver?code=010660) | 010660 | 5,380원 | 🔺+3.86% | 🔺+5.91% | 🔺+32.51% |  
+| 43점 | [한국패러랠](https://finance.naver.com/item/fchart.naver?code=168490) | 168490 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 43점 | [한국ANKOR유전](https://finance.naver.com/item/fchart.naver?code=152550) | 152550 | 270원 | 🔻-19.88% | 🔺+8.00% | 🔺+2.27% |  
+| 43점 | [하이트진로](https://finance.naver.com/item/fchart.naver?code=000080) | 000080 | 20,450원 | 🔺+0.99% | 🔺+6.07% | 🔺+6.62% |  
+| 43점 | [피엔티](https://finance.naver.com/item/fchart.naver?code=137400) | 137400 | 32,400원 | 🔺+6.06% | 🔺+7.46% | 🔻-21.17% |  
+| 43점 | [테이팩스](https://finance.naver.com/item/fchart.naver?code=055490) | 055490 | 13,890원 | 🔺+2.51% | 🔺+9.20% | 🔻-1.70% |  
+| 43점 | [코오롱플라스틱](https://finance.naver.com/item/fchart.naver?code=138490) | 138490 | 6,790원 | 🔺+1.95% | 🔺+7.44% | 🔺+9.34% |  
+| 43점 | [체시스](https://finance.naver.com/item/fchart.naver?code=033250) | 033250 | 1,150원 | 🔻-1.37% | 🔻-21.29% | 🔺+1.05% |  
+| 43점 | [진에어](https://finance.naver.com/item/fchart.naver?code=272450) | 272450 | 9,450원 | 🔺+4.07% | 🔺+2.61% | 🔺+8.25% |  
+| 43점 | [지씨셀](https://finance.naver.com/item/fchart.naver?code=144510) | 144510 | 21,150원 | 🔺+4.96% | 🔺+4.19% | 🔻-1.86% |  
+| 43점 | [일신석재](https://finance.naver.com/item/fchart.naver?code=007110) | 007110 | 2,625원 | 🔻-1.69% | 🔺+21.25% | 🔺+19.59% |  
+| 43점 | [유니온](https://finance.naver.com/item/fchart.naver?code=000910) | 000910 | 4,780원 | 🔻-0.31% | 🔺+5.17% | 🔻-9.30% |  
+| 43점 | [에어부산](https://finance.naver.com/item/fchart.naver?code=298690) | 298690 | 2,215원 | 🔺+5.98% | 🔺+0.45% | 🔺+8.31% |  
+| 43점 | [신한서부티엔디리츠](https://finance.naver.com/item/fchart.naver?code=404990) | 404990 | 3,520원 | 🔺+1.59% | 🔻-3.03% | 🔺+3.68% |  
+| 43점 | [솔루스첨단소재2우B](https://finance.naver.com/item/fchart.naver?code=33637L) | 33637L | 4,185원 | 🔺+1.09% | 🔺+5.82% | 🔻-5.21% |  
+| 43점 | [샘표](https://finance.naver.com/item/fchart.naver?code=007540) | 007540 | 44,800원 | 🔻-3.55% | 🔺+1.13% | 🔺+6.92% |  
+| 43점 | [삼호개발](https://finance.naver.com/item/fchart.naver?code=010960) | 010960 | 3,510원 | 🔻-1.68% | 🔺+2.33% | 🔻-6.65% |  
+| 43점 | [미창석유](https://finance.naver.com/item/fchart.naver?code=003650) | 003650 | 108,200원 | 🔻-2.87% | 🔺+7.66% | 🔺+8.31% |  
+| 43점 | [롯데푸드](https://finance.naver.com/item/fchart.naver?code=002270) | 002270 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 43점 | [롯데쇼핑](https://finance.naver.com/item/fchart.naver?code=023530) | 023530 | 75,800원 | 🔺+2.02% | 🔻-1.94% | 🔺+12.46% |  
+| 43점 | [동진쎄미켐](https://finance.naver.com/item/fchart.naver?code=005290) | 005290 | 33,300원 | 🔺+7.77% | 🔺+18.51% | 🔺+8.82% |  
+| 43점 | [덴티움](https://finance.naver.com/item/fchart.naver?code=145720) | 145720 | 65,900원 | 🔺+1.54% | 🔺+7.68% | 🔻-11.54% |  
+| 43점 | [대덕](https://finance.naver.com/item/fchart.naver?code=008060) | 008060 | 7,940원 | 🔻-0.50% | 🔺+3.93% | 🔺+0.00% |  
+| 43점 | [나노신소재](https://finance.naver.com/item/fchart.naver?code=121600) | 121600 | 51,400원 | 🔺+6.09% | 🔺+15.77% | 🔻-6.88% |  
+| 43점 | [SK이노베이션우](https://finance.naver.com/item/fchart.naver?code=096775) | 096775 | 70,600원 | 🔺+3.37% | 🔺+24.51% | 🔺+6.01% |  
+| 43점 | [KG스틸](https://finance.naver.com/item/fchart.naver?code=016380) | 016380 | 6,320원 | 🔺+1.44% | 🔺+10.30% | 🔺+8.97% |  
+| 43점 | [KC그린홀딩스](https://finance.naver.com/item/fchart.naver?code=009440) | 009440 | 756원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 43점 | [HJ중공업](https://finance.naver.com/item/fchart.naver?code=097230) | 097230 | 7,510원 | 🔺+3.73% | 🔺+0.13% | 🔻-2.85% |  
+| 43점 | [AK홀딩스](https://finance.naver.com/item/fchart.naver?code=006840) | 006840 | 11,690원 | 🔻-1.35% | 🔺+9.15% | 🔺+13.94% |  
+| 42점 | [휴스틸](https://finance.naver.com/item/fchart.naver?code=005010) | 005010 | 4,790원 | 🔻-0.73% | 🔻-2.64% | 🔻-6.99% |  
+| 42점 | [호전실업](https://finance.naver.com/item/fchart.naver?code=111110) | 111110 | 8,700원 | 🔻-3.23% | 🔺+2.47% | 🔺+7.54% |  
+| 42점 | [한성기업](https://finance.naver.com/item/fchart.naver?code=003680) | 003680 | 5,140원 | 🔻-0.58% | 🔺+0.98% | 🔺+1.78% |  
+| 42점 | [한국타이어앤테크놀로지](https://finance.naver.com/item/fchart.naver?code=161390) | 161390 | 40,200원 | 🔺+4.01% | 🔺+7.06% | 🔺+0.75% |  
+| 42점 | [포스코스틸리온](https://finance.naver.com/item/fchart.naver?code=058430) | 058430 | 39,900원 | 🔺+2.18% | 🔺+10.99% | 🔺+7.69% |  
+| 42점 | [태원물산](https://finance.naver.com/item/fchart.naver?code=001420) | 001420 | 3,985원 | 🔻-2.57% | 🔻-2.69% | 🔺+6.27% |  
+| 42점 | [태영건설우](https://finance.naver.com/item/fchart.naver?code=009415) | 009415 | 5,690원 | 🔺+0.00% | 🔻-0.52% | 🔺+21.06% |  
+| 42점 | [크라운제과](https://finance.naver.com/item/fchart.naver?code=264900) | 264900 | 9,010원 | 🔺+1.69% | 🔺+7.39% | 🔺+6.00% |  
+| 42점 | [쿠쿠홈시스](https://finance.naver.com/item/fchart.naver?code=284740) | 284740 | 25,800원 | 🔻-2.09% | 🔻-3.01% | 🔺+17.81% |  
+| 42점 | [코스모신소재](https://finance.naver.com/item/fchart.naver?code=005070) | 005070 | 35,100원 | 🔺+9.01% | 🔺+18.18% | 🔻-13.44% |  
+| 42점 | [코람코더원리츠](https://finance.naver.com/item/fchart.naver?code=417310) | 417310 | 5,300원 | 🔺+1.73% | 🔺+2.32% | 🔺+6.00% |  
+| 42점 | [참엔지니어링](https://finance.naver.com/item/fchart.naver?code=009310) | 009310 | 1,441원 | 🔺+3.08% | 🔺+12.23% | 🔺+409.19% |  
+| 42점 | [종근당바이오](https://finance.naver.com/item/fchart.naver?code=063160) | 063160 | 23,050원 | 🔻-0.22% | 🔺+2.67% | 🔻-1.50% |  
+| 42점 | [인터지스](https://finance.naver.com/item/fchart.naver?code=129260) | 129260 | 3,020원 | 🔺+11.23% | 🔺+19.37% | 🔺+9.82% |  
+| 42점 | [유니드](https://finance.naver.com/item/fchart.naver?code=014830) | 014830 | 91,400원 | 🔻-1.19% | 🔺+0.00% | 🔺+2.70% |  
+| 42점 | [유나이티드제약](https://finance.naver.com/item/fchart.naver?code=033270) | 033270 | 21,300원 | 🔺+1.67% | 🔺+5.19% | 🔺+6.93% |  
+| 42점 | [에스엘](https://finance.naver.com/item/fchart.naver?code=005850) | 005850 | 33,400원 | 🔺+3.89% | 🔺+11.15% | 🔻-2.62% |  
+| 42점 | [씨젠](https://finance.naver.com/item/fchart.naver?code=096530) | 096530 | 35,350원 | 🔺+4.59% | 🔺+9.27% | 🔺+31.17% |  
+| 42점 | [셀트리온](https://finance.naver.com/item/fchart.naver?code=068270) | 068270 | 160,500원 | 🔺+0.19% | 🔺+3.15% | 🔺+1.20% |  
+| 42점 | [성신양회](https://finance.naver.com/item/fchart.naver?code=004980) | 004980 | 9,610원 | 🔺+5.60% | 🔺+11.61% | 🔻-4.28% |  
+| 42점 | [서울식품](https://finance.naver.com/item/fchart.naver?code=004410) | 004410 | 160원 | 🔻-0.62% | 🔺+1.27% | 🔺+1.27% |  
+| 42점 | [삼진제약](https://finance.naver.com/item/fchart.naver?code=005500) | 005500 | 19,160원 | 🔻-0.42% | 🔺+9.17% | 🔺+7.88% |  
+| 42점 | [비상교육](https://finance.naver.com/item/fchart.naver?code=100220) | 100220 | 6,760원 | 🔻-2.45% | 🔺+20.50% | 🔺+24.49% |  
+| 42점 | [맵스리얼티1](https://finance.naver.com/item/fchart.naver?code=094800) | 094800 | 4,350원 | 🔺+0.35% | 🔻-0.46% | 🔺+2.11% |  
+| 42점 | [레고켐바이오](https://finance.naver.com/item/fchart.naver?code=141080) | 141080 | 110,100원 | 🔺+2.80% | 🔻-5.09% | 🔻-2.91% |  
+| 42점 | [동아타이어](https://finance.naver.com/item/fchart.naver?code=282690) | 282690 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 42점 | [동방](https://finance.naver.com/item/fchart.naver?code=004140) | 004140 | 3,165원 | 🔺+17.88% | 🔺+35.55% | 🔺+26.85% |  
+| 42점 | [덕양산업](https://finance.naver.com/item/fchart.naver?code=024900) | 024900 | 2,660원 | 🔻-0.75% | 🔺+2.90% | 🔻-8.28% |  
+| 42점 | [대영포장](https://finance.naver.com/item/fchart.naver?code=014160) | 014160 | 1,177원 | 🔺+0.26% | 🔻-8.90% | 🔻-22.72% |  
+| 42점 | [대상우](https://finance.naver.com/item/fchart.naver?code=001685) | 001685 | 17,180원 | 🔺+0.41% | 🔺+4.76% | 🔺+1.00% |  
+| 42점 | [다스코](https://finance.naver.com/item/fchart.naver?code=058730) | 058730 | 3,170원 | 🔺+1.60% | 🔺+5.84% | 🔻-0.63% |  
+| 42점 | [금호전기](https://finance.naver.com/item/fchart.naver?code=001210) | 001210 | 1,084원 | 🔻-3.56% | 🔻-6.31% | 🔻-9.82% |  
+| 42점 | [그린케미칼](https://finance.naver.com/item/fchart.naver?code=083420) | 083420 | 8,280원 | 🔻-2.93% | 🔺+6.29% | 🔺+1.35% |  
+| 42점 | [국제약품](https://finance.naver.com/item/fchart.naver?code=002720) | 002720 | 4,790원 | 🔺+0.42% | 🔻-0.42% | 🔺+1.27% |  
+| 42점 | [고려산업](https://finance.naver.com/item/fchart.naver?code=002140) | 002140 | 2,970원 | 🔻-2.14% | 🔺+8.39% | 🔺+1.02% |  
+| 42점 | [SK가스](https://finance.naver.com/item/fchart.naver?code=018670) | 018670 | 261,000원 | 🔺+16.52% | 🔺+23.11% | 🔺+12.50% |  
+| 42점 | [KT](https://finance.naver.com/item/fchart.naver?code=030200) | 030200 | 52,400원 | 🔺+0.96% | 🔺+2.14% | 🔺+6.61% |  
+| 42점 | [CJ씨푸드](https://finance.naver.com/item/fchart.naver?code=011150) | 011150 | 3,045원 | 🔺+0.50% | 🔺+3.40% | 🔻-4.09% |  
+| 41점 | [형지엘리트](https://finance.naver.com/item/fchart.naver?code=093240) | 093240 | 2,805원 | 🔻-0.88% | 🔺+43.85% | 🔺+14.96% |  
+| 41점 | [한국카본](https://finance.naver.com/item/fchart.naver?code=017960) | 017960 | 25,500원 | 🔺+1.19% | 🔺+17.24% | 🔺+26.87% |  
+| 41점 | [하이스틸](https://finance.naver.com/item/fchart.naver?code=071090) | 071090 | 3,975원 | 🔻-1.12% | 🔻-2.93% | 🔻-9.25% |  
+| 41점 | [프레스티지바이오파마](https://finance.naver.com/item/fchart.naver?code=950210) | 950210 | 11,400원 | 🔻-7.39% | 🔻-19.89% | 🔻-25.39% |  
+| 41점 | [태림포장](https://finance.naver.com/item/fchart.naver?code=011280) | 011280 | 2,170원 | 🔺+0.00% | 🔻-3.98% | 🔺+1.40% |  
+| 41점 | [키다리스튜디오](https://finance.naver.com/item/fchart.naver?code=020120) | 020120 | 4,040원 | 🔺+1.00% | 🔺+27.44% | 🔺+13.80% |  
+| 41점 | [차바이오텍](https://finance.naver.com/item/fchart.naver?code=085660) | 085660 | 12,200원 | 🔺+19.84% | 🔺+17.65% | 🔺+7.68% |  
+| 41점 | [조흥](https://finance.naver.com/item/fchart.naver?code=002600) | 002600 | 154,700원 | 🔻-2.64% | 🔻-0.26% | 🔻-3.97% |  
+| 41점 | [유화증권우](https://finance.naver.com/item/fchart.naver?code=003465) | 003465 | 2,675원 | 🔺+0.94% | 🔺+9.63% | 🔺+12.39% |  
+| 41점 | [유유제약1우](https://finance.naver.com/item/fchart.naver?code=000225) | 000225 | 5,090원 | 🔺+1.19% | 🔻-1.36% | 🔻-3.05% |  
+| 41점 | [에이프로젠제약](https://finance.naver.com/item/fchart.naver?code=003060) | 003060 | 654원 | 🔻-1.06% | 🔺+2.83% | 🔻-7.76% |  
+| 41점 | [신풍제지](https://finance.naver.com/item/fchart.naver?code=002870) | 002870 | 1,164원 | 🔺+2.74% | 🔺+16.52% | 🔺+1.04% |  
+| 41점 | [삼성바이오로직스](https://finance.naver.com/item/fchart.naver?code=207940) | 207940 | 1,006,000원 | 🔺+0.70% | 🔻-1.95% | 🔻-3.82% |  
+| 41점 | [롯데케미칼](https://finance.naver.com/item/fchart.naver?code=011170) | 011170 | 63,400원 | 🔺+1.60% | 🔺+9.50% | 🔺+0.96% |  
+| 41점 | [금호석유](https://finance.naver.com/item/fchart.naver?code=011780) | 011780 | 115,200원 | 🔺+1.77% | 🔺+2.49% | 🔻-1.71% |  
+| 41점 | [경동나비엔](https://finance.naver.com/item/fchart.naver?code=009450) | 009450 | 72,600원 | 🔺+1.26% | 🔻-7.28% | 🔻-0.27% |  
+| 41점 | [TCC스틸](https://finance.naver.com/item/fchart.naver?code=002710) | 002710 | 16,920원 | 🔺+7.57% | 🔺+2.79% | 🔻-19.04% |  
+| 41점 | [SUN&L](https://finance.naver.com/item/fchart.naver?code=002820) | 002820 | 2,995원 | 🔺+1.87% | 🔺+3.28% | 🔺+1.18% |  
+| 41점 | [SNT에너지](https://finance.naver.com/item/fchart.naver?code=100840) | 100840 | 44,200원 | 🔺+5.36% | 🔺+1.61% | 🔺+18.50% |  
+| 41점 | [LG화학](https://finance.naver.com/item/fchart.naver?code=051910) | 051910 | 212,000원 | 🔺+2.91% | 🔺+15.91% | 🔻-4.93% |  
+| 41점 | [KSS해운](https://finance.naver.com/item/fchart.naver?code=044450) | 044450 | 9,750원 | 🔻-0.91% | 🔻-0.31% | 🔺+9.67% |  
+| 41점 | [HDC현대산업개발](https://finance.naver.com/item/fchart.naver?code=294870) | 294870 | 25,250원 | 🔺+1.81% | 🔺+6.09% | 🔺+6.77% |  
+| 41점 | [HDC](https://finance.naver.com/item/fchart.naver?code=012630) | 012630 | 23,875원 | 🔺+5.88% | 🔺+25.66% | 🔺+31.76% |  
+| 40점 | [한농화성](https://finance.naver.com/item/fchart.naver?code=011500) | 011500 | 15,190원 | 🔺+3.40% | 🔺+8.89% | 🔻-0.52% |  
+| 40점 | [한국내화](https://finance.naver.com/item/fchart.naver?code=010040) | 010040 | 2,410원 | 🔻-1.63% | 🔺+1.26% | 🔺+2.77% |  
+| 40점 | [포스코인터내셔널](https://finance.naver.com/item/fchart.naver?code=047050) | 047050 | 49,900원 | 🔺+1.11% | 🔺+2.46% | 🔺+1.42% |  
+| 40점 | [포스코 ICT](https://finance.naver.com/item/fchart.naver?code=022100) | 022100 | 24,300원 | 🔺+3.62% | 🔺+16.83% | 🔻-2.21% |  
+| 40점 | [토니모리](https://finance.naver.com/item/fchart.naver?code=214420) | 214420 | 11,800원 | 🔺+9.67% | 🔺+34.70% | 🔺+36.26% |  
+| 40점 | [케어젠](https://finance.naver.com/item/fchart.naver?code=214370) | 214370 | 32,950원 | 🔺+8.93% | 🔺+0.61% | 🔺+30.24% |  
+| 40점 | [유수홀딩스](https://finance.naver.com/item/fchart.naver?code=000700) | 000700 | 5,990원 | 🔻-1.80% | 🔺+1.01% | 🔺+7.54% |  
+| 40점 | [신영증권우](https://finance.naver.com/item/fchart.naver?code=001725) | 001725 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 40점 | [새론오토모티브](https://finance.naver.com/item/fchart.naver?code=075180) | 075180 | 3,365원 | 🔺+0.60% | 🔺+2.28% | 🔺+1.97% |  
+| 40점 | [삼성중공업](https://finance.naver.com/item/fchart.naver?code=010140) | 010140 | 16,810원 | 🔻-3.61% | 🔺+2.81% | 🔺+15.22% |  
+| 40점 | [삼성공조](https://finance.naver.com/item/fchart.naver?code=006660) | 006660 | 14,610원 | 🔺+0.76% | 🔻-1.48% | 🔻-0.95% |  
+| 40점 | [부국철강](https://finance.naver.com/item/fchart.naver?code=026940) | 026940 | 2,300원 | 🔺+0.44% | 🔻-2.13% | 🔻-11.03% |  
+| 40점 | [문배철강](https://finance.naver.com/item/fchart.naver?code=008420) | 008420 | 2,400원 | 🔺+3.45% | 🔺+6.19% | 🔻-2.44% |  
+| 40점 | [디씨엠](https://finance.naver.com/item/fchart.naver?code=024090) | 024090 | 13,540원 | 🔻-0.15% | 🔺+7.38% | 🔺+8.67% |  
+| 40점 | [동원금속](https://finance.naver.com/item/fchart.naver?code=018500) | 018500 | 1,352원 | 🔺+3.13% | 🔻-2.38% | 🔻-11.69% |  
+| 40점 | [동남합성](https://finance.naver.com/item/fchart.naver?code=023450) | 023450 | 33,550원 | 🔻-2.33% | 🔻-1.47% | 🔻-2.47% |  
+| 40점 | [대호에이엘](https://finance.naver.com/item/fchart.naver?code=069460) | 069460 | 1,943원 | 🔺+0.15% | 🔺+10.34% | 🔺+12.18% |  
+| 40점 | [대한제강](https://finance.naver.com/item/fchart.naver?code=084010) | 084010 | 16,320원 | 🔻-2.86% | 🔻-2.91% | 🔻-4.00% |  
+| 40점 | [네이처셀](https://finance.naver.com/item/fchart.naver?code=007390) | 007390 | 28,900원 | 🔺+7.04% | 🔺+14.68% | 🔺+4.14% |  
+| 40점 | [NH프라임리츠](https://finance.naver.com/item/fchart.naver?code=338100) | 338100 | 4,555원 | 🔺+0.66% | 🔺+0.11% | 🔻-0.22% |  
+| 40점 | [KR모터스](https://finance.naver.com/item/fchart.naver?code=000040) | 000040 | 419원 | 🔺+1.21% | 🔺+4.75% | 🔻-6.47% |  
+| 40점 | [KG케미칼](https://finance.naver.com/item/fchart.naver?code=001390) | 001390 | 4,825원 | 🔺+3.88% | 🔺+27.81% | 🔺+21.69% |  
+| 39점 | [화승인더](https://finance.naver.com/item/fchart.naver?code=006060) | 006060 | 4,710원 | 🔺+0.21% | 🔺+4.90% | 🔺+0.86% |  
+| 39점 | [한국항공우주](https://finance.naver.com/item/fchart.naver?code=047810) | 047810 | 90,000원 | 🔻-7.50% | 🔺+1.01% | 🔺+9.62% |  
+| 39점 | [한국특강](https://finance.naver.com/item/fchart.naver?code=007280) | 007280 | 1,528원 | 🔻-4.92% | 🔻-4.74% | 🔻-19.62% |  
+| 39점 | [한국주철관](https://finance.naver.com/item/fchart.naver?code=000970) | 000970 | 7,140원 | 🔻-1.24% | 🔺+2.15% | 🔻-1.38% |  
+| 39점 | [한국가스공사](https://finance.naver.com/item/fchart.naver?code=036460) | 036460 | 42,600원 | 🔺+12.70% | 🔺+3.40% | 🔺+12.25% |  
+| 39점 | [태양금속](https://finance.naver.com/item/fchart.naver?code=004100) | 004100 | 2,730원 | 🔺+4.60% | 🔻-0.36% | 🔻-20.06% |  
+| 39점 | [코리아써우](https://finance.naver.com/item/fchart.naver?code=007815) | 007815 | 5,970원 | 🔺+0.84% | 🔺+9.74% | 🔺+0.00% |  
+| 39점 | [우리종금](https://finance.naver.com/item/fchart.naver?code=010050) | 010050 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 39점 | [오리온](https://finance.naver.com/item/fchart.naver?code=271560) | 271560 | 108,200원 | 🔺+1.12% | 🔻-3.13% | 🔻-9.61% |  
+| 39점 | [샘표식품](https://finance.naver.com/item/fchart.naver?code=248170) | 248170 | 26,850원 | 🔺+0.75% | 🔺+3.87% | 🔺+0.75% |  
+| 39점 | [사조동아원](https://finance.naver.com/item/fchart.naver?code=008040) | 008040 | 1,164원 | 🔻-4.12% | 🔻-1.85% | 🔺+6.59% |  
+| 39점 | [미원화학](https://finance.naver.com/item/fchart.naver?code=134380) | 134380 | 79,500원 | 🔻-0.62% | 🔺+0.13% | 🔺+0.76% |  
+| 39점 | [메리츠화재](https://finance.naver.com/item/fchart.naver?code=000060) | 000060 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 39점 | [동원F&B](https://finance.naver.com/item/fchart.naver?code=049770) | 049770 | 42,150원 | 🔻-0.47% | 🔺+6.71% | 🔺+15.96% |  
+| 39점 | [대양금속](https://finance.naver.com/item/fchart.naver?code=009190) | 009190 | 1,698원 | 🔻-2.86% | 🔻-3.30% | 🔺+1.31% |  
+| 39점 | [대상](https://finance.naver.com/item/fchart.naver?code=001680) | 001680 | 22,500원 | 🔺+2.27% | 🔺+7.14% | 🔻-3.85% |  
+| 39점 | [대림B&Co](https://finance.naver.com/item/fchart.naver?code=005750) | 005750 | 4,185원 | 🔺+2.20% | 🔻-2.90% | 🔺+3.98% |  
+| 39점 | [다올투자증권](https://finance.naver.com/item/fchart.naver?code=030210) | 030210 | 3,745원 | 🔺+2.74% | 🔺+14.88% | 🔺+8.24% |  
+| 39점 | [교촌에프앤비](https://finance.naver.com/item/fchart.naver?code=339770) | 339770 | 5,400원 | 🔻-1.82% | 🔺+11.69% | 🔺+0.56% |  
+| 39점 | [HMM](https://finance.naver.com/item/fchart.naver?code=011200) | 011200 | 23,000원 | 🔺+1.10% | 🔺+5.75% | 🔺+21.44% |  
+| 38점 | [휠라홀딩스](https://finance.naver.com/item/fchart.naver?code=081660) | 081660 | 33,750원 | 🔺+1.66% | 🔻-4.26% | 🔻-6.38% |  
+| 38점 | [현대비앤지스틸](https://finance.naver.com/item/fchart.naver?code=004560) | 004560 | 12,330원 | 🔺+1.73% | 🔺+4.49% | 🔻-2.53% |  
+| 38점 | [한일시멘트](https://finance.naver.com/item/fchart.naver?code=300720) | 300720 | 18,280원 | 🔻-0.22% | 🔻-3.28% | 🔺+7.66% |  
+| 38점 | [케이탑리츠](https://finance.naver.com/item/fchart.naver?code=145270) | 145270 | 954원 | 🔺+0.10% | 🔺+6.00% | 🔺+0.42% |  
+| 38점 | [제이준코스메틱](https://finance.naver.com/item/fchart.naver?code=025620) | 025620 | 8,250원 | 🔺+0.00% | 🔺+7.14% | 🔻-6.78% |  
+| 38점 | [유유제약](https://finance.naver.com/item/fchart.naver?code=000220) | 000220 | 4,605원 | 🔺+0.66% | 🔺+0.11% | 🔻-2.23% |  
+| 38점 | [스틱인베스트먼트](https://finance.naver.com/item/fchart.naver?code=026890) | 026890 | 11,170원 | 🔺+3.04% | 🔺+5.98% | 🔺+12.94% |  
+| 38점 | [삼화전자](https://finance.naver.com/item/fchart.naver?code=011230) | 011230 | 5,310원 | 🔻-1.85% | 🔺+32.42% | 🔺+21.23% |  
+| 38점 | [벽산](https://finance.naver.com/item/fchart.naver?code=007210) | 007210 | 2,270원 | 🔻-1.09% | 🔺+1.34% | 🔻-8.65% |  
+| 38점 | [모나리자](https://finance.naver.com/item/fchart.naver?code=012690) | 012690 | 2,775원 | 🔺+0.73% | 🔻-0.18% | 🔻-6.41% |  
+| 38점 | [메가스터디교육](https://finance.naver.com/item/fchart.naver?code=215200) | 215200 | 50,600원 | 🔺+0.60% | 🔻-1.36% | 🔺+7.20% |  
+| 38점 | [마니커](https://finance.naver.com/item/fchart.naver?code=027740) | 027740 | 899원 | 🔺+0.33% | 🔻-10.01% | 🔺+3.10% |  
+| 37점 | [한화에어로스페이스](https://finance.naver.com/item/fchart.naver?code=012450) | 012450 | 865,000원 | 🔻-7.39% | 🔻-2.48% | 🔺+4.98% |  
+| 37점 | [주성엔지니어링](https://finance.naver.com/item/fchart.naver?code=036930) | 036930 | 31,800원 | 🔺+0.47% | 🔺+1.11% | 🔻-12.15% |  
+| 37점 | [에스엠](https://finance.naver.com/item/fchart.naver?code=041510) | 041510 | 133,500원 | 🔻-1.11% | 🔺+2.77% | 🔺+18.98% |  
+| 37점 | [삼일제약](https://finance.naver.com/item/fchart.naver?code=000520) | 000520 | 9,920원 | 🔻-1.88% | 🔻-11.98% | 🔻-27.11% |  
+| 37점 | [미원에스씨](https://finance.naver.com/item/fchart.naver?code=268280) | 268280 | 142,700원 | 🔻-2.93% | 🔻-12.45% | 🔻-6.98% |  
+| 37점 | [메리츠증권](https://finance.naver.com/item/fchart.naver?code=008560) | 008560 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 37점 | [메리츠금융지주](https://finance.naver.com/item/fchart.naver?code=138040) | 138040 | 113,800원 | 🔺+6.95% | 🔺+3.93% | 🔻-4.29% |  
+| 37점 | [디앤디플랫폼리츠](https://finance.naver.com/item/fchart.naver?code=377190) | 377190 | 3,170원 | 🔺+0.48% | 🔻-3.06% | 🔻-1.25% |  
+| 37점 | [ESR켄달스퀘어리츠](https://finance.naver.com/item/fchart.naver?code=365550) | 365550 | 4,215원 | 🔺+0.36% | 🔻-2.99% | 🔻-12.28% |  
+| 36점 | [화승알앤에이](https://finance.naver.com/item/fchart.naver?code=378850) | 378850 | 3,295원 | 🔺+1.38% | 🔺+4.44% | 🔺+2.65% |  
+| 36점 | [한국종합기술](https://finance.naver.com/item/fchart.naver?code=023350) | 023350 | 5,590원 | 🔺+1.45% | 🔺+3.14% | 🔻-7.60% |  
+| 36점 | [평화산업](https://finance.naver.com/item/fchart.naver?code=090080) | 090080 | 1,089원 | 🔻-3.20% | 🔻-25.31% | 🔻-17.19% |  
+| 36점 | [진도](https://finance.naver.com/item/fchart.naver?code=088790) | 088790 | 1,982원 | 🔺+0.61% | 🔻-1.39% | 🔺+8.60% |  
+| 36점 | [인바이오젠](https://finance.naver.com/item/fchart.naver?code=101140) | 101140 | 11,780원 | 🔻-2.64% | 🔺+2.26% | 🔺+69.50% |  
+| 36점 | [유니온머티리얼](https://finance.naver.com/item/fchart.naver?code=047400) | 047400 | 1,634원 | 🔻-0.85% | 🔺+2.12% | 🔻-16.42% |  
+| 36점 | [신라젠](https://finance.naver.com/item/fchart.naver?code=215600) | 215600 | 3,150원 | 🔻-1.10% | 🔻-2.02% | 🔻-18.39% |  
+| 36점 | [세아제강지주](https://finance.naver.com/item/fchart.naver?code=003030) | 003030 | 221,500원 | 🔺+3.99% | 🔻-5.34% | 🔻-3.90% |  
+| 36점 | [상신브레이크](https://finance.naver.com/item/fchart.naver?code=041650) | 041650 | 2,960원 | 🔺+1.72% | 🔺+0.68% | 🔺+0.00% |  
+| 36점 | [삼화왕관](https://finance.naver.com/item/fchart.naver?code=004450) | 004450 | 34,950원 | 🔻-0.85% | 🔻-3.85% | 🔻-10.38% |  
+| 36점 | [만호제강](https://finance.naver.com/item/fchart.naver?code=001080) | 001080 | 25,400원 | 🔻-10.25% | 🔻-8.80% | 🔻-5.22% |  
+| 36점 | [롯데리츠](https://finance.naver.com/item/fchart.naver?code=330590) | 330590 | 3,805원 | 🔺+4.10% | 🔺+3.12% | 🔺+7.18% |  
+| 36점 | [대구백화점](https://finance.naver.com/item/fchart.naver?code=006370) | 006370 | 6,780원 | 🔻-4.37% | 🔻-2.31% | 🔻-15.14% |  
+| 36점 | [금강공업](https://finance.naver.com/item/fchart.naver?code=014280) | 014280 | 4,750원 | 🔺+4.86% | 🔺+5.91% | 🔺+0.21% |  
+| 36점 | [골프존](https://finance.naver.com/item/fchart.naver?code=215000) | 215000 | 67,600원 | 🔺+1.65% | 🔺+4.16% | 🔺+2.74% |  
+| 36점 | [SOL 차이나육성산업액티브(합성)](https://finance.naver.com/item/fchart.naver?code=415760) | 415760 | 7,275원 | 🔻-0.34% | 🔻-0.61% | 🔻-7.62% |  
+| 35점 | [해태제과식품](https://finance.naver.com/item/fchart.naver?code=101530) | 101530 | 6,960원 | 🔺+0.29% | 🔺+1.61% | 🔻-0.29% |  
+| 35점 | [평화홀딩스](https://finance.naver.com/item/fchart.naver?code=010770) | 010770 | 4,880원 | 🔻-6.15% | 🔻-45.41% | 🔻-39.90% |  
+| 35점 | [미래에셋맵스리츠](https://finance.naver.com/item/fchart.naver?code=357250) | 357250 | 2,725원 | 🔺+1.11% | 🔻-2.50% | 🔺+1.87% |  
+| 35점 | [메타랩스](https://finance.naver.com/item/fchart.naver?code=090370) | 090370 | 1,386원 | 🔻-0.93% | 🔻-6.92% | 🔻-0.43% |  
+| 35점 | [SPC삼립](https://finance.naver.com/item/fchart.naver?code=005610) | 005610 | 57,200원 | 🔺+2.33% | 🔺+11.07% | 🔻-10.62% |  
+| 35점 | [SOL KIS단기통안채](https://finance.naver.com/item/fchart.naver?code=363510) | 363510 | 110,650원 | 🔺+0.02% | 🔺+0.19% | 🔺+0.44% |  
+| 34점 | [휴젤](https://finance.naver.com/item/fchart.naver?code=145020) | 145020 | 376,000원 | 🔺+1.08% | 🔺+3.87% | 🔺+4.16% |  
+| 34점 | [태경케미컬](https://finance.naver.com/item/fchart.naver?code=006890) | 006890 | 11,260원 | 🔺+1.08% | 🔻-2.00% | 🔻-4.50% |  
+| 34점 | [오뚜기](https://finance.naver.com/item/fchart.naver?code=007310) | 007310 | 396,500원 | 🔺+1.41% | 🔺+0.89% | 🔻-0.63% |  
+| 34점 | [에이비엘바이오](https://finance.naver.com/item/fchart.naver?code=298380) | 298380 | 67,400원 | 🔻-5.07% | 🔻-18.40% | 🔻-1.61% |  
+| 34점 | [미원상사](https://finance.naver.com/item/fchart.naver?code=002840) | 002840 | 169,900원 | 🔻-2.36% | 🔻-4.82% | 🔻-10.30% |  
+| 34점 | [남양유업](https://finance.naver.com/item/fchart.naver?code=003920) | 003920 | 64,600원 | 🔻-1.97% | 🔻-15.67% | 🔻-12.11% |  
+| 34점 | [DL건설](https://finance.naver.com/item/fchart.naver?code=001880) | 001880 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 33점 | [이지스밸류리츠](https://finance.naver.com/item/fchart.naver?code=334890) | 334890 | 4,875원 | 🔺+3.50% | 🔺+3.28% | 🔺+4.84% |  
+| 33점 | [이마트](https://finance.naver.com/item/fchart.naver?code=139480) | 139480 | 87,100원 | 🔺+5.45% | 🔻-0.46% | 🔻-2.68% |  
+| 33점 | [유니켐](https://finance.naver.com/item/fchart.naver?code=011330) | 011330 | 1,406원 | 🔻-0.99% | 🔻-8.70% | 🔻-16.26% |  
+| 33점 | [영보화학](https://finance.naver.com/item/fchart.naver?code=014440) | 014440 | 4,500원 | 🔺+0.90% | 🔺+4.65% | 🔻-11.94% |  
+| 33점 | [신한알파리츠](https://finance.naver.com/item/fchart.naver?code=293940) | 293940 | 5,590원 | 🔺+2.95% | 🔻-1.93% | 🔻-1.93% |  
+| 33점 | [신일전자](https://finance.naver.com/item/fchart.naver?code=002700) | 002700 | 1,459원 | 🔻-1.22% | 🔻-3.25% | 🔻-3.82% |  
+| 33점 | [삼성중공우](https://finance.naver.com/item/fchart.naver?code=010145) | 010145 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 33점 | [무림P&P](https://finance.naver.com/item/fchart.naver?code=009580) | 009580 | 2,830원 | 🔺+0.53% | 🔺+2.91% | 🔻-5.51% |  
+| 33점 | [롯데제과](https://finance.naver.com/item/fchart.naver?code=280360) | 280360 | 117,300원 | 🔺+1.30% | 🔺+5.30% | 🔻-1.59% |  
+| 33점 | [WOORI 대한민국국고채액티브](https://finance.naver.com/item/fchart.naver?code=426150) | 426150 | 58,575원 | 🔺+0.33% | 🔻-1.05% | 🔻-1.63% |  
+| 33점 | [NH올원리츠](https://finance.naver.com/item/fchart.naver?code=400760) | 400760 | 3,655원 | 🔺+0.00% | 🔻-0.27% | 🔺+2.38% |  
+| 32점 | [풀무원](https://finance.naver.com/item/fchart.naver?code=017810) | 017810 | 12,350원 | 🔺+1.73% | 🔻-1.59% | 🔻-19.86% |  
+| 32점 | [코람코에너지리츠](https://finance.naver.com/item/fchart.naver?code=357120) | 357120 | 4,435원 | 🔺+3.14% | 🔻-1.66% | 🔺+0.23% |  
+| 32점 | [오리엔트바이오](https://finance.naver.com/item/fchart.naver?code=002630) | 002630 | 812원 | 🔻-4.36% | 🔻-33.98% | 🔻-46.08% |  
+| 32점 | [바다로19호](https://finance.naver.com/item/fchart.naver?code=155900) | 155900 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 32점 | [동양철관](https://finance.naver.com/item/fchart.naver?code=008970) | 008970 | 1,367원 | 🔻-1.16% | 🔻-4.61% | 🔻-14.88% |  
+| 32점 | [깨끗한나라](https://finance.naver.com/item/fchart.naver?code=004540) | 004540 | 2,160원 | 🔺+2.13% | 🔺+1.17% | 🔻-12.02% |  
+| 32점 | [SK리츠](https://finance.naver.com/item/fchart.naver?code=395400) | 395400 | 4,690원 | 🔺+2.40% | 🔻-2.29% | 🔻-4.29% |  
+| 31점 | [크래프톤](https://finance.naver.com/item/fchart.naver?code=259960) | 259960 | 359,000원 | 🔻-0.42% | 🔻-5.77% | 🔻-4.65% |  
+| 31점 | [제이알글로벌리츠](https://finance.naver.com/item/fchart.naver?code=348950) | 348950 | 2,690원 | 🔺+0.19% | 🔻-3.41% | 🔺+0.75% |  
+| 31점 | [윌비스](https://finance.naver.com/item/fchart.naver?code=008600) | 008600 | 430원 | 🔻-5.91% | 🔻-11.34% | 🔻-40.36% |  
+| 31점 | [에넥스](https://finance.naver.com/item/fchart.naver?code=011090) | 011090 | 639원 | 🔻-1.99% | 🔻-3.91% | 🔻-22.45% |  
+| 31점 | [신흥](https://finance.naver.com/item/fchart.naver?code=004080) | 004080 | 14,550원 | 🔺+0.21% | 🔻-0.34% | 🔺+0.28% |  
+| 31점 | [비비안](https://finance.naver.com/item/fchart.naver?code=002070) | 002070 | 798원 | 🔻-0.87% | 🔻-15.56% | 🔻-17.65% |  
+| 31점 | [농심](https://finance.naver.com/item/fchart.naver?code=004370) | 004370 | 397,500원 | 🔺+1.40% | 🔻-5.47% | 🔺+0.89% |  
+| 30점 | [이지스레지던스리츠](https://finance.naver.com/item/fchart.naver?code=350520) | 350520 | 4,215원 | 🔻-0.24% | 🔻-0.35% | 🔻-0.12% |  
+| 30점 | [계룡건설](https://finance.naver.com/item/fchart.naver?code=013580) | 013580 | 22,400원 | 🔺+6.16% | 🔺+8.47% | 🔻-8.20% |  
+| 29점 | [빙그레](https://finance.naver.com/item/fchart.naver?code=005180) | 005180 | 83,300원 | 🔻-0.83% | 🔻-5.02% | 🔻-11.66% |  
+| 29점 | [미래에셋글로벌리츠](https://finance.naver.com/item/fchart.naver?code=396690) | 396690 | 2,695원 | 🔺+2.47% | 🔻-2.88% | 🔻-1.28% |  
+| 28점 | [일성건설](https://finance.naver.com/item/fchart.naver?code=013360) | 013360 | 1,872원 | 🔻-0.90% | 🔻-17.71% | 🔻-41.59% |  
+| 27점 | [히어로즈 단기채권ESG액티브](https://finance.naver.com/item/fchart.naver?code=419890) | 419890 | 108,380원 | 🔺+0.06% | 🔺+0.16% | 🔺+0.45% |  
+| 27점 | [베트남개발1](https://finance.naver.com/item/fchart.naver?code=096300) | 096300 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 26점 | [한솔PNS](https://finance.naver.com/item/fchart.naver?code=010420) | 010420 | 1,873원 | 🔻-0.11% | 🔻-1.06% | 🔻-0.95% |  
+| 26점 | [이스타코](https://finance.naver.com/item/fchart.naver?code=015020) | 015020 | 725원 | 🔻-2.82% | 🔻-25.03% | 🔻-51.51% |  
+| 26점 | [세아제강](https://finance.naver.com/item/fchart.naver?code=306200) | 306200 | 151,900원 | 🔺+0.80% | 🔻-9.31% | 🔻-15.94% |  
+| 26점 | [KG스틸우](https://finance.naver.com/item/fchart.naver?code=016385) | 016385 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 26점 | [DB하이텍1우](https://finance.naver.com/item/fchart.naver?code=000995) | 000995 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 24점 | [이리츠코크렙](https://finance.naver.com/item/fchart.naver?code=088260) | 088260 | 4,560원 | 🔺+1.33% | 🔻-2.46% | 🔻-0.33% |  
+| 23점 | [쌍방울](https://finance.naver.com/item/fchart.naver?code=102280) | 102280 | 2,690원 | 🔺+0.00% | 🔺+0.00% | 🔻-80.00% |  
+| 20점 | [쌍용C&E](https://finance.naver.com/item/fchart.naver?code=003410) | 003410 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 18점 | [아센디오](https://finance.naver.com/item/fchart.naver?code=012170) | 012170 | 3,445원 | 🔻-7.14% | 🔻-21.26% | 🔻-20.71% |  
+| 17점 | [효성화학](https://finance.naver.com/item/fchart.naver?code=298000) | 298000 | 38,900원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 14점 | [KH 필룩스](https://finance.naver.com/item/fchart.naver?code=033180) | 033180 | 5,310원 | 🔺+0.00% | 🔻-80.00% | 🔻-19.91% |  
+| 13점 | [모두투어리츠](https://finance.naver.com/item/fchart.naver?code=204210) | 204210 | 2,035원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [현대사료](https://finance.naver.com/item/fchart.naver?code=016790) | 016790 | 994원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [한창](https://finance.naver.com/item/fchart.naver?code=005110) | 005110 | 1,254원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [큐로](https://finance.naver.com/item/fchart.naver?code=015590) | 015590 | 515원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [카프로](https://finance.naver.com/item/fchart.naver?code=006380) | 006380 | 3,660원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [이아이디](https://finance.naver.com/item/fchart.naver?code=093230) | 093230 | 1,392원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [웰바이오텍](https://finance.naver.com/item/fchart.naver?code=010600) | 010600 | 545원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [에이리츠](https://finance.naver.com/item/fchart.naver?code=140910) | 140910 | 3,130원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [쎌마테라퓨틱스](https://finance.naver.com/item/fchart.naver?code=015540) | 015540 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 0점 | [센트럴인사이트](https://finance.naver.com/item/fchart.naver?code=012600) | 012600 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 0점 | [세원이앤씨](https://finance.naver.com/item/fchart.naver?code=091090) | 091090 | 1,270원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [선도전기](https://finance.naver.com/item/fchart.naver?code=007610) | 007610 | 3,000원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [비케이탑스](https://finance.naver.com/item/fchart.naver?code=030790) | 030790 | 0원 | 🔻-100.00% | 🔻-100.00% | 🔻-100.00% |  
+| 0점 | [부산주공](https://finance.naver.com/item/fchart.naver?code=005030) | 005030 | 486원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [대유플러스](https://finance.naver.com/item/fchart.naver?code=000300) | 000300 | 1,984원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [대동전자](https://finance.naver.com/item/fchart.naver?code=008110) | 008110 | 15,040원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [국보](https://finance.naver.com/item/fchart.naver?code=001140) | 001140 | 2,110원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
+| 0점 | [IHQ](https://finance.naver.com/item/fchart.naver?code=003560) | 003560 | 10,760원 | 🔺+0.00% | 🔺+0.00% | 🔺+0.00% |  
 
 EOF 
