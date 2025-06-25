@@ -223,7 +223,7 @@ class StockAnalyser:
 
             url_naver = 'https://finance.naver.com/item/fchart.naver?code=' + code
 
-            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | ([{name}]({url_naver})) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
+            line = f'| {score_overall}점 | {score_short}점 | {score_long}점 | [{name}]({url_naver}) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')
