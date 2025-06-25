@@ -143,6 +143,12 @@ class StockAnalyser:
         alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
         return sorted(list, key = alphanum_key, reverse=True)
 
+    # 12.3 --> 🔺 12.3%
+    @classmethod
+    def __format_change(cls, value):
+        arrow = '🔺+' if value >= 0 else '🔻-'
+        return f'{arrow}{abs(value):.2f}%'
+
     @classmethod
     def save_score_list(cls):
 
@@ -153,6 +159,10 @@ class StockAnalyser:
         
         # format = '{score}점 \t-\t[{name}]({url})-{code}-{price}원\t7D({price_7}) \t30D({price_30}) \t60D({price_60})'
 
+        header = '| 점수 | 종목명 | 코드 | 현재가 | 7일 수익률 | 30일 수익률 | 60일 수익률 |'
+        separator = '|------|--------|------|--------|-------------|--------------|--------------|'
+        file.write(header + '  \n')
+        file.write(separator + '  \n')
 
         for file_path in file_paths:
             file_name = os.path.basename(file_path).replace('.txt', '') 
@@ -169,44 +179,24 @@ class StockAnalyser:
             price_30 = int(elems[5])
             price_60 = int(elems[6])
 
+            # 7일 수익률
             price_7 = (price - price_7) / price_7 * 100
-            if price_7 >= 0:
-                price_7 = f'<span style="color: red">{format(price_7, ".2f")}</span>'
-            else:
-                price_7 = f'<span style="color: #0000FF">{format(price_7, ".2f")}</span>'
+            price_7 = cls.__format_change(price_7)
 
-
+            # 30일 수익률
             price_30 = (price - price_30) / price_30 * 100
-            if price_30 >= 0:
-                price_30 = f'<span style="color: red">{format(price_30, ".2f")}</span>'
-            else:
-                price_30 = f'<span style="color: #0000FF">{format(price_30, ".2f")}</span>'
+            price_30 = cls.__format_change(price_30)
 
-
+            # 60일 수익률
             price_60 = (price - price_60) / price_60 * 100
-            if price_60 >= 0:
-                price_60 = f'<span style="color: red">{format(price_60, ".2f")}</span>'
-            else:
-                price_60 = f'<span style="color: #0000FF">{format(price_60, ".2f")}</span>'
+            price_60 = cls.__format_change(price_60)
 
             url = 'https://finance.naver.com/item/fchart.naver?code=' + code
 
-            line = f'{score}점 - [{name}]({url})({code}) {price}원 --- 7D({price_7}%) / 30D({price_30}%) / 60D({price_60}%)'
-
-
-            # line = format.format(score=score, 
-            #                      name=name, 
-            #                      url=url, 
-            #                      code=code, 
-            #                      price=format(price, ','), 
-            #                      price_7=format((price - price_7) / price_7 * 100, '.2f'), 
-            #                      price_30=format((price - price_30) / price_30 * 100, '.2f'), 
-            #                      price_60=format((price - price_60) / price_60 * 100, '.2f'))
-
+            line = f'| {score}점 | [{name}]({url}) | {code} | {price:,}원 | {price_7} | {price_30} | {price_60} |'
             file.write(line + '  \n')
 
         file.write('\nEOF \n')
-
         file.close()
         
 
