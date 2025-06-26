@@ -174,7 +174,7 @@ class StockAnalyser:
     # 12.3 --> 🔺 12.3%
     @classmethod
     def __format_change(cls, value):
-        arrow = '🟥+' if value >= 0 else '🟦-'
+        arrow = '🟥+' if value > 0 else '🟦-'
         return f'{arrow}{abs(value):.2f}%'
 
     @classmethod
