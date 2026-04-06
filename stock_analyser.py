@@ -16,6 +16,7 @@ import pandas as pd
 from config import (
     CROSS_OFFSET_PERCENT,
     EXPORT_SCORE_DIR,
+    EXPORT_SCORE_HTML_PATH,
     EXPORT_SCORE_RESULT_PATH,
     MACD_BULLISH_BONUS,
     MINIMUM_PRICE_COUNT,
@@ -273,14 +274,56 @@ class StockAnalyser:
         return f"{arrow}{abs(value):.2f}%"
 
     @classmethod
-    def save_score_list(cls) -> None:
-        """Aggregate all score marker files into a Markdown report."""
+    def _parse_score_files(cls) -> list[dict[str, object]]:
+        """Parse all score marker files and return a list of stock data dicts."""
         file_paths = [
             p
             for p in glob.glob(os.path.join(EXPORT_SCORE_DIR, "*.txt"))
             if not p.endswith("Temp.txt")
         ]
         file_paths = cls._natural_sort(file_paths)
+
+        results: list[dict[str, object]] = []
+        for file_path in file_paths:
+            file_name = os.path.basename(file_path).replace(".txt", "")
+            if file_name == "Temp":
+                continue
+
+            elems = file_name.split("_")
+            price = int(elems[5])
+            raw_price_7 = int(elems[6])
+            raw_price_30 = int(elems[7])
+            raw_price_60 = int(elems[8])
+
+            results.append({
+                "score_overall": elems[0],
+                "score_short": elems[1],
+                "score_long": elems[2],
+                "name": elems[3],
+                "code": elems[4],
+                "price": price,
+                "pct_7": (
+                    0.0
+                    if raw_price_7 == 0
+                    else (price - raw_price_7) / raw_price_7 * 100
+                ),
+                "pct_30": (
+                    0.0
+                    if raw_price_30 == 0
+                    else (price - raw_price_30) / raw_price_30 * 100
+                ),
+                "pct_60": (
+                    0.0
+                    if raw_price_60 == 0
+                    else (price - raw_price_60) / raw_price_60 * 100
+                ),
+            })
+        return results
+
+    @classmethod
+    def save_score_list(cls) -> None:
+        """Aggregate all score marker files into a Markdown report."""
+        stocks = cls._parse_score_files()
 
         header = "| 종합 점수 | 단기 점수 | 장기 점수 | 종목명 | 현재가 | 7D | 30D | 60D |"
         separator = "|-------|-------|-------|----------|----------|------------|------------|------------|"
@@ -290,48 +333,139 @@ class StockAnalyser:
                 fout.write(header + "  \n")
                 fout.write(separator + "  \n")
 
-                for file_path in file_paths:
-                    file_name = os.path.basename(file_path).replace(".txt", "")
-                    if file_name == "Temp":
-                        continue
-
-                    elems = file_name.split("_")
-                    score_overall = elems[0]
-                    score_short = elems[1]
-                    score_long = elems[2]
-                    name = elems[3]
-                    code = elems[4]
-                    price = int(elems[5])
-                    raw_price_7 = int(elems[6])
-                    raw_price_30 = int(elems[7])
-                    raw_price_60 = int(elems[8])
-
-                    pct_7 = (
-                        0.0
-                        if raw_price_7 == 0
-                        else (price - raw_price_7) / raw_price_7 * 100
-                    )
-                    pct_30 = (
-                        0.0
-                        if raw_price_30 == 0
-                        else (price - raw_price_30) / raw_price_30 * 100
-                    )
-                    pct_60 = (
-                        0.0
-                        if raw_price_60 == 0
-                        else (price - raw_price_60) / raw_price_60 * 100
-                    )
-
-                    url = f"https://finance.naver.com/item/fchart.naver?code={code}"
+                for s in stocks:
+                    url = f"https://finance.naver.com/item/fchart.naver?code={s['code']}"
                     line = (
-                        f"| {score_overall}점 | {score_short}점 | {score_long}점 "
-                        f"| [{name}]({url}) | {price:,}원 "
-                        f"| {cls._format_change(pct_7)} "
-                        f"| {cls._format_change(pct_30)} "
-                        f"| {cls._format_change(pct_60)} |"
+                        f"| {s['score_overall']}점 | {s['score_short']}점 | {s['score_long']}점 "
+                        f"| [{s['name']}]({url}) | {s['price']:,}원 "
+                        f"| {cls._format_change(s['pct_7'])} "
+                        f"| {cls._format_change(s['pct_30'])} "
+                        f"| {cls._format_change(s['pct_60'])} |"
                     )
                     fout.write(line + "  \n")
 
                 fout.write("\nEOF \n")
         except OSError as exc:
             _logger.error("Failed to write score list: %s", exc)
+
+    @classmethod
+    def save_score_html(cls) -> None:
+        """Aggregate all score marker files into an HTML card-grid report.
+
+        Uses CSS multi-column layout so that cards with varying heights
+        maintain consistent vertical spacing instead of aligning to the
+        tallest card in each row (the default CSS Grid behaviour).
+        """
+        stocks = cls._parse_score_files()
+
+        cards_html = ""
+        for s in stocks:
+            url = f"https://finance.naver.com/item/fchart.naver?code={s['code']}"
+            pct_7_cls = "up" if s["pct_7"] > 0 else ("down" if s["pct_7"] < 0 else "flat")
+            pct_30_cls = "up" if s["pct_30"] > 0 else ("down" if s["pct_30"] < 0 else "flat")
+            pct_60_cls = "up" if s["pct_60"] > 0 else ("down" if s["pct_60"] < 0 else "flat")
+            cards_html += (
+                '<div class="card">'
+                f'<a class="card-title" href="{url}" target="_blank">{s["name"]}</a>'
+                f'<div class="score-row">'
+                f'<span class="badge overall">{s["score_overall"]}점</span>'
+                f'<span class="badge short">단기 {s["score_short"]}점</span>'
+                f'<span class="badge long">장기 {s["score_long"]}점</span>'
+                f'</div>'
+                f'<div class="price">{s["price"]:,}원</div>'
+                f'<div class="changes">'
+                f'<span class="{pct_7_cls}">7D {cls._format_change(s["pct_7"])}</span>'
+                f'<span class="{pct_30_cls}">30D {cls._format_change(s["pct_30"])}</span>'
+                f'<span class="{pct_60_cls}">60D {cls._format_change(s["pct_60"])}</span>'
+                f'</div>'
+                '</div>\n'
+            )
+
+        html = f"""\
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stock Score Dashboard</title>
+<style>
+* {{ margin: 0; padding: 0; box-sizing: border-box; }}
+body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; padding: 24px; }}
+h1 {{ text-align: center; margin-bottom: 24px; color: #222; }}
+
+/* ── news-grid ──
+   Uses CSS multi-column layout so that every card is separated by a
+   uniform gap regardless of its height.  Unlike CSS Grid (which aligns
+   items into rows and causes tall neighbours to stretch shorter ones),
+   multi-column layout flows items top-to-bottom within each column,
+   keeping the spacing between consecutive cards consistent. */
+.news-grid {{
+    column-count: 3;
+    column-gap: 16px;
+}}
+@media (max-width: 900px) {{ .news-grid {{ column-count: 2; }} }}
+@media (max-width: 560px) {{ .news-grid {{ column-count: 1; }} }}
+
+.card {{
+    break-inside: avoid;
+    background: #fff;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}}
+.card-title {{
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1a73e8;
+    text-decoration: none;
+    margin-bottom: 8px;
+}}
+.card-title:hover {{ text-decoration: underline; }}
+.score-row {{
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}}
+.badge {{
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #fff;
+}}
+.badge.overall {{ background: #333; }}
+.badge.short   {{ background: #5c6bc0; }}
+.badge.long    {{ background: #26a69a; }}
+.price {{
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+}}
+.changes {{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: 0.88rem;
+}}
+.changes .up   {{ color: #d32f2f; }}  /* red – price increase (Korean convention) */
+.changes .down {{ color: #1565c0; }}  /* blue – price decrease */
+.changes .flat {{ color: #757575; }}  /* grey – no change */
+</style>
+</head>
+<body>
+<h1>📊 Stock Score Dashboard</h1>
+<div class="news-grid">
+{cards_html}</div>
+</body>
+</html>
+"""
+
+        try:
+            with open(EXPORT_SCORE_HTML_PATH, "w", encoding="utf-8") as fout:
+                fout.write(html)
+        except OSError as exc:
+            _logger.error("Failed to write HTML score list: %s", exc)

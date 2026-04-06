@@ -82,4 +82,5 @@ if __name__ == "__main__":
     run()
 
     StockAnalyser.save_score_list()
+    StockAnalyser.save_score_html()
     _logger.info("main.py: %s s", round(time.time() - start, 4))
