@@ -1,49 +1,43 @@
+"""Parse the stock-list Excel file and populate the StockSummary registry."""
+
+from __future__ import annotations
+
 import time
-import numpy as np
+
 import pandas as pd
+
+from config import RESOURCE_EXCEL_PATH
+from logger import get_logger
 from stock_summary import StockSummary
+
+_logger = get_logger(__name__)
 
 
 class StockSummaryParser:
-
-    # __base_excel_path = './resource/stock_list.xlsx'
-    __base_excel_path = './resource/stock_list.xlsm'
-    __restrict_stock_count = 20000
+    """Read the master stock list and create :class:`StockSummary` instances."""
 
     @classmethod
-    def initialize(cls, restrict_stock_count):
+    def initialize(cls, restrict_stock_count: int) -> None:
+        """Load the Excel file and register up to *restrict_stock_count* stocks."""
         start = time.time()
 
-        cls.__restrict_stock_count = restrict_stock_count
-        data_frame = pd.read_excel(cls.__base_excel_path)
+        try:
+            data_frame = pd.read_excel(RESOURCE_EXCEL_PATH)
+        except FileNotFoundError:
+            _logger.error("Stock list not found: %s", RESOURCE_EXCEL_PATH)
+            raise
 
-        i = 0
-        for row in data_frame.itertuples(index=True):
-            cls.__process_line(row)
+        for row in data_frame.head(restrict_stock_count).itertuples(index=True):
+            cls._process_row(row)
 
-            i = i + 1
-            if i > cls.__restrict_stock_count:
-                break
-        
-        print('StockSummaryParser.initialize() :', round(time.time() - start, 4))
+        elapsed = round(time.time() - start, 4)
+        _logger.info("StockSummaryParser.initialize(): %s s", elapsed)
 
     @classmethod
-    def __process_line(cls, row):
-
-        # TODO : Validate custom mode
-        # enable = getattr(row, '활성화')
-
-        summary = StockSummary \
-        (
-            getattr(row, '종목명'),
-            getattr(row, '종목코드'),
-            # getattr(row, '업종'),
-            # getattr(row, '주요제품'),
-            # getattr(row, '상장일'),
-            # getattr(row, '결산월'),
-            # getattr(row, '대표자명'),
-            # getattr(row, '홈페이지'),
-            # getattr(row, '지역'),
+    def _process_row(cls, row: object) -> None:
+        """Create a :class:`StockSummary` from a single Excel row."""
+        summary = StockSummary(
+            name=getattr(row, "종목명"),
+            raw_code=getattr(row, "종목코드"),
         )
-
         StockSummary.add_summary(summary)
