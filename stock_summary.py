@@ -1,92 +1,127 @@
+"""Domain model representing a single stock summary.
+
+The class also acts as an in-memory registry so that any module can look up
+a :class:`StockSummary` by its stock code.
+"""
+
+from __future__ import annotations
+
+
 class StockSummary:
+    """Holds metadata and computed scores for one stock ticker."""
 
-    __code_summary_map = {}
+    _code_summary_map: dict[str, StockSummary] = {}
 
-    @classmethod
-    def add_summary(cls, summary):
-        cls.__code_summary_map[summary.code] = summary
-
-    @classmethod
-    def get_codes(cls):
-        return cls.__code_summary_map.keys()
+    # ------------------------------------------------------------------
+    # Registry (class-level)
+    # ------------------------------------------------------------------
 
     @classmethod
-    def get_summary(cls, code):
-        return cls.__code_summary_map[code]
+    def add_summary(cls, summary: StockSummary) -> None:
+        """Register *summary* so it can be retrieved by code later."""
+        cls._code_summary_map[summary.code] = summary
 
-    # 회사명
-    # 종목코드
-    # 업종
-    # 주요제품
-    # 상장일
-    # 결산월
-    # 대표자명
-    # 홈페이지
-    # 지역
-    def __init__(self, name, raw_code):#, sector, product, listing_date, settlement_month, ceo_name, home_page, area):
-        self.__name = name
-        self.__raw_code = raw_code
-        self.__code = raw_code.rjust(6, "0")
-        self.__trend_score = 0
+    @classmethod
+    def get_codes(cls) -> list[str]:
+        """Return all registered stock codes."""
+        return list(cls._code_summary_map.keys())
 
-    def print_info(self):
-        print(self.name, self.code, self.sector, self.product, self.listing_date,
-              self.settlement_month, self.ceo_name, self.home_page, self.area)
+    @classmethod
+    def get_summary(cls, code: str) -> StockSummary:
+        """Return the :class:`StockSummary` for *code*.
+
+        Raises:
+            KeyError: If *code* has not been registered.
+        """
+        return cls._code_summary_map[code]
+
+    # ------------------------------------------------------------------
+    # Instance
+    # ------------------------------------------------------------------
+
+    def __init__(self, name: str, raw_code: str) -> None:
+        self._name: str = name
+        self._raw_code: str = raw_code
+        self._code: str = str(raw_code).rjust(6, "0")
+        self._trend_score: int = 0
+
+        # Price fields – initialised to 0 until the analyser sets them.
+        self._price: int = 0
+        self._price_7: int = 0
+        self._price_30: int = 0
+        self._price_60: int = 0
+
+    def __repr__(self) -> str:
+        return f"StockSummary(name={self._name!r}, code={self._code!r})"
+
+    # ------------------------------------------------------------------
+    # Read-only properties
+    # ------------------------------------------------------------------
 
     @property
-    def name(self):
-        return self.__name
+    def name(self) -> str:
+        """Company name."""
+        return self._name
 
     @property
-    def raw_code(self):
-        return self.__raw_code
+    def raw_code(self) -> str:
+        """Original (unpadded) code from the Excel source."""
+        return self._raw_code
 
     @property
-    def code(self):
-        return self.__code
+    def code(self) -> str:
+        """Zero-padded 6-digit stock code."""
+        return self._code
 
-    # 현재가
+    # ------------------------------------------------------------------
+    # Price properties (read/write)
+    # ------------------------------------------------------------------
+
     @property
-    def price(self):
-        return self.__price
+    def price(self) -> int:
+        """Current closing price."""
+        return self._price
 
     @price.setter
-    def price(self, value):
-       self.__price = value
+    def price(self, value: int) -> None:
+        self._price = value
 
-    # 7일전 가격
     @property
-    def price_7(self):
-        return self.__price_7
+    def price_7(self) -> int:
+        """Closing price 7 trading days ago."""
+        return self._price_7
 
     @price_7.setter
-    def price_7(self, value):
-       self.__price_7 = value
+    def price_7(self, value: int) -> None:
+        self._price_7 = value
 
-
-    # 30일전 가격
     @property
-    def price_30(self):
-        return self.__price_30
+    def price_30(self) -> int:
+        """Closing price 30 trading days ago."""
+        return self._price_30
 
     @price_30.setter
-    def price_30(self, value):
-       self.__price_30 = value
+    def price_30(self, value: int) -> None:
+        self._price_30 = value
 
-
-    # 60일전 가격
     @property
-    def price_60(self):
-        return self.__price_60
+    def price_60(self) -> int:
+        """Closing price 60 trading days ago."""
+        return self._price_60
 
     @price_60.setter
-    def price_60(self, value):
-       self.__price_60 = value
+    def price_60(self, value: int) -> None:
+        self._price_60 = value
 
+    # ------------------------------------------------------------------
+    # Trend score
+    # ------------------------------------------------------------------
 
     @property
-    def trend_score(self):
-        return self.__trend_score
+    def trend_score(self) -> int:
+        """Computed trend score assigned by :class:`StockAnalyser`."""
+        return self._trend_score
 
-    def update_trend_score(self, score):
-        self.__trend_score = score
+    def update_trend_score(self, score: int) -> None:
+        """Set a new *score* for this stock."""
+        self._trend_score = score

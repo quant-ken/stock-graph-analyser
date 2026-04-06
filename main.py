@@ -1,64 +1,80 @@
-import os
+"""Entry-point for the stock-graph-analyser pipeline.
+
+Orchestrates: parsing → data-frame generation → analysis → graph export.
+"""
+
+from __future__ import annotations
+
 import glob
+import os
 import time
-import concurrent
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+from config import RESTRICT_STOCK_COUNT, TEST_MODE, THREAD_COUNT
+from logger import get_logger, setup_logging
+from stock_analyser import StockAnalyser
+from stock_data_frame_generator import StockDataFrameGenerator
+from stock_graph_generator import StockGraphGenerator
 from stock_summary import StockSummary
 from stock_summary_parser import StockSummaryParser
-from stock_data_frame_generater import StockDataFrameGenerater
-from stock_graph_generater import StockGraphGenerater
-from stock_analyser import StockAnalyser
+
+_logger = get_logger(__name__)
 
 
-test_mode = False
-restrict_stock_count = 1000
-thread_count = 64
-
-
-def initialize():
-    StockSummaryParser.initialize(restrict_stock_count)
-    StockDataFrameGenerater.initialize()
+def initialize() -> None:
+    """Bootstrap all subsystems."""
+    StockSummaryParser.initialize(RESTRICT_STOCK_COUNT)
+    StockDataFrameGenerator.initialize()
     StockAnalyser.initialize()
 
 
-def process(stock_code):
-    summary = StockSummary.get_summary(stock_code)
-    data_frame = StockDataFrameGenerater.generate_data_frame(summary)
-    StockAnalyser.analyze(summary, data_frame)
-    StockGraphGenerater.generate_graph(summary, data_frame)
+def process(stock_code: str) -> None:
+    """Run the full pipeline for a single *stock_code*."""
+    try:
+        summary = StockSummary.get_summary(stock_code)
+        data_frame = StockDataFrameGenerator.generate_data_frame(summary)
+        StockAnalyser.analyze(summary, data_frame)
+        StockGraphGenerator.generate_graph(summary, data_frame)
+    except Exception:
+        _logger.exception("Failed to process stock %s", stock_code)
 
 
-def pre_run():
-    remove_score_export_temp()
+def pre_run() -> None:
+    """Clean up stale score files from the previous run."""
+    for file_path in glob.glob(os.path.join(StockAnalyser.export_path, "*")):
+        if not file_path.endswith("Temp.txt"):
+            try:
+                os.remove(file_path)
+            except OSError as exc:
+                _logger.warning("Could not remove %s: %s", file_path, exc)
 
 
-def remove_score_export_temp():
-    for file_path in glob.glob(StockAnalyser.export_path + '*'):
-        if not file_path.endswith('Temp.txt'):
-            os.remove(file_path)
-
-
-def run():
-    if test_mode == True:
-        run_test()
+def run() -> None:
+    """Dispatch to test or production mode."""
+    if TEST_MODE:
+        _run_test()
     else:
-        run_production()
+        _run_production()
 
 
-def run_test():
-    process('005930')   # 삼성전자
+def _run_test() -> None:
+    """Process a single stock for quick debugging."""
+    process("005930")  # 삼성전자
 
 
-def run_production():
-    thread_list = []
-    with ThreadPoolExecutor(max_workers=thread_count) as executor:
+def _run_production() -> None:
+    """Process all registered stocks in parallel."""
+    futures = []
+    with ThreadPoolExecutor(max_workers=THREAD_COUNT) as executor:
         for code in StockSummary.get_codes():
-            thread_list.append(executor.submit(process, code))
-        for execution in concurrent.futures.as_completed(thread_list):
-            execution.result()
+            futures.append(executor.submit(process, code))
+        for future in as_completed(futures):
+            future.result()
 
 
 if __name__ == "__main__":
+    setup_logging()
+
     start = time.time()
 
     initialize()
@@ -66,4 +82,4 @@ if __name__ == "__main__":
     run()
 
     StockAnalyser.save_score_list()
-    print('main.py :', round(time.time() - start, 4))
+    _logger.info("main.py: %s s", round(time.time() - start, 4))
