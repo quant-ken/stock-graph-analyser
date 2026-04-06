@@ -141,7 +141,7 @@ class StockAnalyser:
         rsi_col = f"RSI{RSI_PERIOD}"
         if rsi_col in data_frame.columns:
             last_rsi = data_frame[rsi_col].iloc[-1]
-            if last_rsi is not None:
+            if not pd.isna(last_rsi):
                 if 30 < last_rsi < 70:
                     offset += RSI_NEUTRAL_BONUS
                 elif last_rsi > 70:

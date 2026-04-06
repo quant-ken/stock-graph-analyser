@@ -27,9 +27,7 @@ class StockSummaryParser:
             _logger.error("Stock list not found: %s", RESOURCE_EXCEL_PATH)
             raise
 
-        for idx, row in enumerate(data_frame.itertuples(index=True)):
-            if idx >= restrict_stock_count:
-                break
+        for row in data_frame.head(restrict_stock_count).itertuples(index=True):
             cls._process_row(row)
 
         elapsed = round(time.time() - start, 4)

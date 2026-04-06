@@ -9,7 +9,7 @@ You must do it at your own discretion and responsibility, and it is recommended 
 ![](./readme_resource/graph_0.png)
 
 ## Requirements
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 ## Project Structure
 
