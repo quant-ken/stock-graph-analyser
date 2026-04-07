@@ -25,6 +25,9 @@ EXPORT_SCORE_DIR: str = os.getenv("EXPORT_SCORE_DIR", "./export/score/")
 EXPORT_SCORE_RESULT_PATH: str = os.getenv(
     "EXPORT_SCORE_RESULT_PATH", "./export/score-result.md"
 )
+EXPORT_SCORE_HTML_PATH: str = os.getenv(
+    "EXPORT_SCORE_HTML_PATH", "./export/score-result.html"
+)
 EXPORT_GRAPH_PATH_TEMPLATE: str = os.getenv(
     "EXPORT_GRAPH_PATH_TEMPLATE", "./export/graph/{filename}.html"
 )
